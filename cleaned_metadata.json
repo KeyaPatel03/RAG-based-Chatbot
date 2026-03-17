@@ -1,0 +1,1022 @@
+[
+  {
+    "doc_id": "doc_1b277108f0329861c89b9f9d6e1f6634",
+    "url": "https://www.csac.ca.gov",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_1b277108f0329861c89b9f9d6e1f6634.txt"
+  },
+  {
+    "doc_id": "doc_5c0d1bf092daec14eaed68e55abe67af",
+    "url": "https://www.csac.ca.gov/undocumented",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5c0d1bf092daec14eaed68e55abe67af.txt"
+  },
+  {
+    "doc_id": "doc_52bc09f13e6e55376b3a20440d1e6319",
+    "url": "https://www.csac.ca.gov/dsig",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_52bc09f13e6e55376b3a20440d1e6319.txt"
+  },
+  {
+    "doc_id": "doc_5f4b4a4118c048fa21938a7fbc604ea7",
+    "url": "https://www.csac.ca.gov/c4c",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5f4b4a4118c048fa21938a7fbc604ea7.txt"
+  },
+  {
+    "doc_id": "doc_a8852336b724864115e89d3033a0229b",
+    "url": "https://immigrantsrising.org",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_a8852336b724864115e89d3033a0229b.txt"
+  },
+  {
+    "doc_id": "doc_36c050339a9cfbe67f5fcac4a511380e",
+    "url": "https://immigrantsrising.org/resource/types-of-ca-state-financial-aid/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_36c050339a9cfbe67f5fcac4a511380e.txt"
+  },
+  {
+    "doc_id": "doc_5bff98dd3d229f2458809022bec99754",
+    "url": "https://immigrantsrising.org/resource/ca-dream-act-application-checklist/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5bff98dd3d229f2458809022bec99754.txt"
+  },
+  {
+    "doc_id": "doc_d412946094f348600696c39dac7b51c9",
+    "url": "https://www.higheredimmigrationportal.org/state/california/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_d412946094f348600696c39dac7b51c9.txt"
+  },
+  {
+    "doc_id": "doc_edcb28982b260a1ca0737028500d0ba3",
+    "url": "https://immigrantsrising.org/supportgroups/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_edcb28982b260a1ca0737028500d0ba3.txt"
+  },
+  {
+    "doc_id": "doc_cce9d7099aa567bcd20ec92e904eed1d",
+    "url": "https://collegecampaign.org",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_cce9d7099aa567bcd20ec92e904eed1d.txt"
+  },
+  {
+    "doc_id": "doc_8750375cf4a1629514c6bf40dcfaacff",
+    "url": "https://collegecampaign.org/undocumented-student-campus-resources",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_8750375cf4a1629514c6bf40dcfaacff.txt"
+  },
+  {
+    "doc_id": "doc_a778ee010c59131eb788dbb131a63c1e",
+    "url": "https://hacu.net",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_a778ee010c59131eb788dbb131a63c1e.txt"
+  },
+  {
+    "doc_id": "doc_7ac25893e9fe54c49846dd07e15b8f64",
+    "url": "https://hacu.net/community-resource-center/student-resources-for-daca-recipients-and-dreamers/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7ac25893e9fe54c49846dd07e15b8f64.txt"
+  },
+  {
+    "doc_id": "doc_2c885be2d6f62da447d0f2c49d5cab99",
+    "url": "https://bigfuture.collegeboard.org",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2c885be2d6f62da447d0f2c49d5cab99.txt"
+  },
+  {
+    "doc_id": "doc_c669a782966fc203ad188e4151c785c9",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/scholarships-grants-institutional-aid/understanding-your-financial-aid-award-offers#:~:text=You%20may%20see%20three%20different,interest%20and%20must%20be%20repaid.",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c669a782966fc203ad188e4151c785c9.txt"
+  },
+  {
+    "doc_id": "doc_caaddc644945aa6630cbb8cdbde6482a",
+    "url": "https://studentaid.gov",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_caaddc644945aa6630cbb8cdbde6482a.txt"
+  },
+  {
+    "doc_id": "doc_07c1b586c4a8716bcda495cc938a16d1",
+    "url": "https://studentaid.gov/articles/evaluating-financial-aid-offers/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_07c1b586c4a8716bcda495cc938a16d1.txt"
+  },
+  {
+    "doc_id": "doc_692de4cad79a0caea7bb497fe7230046",
+    "url": "https://studentaid.gov/articles/financial-aid-dictionary/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_692de4cad79a0caea7bb497fe7230046.txt"
+  },
+  {
+    "doc_id": "doc_166c943bdccde447bd98479023fa4b33",
+    "url": "https://jedfoundation.org",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_166c943bdccde447bd98479023fa4b33.txt"
+  },
+  {
+    "doc_id": "doc_114aa8277be566bac3919503bcb8b651",
+    "url": "https://jedfoundation.org/resource/tips-for-first-generation-college-students/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_114aa8277be566bac3919503bcb8b651.txt"
+  },
+  {
+    "doc_id": "doc_9328539f9a14f3b3756fa79b822b230b",
+    "url": "https://www.bestcolleges.com",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_9328539f9a14f3b3756fa79b822b230b.txt"
+  },
+  {
+    "doc_id": "doc_3e395b020f16c9f4c2009e22875e5b4a",
+    "url": "https://www.bestcolleges.com/blog/what-is-a-first-generation-college-student/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_3e395b020f16c9f4c2009e22875e5b4a.txt"
+  },
+  {
+    "doc_id": "doc_f5135dbab6055d13f571e4bea37aebc7",
+    "url": "https://making-waves.org",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_f5135dbab6055d13f571e4bea37aebc7.txt"
+  },
+  {
+    "doc_id": "doc_82ced4c8b8365c67483c99e7bef5f419",
+    "url": "https://making-waves.org/seven-tips-for-first-gen-college-students-from-first-gen-college-grad/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_82ced4c8b8365c67483c99e7bef5f419.txt"
+  },
+  {
+    "doc_id": "doc_04d05128e7e2f1369425db0e0f6166a8",
+    "url": "https://c2c.ca.gov",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_04d05128e7e2f1369425db0e0f6166a8.txt"
+  },
+  {
+    "doc_id": "doc_2685a6fca18d3c358761bb4734c90ecb",
+    "url": "https://c2c.ca.gov/data-stories/pathways-to-college-in-california/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2685a6fca18d3c358761bb4734c90ecb.txt"
+  },
+  {
+    "doc_id": "doc_86e8f1e4220b7f9c0201eca849772d86",
+    "url": "https://bigfuture.collegeboard.org/explore-careers/get-started/multiple-pathways-to-success",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_86e8f1e4220b7f9c0201eca849772d86.txt"
+  },
+  {
+    "doc_id": "doc_628fbf44c835a53ba5f16f1ae125afd5",
+    "url": "https://myfuture.com",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_628fbf44c835a53ba5f16f1ae125afd5.txt"
+  },
+  {
+    "doc_id": "doc_75bfbd5f6d4ec08a8393d532a336558b",
+    "url": "https://www.understood.org/en/articles/after-high-school-different-paths-to-success",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_75bfbd5f6d4ec08a8393d532a336558b.txt"
+  },
+  {
+    "doc_id": "doc_590ae42114461ab4bf67c1a19333af96",
+    "url": "https://getschooled.com/article/5806-what-to-do-after-high-school/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_590ae42114461ab4bf67c1a19333af96.txt"
+  },
+  {
+    "doc_id": "doc_c79e8763a0ccbab1620c3a81c24a0a02",
+    "url": "https://www.ivywise.com/ivywise-knowledgebase/how-to-research-a-college-effectively/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c79e8763a0ccbab1620c3a81c24a0a02.txt"
+  },
+  {
+    "doc_id": "doc_50d1c447e92fdd350b0a6150b3df69f4",
+    "url": "https://www.coalitionforcollegeaccess.org/mycoalition-counselor-all/researching-colleges",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_50d1c447e92fdd350b0a6150b3df69f4.txt"
+  },
+  {
+    "doc_id": "doc_5f61acf2704af51550897966a6522730",
+    "url": "https://getschooled.com/article/5426-building-your-college-list/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5f61acf2704af51550897966a6522730.txt"
+  },
+  {
+    "doc_id": "doc_fee620eb8de34c3ab925885ad51bbf72",
+    "url": "https://studentaid.gov/understand-aid/types/scholarships",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_fee620eb8de34c3ab925885ad51bbf72.txt"
+  },
+  {
+    "doc_id": "doc_e4efff3eb1848585c9288182cbbdbc5a",
+    "url": "https://getschooled.com/article/5600-how-to-effectively-find-scholarships/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e4efff3eb1848585c9288182cbbdbc5a.txt"
+  },
+  {
+    "doc_id": "doc_cf534af93011739971b0ac4309682687",
+    "url": "https://finaid.org",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_cf534af93011739971b0ac4309682687.txt"
+  },
+  {
+    "doc_id": "doc_1fc6fd4afe6c410410335c2a3be27a84",
+    "url": "http://www.ed.gov",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_1fc6fd4afe6c410410335c2a3be27a84.txt"
+  },
+  {
+    "doc_id": "doc_46cb25755bec9650f66df8ec73a488f7",
+    "url": "https://www.ed.gov/higher-education/paying-college",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_46cb25755bec9650f66df8ec73a488f7.txt"
+  },
+  {
+    "doc_id": "doc_80ed070044b7bb6a9e15c92f55946070",
+    "url": "https://www.nerdwallet.com/article/loans/student-loans/how-to-pay-for-college",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_80ed070044b7bb6a9e15c92f55946070.txt"
+  },
+  {
+    "doc_id": "doc_9a947106042da9c55751a3d256c88122",
+    "url": "https://studentaid.gov/manage-loans/repayment/repaying-101",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_9a947106042da9c55751a3d256c88122.txt"
+  },
+  {
+    "doc_id": "doc_5dc437afdb7b713f3c243cbac933d1e3",
+    "url": "https://studentaid.gov/articles/8-things-federal-work-study/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5dc437afdb7b713f3c243cbac933d1e3.txt"
+  },
+  {
+    "doc_id": "doc_d41c6331fd92a008f5cc069f33aca774",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/work-study",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_d41c6331fd92a008f5cc069f33aca774.txt"
+  },
+  {
+    "doc_id": "doc_c0aa9d2983e2d5d394e309d62a41e154",
+    "url": "https://www.csac.ca.gov/apply",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c0aa9d2983e2d5d394e309d62a41e154.txt"
+  },
+  {
+    "doc_id": "doc_7b2a29ef8873c42ee636db447b58334f",
+    "url": "https://www.csac.ca.gov/cadaa-msf",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7b2a29ef8873c42ee636db447b58334f.txt"
+  },
+  {
+    "doc_id": "doc_897e0f67bcfe64f62164654c79f43a49",
+    "url": "https://www.csac.ca.gov/student-forms",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_897e0f67bcfe64f62164654c79f43a49.txt"
+  },
+  {
+    "doc_id": "doc_b63ccc1e930f5148f2068bd8502276c9",
+    "url": "https://www.csac.ca.gov/cal-grant",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_b63ccc1e930f5148f2068bd8502276c9.txt"
+  },
+  {
+    "doc_id": "doc_ebaa02def75eb103adba0bb6db8a4d59",
+    "url": "https://immigrantsrising.org/in-state-tuition-tool/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ebaa02def75eb103adba0bb6db8a4d59.txt"
+  },
+  {
+    "doc_id": "doc_5534fa694d4fcae5425be6b314fb2faa",
+    "url": "https://studentaid.gov/sites/default/files/repaying-your-loans.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_5534fa694d4fcae5425be6b314fb2faa.txt"
+  },
+  {
+    "doc_id": "doc_548507674a33e6045d6846271ba6f66f",
+    "url": "https://studentaid.gov/sites/default/files/pslf-infographic.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_548507674a33e6045d6846271ba6f66f.txt"
+  },
+  {
+    "doc_id": "doc_e1a2dbfc8061b51d2154057c9b21bc61",
+    "url": "https://studentaid.gov/sites/default/files/MasterPromissoryNoteMPNDirectSubsidizedLoansandDirectUnsubsidizedLoans-en-us.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_e1a2dbfc8061b51d2154057c9b21bc61.txt"
+  },
+  {
+    "doc_id": "doc_d7c638e86acbdf31727e229a2c8eb061",
+    "url": "https://www.nasfaa.org/uploads/documents/2025-26_Federal_Student_Aid_Program_Summary.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_d7c638e86acbdf31727e229a2c8eb061.txt"
+  },
+  {
+    "doc_id": "doc_da778f57468a2dc2546df1d5787221a6",
+    "url": "https://pnpi.org/wp-content/uploads/2022/06/FederalStudentAidPrimer_June2022_.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_da778f57468a2dc2546df1d5787221a6.txt"
+  },
+  {
+    "doc_id": "doc_050dfb09eb3463809a4ec1bb9e3e1d6c",
+    "url": "https://fsapartners.ed.gov/sites/default/files/2025-2026/2025-2026_Federal_Student_Aid_Handbook/_knowledge-center_fsa-handbook_2025-2026_vol7.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_050dfb09eb3463809a4ec1bb9e3e1d6c.txt"
+  },
+  {
+    "doc_id": "doc_8269658ad95c7be8b645aaca40ff813d",
+    "url": "https://studentaid.gov/sites/default/files/2025-26-fafsa.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_8269658ad95c7be8b645aaca40ff813d.txt"
+  },
+  {
+    "doc_id": "doc_9440e53868587b0948fa277b5bfb374a",
+    "url": "https://studentaid.gov/sites/default/files/2026-27-fafsa-form.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_9440e53868587b0948fa277b5bfb374a.txt"
+  },
+  {
+    "doc_id": "doc_acd7e008494452303454604152ea3fda",
+    "url": "https://www.presidentsalliance.org/wp-content/uploads/2019/11/UCLA_Undocumented_handbook_WEB_Oct2019.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_acd7e008494452303454604152ea3fda.txt"
+  },
+  {
+    "doc_id": "doc_2f077f144aab5cb484115db39e766f66",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-applications-how-to-begin",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2f077f144aab5cb484115db39e766f66.txt"
+  },
+  {
+    "doc_id": "doc_e47285af6430839ab381be237a5cf351",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/after-youve-applied/you-got-accepted-now-what",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e47285af6430839ab381be237a5cf351.txt"
+  },
+  {
+    "doc_id": "doc_32cd9a21d2c3b4dab5d192db5dfed23f",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/find-your-fit/what-colleges-require-SAT",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_32cd9a21d2c3b4dab5d192db5dfed23f.txt"
+  },
+  {
+    "doc_id": "doc_e5088fc1fbd7e18413a850480cd1d4f7",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/your-high-school-counselors-role",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e5088fc1fbd7e18413a850480cd1d4f7.txt"
+  },
+  {
+    "doc_id": "doc_207b3409fd8b4bc8a3ca435722866821",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/how-to-prepare-for-the-sat",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_207b3409fd8b4bc8a3ca435722866821.txt"
+  },
+  {
+    "doc_id": "doc_6b83a7cdb524c2279af96da3d931f7e6",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-rates-requirements",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6b83a7cdb524c2279af96da3d931f7e6.txt"
+  },
+  {
+    "doc_id": "doc_3d5b7b1ee7742683b5f0e17da57c4692",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-started/thinking-about-college-costs",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_3d5b7b1ee7742683b5f0e17da57c4692.txt"
+  },
+  {
+    "doc_id": "doc_7553b1b96ad238a4c90bac16d86d645b",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-started/how-to-start-saving-for-college",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7553b1b96ad238a4c90bac16d86d645b.txt"
+  },
+  {
+    "doc_id": "doc_b0dfeff4334adb002ffde99cdfb02471",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/college-loans/quick-guide-which-college-loans-are-best",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_b0dfeff4334adb002ffde99cdfb02471.txt"
+  },
+  {
+    "doc_id": "doc_6ce05a28687dc57d2bcf165580254685",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/college-loans/types-of-college-loans",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6ce05a28687dc57d2bcf165580254685.txt"
+  },
+  {
+    "doc_id": "doc_df0666720da18723a1d5fe4c796ed8f1",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/college-loans/how-to-use-student-loans",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_df0666720da18723a1d5fe4c796ed8f1.txt"
+  },
+  {
+    "doc_id": "doc_7e6ec47c057c03c66674b1fb48a70138",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/college-loans/what-are-federal-student-loans",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7e6ec47c057c03c66674b1fb48a70138.txt"
+  },
+  {
+    "doc_id": "doc_991490be616bcccb0396ce961f03ebe7",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/college-loans/what-are-private-student-loans",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_991490be616bcccb0396ce961f03ebe7.txt"
+  },
+  {
+    "doc_id": "doc_aaef11fc50f92688fc9903e5abd556b5",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/how-to-prepare-to-apply-financial-aid",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_aaef11fc50f92688fc9903e5abd556b5.txt"
+  },
+  {
+    "doc_id": "doc_fdd41f8197f48e4b438b1937773130af",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/scholarships-grants-institutional-aid/the-basics-on-grants-and-scholarships",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_fdd41f8197f48e4b438b1937773130af.txt"
+  },
+  {
+    "doc_id": "doc_bbc1a7cca2bdda408729a57522735e56",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/state-and-institutional-financial-aid",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_bbc1a7cca2bdda408729a57522735e56.txt"
+  },
+  {
+    "doc_id": "doc_606af4a08b04cad9c391f945b61c38de",
+    "url": "https://bigfuture.collegeboard.org/pay-for-college/get-help-paying-for-college/scholarships-grants-institutional-aid/understanding-your-financial-aid-award-offers",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_606af4a08b04cad9c391f945b61c38de.txt"
+  },
+  {
+    "doc_id": "doc_292b25425603d3713f52a1f10927bf34",
+    "url": "https://www.bestcolleges.com/resources/hispanic-latino-scholarships/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_292b25425603d3713f52a1f10927bf34.txt"
+  },
+  {
+    "doc_id": "doc_675288204b99c3ad61d323908a0837cd",
+    "url": "https://www.bestcolleges.com/resources/adult-learner-scholarships/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_675288204b99c3ad61d323908a0837cd.txt"
+  },
+  {
+    "doc_id": "doc_2e70d1fc304e12aed07f392e05ac55a7",
+    "url": "https://www.bestcolleges.com/resources/students-with-disabilities-financial-aid/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2e70d1fc304e12aed07f392e05ac55a7.txt"
+  },
+  {
+    "doc_id": "doc_cfa2f24b6fa9d66444653a28b19c9144",
+    "url": "https://bigfuture.collegeboard.org/explore-careers/get-started/career-exploration-important-steps-in-process",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_cfa2f24b6fa9d66444653a28b19c9144.txt"
+  },
+  {
+    "doc_id": "doc_4969ef91a92826a226a57b421da3321c",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-application-timeline-12th-grade",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_4969ef91a92826a226a57b421da3321c.txt"
+  },
+  {
+    "doc_id": "doc_0c6674fa629aabbc3b030a2fd88a37e8",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/stand-out-in-high-school/how-to-start-thinking-about-your-future-in-9th-grade",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_0c6674fa629aabbc3b030a2fd88a37e8.txt"
+  },
+  {
+    "doc_id": "doc_5bf569656c589a04f9f58d6dac7e5c37",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/stand-out-in-high-school/how-to-start-planning-for-college-in-10th-grade",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5bf569656c589a04f9f58d6dac7e5c37.txt"
+  },
+  {
+    "doc_id": "doc_f9596b2f59c608cd4d0da035504897e0",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/stand-out-in-high-school/how-to-start-planning-for-college-in-11th-grade",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_f9596b2f59c608cd4d0da035504897e0.txt"
+  },
+  {
+    "doc_id": "doc_e82b25f9630911803de40ad2053583f6",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/stand-out-in-high-school/how-to-start-planning-for-college-in-12th-grade",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e82b25f9630911803de40ad2053583f6.txt"
+  },
+  {
+    "doc_id": "doc_7889eb39ef2acdb5c30662e290d08eb9",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/stand-out-in-high-school/character-counts-what-are-colleges-looking-for",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7889eb39ef2acdb5c30662e290d08eb9.txt"
+  },
+  {
+    "doc_id": "doc_85f9c849c56ffb0c896517c83ae37a94",
+    "url": "https://bigfuture.collegeboard.org/plan-for-college/stand-out-in-high-school/learn-about-the-ap-program",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_85f9c849c56ffb0c896517c83ae37a94.txt"
+  },
+  {
+    "doc_id": "doc_0a55a7a33cccf16bb042ef94d56467b5",
+    "url": "https://bigfuture.collegeboard.org/majors",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_0a55a7a33cccf16bb042ef94d56467b5.txt"
+  },
+  {
+    "doc_id": "doc_cf548a699f7aa4ec1bc0300ae4b8b5e1",
+    "url": "https://getschooled.com/article/5997-how-to-find-an-lgbtq-friendly-college-or-university/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_cf548a699f7aa4ec1bc0300ae4b8b5e1.txt"
+  },
+  {
+    "doc_id": "doc_3c915e158b50392ee5f5da5c2ed5c4d7",
+    "url": "https://www.ed.gov/contact-us/state-contacts/ca",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_3c915e158b50392ee5f5da5c2ed5c4d7.txt"
+  },
+  {
+    "doc_id": "doc_8d3d676925177124663df5e79666d050",
+    "url": "https://studentaid.gov/articles/scholarship-tips/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_8d3d676925177124663df5e79666d050.txt"
+  },
+  {
+    "doc_id": "doc_f2d79e34503f237d7d7d11b7675f338b",
+    "url": "https://studentaid.gov/articles/financial-aid-not-enough/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_f2d79e34503f237d7d7d11b7675f338b.txt"
+  },
+  {
+    "doc_id": "doc_57dd1917f2ef12265817332d5ef1e643",
+    "url": "https://getschooled.com/article/5398-best-scholarship-websites/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_57dd1917f2ef12265817332d5ef1e643.txt"
+  },
+  {
+    "doc_id": "doc_00fac1d7f747de688e16d96001af5dd2",
+    "url": "https://financialaidtoolkit.ed.gov/resources/2025-26-counselors-handbook.pdf",
+    "source": "pdf",
+    "cleaned_path": "data/cleaned/doc_00fac1d7f747de688e16d96001af5dd2.txt"
+  },
+  {
+    "doc_id": "doc_bdcb39073b372b64e11d8f79e0ecdf41",
+    "url": "https://finaid.org/beyond/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_bdcb39073b372b64e11d8f79e0ecdf41.txt"
+  },
+  {
+    "doc_id": "doc_42a8f503e554c74aa5f328f0779cfdbb",
+    "url": "https://www.cbsnews.com/news/private-student-loan-dos-donts/",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_42a8f503e554c74aa5f328f0779cfdbb.txt"
+  },
+  {
+    "doc_id": "doc_1d3d8c1b12d9ea405a591fa1ec3330e5",
+    "url": "https://www.nerdwallet.com/student-loans/learn/tuition-free-college",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_1d3d8c1b12d9ea405a591fa1ec3330e5.txt"
+  },
+  {
+    "doc_id": "doc_6f6a2626b3e0728a38121711324f8306",
+    "url": "https://www.nerdwallet.com/student-loans/learn/pell-grants",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6f6a2626b3e0728a38121711324f8306.txt"
+  },
+  {
+    "doc_id": "doc_0955ca576ddc0ea7483f0615df5ecca3",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/accounting",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_0955ca576ddc0ea7483f0615df5ecca3.txt"
+  },
+  {
+    "doc_id": "doc_6c5e9755fc6bfcb69f004e57d2319f66",
+    "url": "https://www.scu.edu/cas/anthropology",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6c5e9755fc6bfcb69f004e57d2319f66.txt"
+  },
+  {
+    "doc_id": "doc_2afc15e53751e224323041e59b2e535c",
+    "url": "https://www.scu.edu/cas/mathematics-and-computer-science/undergraduate-programs/applied-mathematics",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2afc15e53751e224323041e59b2e535c.txt"
+  },
+  {
+    "doc_id": "doc_b2a79d780753353ec03239176283fcde",
+    "url": "https://www.scu.edu/cas/art-and-art-history",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_b2a79d780753353ec03239176283fcde.txt"
+  },
+  {
+    "doc_id": "doc_e464af85d61184918c67694377fc853e",
+    "url": "https://www.scu.edu/cas/biochemistry",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e464af85d61184918c67694377fc853e.txt"
+  },
+  {
+    "doc_id": "doc_da4e956a83a73b97945d17f1c6744b4f",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/bioengineering",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_da4e956a83a73b97945d17f1c6744b4f.txt"
+  },
+  {
+    "doc_id": "doc_35fe180f5eaabb0fa034b60bd7ef02c4",
+    "url": "https://www.scu.edu/cas/biology",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_35fe180f5eaabb0fa034b60bd7ef02c4.txt"
+  },
+  {
+    "doc_id": "doc_d20293c90e9b4540970c5d297b8a9d29",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_d20293c90e9b4540970c5d297b8a9d29.txt"
+  },
+  {
+    "doc_id": "doc_631885024ac792be3de845d06de8e4ae",
+    "url": "https://www.scu.edu/cas/chemistry",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_631885024ac792be3de845d06de8e4ae.txt"
+  },
+  {
+    "doc_id": "doc_09fa4dc41f0148fe21612b08a153ca49",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/civil-engineering",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_09fa4dc41f0148fe21612b08a153ca49.txt"
+  },
+  {
+    "doc_id": "doc_ee84b812060b2760fdd9555f17ee298c",
+    "url": "https://www.scu.edu/cas/classics https://www.scu.edu/cas/communication",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ee84b812060b2760fdd9555f17ee298c.txt"
+  },
+  {
+    "doc_id": "doc_8ec59a5bda779fecef36ddb8624f6d5e",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/computer-science",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_8ec59a5bda779fecef36ddb8624f6d5e.txt"
+  },
+  {
+    "doc_id": "doc_ea58a0f1b4aa215337129641e845066f",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/computer-science-and-engineering",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ea58a0f1b4aa215337129641e845066f.txt"
+  },
+  {
+    "doc_id": "doc_ea0a3069bb8f92c03026e28de899235f",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/economics",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ea0a3069bb8f92c03026e28de899235f.txt"
+  },
+  {
+    "doc_id": "doc_ab5659ef4ac88010dc18fdf13c188e0f",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/electrical-engineering",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ab5659ef4ac88010dc18fdf13c188e0f.txt"
+  },
+  {
+    "doc_id": "doc_4f615af1234626f72ec0838817cd01e4",
+    "url": "https://www.scu.edu/cas/english",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_4f615af1234626f72ec0838817cd01e4.txt"
+  },
+  {
+    "doc_id": "doc_5d1c8f531a5e6c8b91c98f3d1fd02e80",
+    "url": "https://www.scu.edu/cas/environmental-science",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5d1c8f531a5e6c8b91c98f3d1fd02e80.txt"
+  },
+  {
+    "doc_id": "doc_0b72ba068f24ffec3d02fa17c29229ca",
+    "url": "https://www.scu.edu/cas/environmental-studies",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_0b72ba068f24ffec3d02fa17c29229ca.txt"
+  },
+  {
+    "doc_id": "doc_8fd9e5e0e83a9cd073276d02cc69e463",
+    "url": "https://www.scu.edu/cas/ethics",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_8fd9e5e0e83a9cd073276d02cc69e463.txt"
+  },
+  {
+    "doc_id": "doc_3230675c01cb3adbba2f0148fa30fa16",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/finance",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_3230675c01cb3adbba2f0148fa30fa16.txt"
+  },
+  {
+    "doc_id": "doc_6362e3df0844593c8306d295e8d89f5b",
+    "url": "https://www.scu.edu/cas/modern-languages/french",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6362e3df0844593c8306d295e8d89f5b.txt"
+  },
+  {
+    "doc_id": "doc_50e3501cc614bad822b02d06e35b2da9",
+    "url": "https://www.scu.edu/cas/modern-languages/german-studies",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_50e3501cc614bad822b02d06e35b2da9.txt"
+  },
+  {
+    "doc_id": "doc_49fa9caec619499e16249359583ea1ce",
+    "url": "https://www.scu.edu/cas/history https://www.scu.edu/cas/humanities",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_49fa9caec619499e16249359583ea1ce.txt"
+  },
+  {
+    "doc_id": "doc_c8022347d1c1e3c4814c1cdf04a1cf19",
+    "url": "https://www.scu.edu/cas/individual-studies",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c8022347d1c1e3c4814c1cdf04a1cf19.txt"
+  },
+  {
+    "doc_id": "doc_447624f10ec2da9e5bdfcda6ac26461c",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/information-systems",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_447624f10ec2da9e5bdfcda6ac26461c.txt"
+  },
+  {
+    "doc_id": "doc_f6b53aa53c6e2f6952696cba459cbda6",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/international-business",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_f6b53aa53c6e2f6952696cba459cbda6.txt"
+  },
+  {
+    "doc_id": "doc_2f949f99e30c02522d28719df2cb2e83",
+    "url": "https://www.scu.edu/cas/modern-languages/italian-studies",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2f949f99e30c02522d28719df2cb2e83.txt"
+  },
+  {
+    "doc_id": "doc_116a781a419ebb38c5c9f092925e3c8e",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/management",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_116a781a419ebb38c5c9f092925e3c8e.txt"
+  },
+  {
+    "doc_id": "doc_417cb85af4fd341c7044c215e509414a",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/marketing",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_417cb85af4fd341c7044c215e509414a.txt"
+  },
+  {
+    "doc_id": "doc_ab9a593b443ea6357997ee1bda7aa7d9",
+    "url": "https://www.scu.edu/cas/mathematics-and-computer-science/undergraduate-programs/mathematics",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ab9a593b443ea6357997ee1bda7aa7d9.txt"
+  },
+  {
+    "doc_id": "doc_8bff8c538b6f817d8c683a2b36191abf",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/mechanical-engineering",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_8bff8c538b6f817d8c683a2b36191abf.txt"
+  },
+  {
+    "doc_id": "doc_e6074085d2f18dc12d4a9f04d4880fcc",
+    "url": "https://www.scu.edu/cas/modern-languages https://www.scu.edu/cas/music",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e6074085d2f18dc12d4a9f04d4880fcc.txt"
+  },
+  {
+    "doc_id": "doc_c0b43e9e3b8b2dcc0695f2f4c2552a69",
+    "url": "https://www.scu.edu/cas/neuroscience",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c0b43e9e3b8b2dcc0695f2f4c2552a69.txt"
+  },
+  {
+    "doc_id": "doc_c50f97fbc96f3e7eb24089028fa62454",
+    "url": "https://www.scu.edu/business/academic-programs/undergraduate/operations-management",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c50f97fbc96f3e7eb24089028fa62454.txt"
+  },
+  {
+    "doc_id": "doc_c82f016fd215bb028eba23c02fbbdf09",
+    "url": "https://www.scu.edu/cas/philosophy https://www.scu.edu/cas/physics",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c82f016fd215bb028eba23c02fbbdf09.txt"
+  },
+  {
+    "doc_id": "doc_7c6072f98274e553c34e6b0657e9f614",
+    "url": "https://www.scu.edu/cas/political-science",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7c6072f98274e553c34e6b0657e9f614.txt"
+  },
+  {
+    "doc_id": "doc_2d178d9a77f047cc47b04eb7147b8191",
+    "url": "https://www.scu.edu/cas/psychology",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2d178d9a77f047cc47b04eb7147b8191.txt"
+  },
+  {
+    "doc_id": "doc_d1e30ed07041098c53e9f9dc36e58da7",
+    "url": "https://www.scu.edu/cas/public-health-science",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_d1e30ed07041098c53e9f9dc36e58da7.txt"
+  },
+  {
+    "doc_id": "doc_c4727a4ebf8be1d924a24e4ef98e054d",
+    "url": "https://www.scu.edu/cas/religious-studies",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c4727a4ebf8be1d924a24e4ef98e054d.txt"
+  },
+  {
+    "doc_id": "doc_1f4352fac113fb92950dcc7cb1f2d3ca",
+    "url": "https://www.scu.edu/cas/sociology",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_1f4352fac113fb92950dcc7cb1f2d3ca.txt"
+  },
+  {
+    "doc_id": "doc_5b65bfc5d6b590d28f0aae8ef65d3fc9",
+    "url": "https://www.scu.edu/cas/modern-languages/spanish",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5b65bfc5d6b590d28f0aae8ef65d3fc9.txt"
+  },
+  {
+    "doc_id": "doc_046bb00a24c685f66cdf9908abdde39d",
+    "url": "https://www.scu.edu/cas/theatre-and-dance",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_046bb00a24c685f66cdf9908abdde39d.txt"
+  },
+  {
+    "doc_id": "doc_64b632ee7fecd3ee5908d897b698c61a",
+    "url": "https://www.scu.edu/engineering/academic-programs/undergraduate/web-design-and-engineering",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_64b632ee7fecd3ee5908d897b698c61a.txt"
+  },
+  {
+    "doc_id": "doc_6380770de3cfb94d32676f49ea840b56",
+    "url": "https://www.scu.edu/admission",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6380770de3cfb94d32676f49ea840b56.txt"
+  },
+  {
+    "doc_id": "doc_9bac81803821415b4dba002082dcfd89",
+    "url": "https://www.scu.edu/admission/undergraduate",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_9bac81803821415b4dba002082dcfd89.txt"
+  },
+  {
+    "doc_id": "doc_7c12f48f952ff84cb3e153d1f8c51371",
+    "url": "https://www.scu.edu/admission/undergraduate/how-to-apply",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7c12f48f952ff84cb3e153d1f8c51371.txt"
+  },
+  {
+    "doc_id": "doc_9346bdc992aa81d2df42bb19e269a2bc",
+    "url": "https://www.scu.edu/admission/undergraduate/requirements",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_9346bdc992aa81d2df42bb19e269a2bc.txt"
+  },
+  {
+    "doc_id": "doc_a7307d40b516fa08aba16623270001e1",
+    "url": "https://www.scu.edu/admission/undergraduate/deadlines",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_a7307d40b516fa08aba16623270001e1.txt"
+  },
+  {
+    "doc_id": "doc_cfbb79d0d466ac6f67edf22dadd5e97a",
+    "url": "https://www.scu.edu/admission/undergraduate/costs-aid",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_cfbb79d0d466ac6f67edf22dadd5e97a.txt"
+  },
+  {
+    "doc_id": "doc_92c5e8d36741227af398a2ee0335655b",
+    "url": "https://www.scu.edu/financialaid",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_92c5e8d36741227af398a2ee0335655b.txt"
+  },
+  {
+    "doc_id": "doc_5305ad9807d0668823ba030cc60c760d",
+    "url": "https://www.scu.edu/admission/undergraduate/contact",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5305ad9807d0668823ba030cc60c760d.txt"
+  },
+  {
+    "doc_id": "doc_3b177425dd513c08a3aa25d012219770",
+    "url": "https://www.sjsu.edu/aerospace https://www.sjsu.edu/anthropology",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_3b177425dd513c08a3aa25d012219770.txt"
+  },
+  {
+    "doc_id": "doc_daeeb447c6db7653422386ac489a2f60",
+    "url": "https://www.sjsu.edu/art https://www.sjsu.edu/biology",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_daeeb447c6db7653422386ac489a2f60.txt"
+  },
+  {
+    "doc_id": "doc_1540fdc80ac1d4e87dd5878897b9d9f4",
+    "url": "https://www.sjsu.edu/cob https://www.sjsu.edu/chemistry",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_1540fdc80ac1d4e87dd5878897b9d9f4.txt"
+  },
+  {
+    "doc_id": "doc_90f68dbea53305a605bf77fc7f1f8636",
+    "url": "https://www.sjsu.edu/chad https://www.sjsu.edu/cege",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_90f68dbea53305a605bf77fc7f1f8636.txt"
+  },
+  {
+    "doc_id": "doc_6786848aead793fb8f199ee295c24e32",
+    "url": "https://www.sjsu.edu/coms https://www.sjsu.edu/ce",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_6786848aead793fb8f199ee295c24e32.txt"
+  },
+  {
+    "doc_id": "doc_b1958c53241a7d7fc01efdd8296acd79",
+    "url": "https://www.sjsu.edu/cs https://www.sjsu.edu/design",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_b1958c53241a7d7fc01efdd8296acd79.txt"
+  },
+  {
+    "doc_id": "doc_7aacdbb1a2e9a64242c3e09a3e0851ca",
+    "url": "https://www.sjsu.edu/economics https://www.sjsu.edu/ee",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7aacdbb1a2e9a64242c3e09a3e0851ca.txt"
+  },
+  {
+    "doc_id": "doc_ea6c9c6681544ee6081242307b454490",
+    "url": "https://www.sjsu.edu/english https://www.sjsu.edu/envs",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_ea6c9c6681544ee6081242307b454490.txt"
+  },
+  {
+    "doc_id": "doc_262ac29b16f25e26ea5133e501c776d1",
+    "url": "https://www.sjsu.edu/geology https://www.sjsu.edu/hlthsci",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_262ac29b16f25e26ea5133e501c776d1.txt"
+  },
+  {
+    "doc_id": "doc_f58f85f1d520ce0b695d25b58cc18546",
+    "url": "https://www.sjsu.edu/hum https://www.sjsu.edu/ise",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_f58f85f1d520ce0b695d25b58cc18546.txt"
+  },
+  {
+    "doc_id": "doc_2da3b436a5bb9fbc82f880c4766ed46e",
+    "url": "https://www.sjsu.edu/it https://www.sjsu.edu/justicestudies",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2da3b436a5bb9fbc82f880c4766ed46e.txt"
+  },
+  {
+    "doc_id": "doc_b20ff3bcc67691cbe753c085131a8f7f",
+    "url": "https://www.sjsu.edu/kines https://www.sjsu.edu/lstd",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_b20ff3bcc67691cbe753c085131a8f7f.txt"
+  },
+  {
+    "doc_id": "doc_7a46297638473dc5a3345e2d7302090d",
+    "url": "https://www.sjsu.edu/math https://www.sjsu.edu/me",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7a46297638473dc5a3345e2d7302090d.txt"
+  },
+  {
+    "doc_id": "doc_81c1cf6385c81af4b622e0bb459256f9",
+    "url": "https://www.sjsu.edu/meteorology https://www.sjsu.edu/nursing",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_81c1cf6385c81af4b622e0bb459256f9.txt"
+  },
+  {
+    "doc_id": "doc_a369e25dcab1ee32225a430215117b15",
+    "url": "https://www.sjsu.edu/ot https://www.sjsu.edu/physics",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_a369e25dcab1ee32225a430215117b15.txt"
+  },
+  {
+    "doc_id": "doc_5490b55f90e1e1a2aae832f13f9d3bcc",
+    "url": "https://www.sjsu.edu/psych https://www.sjsu.edu/publichealth",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_5490b55f90e1e1a2aae832f13f9d3bcc.txt"
+  },
+  {
+    "doc_id": "doc_2fe782409162d388330218c9a78729da",
+    "url": "https://www.sjsu.edu/rtvf https://www.sjsu.edu/socialwork",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_2fe782409162d388330218c9a78729da.txt"
+  },
+  {
+    "doc_id": "doc_b44ae0e9231802ee0062cd1dea59bc11",
+    "url": "https://www.sjsu.edu/sociology https://www.sjsu.edu/sped",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_b44ae0e9231802ee0062cd1dea59bc11.txt"
+  },
+  {
+    "doc_id": "doc_c29bd9c99186182b4948b2cfdd63b926",
+    "url": "https://www.sjsu.edu/admissions https://www.sjsu.edu/admissions/apply",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_c29bd9c99186182b4948b2cfdd63b926.txt"
+  },
+  {
+    "doc_id": "doc_7188d889dc78f01372a22dbab061fcaf",
+    "url": "https://www.sjsu.edu/admissions/requirements",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_7188d889dc78f01372a22dbab061fcaf.txt"
+  },
+  {
+    "doc_id": "doc_8820d7b28bb8ae45fc2d9e881cf8cd4b",
+    "url": "https://www.sjsu.edu/admissions/deadlines",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_8820d7b28bb8ae45fc2d9e881cf8cd4b.txt"
+  },
+  {
+    "doc_id": "doc_45e1f80d5c2a056ae8365477e994ea0a",
+    "url": "https://www.sjsu.edu/bursar/tuition-fees https://www.sjsu.edu/faso",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_45e1f80d5c2a056ae8365477e994ea0a.txt"
+  },
+  {
+    "doc_id": "doc_e32e9266b51a80aaf85bd0456dda596d",
+    "url": "https://www.sjsu.edu/faso/types-of-aid",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_e32e9266b51a80aaf85bd0456dda596d.txt"
+  },
+  {
+    "doc_id": "doc_1a3417cc3876c61ba2c6d712d2e6d191",
+    "url": "https://www.sjsu.edu/admissions/contact",
+    "source": "web",
+    "cleaned_path": "data/cleaned/doc_1a3417cc3876c61ba2c6d712d2e6d191.txt"
+  }
+]

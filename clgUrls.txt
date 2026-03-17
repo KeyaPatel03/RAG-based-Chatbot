@@ -1,0 +1,86 @@
+# Santa Clara University - Majors
+
+https://www.scu.edu/business/academic-programs/undergraduate/accounting
+https://www.scu.edu/cas/anthropology
+https://www.scu.edu/cas/mathematics-and-computer-science/undergraduate-programs/applied-mathematics
+https://www.scu.edu/cas/art-and-art-history 
+https://www.scu.edu/cas/biochemistry
+https://www.scu.edu/engineering/academic-programs/undergraduate/bioengineering
+https://www.scu.edu/cas/biology
+https://www.scu.edu/business/academic-programs/undergraduate
+https://www.scu.edu/cas/chemistry
+https://www.scu.edu/engineering/academic-programs/undergraduate/civil-engineering
+https://www.scu.edu/cas/classics https://www.scu.edu/cas/communication
+https://www.scu.edu/engineering/academic-programs/undergraduate/computer-science
+https://www.scu.edu/engineering/academic-programs/undergraduate/computer-science-and-engineering
+https://www.scu.edu/business/academic-programs/undergraduate/economics
+https://www.scu.edu/engineering/academic-programs/undergraduate/electrical-engineering
+https://www.scu.edu/cas/english
+https://www.scu.edu/cas/environmental-science
+https://www.scu.edu/cas/environmental-studies
+https://www.scu.edu/cas/ethics
+https://www.scu.edu/business/academic-programs/undergraduate/finance
+https://www.scu.edu/cas/modern-languages/french
+https://www.scu.edu/cas/modern-languages/german-studies
+https://www.scu.edu/cas/history https://www.scu.edu/cas/humanities
+https://www.scu.edu/cas/individual-studies
+https://www.scu.edu/business/academic-programs/undergraduate/information-systems
+https://www.scu.edu/business/academic-programs/undergraduate/international-business
+https://www.scu.edu/cas/modern-languages/italian-studies
+https://www.scu.edu/business/academic-programs/undergraduate/management
+https://www.scu.edu/business/academic-programs/undergraduate/marketing
+https://www.scu.edu/cas/mathematics-and-computer-science/undergraduate-programs/mathematics
+https://www.scu.edu/engineering/academic-programs/undergraduate/mechanical-engineering
+https://www.scu.edu/cas/modern-languages https://www.scu.edu/cas/music
+https://www.scu.edu/cas/neuroscience
+https://www.scu.edu/business/academic-programs/undergraduate/operations-management
+https://www.scu.edu/cas/philosophy https://www.scu.edu/cas/physics
+https://www.scu.edu/cas/political-science
+https://www.scu.edu/cas/psychology
+https://www.scu.edu/cas/public-health-science
+https://www.scu.edu/cas/religious-studies
+https://www.scu.edu/cas/sociology
+https://www.scu.edu/cas/modern-languages/spanish
+https://www.scu.edu/cas/theatre-and-dance
+https://www.scu.edu/engineering/academic-programs/undergraduate/web-design-and-engineering
+
+# Santa Clara University - Admission requirements
+
+https://www.scu.edu/admission
+https://www.scu.edu/admission/undergraduate
+https://www.scu.edu/admission/undergraduate/how-to-apply
+https://www.scu.edu/admission/undergraduate/requirements
+https://www.scu.edu/admission/undergraduate/deadlines
+https://www.scu.edu/admission/undergraduate/costs-aid
+https://www.scu.edu/financialaid
+https://www.scu.edu/admission/undergraduate/contact
+
+# San Jose State University - Majors
+
+https://www.sjsu.edu/aerospace https://www.sjsu.edu/anthropology
+https://www.sjsu.edu/art https://www.sjsu.edu/biology
+https://www.sjsu.edu/cob https://www.sjsu.edu/chemistry
+https://www.sjsu.edu/chad https://www.sjsu.edu/cege
+https://www.sjsu.edu/coms https://www.sjsu.edu/ce
+https://www.sjsu.edu/cs https://www.sjsu.edu/design
+https://www.sjsu.edu/economics https://www.sjsu.edu/ee
+https://www.sjsu.edu/english https://www.sjsu.edu/envs
+https://www.sjsu.edu/geology https://www.sjsu.edu/hlthsci
+https://www.sjsu.edu/hum https://www.sjsu.edu/ise
+https://www.sjsu.edu/it https://www.sjsu.edu/justicestudies
+https://www.sjsu.edu/kines https://www.sjsu.edu/lstd
+https://www.sjsu.edu/math https://www.sjsu.edu/me
+https://www.sjsu.edu/meteorology https://www.sjsu.edu/nursing
+https://www.sjsu.edu/ot https://www.sjsu.edu/physics
+https://www.sjsu.edu/psych https://www.sjsu.edu/publichealth
+https://www.sjsu.edu/rtvf https://www.sjsu.edu/socialwork
+https://www.sjsu.edu/sociology https://www.sjsu.edu/sped
+
+# San Jose State University - Admission requirements
+
+https://www.sjsu.edu/admissions https://www.sjsu.edu/admissions/apply
+https://www.sjsu.edu/admissions/requirements
+https://www.sjsu.edu/admissions/deadlines
+https://www.sjsu.edu/bursar/tuition-fees https://www.sjsu.edu/faso
+https://www.sjsu.edu/faso/types-of-aid
+https://www.sjsu.edu/admissions/contact

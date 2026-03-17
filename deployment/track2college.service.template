@@ -1,0 +1,9 @@
+[Unit]
+Description=Track2College Pipeline Automation
+
+[Service]
+Type=oneshot
+WorkingDirectory={{PROJECT_DIR}}
+ExecStart={{PYTHON_EXEC}} run_pipeline.py
+StandardOutput=journal
+StandardError=journal

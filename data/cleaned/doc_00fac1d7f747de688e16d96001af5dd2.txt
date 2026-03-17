@@ -1,0 +1,1784 @@
+Federal Student Aid Page 1 of 49
+Counselors and Mentors Handbook on 
+Federal Student Aid
+A Guide for Those Advising Students About Financial Aid for 
+Higher Education
+October 2024 – This handbook covers changes to the FAFSA® process for the 2025–26 award year. 
+Prepared for 
+Counselors and Mentors 
+Important note: The information in this publication was compiled in summer 2024. For the latest changes 
+to the federal student aid programs, consult the “Announcements” section at 
+FinancialAidToolkit.ed.gov.
+
+Federal Student Aid Page 2 of 49
+CONTENTS 
+Prepared for .................................................................................................................................................. 1
+Important Resources ..................................................................................................................................... 5
+Websites .................................................................................................................................................... 5
+For You .................................................................................................................................................. 5
+For Your Students .................................................................................................................................. 5
+Contacts .................................................................................................................................................... 6
+For You and Your Students ................................................................................................................... 6
+Introduction ................................................................................................................................................... 7
+What’s new in this year’s handbook? ........................................................................................................ 7
+Help Us Improve the Handbook ................................................................................................................ 7
+Part 1: The Federal Student Aid Programs ................................................................................................... 8
+What is student aid? .................................................................................................................................. 8
+The Major Federal Student Aid Programs ................................................................................................. 8
+Federal Student Grants: Federal Pell Grants, Federal Supplemental Educational Opportunity Grants 
+(FSEOG), and Teacher Education Assistance for College and Higher Education (TEACH) Grants .... 8
+Federal Work-Study ............................................................................................................................... 9
+Federal Student Loans: Direct Subsidized Loans, Direct Unsubsidized Loans, Direct PLUS Loans, 
+and Direct Consolidation Loans ............................................................................................................. 9
+Responsible Borrowing ............................................................................................................................ 10
+Other ED Programs ................................................................................................................................. 10
+Vocational Rehabilitation Programs ..................................................................................................... 10
+Other Federal Assistance for Postsecondary School .............................................................................. 10
+Federal Income Tax Credits ................................................................................................................ 10
+National and Community Service ........................................................................................................ 11
+Health Professions ............................................................................................................................... 11
+Veterans Education Benefits ............................................................................................................... 11
+Other Assistance From the Military and for Military Families .............................................................. 11
+Nonfederal Sources: State, School, and Private ..................................................................................... 11
+State Aid .............................................................................................................................................. 11
+Prepaid Tuition and College Savings Plans ........................................................................................ 12
+Institutional Aid ..................................................................................................................................... 12
+Private Aid ............................................................................................................................................ 12
+Who can get federal student aid? ............................................................................................................ 13
+General Eligibility Requirements .......................................................................................................... 13
+Eligibility Requirements for Specific Programs........................................................................................ 14
+
+Federal Student Aid Page 3 of 49
+Federal Pell Grants, FSEOG, TEACH Grants, and Federal Work-Study ............................................ 14
+TEACH Grants ..................................................................................................................................... 15
+Direct Loans ......................................................................................................................................... 15
+How is financial need determined? ......................................................................................................... 15
+Need Analysis ...................................................................................................................................... 16
+Cost of Attendance (COA) ................................................................................................................... 16
+Calculating the SAI .............................................................................................................................. 16
+Calculating Federal Pell Grant Eligibility .............................................................................................. 17
+The Financial Aid Package ...................................................................................................................... 18
+How much Federal Pell Grant funding can a student get? .................................................................. 19
+How much TEACH Grant funding can a student get? ......................................................................... 19
+How much FSEOG and Federal Work-Study money can a student get? ........................................... 19
+How much can a student get in Direct Subsidized Loans and Direct Unsubsidized Loans? .............. 19
+Part 2: Application Process for Federal Student Aid ................................................................................... 21
+Early Eligibility Indicator: Federal Student Aid Estimator ........................................................................ 21
+What is the purpose of the Federal Student Aid Estimator? ................................................................ 21
+Who should use the Federal Student Aid Estimator? .......................................................................... 21
+How does a student use the Federal Student Aid Estimator? ............................................................. 21
+Before Applying ....................................................................................................................................... 22
+Helping Students Learn About the FAFSA® Process .......................................................................... 22
+Creating a StudentAid.gov Account ........................................................................................................ 22
+Who needs a StudentAid.gov account? ............................................................................................... 22
+How are contributors identified? .......................................................................................................... 23
+How are contributors invited to participate on the FAFSA® form? ....................................................... 23
+When should a contributor create their StudentAid.gov account? ...................................................... 23
+What can a student use their StudentAid.gov account for? ................................................................. 24
+What can a parent use their StudentAid.gov account for? .................................................................. 24
+How does a contributor create a StudentAid.gov account? ................................................................. 25
+How does a contributor without an SSN create a StudentAid.gov account? ....................................... 26
+What if the contributor forgets their account credentials or has difficulties logging in? ....................... 27
+What about StudentAid.gov account security? .................................................................................... 27
+Gathering Documents for the FAFSA® Form .......................................................................................... 27
+When To Apply ........................................................................................................................................ 27
+How To Apply .......................................................................................................................................... 28
+Electronic Application Method—fafsa.gov ........................................................................................... 28
+PDF Application Method ...................................................................................................................... 31
+How the FAFSA® Form Is Processed ...................................................................................................... 31
+
+Federal Student Aid Page 4 of 49
+Data Matches ....................................................................................................................................... 31
+What To Expect After Applying ............................................................................................................... 33
+Checking the Status of a FAFSA® Form .............................................................................................. 33
+Where FPS Sends the FAFSA® Information ........................................................................................ 33
+What the Student Receives After Applying ............................................................................................. 33
+Reviewing the FAFSA Submission Summary ......................................................................................... 34
+FAFSA Submission Summary ............................................................................................................. 34
+FAFSA Submission Summary With Action Required .......................................................................... 35
+Verification ............................................................................................................................................... 35
+Making Changes ...................................................................................................................................... 35
+Corrections and Updating .................................................................................................................... 35
+Adjustments Due to Unusual Circumstances, Special Financial Circumstances, or Student 
+Homelessness ..................................................................................................................................... 37
+2025–26 Deadlines .................................................................................................................................. 40
+Part 3: Completing the Free Application for Federal Student Aid (FAFSA®) Form ..................................... 41
+Pointers for Completing the FAFSA® Form ............................................................................................. 41
+Student Identity Information ................................................................................................................. 42
+Personal Circumstances ...................................................................................................................... 42
+Demographics ...................................................................................................................................... 43
+Financials ............................................................................................................................................. 44
+Select Colleges and Career Schools ................................................................................................... 44
+Appendix A: Sources of Additional Information........................................................................................... 45
+Useful Websites ....................................................................................................................................... 45
+Sites for Students ................................................................................................................................. 45
+Sites for Parents .................................................................................................................................. 46
+Sites for Counselors and Mentors ....................................................................................................... 46
+Free Informational Materials .................................................................................................................... 47
+One-on-One Help: FSAIC........................................................................................................................ 48
+Appendix B: Abbreviations .......................................................................................................................... 49
+
+Federal Student Aid Page 5 of 49
+Important Resources 
+Websites 
+For You 
+The Financial Aid Toolkit provides resources to help you help your students at 
+FinancialAidToolkit.ed.gov, including 
+• information about the basics of federal student aid, the application process, and loan repayment;
+• free training for you, including links for online and in-person training opportunities;
+• financial aid PowerPoint presentations and scripts;
+• searchable library of fact sheets, videos, infographics, and other resources; and
+• tips and resources to conduct outreach for students and parents.
+Other resources specifically for you: 
+• Federal Student Aid’s LinkedIn page: LinkedIn.com/company/FederalStudentAid
+• Federal Student Aid’s Outreach YouTube page: YouTube.com/@FSAOutreach
+For Your Students 
+• StudentAid.gov—planning for college or career/trade school, paying for school, and repaying
+federal student loans: StudentAid.gov
+• StudentAid.gov’s “Checklists for Academic and Financial Preparation” page—a student’s or
+parent’s first stop for information on academic and financial preparation:
+StudentAid.gov/resources/prepare-for-college/checklists
+• StudentAid.gov’s “Avoiding Student Aid Scams” page—information on where students and
+parents can get free help with financial aid and how they can avoid becoming a victim of fraud or
+identity theft: StudentAid.gov/scams
+• Fact sheets, videos, and infographics on various financial aid topics: StudentAid.gov/resources
+• StudentAid.gov blog articles—easy-to-understand information and guidance on different financial
+aid topics: StudentAid.gov/articles
+• Free Application for Federal Student Aid (FAFSA®) form: fafsa.gov
+• College Scorecard: collegescorecard.ed.gov
+• FAFSA help: StudentAid.gov/fafsahelp
+• StudentAid.gov account registration: StudentAid.gov/create-account
+• Federal Student Aid Estimator—early estimate of aid eligibility: StudentAid.gov/aid-estimator
+• Who’s My FAFSA Parent? wizard—identify which parent(s) will be a required contributor on the
+FAFSA form: StudentAid.gov/fafsaparent
+• Federal Student Aid’s X (formerly Twitter) feed: X.com/fafsa
+• Federal Student Aid’s YouTube page: YouTube.com/FederalStudentAid
+• Federal Student Aid’s Facebook page: Facebook.com/FederalStudentAid
+• Federal Student Aid’s Instagram page: Instagram.com/FederalStudentAid
+
+Federal Student Aid Page 6 of 49
+Contacts 
+For You and Your Students 
+Federal Student Aid Information Center (FSAIC) 
+• Chat: StudentAid.gov/contact
+• Toll-free number for questions about federal student aid: 1-800-433-3243 
+Federal Student Aid’s Feedback Center 
+• Submit a complaint about an issue, suspicious activity, or scam: StudentAid.gov/feedback-
+center
+Inspector General Hotline 
+• Reporting student aid fraud (including identity theft), waste, or abuse of U.S. Department of 
+Education funds: 1-800-MIS-USED (1-800-647-8733) 
+• Website: oighotline.ed.gov
+
+Federal Student Aid Page 7 of 49
+Introduction 
+The Counselors and Mentors Handbook on Federal Student Aid provides useful information to help high 
+school counselors, TRIO and GEAR UP staff, and other mentors advise students about financial aid for 
+postsecondary education. This book focuses on the federal student aid programs administered by the 
+U.S. Department of Education. 
+What’s new in this year’s handbook? 
+We updated the handbook for the 2025–26 award year in the following ways: 
+• We updated FAFSA deadline information, as well as the time frames for FAFSA processing and 
+receiving the FAFSA Submission Summary. 
+• We added step-by-step instructions for contributors without a Social Security number to create a 
+StudentAid.gov account. 
+• We discussed new resources, including the FAFSA prototype (for counselors and mentors) and 
+the Who’s My FAFSA Parent? wizard (for students and parents). 
+Help Us Improve the Handbook 
+We welcome any comments or suggestions on ways to make this handbook more useful in future 
+editions. Send your comments to ask.aidawareness@ed.gov. 
+Please note that we provide the ask.aidawareness email address for counselors and mentors to send us 
+feedback or questions about our products and services for them. If your students have questions about 
+federal student aid, give them the contact information for the Federal Student Aid Information Center on 
+page 6 of this book.
+
+Federal Student Aid Page 8 of 49
+Part 1: The Federal Student Aid Programs 
+Many students are unaware that they may be eligible for financial aid to attend college, career school, or 
+trade school. High school, TRIO, and GEAR UP counselors are an important source of information about 
+financial aid from private, school, state, and federal student aid programs. 
+For information about free resources you can use to help students learn about federal and other student 
+aid programs, see Appendix A. 
+What is student aid? 
+Student aid is money provided by the federal government or another entity, such as a school or a state 
+government, to help students pay for college, career school, or trade school. Each year, the U.S. 
+Department of Education’s office of Federal Student Aid delivers approximately $114.1 billion in grant, 
+work-study, and loan funds, representing a substantial federal commitment to provide financial assistance 
+for postsecondary students. 
+The Major Federal Student Aid Programs 
+In this section, we will present a brief introduction to the federal student aid programs. For more detailed 
+information, you and your students may visit StudentAid.gov/types. For fact sheets, infographics, and 
+videos about types of federal student aid, counselors and mentors may visit 
+FinancialAidToolkit.ed.gov/resources and select “Types of Aid” from the “Topic” dropdown box, then 
+select “Done Selecting” (or just select outside the drop-down box) and “Get Resources.” Your students 
+can browse resources about types of aid at StudentAid.gov/resources. 
+The U.S. Department of Education (ED) offers three major types of aid: grants, work-study funds, and 
+loans. Grants are gift aid, and generally do not have to be repaid, except under certain circumstances. 
+Federal Work-Study provides income from a part-time job. Loans must be repaid with interest. 
+A student who is eligible for federal student aid can use the aid at an eligible participating postsecondary 
+school (college or career/vocational/trade school). An eligible participating school is a school that ED has 
+determined is able to administer federal student aid funds for its students. The eligible participating school 
+that the student attends will disburse (pay out) the student’s financial aid, often applying the funds to the 
+student’s tuition and fees first, and then paying any leftover amount to the student to be used for other 
+expenses. 
+Information about eligibility for federal student aid in general, and for certain programs in particular, is on 
+pages 13–15 of this handbook. 
+Federal Student Grants: Federal Pell Grants, Federal Supplemental Educational Opportunity 
+Grants (FSEOG), and Teacher Education Assistance for College and Higher Education 
+(TEACH) Grants 
+The above-mentioned grants are awarded according to rules set by Congress in the Higher Education 
+Act. In all cases, grant payments may not exceed the student’s cost of attendance at the school, and 
+most grant payments are adjusted if the student is enrolled less than full time. In the case of the FSEOG 
+Program, funds are limited at each participating school (not all schools participate in the FSEOG 
+Program), and priority is given to students with exceptional financial need. 
+Note: A student whose parent or guardian died in the line of duty while serving on active duty as a 
+member of the U.S. armed forces on or after Sept. 11, 2001, or while actively serving as a public safety 
+officer may be eligible for a Federal Pell Grant under special eligibility rules. These rules are described in 
+more detail on page 14.
+
+Federal Student Aid Page 9 of 49
+Federal Work-Study 
+The Federal Work-Study Program allows a student to work a part-time job at or near the school. 
+Because funds may be limited at the student’s school, the earlier an eligible student applies for aid, the 
+more likely the student may receive aid from the Federal Work-Study Program. Note: Not all schools 
+participate in the Federal Work-Study Program. 
+DID YOU KNOW 
+Federal Work-Study income does not count in the assessment of the student’s financial need 
+when they submit a FAFSA® form. When filing an IRS income tax return, the student includes 
+income earned from Federal Work-Study on the tax return. However, the school will report the 
+total amount of Federal Work-Study funds that a student earned to the U.S. Department of 
+Education, and that amount will be excluded from their taxable earnings after the student’s 
+FAFSA® form is processed.
+Federal Student Loans: Direct Subsidized Loans, Direct Unsubsidized Loans, Direct PLUS 
+Loans, and Direct Consolidation Loans 
+The William D. Ford Federal Direct Loan (Direct Loan) Program enables eligible students and parents to 
+borrow from ED at a fixed interest rate. In addition, borrowers can choose from a range of repayment 
+plans. 
+There are four types of Direct Loans: 
+• Direct Subsidized Loans (for undergraduate students)
+• Direct Unsubsidized Loans (for undergraduate, graduate, and professional students)
+• Direct PLUS Loans (for graduate and professional students or for parents of dependent
+undergraduates)
+• Direct Consolidation Loans (for student or parent borrowers to combine federal student loan
+debts)
+Direct Subsidized Loans are available to undergraduate students who have financial need. The federal 
+government pays the borrower’s accrued interest while the student is in school and during certain other 
+periods, thereby “subsidizing” these loans. 
+Direct Unsubsidized Loans and Direct PLUS Loans are not need-based loans; the borrower is 
+responsible for accrued interest throughout the life of the loan. 
+Direct PLUS Loans require a separate application and a credit check. However, if the applicant has an 
+adverse credit history, they may still be able to receive a PLUS loan if they meet additional requirements. 
+Direct Consolidation Loans are available to existing borrowers with eligible federal student loans who 
+want to combine those loans into a single loan. 
+Note: Annual loan limits for Direct Subsidized Loans and Direct Unsubsidized Loans are discussed on 
+page 19 of this handbook. The maximum PLUS loan amount that a graduate or professional student, or a 
+parent of a dependent undergraduate student, can receive is the cost of attendance (determined by the 
+school) minus any other financial aid received.
+
+Federal Student Aid Page 10 of 49
+Responsible Borrowing 
+Even after signing a promissory note (a contract promising to repay a loan with interest), many students 
+are only vaguely aware of their responsibility to repay the loan funds. Defaulting on a student loan (failing 
+to repay the loan according to the terms of the promissory note) will affect a borrower’s credit rating and 
+could result in withholding of federal income tax refunds and denial of further federal student aid. 
+At StudentAid.gov/resources, we have provided a brief overview of a borrower’s responsibilities in the 
+Responsible Borrowing video. In addition to short videos, our “Resources” page also offers booklets and 
+brochures, fact sheets, web resources, and infographics to help students and families prepare and pay for 
+school. And for an in-depth look at student loans, repayment options, and the consequences of default, 
+we recommend StudentAid.gov/loans and StudentAid.gov/repay. 
+DID YOU KNOW
+There is a glossary of financial aid terms at StudentAid.gov/glossary.
+Other ED Programs 
+Vocational Rehabilitation Programs 
+ED’s Rehabilitation Services Administration (RSA) provides grants to state vocational rehabilitation 
+agencies to help individuals with disabilities train for employment, obtain employment, and live more 
+independently. RSA also provides grants to postsecondary schools for scholarships to students interested 
+in pursuing careers in rehabilitation. RSA’s website is rsa.ed.gov. 
+For more information about disability programs and services in communities nationwide, visit 
+dol.gov/agencies/odep/topics. 
+Other Federal Assistance for Postsecondary School 
+This section lists several federal programs that provide financial assistance for postsecondary education. 
+For links to a variety of government programs, visit StudentAid.gov/types. 
+Federal Income Tax Credits 
+Two federal income tax credits are available for higher education expenses: 
+• The American Opportunity Credit is a tax credit worth up to $2,500 per student for education 
+expenses during the first four years of postsecondary education. The student must be enrolled at 
+least half time in a program leading to a degree or other recognized education credential. 
+• The Lifetime Learning Credit is a tax credit worth up to $2,000 per tax return for virtually any 
+postsecondary education and training, including undergraduate years, graduate and professional 
+schools, and even less-than-half-time study. 
+The tax credits described above may not be claimed at the same time for the same student. 
+For details about these income tax credits and other education benefits, read Publication 970, Tax 
+Benefits for Education at irs.gov/pub/irs-pdf/p970.pdf.
+
+Federal Student Aid Page 11 of 49 
+National and Community Service 
+AmeriCorps, a program of national and community service, provides funding for education in exchange 
+for service. A participant can earn up to two education awards, each for an amount equivalent to the 
+maximum value of the Federal Pell Grant for the award year in which the term of AmeriCorps service was 
+funded. Individuals can use the funds either to pay current or future education expenses or to repay 
+federal student loans. Participants must be at least 18 and be U.S. citizens, nationals, or lawful 
+permanent residents. For more information, call 1-800-942-2677, visit americorps.gov, or ask a question 
+at questions.americorps.gov. 
+Health Professions 
+The U.S. Department of Health and Human Services (HHS) administers a number of financial aid 
+programs for health professionals and students interested in health profession careers. For more 
+information on education and training programs administered by HHS, visit 
+hhs.gov/programs/education-and-training. For information about aid from HHS’s Health Resources 
+and Services Administration, students may visit bhw.hrsa.gov/funding#loan. 
+Veterans Education Benefits 
+For information about U.S. Department of Veterans Affairs (VA) education programs, visit 
+benefits.va.gov/gibill or call 1-888-GI-BILL-1 (1-888-442-4551). Each of the major benefits programs is 
+described in detail on its own section of the VA’s site. See Appendix A of this handbook for a list of URLs 
+to visit for military education benefit information. 
+Other Assistance From the Military and for Military Families 
+Reserve Officers’ Training Corps (ROTC) Scholarships 
+ROTC scholarships are available through the Army, Air Force, and Navy. Military scholarship recipients 
+will have a service obligation in either the reserves or active duty after graduating from college. 
+Information for high school students about ROTC scholarships, federal grants, and student loan benefits 
+for those associated with the military can be found at StudentAid.gov/military. 
+Assistance in Return for Active Duty 
+Active-duty military service also offers numerous programs to help students earn or pay for a college 
+degree. For further information about these programs, students should contact a local U.S. armed forces 
+recruiter or visit militaryonesource.mil/education-employment. 
+Assistance for Military Families 
+Visit StudentAid.gov/military for general information about scholarships and other financial aid for 
+military families. 
+Nonfederal Sources: State, School, and Private 
+State Aid 
+Each state administers its own student aid programs, which might include scholarships, grants, loans, 
+fellowships for graduate school, or other types of aid. Students can contact their state education agency 
+for more information; telephone numbers and web addresses are listed at www.ed.gov/contact-
+us/state-contacts.
+
+Federal Student Aid Page 12 of 49
+Prepaid Tuition and College Savings Plans 
+There are education savings plans available that can assist families with saving for college or 
+career/trade school education costs, including 529 savings plans that are offered by many states: 
+1. The typical 529 prepaid tuition plan allows families to purchase future tuition by paying a 
+predetermined monthly amount into the program. The savings cover full tuition at a public state 
+school or a specified amount toward tuition at a private or out-of-state school. 
+2. A 529 college savings plan is essentially an investment account created to save for a specific 
+child’s college expenses. 
+For more information on 529 plans, as well as other ways to save for college, career school, or trade 
+school, visit the Financial Industry Regulatory Authority’s site at finra.org/investors/learn-to-
+invest/types-investments/saving-for-education. 
+Institutional Aid 
+Many postsecondary schools offer aid from their institutional funds. To be considered for institutional aid, 
+some schools require students to submit an application in addition to the Free Application for Federal 
+Student Aid (FAFSA®) form. Some schools require a FAFSA form before considering a student for merit 
+aid, so encourage your students to complete the FAFSA form early, as schools often have deadlines for 
+awarding institutional aid. The best sources of information on aid available at a school are the school’s 
+financial aid office and its website. 
+Private Aid 
+A student also may qualify for a private grant or scholarship for academic achievement, religious 
+affiliation, ethnic or racial heritage, community activities, athletic ability, or hobbies and special interests. 
+Our page about scholarships at StudentAid.gov/scholarships links to the U.S. Department of Labor’s 
+free scholarship search based on these and other criteria. 
+Private Aid Consultants 
+There are many privately operated scholarship search and financial aid advice services. These services 
+tend to be relatively expensive, so a student or parent should think carefully before committing to such a 
+service. Most financial aid comes from federal and state programs that students can easily find out about 
+through StudentAid.gov and other free websites. A large portion of the remaining nongovernment aid 
+comes in the form of institutional grants, so it’s important for a student to check with the college or 
+career/trade school to find out what it offers from its own funds. 
+Despite the numerous free sources of information about money for school, some students and parents 
+still prefer to hire a private advisor. A student considering using a for-fee service can find information 
+about it by contacting several sources. Most of these sources will be able to tell the student whether 
+complaints have been lodged against the service. However, keep in mind that a few complaints do not 
+necessarily mean a company is not reliable or legitimate. Rather, the student should use careful judgment 
+and weigh all available information about the number and nature of complaints before making a decision. 
+The student might obtain information from, or register a complaint with, the following entities: 
+• The Better Business Bureau provides business ratings, reports, and a complaint form at bbb.org. 
+• The U.S. Postal Inspection Service Fraud Complaint Unit offers a toll-free number, 
+1-877-876-2455. Alternatively, the student may access an online complaint form at uspis.gov. 
+• State attorneys general are listed at naag.org. 
+Note: Consultants (or other preparers) can’t charge fees to help students and families fill out the FAFSA form.
+
+Federal Student Aid Page 13 of 49
+Avoiding Scholarship Scams 
+Students and parents do not always receive the information they expect from a financial aid advice 
+service. You can help raise awareness of financial aid scams and the availability of free advice by 
+• mentioning the issue at financial aid information sessions and 
+• telling students and parents about the StudentAid.gov/scams page. 
+Although ED doesn’t evaluate private financial aid search and advice services, StudentAid.gov/scams 
+does provide some helpful guidelines for students considering using such a service. 
+Who can get federal student aid? 
+General Eligibility Requirements 
+To meet the general eligibility requirements for federal student aid, a student must 
+• demonstrate financial need for need-based programs (see “How is financial need determined?” 
+on pages 15–17); 
+• be a U.S. citizen or eligible noncitizen; 
+• have a valid Social Security number (SSN), unless the student is a citizen of the Freely 
+Associated States (the Republic of the Marshall Islands, the Federated States of Micronesia, or 
+the Republic of Palau); 
+• be enrolled or accepted for enrollment as a regular student in an eligible degree or certificate 
+program; 
+• maintain satisfactory academic progress if the student is already enrolled in college or 
+career/trade school; 
+• sign certifying statements on the FAFSA form, such as agreeing to use federal student aid funds 
+only for education expenses; and 
+• provide consent and approval to have their federal tax information transferred from the IRS into 
+the FAFSA form. 
+In addition, a student must also show that they are qualified to obtain a college or career/trade school 
+education by 
+• having a high school diploma or a state-recognized equivalent, such as a General Educational 
+Development (GED) or High School Equivalency Test (HiSET) certificate; 
+• having been homeschooled and either (1) have a secondary school completion credential for 
+homeschools as provided for under state law, or (2) if the state doesn’t require the credential 
+described above, have completed a secondary school education in a homeschool setting that 
+qualifies as an exemption from the compulsory attendance requirements under state law; or 
+• enrolling in an eligible career pathway program and meeting one of the “ability-to-benefit” 
+alternatives described at StudentAid.gov/understand-aid/eligibility/requirements. 
+Note: This is not a comprehensive list of eligibility requirements. The U.S. Department of Education 
+provides detailed information on this topic in Volume 1 (Student Eligibility) of the Federal Student Aid 
+Handbook in the “Knowledge Center” section of FSA Partner Connect at 
+fsapartners.ed.gov/knowledge-center/fsa-handbook.
+
+Federal Student Aid Page 14 of 49
+IMPORTANT NOTE 
+Deferred Action for Childhood Arrivals (DACA) students with Social Security numbers can 
+complete the Free Application for Federal Student Aid (FAFSA®) form. Once their form is 
+processed, their Student Aid Index won’t be calculated because they aren’t eligible for federal 
+student aid due to their citizenship status. However, DACA students may be eligible for state or 
+school financial aid, in addition to private scholarships. 
+Eligibility Requirements for Specific Programs 
+Federal student aid programs have their own eligibility criteria in addition to the general requirements 
+listed on page 13. 
+Federal Pell Grants, FSEOG, TEACH Grants, and Federal Work-Study 
+In addition to the students who qualify for these programs through the general eligibility and financial 
+need requirements, certain other students may qualify as well. 
+Students With Intellectual Disabilities 
+Students with intellectual disabilities may receive funding under these programs if they 
+• are enrolled or accepted for enrollment in an eligible comprehensive transition and postsecondary 
+program for students with intellectual disabilities at an institution of higher education that 
+participates in the federal student aid programs; 
+• are maintaining satisfactory academic progress for their program; and 
+• meet the general federal student aid eligibility requirements, except that the student is not 
+required to have a high school diploma or equivalent certificate and is not required to be pursuing 
+a degree or certificate. 
+You can find a list of schools with eligible comprehensive transition and postsecondary programs at 
+StudentAid.gov/understand-aid/eligibility/requirements/intellectual-disabilities. 
+Maximum Federal Pell Grant Eligibility for Dependents of Certain Deceased Servicemembers and 
+Public Safety Officers 
+Students who meet the eligibility requirements for Federal Pell Grants under the Special Rule in HEA 
+Section 401(c) will receive a maximum Pell Grant award, regardless of their calculated Student Aid Index 
+(SAI). To receive a Pell Grant based on eligibility under the Special Rule, a student must be 
+• the child of a parent or guardian who died in the line of duty while either (a) serving on active duty 
+as a member of the U.S. armed forces on or after Sept. 11, 2001; or (b) actively serving as and 
+performing the duties of a public safety officer; and 
+• less than 33 years old as of the Jan. 1 prior to the award year for which the student is applying 
+(e.g., for the 2025–26 award year, a student must be less than 33 years old as of Jan. 1, 2025, to 
+be eligible). 
+Note: The maximum Federal Pell Grant award under the Special Rule (described above) replaces the 
+Iraq and Afghanistan Service Grant and the Children of Fallen Heroes Scholarship starting in the 2024–
+25 award year. For more information about Pell Grant eligibility under these special criteria, visit 
+StudentAid.gov/understand-aid/types/grants/pell/unique-circumstances.
+
+Federal Student Aid Page 15 of 49
+Students Who Are Confined or Incarcerated 
+Confined or incarcerated students are eligible for Federal Pell Grants if they are enrolled in an eligible 
+Prison Education Program. For information and resources, refer to the “Prison Education Programs” 
+topics page in the “Knowledge Center” section of FSA Partner Connect at 
+fsapartners.ed.gov/knowledge-center/topics/prison-education-programs. 
+TEACH Grants 
+To receive a TEACH Grant, a student must meet the following criteria: 
+• Be enrolled as an undergraduate, postbaccalaureate, or graduate student in a postsecondary 
+educational institution that participates in the TEACH Grant Program. 
+• Be enrolled in a TEACH-Grant-eligible program (course work that is designed to prepare the 
+student to teach in a high-need field). 
+• Meet certain academic achievement requirements (generally, scoring above the 75th percentile 
+on one or more portions of a college admissions test or maintaining a cumulative GPA of at least 
+3.25). 
+• Receive TEACH Grant counseling that explains the terms and conditions of the TEACH Grant 
+service obligation. The student must complete counseling each year they receive a TEACH 
+Grant. 
+Each year a student receives a TEACH Grant, they must sign a TEACH Grant Agreement To Serve or 
+Repay indicating that they will 
+• serve as a full-time teacher in a high-need field in a public or private elementary or secondary 
+school or educational service agency that serves low-income students; 
+• teach for at least four academic years within eight years of ceasing enrollment at the institution 
+where they received the TEACH Grant; 
+• meet all state certification requirements for teaching in the state where you teach; and 
+• repay the grant as a Direct Unsubsidized Loan, with interest charged from the date of each 
+TEACH Grant disbursement, if they fail to meet the requirements in the Agreement To Serve or 
+Repay. 
+For more information about high-need fields and schools or educational service agencies serving low-
+income students, students may visit StudentAid.gov/teach or speak to a financial aid administrator. 
+Note: It is crucial that students understand that if they don’t fulfill the teaching service agreement, all 
+TEACH Grants they received will be converted to Direct Unsubsidized Loans that must be repaid 
+according to the terms of Direct Unsubsidized Loans. 
+Direct Loans 
+To receive Direct Loan funds, a student must be enrolled at least half time. 
+How is financial need determined? 
+Eligibility for most federal student aid programs is based on financial need. A student must complete and 
+submit a FAFSA form to have their financial need determined. At its simplest level, a student’s financial 
+need is the difference between the student’s cost of attendance at the school and their SAI. The SAI is an 
+index number that is calculated based on the information reported on the FAFSA form, which the school 
+uses to determine how much aid the student can receive. A student’s SAI can be a negative number 
+down to –1500.
+
+Federal Student Aid Page 16 of 49
+Need Analysis 
+The process of analyzing a student’s financial need, known as need analysis, focuses on assessing the 
+financial strength of the family by collecting information about the family’s income, assets, and family size. 
+For the federal student aid programs, the law specifies a need analysis formula that produces the SAI. 
+The SAI and the school’s cost of attendance (see below) are used by the postsecondary school to 
+establish the student’s need as well as to award federal student aid. (The school may ask the student to 
+complete other paperwork to determine the student’s need for nonfederal aid.) 
+Cost of Attendance (COA) 
+For federal student aid programs, the financial aid administrator must use the definition of “cost of 
+attendance” given in the law to determine what education-related expenses may be considered. The law 
+specifies that the COA includes tuition and fees, an allowance for living expenses (such as food and 
+housing), books and supplies (including a reasonable allowance for renting or purchasing a personal 
+computer), miscellaneous personal expenses, and transportation costs. The law also provides allowances 
+for loan fees, dependent-care costs, the cost of obtaining a first professional credential, and expenses for 
+students with disabilities. 
+Note: Many high school students (and their parents) don’t immediately understand that the definition of 
+“cost of attendance” includes more than just tuition. You can point them to the definition at 
+StudentAid.gov/how-calculated. 
+The financial aid administrator at a school usually develops different COAs for different categories of 
+students. For instance, some programs of study might have lab fees or higher charges for books and 
+supplies than other programs; and students living off campus might have higher or lower allowable costs 
+for food and housing and transportation expenses than students living on campus. Each school must 
+make COA information publicly available on its website next to any section that mentions tuition and fees. 
+Calculating the SAI 
+For the SAI calculation, a student must complete and submit the FAFSA form. The fastest and easiest 
+way to do so is to apply online at fafsa.gov. Unlike college admissions applications, the FAFSA form is 
+sent to the ED processing center, rather than directly to a college, career school, or trade school. The 
+student’s information is entered into ED’s computer system, which then calculates the student’s official 
+SAI using such information as income, family size, the value of certain assets, and more. 
+Certain FAFSA questions determine whether a student is eligible for an automatic assignment of an SAI 
+of –1500. For example, a dependent student whose parents aren’t required to file a 2023 U.S. income tax 
+return will be assigned an SAI of –1500. If an independent student (and their spouse, if applicable) isn’t 
+required to file a 2023 U.S. income tax return, the student will also be assigned an SAI of –1500. 
+For a detailed breakdown of the SAI formula, go to FinancialAidToolkit.ed.gov/fafsa-updates and 
+select the 2025–26 Student Aid Index (SAI) and Pell Grant Eligibility Guide in the “2025–26 FAFSA® 
+Materials and Websites” section. 
+Once the school knows the student’s SAI, the next step is to subtract it, and any other financial 
+assistance the student has received, from the student’s COA at that school. The result is the student’s 
+financial need. 
+The formula is: Cost of Attendance – Student Aid Index – Other Financial Assistance = Financial 
+Need. 
+Note: If a student has a negative SAI, then their SAI is treated as a zero in the formula above. 
+The overall application process for financial aid is described in Part 2 of this handbook, while completing 
+specific questions on the FAFSA form is discussed in Part 3.
+
+Federal Student Aid Page 17 of 49
+Calculating Federal Pell Grant Eligibility 
+Federal Pell Grant eligibility has a calculation that is separate from the SAI calculation. For some 
+applicants, the Pell Grant eligibility criteria will only include tax information and federal poverty guidelines. 
+For other applicants, the formula may also use the separately calculated SAI. The calculated Pell Grant 
+eligibility is always based on the assumption that the student will attend full time. Students attending less 
+than full time will receive a prorated Pell Grant amount. 
+Pell Grant eligibility determination occurs in one of three ways: 
+1. Applicants will be considered for a maximum Pell Grant award if they (and any required 
+contributors) were not required to file a tax return, or if the adjusted gross income (AGI) 
+reported on their tax return(s) meets certain income thresholds compared to federal poverty 
+guidelines. 
+2. Applicants whose AGI (or whose required contributor’s AGI) exceeds certain income 
+thresholds compared to federal poverty guidelines may still be eligible for a Pell Grant award 
+that is less than the maximum based on their calculated SAI. 
+3. Applicants who are not eligible for a maximum Pell Grant award, and who were also not eligible 
+for a Pell Grant award based on the calculation that uses the applicant’s SAI, may still be 
+eligible for what is called a “minimum Pell Grant award” which, like the maximum Pell Grant 
+calculation, is based on the applicant’s (and any required contributor’s) AGI and whether that 
+AGI meets certain income thresholds compared to the federal poverty guidelines. 
+Note: A student who is attending two postsecondary schools during the same enrollment period must 
+notify the financial aid administrators at both schools. The student may not receive Pell Grants at both 
+schools during the same enrollment period.
+
+Federal Student Aid Page 18 of 49
+The Financial Aid Package 
+Using all available federal and nonfederal aid, the financial aid administrator constructs a financial aid 
+package that comes as close as possible to meeting the student’s demonstrated financial need; however, 
+because funds for certain programs are limited, the amount offered can be less than the amount of the 
+calculated need. For example, consider a full-time student with an SAI of 1000 who enrolled in a program 
+with a cost of attendance of $10,000 for the 2024–25 award year: 
+Sample Aid Package Determination Calculations
+The student’s total cost to attend this institution is $10,000. 
+The student’s SAI is 1000. 
+To determine financial need, subtract the SAI from the cost of 
+attendance. 
+$10,000 cost of attendance 
+– SAI of 1000 
+= $9,000 financial need 
+The student is eligible for $6,395 in a Federal Pell Grant and 
+$1,000 in institutional grant aid. 
+Since these are need-based awards, subtract the total ($7,395) 
+from the student’s financial need ($9,000) to determine 
+remaining need. 
+$9,000 of financial need 
+– $7,395 of grant aid 
+= $1,605 remaining need 
+The financial aid administrator awards $1,605 (the remaining 
+need) in a Direct Subsidized Loan. 
+The student’s full financial need is now met with gift aid and 
+need-based loans. 
+$7,395 in grant aid 
++ $1,605 in Direct Subsidized Loan 
+= $9,000 in need-based aid 
+Finally, the student has a $1,000 gap between need-based aid 
+and total cost of attendance. 
+The financial aid administrator awards $1,000 in a Direct 
+Unsubsidized Loan. 
+The student now has sufficient financial aid to cover the full cost 
+of attendance. 
+$9,000 in need-based aid 
++ $1,000 in Direct Unsubsidized Loan 
+= $10,000 total financial aid 
+Note: The example above is based on the maximum Federal Pell Grant award amount of $7,395 for the 2024–25 
+award year. When the maximum Pell Grant award amount for 2025–26 is announced, it will be available at 
+StudentAid.gov/pell-grant. 
+The financial aid package often is presented to the student in an aid offer, whether by postal mail or in an 
+electronic format. The package might include a combination of federal, state, and institutional aid. To 
+ensure the aid package is as complete and accurate as possible, the student should inform the financial 
+aid office of any private scholarships that they have been awarded. 
+The student may accept or decline any of the financial aid offered. Students often have questions about 
+the aid offer; these questions are best handled by the financial aid office at the postsecondary school. 
+While ED doesn’t regulate how a postsecondary school packages aid, we do require that the institution 
+inform all students about all federal, state, local, private, and institutional student financial assistance 
+available at that school. In addition, ED requires that participating institutions describe the procedures and 
+forms for application, the student eligibility requirements, the selection criteria, and the criteria for 
+determining the amount of an aid offer.
+
+Federal Student Aid Page 19 of 49
+Some schools use the College Financing Plan, a sort of “cover letter” for the aid offer from the school. 
+The College Financing Plan presents the aid offer in a way that clearly distinguishes grant and 
+scholarship money from money that must be repaid. It also clearly shows the net price, or net cost, that 
+the student will be required to pay. Learn more about the College Financing Plan at www.ed.gov/higher-
+education/paying-college/college-financing-plan and find other tools to help students compare 
+schools at collegecost.ed.gov. 
+How much Federal Pell Grant funding can a student get? 
+The maximum Federal Pell Grant award amount changes yearly. For the 2024–25 award year, the 
+maximum Federal Pell Grant award is $7,395. As of this handbook’s publication, the maximum Federal 
+Pell Grant award amount for 2025–26 has not yet been announced. To check for updates, consult 
+StudentAid.gov/pell-grant. 
+How much TEACH Grant funding can a student get? 
+The TEACH Grant Program provides grants of up to $4,000 a year. The maximum award amount is 
+reduced if the student attends less than full time. 
+DID YOU KNOW 
+The TEACH Grant Program is affected by the automatic federal budget cuts known as the 
+“sequester.” Find the latest information about how grant amounts are affected by sequestration 
+at
+ StudentAid.gov/teach.
+How much FSEOG and Federal Work-Study money can a student get? 
+When awarding the programs listed above, the financial aid administrator must consider other aid 
+available to the student in addition to the student’s SAI. For FSEOG, a student can receive up to $4,000 a 
+year. For Federal Work-Study, a student’s total work-study award depends on when the student applies 
+for aid, their level of financial need, and their school’s funding level. 
+How much can a student get in Direct Subsidized Loans and Direct Unsubsidized Loans? 
+The table at StudentAid.gov/sub-unsub lists annual loan limits (the maximum loan amount that a 
+student may receive for an academic year). For example, the annual loan limits for first-year 
+undergraduates are as follows: 
+• A first-year dependent undergraduate student may receive a combined maximum of $5,500 in 
+Direct Subsidized Loans and/or Direct Unsubsidized Loans, not more than $3,500 of which can 
+be subsidized. 
+• A first-year independent undergraduate student (or a first-year dependent undergraduate whose 
+parent is unable to obtain a Direct PLUS Loan) may receive a combined maximum of $9,500 in 
+Direct Subsidized Loans and/or Direct Unsubsidized Loans, not more than $3,500 of which can 
+be subsidized. 
+Note: The maximum annual loan limits increase as students progress through school.
+
+Federal Student Aid Page 20 of 49
+DID YOU KNOW 
+There’s a maximum combined amount that a student can receive in Direct Subsidized Loan 
+and/or Direct Unsubsidized Loan funds. The amount that the student is eligible to receive in 
+one loan type will limit eligibility for the other loan type, but the student’s total eligibility for 
+Direct Subsidized Loans and Direct Unsubsidized Loans is set by law and is based on the 
+student’s dependency status and grade level. 
+ 
+Because Direct Unsubsidized Loans are not need based, the financial aid administrator applies the 
+following principles to determine a student’s eligibility: 
+• The amount of the loan may not exceed the difference between the student’s cost of attendance 
+and all other aid the student is receiving. 
+• The school must consider the student’s eligibility for other aid before determining a loan amount. 
+For instance, if a full-time, dependent undergraduate student in their first year of study in 2024–25 
+had a cost of attendance of $12,500 and was eligible for a maximum Federal Pell Grant of $7,395 
+and a Direct Subsidized Loan of $3,500, the aid administrator could approve the student for a 
+Direct Unsubsidized Loan of up to $1,605 ($12,500 – $7,395 – $3,500 = $1,605). 
+Note: As of this handbook’s publication, the maximum Federal Pell Grant award amount for 
+2025–26 has not yet been announced. The example above uses the maximum Pell Grant award 
+amount for the 2024–25 award year. 
+For more information on federal student loans, see the Do You Need Money for College or Career/Trade 
+School? publication at StudentAid.gov/resources.
+
+Federal Student Aid Page 21 of 49
+Part 2: Application Process for Federal Student Aid 
+Federal law requires the U.S. Department of Education (ED) to allow students to apply for federal student 
+aid without paying a fee. To be considered for federal student aid programs, a student must complete and 
+submit the Free Application for Federal Student Aid (FAFSA®) form. This application (available in English 
+and Spanish) collects financial and other information used to calculate the Student Aid Index (SAI), which 
+postsecondary schools use to determine the student’s eligibility for aid. (See page 16 for a discussion of 
+the SAI.) 
+States and many schools may also use FAFSA information in offering funds from their own financial aid 
+programs. To be considered for state or institutional aid, a student may be required to complete additional 
+questions on a separate nonfederal form, and a fee might be charged for processing that additional 
+information. Students should check with the schools to which they plan to apply and with their state 
+agencies to find out whether additional forms are required. 
+No data from the student’s 2024–25 FAFSA form will be prepopulated in the 2025–26 form. Students and 
+their contributors will need to answer all required questions on the 2025–26 FAFSA form. 
+DID YOU KNOW 
+To access a selection of informational resources that you can use as you advise students and 
+parents about the FAFSA® process, visit FinancialAidToolkit.ed.gov/resources. 
+Remember: The Financial Aid Toolkit site is for your use; StudentAid.gov is the site for 
+students and parents.
+Early Eligibility Indicator: Federal Student Aid Estimator 
+What is the purpose of the Federal Student Aid Estimator? 
+The Federal Student Aid Estimator is a free online tool that provides students with early estimates of their 
+eligibility for federal student aid. The tool instantly calculates an estimated award amount for the Federal 
+Pell Grant. Having such information helps families plan ahead for college, career school, or trade school. 
+Who should use the Federal Student Aid Estimator? 
+The Federal Student Aid Estimator is for anyone who is not yet ready to file a FAFSA form. 
+How does a student use the Federal Student Aid Estimator? 
+A student can access the Federal Student Aid Estimator at StudentAid.gov/aid-estimator. The student 
+doesn’t need a StudentAid.gov account to use the Federal Student Aid Estimator. 
+In the Federal Student Aid Estimator, the student answers financial and other questions that are used to 
+determine federal student aid eligibility. Remember that although the Federal Student Aid Estimator has a 
+“Submit” button, the tool is just a calculator, not an application for aid. 
+Note: It’s important that the student understands that the SAI and federal student aid amounts provided 
+by the Federal Student Aid Estimator are estimates and that the student will not receive any aid without 
+submitting a FAFSA form and meeting the eligibility criteria. The Federal Student Aid Estimator doesn’t 
+save or submit the information that the student enters.
+
+Federal Student Aid Page 22 of 49
+Before Applying 
+Helping Students Learn About the FAFSA® Process 
+FAFSA® Prototype 
+The FAFSA prototype is available to help you gain a deeper understanding of the FAFSA user 
+experience. The prototype is not a complete replica of the 2025–26 FAFSA form that will be available on 
+fafsa.gov. Instead, it’s a web-based design tool that allows you to navigate specific scenarios that many 
+students and parents will encounter on the live website. To access the 2025–26 FAFSA prototype, follow 
+the steps below: 
+1. Visit fsapartners.ed.gov/fafsa-prototype/2526 
+2. Enter the access code: prototype2526 
+Note: The FAFSA prototype has limited functionality and may not represent the final FAFSA experience. 
+Certain functionality, such as the SAI calculation, field and page edits, and validation of data, is 
+unavailable. 
+FAFSA® Screenshots 
+If you’re preparing a presentation about financial aid and want to show students what the FAFSA form 
+looks like, you can download the 2025–26 FAFSA Preview Presentation at 
+FinancialAidToolkit.ed.gov/fafsa-updates (available early November 2024). This PowerPoint 
+presentation provides information and screenshots of the online FAFSA form. It can be used to create 
+and/or modify presentations for trainings and high school FAFSA completion nights. 
+Resources To Plan Financial Aid Events 
+Also, on the Toolkit, there are presentations (many with speaker notes) about federal student aid, along 
+with information about planning a financial aid workshop at your school. You’ll find presentations at 
+FinancialAidToolkit.ed.gov/resources and event planning tips at FinancialAidToolkit.ed.gov/host-
+event. 
+Creating a StudentAid.gov Account 
+Who needs a StudentAid.gov account? 
+A student should create a StudentAid.gov account before the student applies for aid using the online 
+FAFSA form. Similarly, all other required contributors should each create their own StudentAid.gov 
+account. 
+A contributor refers to anyone who is required to provide their information and signature on the FAFSA 
+form. This includes the student and may also include the student’s spouse, a biological or adoptive 
+parent, or the parent’s spouse (stepparent). A contributor must also provide consent and approval to have 
+their federal tax information transferred directly into the FAFSA form via the FUTURE Act Direct Data 
+Exchange with the IRS. 
+Note: If a contributor doesn’t provide consent and approval, the student will not be eligible for federal 
+student aid.
+
+Federal Student Aid Page 23 of 49
+How are contributors identified? 
+A student’s or parent’s answers on the FAFSA form will determine which additional contributors (if any) 
+will be required to provide information. 
+If a student or parent would like to identify FAFSA contributors before they begin filling out the form, they 
+can use the Who’s My FAFSA Parent? wizard, a new interactive tool at StudentAid.gov/fafsaparent. 
+This tool asks a series of questions to gather information and then provides clear direction on which 
+parent(s) will need to participate on a student’s FAFSA form. 
+Note: This tool does not determine dependency status. (Dependent students are required to provide 
+information about their parent or parents when filling out a FAFSA form.) For information about what 
+determines dependency status, visit StudentAid.gov/dependency. 
+How are contributors invited to participate on the FAFSA® form? 
+To invite a contributor to complete their section of the FAFSA form, a student or parent will enter the 
+contributor’s name, date of birth, Social Security number (if they have one), and email address. If the 
+contributor doesn’t have a Social Security number (SSN), a student or parent will be asked to provide the 
+contributor’s mailing address too. 
+A contributor will receive an email informing them that they’ve been identified as a contributor. They will 
+then need to create a StudentAid.gov account if they don’t already have one, so that they can fill out and 
+sign their required sections of the FAFSA form. 
+Although the contributor is required to provide their information and signature on the FAFSA form, and 
+provide consent and approval to have their federal tax information transferred from the IRS into the 
+FAFSA form, they don’t have a financial responsibility to pay for the student’s education costs. 
+DID YOU KNOW 
+A parent (or other nonstudent contributor) without a Social Security number can create a 
+StudentAid.gov account to fill out and sign their required section of the FAFSA® form online. A 
+student without a Social Security number can create a StudentAid.gov account if they are a 
+citizen of a freely associated state. 
+When should a contributor create their StudentAid.gov account? 
+Each contributor must create their own StudentAid.gov account before they can access the FAFSA form 
+online. This is important for three reasons: 
+1. The contributor must have their own StudentAid.gov account to fill out and sign the FAFSA form 
+online. 
+2. Creating a StudentAid.gov account in advance gives the contributor time in case they 
+encounter issues that need to be resolved before their account can be used. When the 
+contributor creates a StudentAid.gov account, they provide their name, date of birth, and SSN 
+(if they have one). 
+If a contributor has an SSN, their information is then sent to the Social Security Administration 
+(SSA) for confirmation. The confirmation process takes about one to three days. If the 
+information doesn’t match SSA’s records, the discrepancies will have to be resolved, possibly 
+delaying the financial aid application and awarding process. Therefore, if a contributor thinks 
+SSA might have the wrong name or date of birth for them in its records, they should go—well 
+ahead of applying for aid—to ssa.gov to find out how to correct any errors. The information 
+must be correct before their StudentAid.gov account can be used for most of its purposes.
+
+Federal Student Aid Page 24 of 49
+3. Although a contributor can use their StudentAid.gov account directly after creating it, the 
+account may have limited functionality until the contributor’s identity has been verified with SSA. 
+For example, all contributors are required to provide consent and approval to allow ED to obtain 
+their federal tax information from the IRS to help complete the FAFSA form. A contributor who 
+creates their StudentAid.gov account in advance will have their federal tax information 
+transferred directly into the FAFSA form. However, a contributor who fills out their section of the 
+FAFSA form immediately after creating their StudentAid.gov account (before their identity is 
+validated by SSA) will need to manually enter their tax information into the form, even after 
+providing consent and approval to have their federal tax information transferred into the form. 
+What can a student use their StudentAid.gov account for? 
+A student can use their StudentAid.gov account for the following purposes (among others): 
+• Complete all required sections of the FAFSA form online, provide consent and approval to have 
+federal tax information transferred directly into the form, and sign the FAFSA form electronically. 
+• Provide an electronic signature on certain federal student loan contracts. 
+• Access their information on StudentAid.gov, view FAFSA processing results, access the FAFSA 
+Submission Summary, or make FAFSA corrections. 
+• Access online information about federal student aid that the student has received. 
+What can a parent use their StudentAid.gov account for? 
+There are two common reasons a parent would use their StudentAid.gov account: 
+1. to complete all required sections of the FAFSA form online, provide consent and approval to 
+have federal tax information transferred directly into the form, and sign the FAFSA form 
+electronically 
+2. to electronically sign the Master Promissory Note for a Direct PLUS Loan (see page 9 for 
+information about PLUS loans) 
+A parent will use their own StudentAid.gov account to electronically sign all FAFSA forms where they 
+have been identified as a contributor (e.g., if they have multiple children applying for federal student aid), 
+including their own FAFSA form, if applicable. 
+Note: All required contributors, including the student’s spouse, a biological or adoptive parent, or the 
+parent’s spouse (stepparent), must each have their own StudentAid.gov account to participate on the 
+student’s FAFSA form online. 
+DID YOU KNOW 
+In many cases, when someone contacts the Federal Student Aid Information Center to report a 
+problem with their StudentAid.gov account, those problems arose because someone else 
+created the account. For example, if someone creates an account for a student, the student is 
+much less likely to know their username, password, and/or answers to the challenge questions 
+that help them retrieve log-in information if they forget it. We recommend all contributors create 
+their own StudentAid.gov account and keep their username and password private.
+
+Federal Student Aid Page 25 of 49
+How does a contributor create a StudentAid.gov account? 
+As mentioned above, all contributors (including the student) must create a StudentAid.gov account before 
+they can access the FAFSA form online. Contributors with an SSN should follow the instructions below to 
+create their StudentAid.gov account. (See page 26 for instructions on creating a StudentAid.gov account 
+for contributors who don’t have an SSN.) 
+To create a StudentAid.gov account, the contributor will need to complete the following main steps: 
+1. Visit the “Create Account” page at StudentAid.gov/create-account.
+2. Provide their name and date of birth.
+3. Enter their SSN.
+4. Provide their unique username.
+5. Enter their email address. (Note: This email address can’t be associated with any other 
+StudentAid.gov account.)
+6. Provide their unique password.
+7. Enter their mailing address.
+8. Enter their mobile phone number. (Note: This phone number can’t be associated with any other 
+StudentAid.gov account.) Select the checkbox if the contributor would like to register their mobile 
+phone to receive one-time secure codes for two-step verification or if they forget their username 
+or password. (The contributor will be required to either provide their email address or mobile 
+phone number and opt-in to messaging before they can proceed.)
+9. Provide their communication preferences.
+10. Select their language preference.
+11. Complete the challenge questions and answers for security purposes.
+12. Confirm and verify their information.
+13. Verify their email address and/or mobile phone number to enable two-step verification.
+14. Store their backup code. This code allows them to access their account in the event they can’t 
+use any other two-step verification method.
+For contributors with an SSN, their name, date of birth, and SSN will be verified with SSA within one to 
+three days. If SSA confirms their information, the StudentAid.gov account is then valid for all its uses. If 
+there is a problem with SSA’s match, the contributor will be notified via email if they provided a valid email 
+address when creating the account. 
+DID YOU KNOW 
+Please stress to students and parents that they should enter their information carefully when 
+creating a StudentAid.gov account. If an individual makes a typo when entering (for instance) 
+their Social Security number or email address, the activation of their StudentAid.gov account 
+could be delayed.
+
+Federal Student Aid Page 26 of 49
+How does a contributor without an SSN create a StudentAid.gov account? 
+A parent, spouse, or parent’s spouse who doesn’t have an SSN can create a StudentAid.gov account to 
+fill out and sign their required sections of the FAFSA form online. 
+A student without an SSN will also be able to create a StudentAid.gov account if they are a citizen of the 
+Freely Associated States (the Republic of the Marshall Islands, the Federated States of Micronesia, or the 
+Republic of Palau). These students don’t receive an Alien Registration number, but instead will be 
+assigned a pseudo-SSN. 
+Students and other contributors without an SSN can follow these steps to create a StudentAid.gov 
+account: 
+1. Visit the “Create Account” page at StudentAid.gov/create-account. 
+2. Provide their personal information, including their name and date of birth. 
+3. Under the text box that asks the contributor to enter their SSN, select “What if I don’t have a 
+Social Security number?” and then check the “I do not have a Social Security number” box 
+and select “Continue.” 
+4. After confirming that they don’t have an SSN, they’ll be directed to enter a username, their 
+email address, and a password. (Note: This email address can’t be associated with any other 
+StudentAid.gov account.) 
+5. Enter contact information and complete a series of steps that include providing their mailing 
+address, selecting their communication preferences, creating challenge questions and 
+answers, and verifying the account information that they provided. 
+6. Answer knowledge-based verification questions to verify their identity. The contributor will see 
+three or four questions and must answer all questions to proceed. Note: Sometimes 
+questions can’t be generated. If no questions can be generated, then they can continue to the 
+next step. 
+7. The contributor checks the box to provide their digital attestation and confirm the information 
+they’re providing about their identity is correct. 
+8. After the contributor submits the answers (if required), they’ll see a confirmation page with the 
+results of their identity verification. Note: Now that the contributor has created their 
+StudentAid.gov account, they will immediately be able to access and complete the FAFSA 
+form by logging in to their StudentAid.gov account with their username and password. 
+9. If the contributor’s identity can’t be validated, they’ll be emailed instructions to provide 
+additional proof of identity. The emailed instructions will describe how to submit copies of 
+acceptable documentation to verify their identity. Note: The contributor will continue to have 
+access to the FAFSA form while they’re completing the mandatory identity verification 
+process. 
+10. If the contributor’s identity is verified successfully, they’ll receive an email that confirms their 
+StudentAid.gov account has been verified.
+
+Federal Student Aid Page 27 of 49
+What if the contributor forgets their account credentials or has difficulties logging in? 
+Instructions for several scenarios are described at StudentAid.gov/help-center/answers/article/help-
+accessing-account-fsa-id. Here are a couple of solutions in brief: 
+• If the contributor is trying to log in to their StudentAid.gov account and has forgotten their 
+credentials, they will find links that offer the option of retrieving the username or resetting the 
+password through their verified email address, mobile phone number, or authenticator app, or by 
+successfully answering their challenge questions. 
+Note: The contributor can log in using a verified mobile phone number or email address instead of 
+the username. 
+• If the contributor gets a message saying their StudentAid.gov account is locked, they can either 
+have a secure code sent via email, text message, or authenticator app, or they can answer the 
+challenge questions to unlock the account. 
+What about StudentAid.gov account security? 
+Two-step verification helps protect the contributor’s account. Each time the contributor logs in, they’ll be 
+asked to provide a one-time code that is delivered via email, text message, or an authenticator app. In 
+addition, the contributor will receive notifications from Federal Student Aid any time a change is made to 
+their account. 
+The contributor should keep their account username and password in a safe place and never share it with 
+anyone, even if that person is helping the contributor fill out the FAFSA form. Revealing their account 
+credentials could make them susceptible to identity theft. 
+Note: Students and other contributors can learn to avoid identity theft at StudentAid.gov/scams. 
+Gathering Documents for the FAFSA® Form 
+To complete the FAFSA form, students and other contributors may need their tax return; records of child 
+support received; current balances of cash, savings, and checking accounts; and the net worth of 
+investments, businesses, and farms (for-profit agricultural operations). 
+You can find a list of items needed to complete the FAFSA form at StudentAid.gov/fillingout. 
+When To Apply 
+Generally, the FAFSA processing cycle lasts 21 months. For the 2025–26 award year (July 1, 2025, 
+through June 30, 2026), the application may be completed on or after its release on or before Dec. 1, 
+2024. FAFSA forms for that award year will be accepted until June 30, 2026. 
+Note that some states may have application deadlines within the first three months of 2025 for students 
+who want to be considered for state aid. Students who live in these states should submit their FAFSA 
+form as soon as possible on or after its release date. Students can check state deadlines at fafsa.gov. 
+Additionally, some schools have limited institutional funds. Students should fill out the FAFSA form as 
+early as possible to maximize chances of being awarded state and school aid.
+
+Federal Student Aid Page 28 of 49
+How To Apply 
+Electronic Application Method—fafsa.gov 
+The online FAFSA form—available in both English and Spanish—offers detailed help for each question. If 
+students have questions when filling out the online form, they can select an info icon or a question mark 
+icon for explanations and more details. They can also ask our virtual assistant, Aidan®, for help along the 
+way. 
+Students can find information about filling out the FAFSA form at StudentAid.gov/fillingout. 
+Note: There are websites where students can pay a fee to get help filing the FAFSA form. These sites are 
+not affiliated with or endorsed by ED, and consultants (or other preparers) can’t charge fees to help 
+students and families fill out the form. We urge you to advise your students not to pay these sites for 
+assistance that is provided for free at ED’s website. 
+Here’s how a student gets started on the 2025–26 FAFSA form: 
+• A new applicant begins by selecting “Start New Form” on fafsa.gov. 
+• If they are not logged in to StudentAid.gov, the student will be taken to the “Log In” page to enter 
+their StudentAid.gov account credentials. 
+• After logging in, the student will be instructed to select their applicable role to fill out the FAFSA 
+form: “Student” or “Parent.” The student should select “Student.” (We strongly recommend that 
+the student starts the form and completes their section first to save time and prevent errors.) 
+Filling Out the FAFSA® Form 
+The online FAFSA form contains informational text to assist the student in completing the form, and built-
+in edits help students detect and correct errors before submitting the application to the FAFSA Processing 
+System (FPS). 
+Note that certain applicants will be exempt from asset reporting based on income and tax filing status. 
+Required Consent and Approval for Transfer of Federal Tax Information 
+All contributors, including the student, must provide consent and approval to have their federal tax 
+information transferred directly into the FAFSA form via the FUTURE Act Direct Data Exchange with the 
+IRS. Their federal tax information will be used to determine the student’s eligibility for federal student aid. 
+The student will not be eligible for federal student aid if a required contributor doesn’t give consent and 
+approval to use their federal tax information to determine aid eligibility. 
+Contributors give their consent and approval for ED to 
+• disclose their personally identifiable information provided on the FAFSA form to the IRS to match 
+their information with their tax information; 
+• obtain their federal tax information directly from the IRS and include within the FAFSA form; 
+• use their federal tax information to determine the student’s SAI and Pell Grant eligibility; 
+• share their federal tax information with postsecondary institutions and state higher education 
+agencies for use in awarding and administering financial aid; and, 
+• if applicable, reuse their federal tax information on another FAFSA applicant’s form that the 
+contributor elects to participate (e.g., if a parent has multiple dependent students or for a parent’s 
+own FAFSA form as an aid applicant).
+
+Federal Student Aid Page 29 of 49
+DID YOU KNOW 
+Consent and approval for the transfer of federal tax information is required even if the 
+contributor didn’t file a tax return. 
+Filling Out the FAFSA® Form Without Access to Parent Information 
+Dependent students are asked for information about their parents when filling out a FAFSA form. (For 
+details about what determines dependency status, visit StudentAid.gov/dependency.) 
+If the student indicates that they have unusual circumstances—such as having left home due to an 
+abusive situation or having incarcerated parents—then they will be considered a provisionally 
+independent student and will not be required to provide parent information on the FAFSA form. A student 
+who indicates that they are unaccompanied and either (1) homeless or (2) self-supporting and at risk of 
+being homeless but doesn’t have an official determination of their homeless youth status also won’t be 
+required to provide parent information on the FAFSA form. 
+See pages 37–39 for information on dependency status and an explanation of the steps that a student 
+with unusual or special financial circumstances will need to follow. See pages 39–40 for steps that a 
+student without an official homeless youth determination should follow. 
+Details about reporting parent information on the FAFSA form are at StudentAid.gov/fafsa-parent. 
+NOTE 
+We encourage you to connect unaccompanied and homeless students with agencies that can 
+provide an official determination of homelessness. An official determination will ease the path 
+for the student, who’ll be able to indicate their status on the FAFSA® form and be considered 
+an independent student. If a student indicates they are unaccompanied and homeless but has 
+not and will not receive a determination, then their school will be required to make a 
+determination of their unaccompanied homeless youth status. 
+Filling Out the FAFSA® Form When Parents Refuse To Provide Information 
+In situations in which the parent no longer supports a dependent student or refuses to provide information 
+or consent and approval to have their federal tax information transferred into the FAFSA form, federal law 
+allows the student to submit the application without parent information. After review by the financial aid 
+administrator at the student’s chosen school, a student may be eligible to receive only a Direct 
+Unsubsidized Loan at dependent student levels. 
+In these situations, the student should indicate on the FAFSA form that they wish to apply only for the 
+Direct Unsubsidized Loan. The form is then submitted without parent information, and the student must 
+follow up with the financial aid administrator to find out what to do next to receive the loan. 
+If the financial aid administrator chooses, they may make a professional judgment determination to allow 
+the student to receive the Direct Unsubsidized Loan. The financial aid administrator will ask for a written 
+statement from the parent indicating that they refuse to provide their information on the FAFSA form or 
+that they no longer support the student. Forms of support include allowing the student to live in the 
+parent’s home, including the student on the parent’s auto or health insurance, providing a car to drive on 
+anything other than an occasional basis, and payment of the student’s tuition or fees (including via a 
+Direct PLUS Loan or college savings or prepaid tuition plan).
+
+Federal Student Aid Page 30 of 49
+Although this flexibility to receive a Direct Unsubsidized Loan will make an important difference in some 
+students’ ability to attend postsecondary school, we encourage you to advise your students to think 
+carefully before attempting to take advantage of it. A dependent student whose FAFSA form is submitted 
+without parent information will not receive an SAI. Remember that some nonfederal aid programs look at 
+the SAI in order to determine a student’s eligibility for their funds; therefore, a student without an SAI can’t 
+be considered for those aid programs. Similarly, some nonfederal scholarship programs require that a 
+student be eligible for a Federal Pell Grant in order to qualify; a student without an SAI can’t have Federal 
+Pell Grant eligibility determined and consequently can’t receive funds from those programs. 
+Please stress to students and parents that if a dependent student doesn’t provide parent information on the 
+FAFSA form, the student is giving up a chance at many sources of aid. Also, parents should be reminded that 
+being a contributor on the FAFSA form won’t make them responsible for paying for the student’s education costs. 
+Saving the FAFSA® Form 
+Students and other contributors don’t have to complete the FAFSA form in one sitting. Instead, they can 
+save their information at any point in the application by selecting “Save” on any page on the online 
+FAFSA form. (However, they should not use save commands built into a browser.) The FAFSA form also 
+autosaves as students and other contributors progress through the sections. 
+Signing the FAFSA® Form 
+After the student completes their required section of the FAFSA form online, the student will acknowledge 
+the terms and conditions of the form and electronically sign their section. The student can then submit 
+their section of the FAFSA form. However, until all required contributors provide their information on the 
+FAFSA form, give their consent and approval to transfer federal tax information into the form, and provide 
+their signatures, the FAFSA form will not be considered complete. 
+Because a student must invite a contributor to participate on the FAFSA form (if applicable), it’s not 
+necessary that the student and contributor fill out the FAFSA form or sign during the same session. For 
+instance, if the student fills out the FAFSA form at school or at another mentoring event where the parent 
+or other contributor isn’t present, the student may sign their section of the FAFSA form only. 
+Submitting the FAFSA® Form and Getting an Estimated SAI 
+After the student and parent (and/or any other required contributor) sign and submit the FAFSA form, the 
+form will be considered complete and will be submitted for processing. 
+If a student submits the FAFSA form, they will see a confirmation page that displays their completion 
+date, data release number, and next steps. They’ll also see their estimated SAI, Federal Pell Grant 
+eligibility, and information about other federal student aid for which the student may be eligible. This 
+confirmation page is emailed automatically to the student for their records. 
+From the confirmation page, the student can also select a link to apply for student aid from their state (for 
+students in New York, Vermont, Iowa, Pennsylvania, New Jersey, and Mississippi). 
+If a parent or spouse contributor completes their required sections on the FAFSA form last and submits 
+the form, they’ll see an abbreviated confirmation page with information about tracking the student’s 
+FAFSA form and next steps, and the student will receive a detailed confirmation email. 
+Note: The SAI on the confirmation page is only an estimate. Once the student’s FAFSA form has been 
+processed, the student may view their official SAI on their FAFSA Submission Summary.
+
+Federal Student Aid Page 31 of 49
+PDF Application Method 
+Students may print out and complete a FAFSA PDF (available in November 2024 at 
+StudentAid.gov/resources for download) and submit it for processing. The PDF lists an address to 
+which the student should send the completed application. Be sure your students don’t submit FAFSA 
+PDFs marked “DRAFT.” Emailed or faxed copies of the FAFSA form will not be accepted. Students 
+should keep a photocopy of the completed form for their own records. 
+Note: Applicants should send all pages of the printed FAFSA PDF, even if they are blank, to the address 
+listed on the form. They should not send copies of their tax return or any other documentation. Mailing the 
+FAFSA PDF will require extra postage. 
+How the FAFSA® Form Is Processed 
+When a complete FAFSA form is submitted for processing, the FAFSA data is transmitted to Federal 
+Student Aid’s FPS. FPS uses this information to calculate the student’s SAI and their Federal Pell Grant 
+eligibility. The student will receive an email with instructions on how to access the FAFSA Submission 
+Summary within three weeks of submitting the FAFSA form, depending on a variety of factors. If the 
+student didn’t provide a valid email on the FAFSA form (PDF or online), they’ll receive a paper FAFSA 
+Submission Summary via postal mail. 
+When processing the application, FPS uses a series of edits to check the consistency of FAFSA 
+information. If the FAFSA responses are inconsistent, FPS might be unable to calculate the SAI and 
+Federal Pell Grant eligibility. The FAFSA Submission Summary includes instructions for making corrections. 
+Data Matches 
+In addition to checking the FAFSA data against predetermined edits, FPS also performs several database 
+matches. If discrepancies arise, the student’s record is flagged, and the student may not be eligible to 
+receive federal student aid until the discrepancy is resolved. Resolving such a discrepancy usually 
+requires the student to submit additional documentation to the school to which they are applying. The 
+FAFSA Submission Summary includes the appropriate instructions for the student. 
+SSA Matches 
+If the student indicates on the FAFSA form that they are a U.S. citizen, ED conducts a match with SSA to 
+verify U.S. citizenship status. The results of the citizenship match appear on the student’s FAFSA 
+Submission Summary. When a student’s reported data conflict with SSA’s database—or when no 
+citizenship match can be performed—the FAFSA Submission Summary will indicate that there is a 
+conflict. The student must then provide the school with documentation confirming U.S. citizenship status. 
+SSA’s database match also checks whether SSA has a date of death listed for the person with that SSN. 
+The match is intended to detect when someone might be fraudulently attempting to receive federal 
+student aid.
+
+Federal Student Aid Page 32 of 49
+U.S. Department of Homeland Security (DHS) Match 
+FPS also matches FAFSA records against citizenship records maintained by DHS. If the student reports 
+on the FAFSA form that they are an eligible noncitizen (and, therefore, could be eligible for federal 
+student aid) and reports an A-number, that information is checked against the database maintained by 
+DHS. If the match doesn’t confirm the student is an eligible noncitizen, the student will receive a comment 
+on the FAFSA Submission Summary and will have to submit their immigration documentation to the 
+school. A student is not eligible for federal student aid until their status as an eligible noncitizen is 
+resolved. 
+NOTE 
+Only the student’s information is matched with the U.S. Department of Homeland Security’s 
+records. The parent’s citizenship status is not taken into account on the student’s FAFSA® form. 
+National Student Loan Data System (NSLDS®) Match 
+FPS also matches FAFSA data with the NSLDS® database, which identifies students who have defaulted 
+on any federal student loans. If a student’s federal student loan is in default and the student hasn’t made 
+satisfactory arrangements to repay, the student will receive a comment on their FAFSA Submission 
+Summary. A student isn’t eligible for federal student aid until the default status is resolved. The NSLDS 
+match also reveals whether a student owes a refund due to overpayment of a federal student grant, as 
+well as simply reporting a history of any federal student aid received by the student in the past. 
+Other Matches 
+FPS also performs a match against veteran status information maintained by the U.S. Department of 
+Veterans Affairs (for students who say they are veterans). Finally, students who have been convicted of 
+drug offenses in U.S. courts and sentenced to debarment of federal funds are identified by matches with 
+Department of Justice records.
+
+Federal Student Aid Page 33 of 49
+What To Expect After Applying 
+Checking the Status of a FAFSA® Form 
+After filing (either electronically or on paper), a student can check the processing status or any corrections 
+made to their FAFSA form by logging in to their StudentAid.gov account. 
+A student without access to the internet can check the status of the FAFSA form by calling the Federal 
+Student Aid Information Center (FSAIC) at 1-800-433-3243 and answering questions asked by an 
+automated system. (Note: FSAIC will be able to provide this information after Dec. 8, 2024.) 
+Where FPS Sends the FAFSA® Information 
+Within 72 hours after FPS receives a completed FAFSA form and signature, the schools listed on the 
+student’s FAFSA form have access to the student’s information. The schools download the processed 
+FAFSA data in electronic format on a report called an Institutional Student Information Record (ISIR). 
+FPS also sends the student’s information to the state agency (or agencies) in the student’s state of legal 
+residence and to the state agencies of the states in which the schools listed on the FAFSA form are 
+located. This maximizes the student’s chances of receiving state-based and school-based financial aid. 
+DID YOU KNOW 
+The Institutional Student Information Record doesn’t show a school the other schools the 
+student listed on the FAFSA® form. 
+State agencies do see the full list of schools the student entered on the FAFSA® form. 
+What the Student Receives After Applying 
+Each applicant will receive an output document—known as the FAFSA Submission Summary: 
+• Typically, students will receive an email with instructions on how to access an online copy of the
+FAFSA Submission Summary within three days of submitting their FAFSA form (if they applied
+online) or three weeks (if they mailed in a paper FAFSA form).
+• If the student doesn’t have a valid email address, or other limited circumstances apply, the
+student will also receive a paper version of the FAFSA Submission Summary in the postal mail.
+• Parent or spouse contributors will not receive a copy of the FAFSA Submission Summary or be
+able to access a copy online.
+Note: It’s important that students understand that the FAFSA Submission Summary is not a financial aid 
+offer. See Part 1 of this handbook (“How is financial need determined?” on pages 15–17) for a description 
+of the procedure a school’s financial aid office uses to determine the student’s aid offer. Most schools 
+won’t send the student an aid offer until the student has applied for admission and been accepted.
+
+Federal Student Aid Page 34 of 49
+Reviewing the FAFSA Submission Summary 
+The student can review their FAFSA Submission Summary by 
+1. logging in to their StudentAid.gov account Dashboard,
+2. selecting their processed FAFSA submission from the “My Activity” section, and
+3. selecting “View FAFSA Submission Summary.”
+If the student provided a valid email address on the FAFSA form, they will also receive an email that 
+alerts them that their FAFSA Submission Summary is now available in their StudentAid.gov account 
+Dashboard. 
+The student doesn’t need to take or send the FAFSA Submission Summary to a school that has already 
+received the student’s FAFSA information electronically on the ISIR. If a student wants an additional 
+school to receive the information, the student can add that school to their FAFSA form (see page 36). The 
+school must receive the student’s information through one of the above methods before the student may 
+receive federal student aid at that school. 
+FAFSA Submission Summary 
+A student can access their online FAFSA Submission Summary by logging in to their StudentAid.gov 
+account. The online FAFSA Submission Summary will be in HTML but will provide an option for the 
+student to print it. If a student doesn’t have a valid email address, they will also receive a paper FAFSA 
+Submission Summary that is sent via postal mail. 
+The online FAFSA Submission Summary is broken into four tabs: Eligibility Overview, FAFSA Form 
+Answers, School Information, and Next Steps. At the top of the page, the student will see their name, the 
+date their application was received, the date the application was processed, and the Data Release 
+Number (DRN). Note: The paper FAFSA Submission Summary contains the same information, but the 
+information is displayed differently. 
+If the student’s SAI has been calculated, their SAI will appear on the Eligibility Overview tab. On this 
+tab, the student will also see information about what federal student aid they may be eligible for, such as 
+a Federal Pell Grant, Federal Direct Loans, and Federal Work-Study. The FAFSA Submission Summary 
+explains that the school’s financial aid office will determine how much student aid the student will be 
+offered. 
+On the FAFSA Form Answers tab, the student will see the answers that they and, if applicable, their 
+contributor(s) provided on their FAFSA form. Federal tax information that was transferred from the IRS is 
+not shown. If any of the provided answers are incorrect, the student can choose to start a FAFSA 
+correction online (see pages 35–36). Students who receive the paper FAFSA Submission Summary will 
+be instructed to enter any necessary corrections in the fields provided to make corrections. 
+On the School Information tab, the student will see information about the schools that they selected to 
+receive their FAFSA information. The student can compare the graduation rate, retention rate, transfer 
+rate, default rate, median debt upon completion, and average annual cost of their selected schools. 
+On the Next Steps tab, the student will see any comments that pertain to their FAFSA form. Some 
+comments may require the student to start a correction or send additional documentation to their school. 
+Other comments may be informational and don’t require any further action from the student. 
+Lastly, the student can choose to visit additional resources, including their “My Aid” page or College 
+Scorecard.
+
+Federal Student Aid Page 35 of 49
+FAFSA Submission Summary With Action Required 
+If a student receives a FAFSA Submission Summary with action required, the summary will specify 
+information that the applicant must provide before FPS can determine their aid eligibility. A FAFSA 
+Submission Summary with action required doesn’t include an SAI. A FAFSA Submission Summary with 
+action required is sent when an application (a) has inconsistent or insufficient data to calculate an SAI, (b) 
+lacks required signatures or consent and approval to transfer federal tax information, or (c) has an invalid 
+student SSN. 
+Note: If you want to ensure your students receive the aid for which they are eligible, we suggest that you 
+urge them to read all directions carefully and ask for help if they need it. They must complete the FAFSA 
+process before they can receive aid. You should particularly stress the errors listed above that will cause 
+a FAFSA Submission Summary with action required. 
+Verification 
+The effectiveness of the federal student aid programs depends on the accuracy of the data reported by 
+applicants, directly affecting the eligibility of millions of students. Because of this, FPS follows procedures 
+established by federal regulations to select students for a process called verification. 
+FPS places an asterisk next to the SAI on the FAFSA Submission Summary to identify students who 
+have been selected for verification. Additionally, a comment on the FAFSA Submission Summary informs 
+the student that they have been selected. A code also is provided on the ISIR sent to schools. If the 
+student is selected for verification, a school’s financial aid administrator will check the information that the 
+student reported on the FAFSA form, usually by requesting documentation that confirms the FAFSA data. 
+Many schools also select applications to be verified in addition to those selected by FPS. 
+If a student is selected for verification, the school will contact the student to indicate what documentation 
+the student must submit to the school and by what date. The student should be sure to provide all 
+documentation promptly. It’s unlikely that the school will process financial aid for the student until the 
+required documentation is received. 
+In most cases, because all contributors (including the student) must provide consent and approval to 
+have their federal tax information transferred directly into the FAFSA form, students won’t have to verify 
+income and tax information. However, if a student is selected for verification, the school may ask them to 
+submit a tax transcript or a signed copy of their income tax return. Information about obtaining tax 
+transcripts can be found at irs.gov/transcript. 
+Making Changes 
+There are situations in which the student or a financial aid administrator may have to change information 
+that was reported on the application. This might involve correcting errors or updating certain information. 
+Corrections and Updating 
+Errors may occur if the student enters incorrect information on the FAFSA form. The student must correct 
+this information so it’s accurate as of the day the FAFSA form was originally signed. 
+What Information May Not Be Changed 
+The student may not update income or asset information to reflect changes to the family’s financial 
+situation that took place after the FAFSA form was filed. For example, if the student’s family spent some 
+of their savings after filing the FAFSA form, the student may not update their information to show a 
+change in the family’s assets. 
+The student should speak to the school’s financial aid office directly if there will be a significant change in
+
+Federal Student Aid Page 36 of 49
+the family’s income for the present year or if the family has other special financial circumstances that can’t 
+be reported on the FAFSA form. (See page 38 for information about special financial circumstances.) 
+Note: If the student’s dependency status changes as a result of a change in marital status, the student 
+must speak to the financial aid office at their school to determine whether the student may update the 
+FAFSA form. 
+How To Make Changes 
+The student can quickly and easily correct or update information by logging in to their StudentAid.gov 
+account. Any student with a StudentAid.gov account can access their FAFSA data online, whether the 
+student applied electronically or on paper. 
+The account username and password that the student uses to access their StudentAid.gov account acts 
+as an electronic signature. If a dependent student changes information about their parent(s), one of those 
+parents must sign electronically using the parent’s own StudentAid.gov account. 
+The student’s corrections will be made available automatically to the schools listed on the FAFSA form. 
+Adding a School 
+If a student wants to make their FAFSA information available to an additional school after their FAFSA 
+form is processed, they can add a school by following these steps: 
+1. Log in at StudentAid.gov. 
+2. Go to their account Dashboard. 
+3. Select the processed FAFSA form in the “My Activity” section. 
+4. Under the “Actions” menu, select the “Add or Remove Schools” button to start a voluntary 
+correction. 
+5. Review the FAFSA correction information and select “Add or Remove Schools” to begin the 
+correction. 
+6. Search for the school by entering either the school code or the state, city, and/or school name 
+and then select “Search.” 
+7. Select the school from the search results. 
+8. Agree to the terms and conditions of the FAFSA form, sign the form, and submit the update. 
+A student can select to send their FAFSA information to a maximum of 20 schools. If there are 20 schools 
+on the FAFSA form, any new school codes that are added will replace one or more of the school codes 
+already listed. Any school removed from the list won’t have automatic access to new FAFSA information 
+the student provided after they removed that school. However, the school will still have the data the 
+student submitted when they listed that school on the FAFSA form. 
+The student can also use the paper FAFSA Submission Summary to add a new school. However, 
+although the FAFSA PDF has space for 10 schools, the paper FAFSA Submission Summary allows a 
+student to change up to three schools only. On the paper FAFSA Submission Summary, the student 
+checks the box to remove the old school code and writes in the new school code or name and address. 
+The school removed from the list will not have automatic access to any new information.
+
+Federal Student Aid Page 37 of 49
+Dependency Status and Overrides 
+Most students entering a postsecondary school straight from high school are considered financially 
+dependent on their parent. This means their parent is a required contributor and must provide information 
+on the FAFSA form. (Page 29 of this handbook explains how a student without access to parent 
+information can fill out the FAFSA form, and page 42 explains the criteria for a student to be classified as 
+an independent student for the 2025–26 award year.) 
+Dependency status is determined by criteria specified in the law. To help students understand whose 
+information to report on the FAFSA, give them copies of the Is My Parent a Contributor When I Fill Out My 
+FAFSA® Form? infographic (available at StudentAid.gov/resources). Students can also visit 
+StudentAid.gov/fafsaparent to use the Who’s My FAFSA Parent? wizard, an interactive tool that will 
+help them determine which parent(s) will need to participate on their FAFSA form. 
+Adjustments Due to Unusual Circumstances, Special Financial Circumstances, or Student 
+Homelessness 
+Adjustments Due to Unusual Circumstances 
+In unusual circumstances, a financial aid administrator can override the student’s dependency status on 
+the FAFSA form. 
+A student can’t be determined to be independent just because 
+• the parents don’t want to provide information on the FAFSA form due to privacy concerns; 
+• the parents don’t feel it’s their responsibility to provide financial assistance for college, career 
+school, or trade school; 
+• the parents no longer claim the student as a dependent on their taxes; or 
+• the student no longer lives at home and/or demonstrates total self-sufficiency. 
+A student will be considered provisionally independent on the FAFSA form if they indicate they have 
+unusual circumstances, which may include the following: 
+• The student has been abandoned by or estranged from their parents and hasn’t been adopted. 
+• The student left home due to an abusive situation. 
+• The student is incarcerated or has parents who are incarcerated. 
+• The student has been granted refugee or asylee status. 
+• The student is a victim of human trafficking. 
+The list above provides examples and is not to be taken as complete and definitive. A student will indicate 
+unusual circumstances on the FAFSA form by selecting “Yes” to the question: “Do unusual circumstances 
+prevent the student from contacting their parents or would contacting their parents pose a risk to the 
+student?” However, the student will not be required to indicate a specific reason for their unusual 
+circumstances. 
+After a student indicates unusual circumstances, they will be considered a provisionally independent 
+student and the FAFSA form will automatically calculate a provisional SAI. The student will receive an 
+estimate of their federal student aid eligibility based on their provisional SAI. The SAI and the student’s 
+status as an independent student will be subject to review by the college, career school, or trade school 
+that the student attends. The student should contact their school’s financial aid office to find out what 
+supporting documentation they’ll need to submit directly to the school.
+
+Federal Student Aid Page 38 of 49
+A financial aid administrator is required to assess situations on a case-by-case basis and then make a 
+final determination based on the student’s circumstances. If a school approves the student’s unusual 
+circumstances, their independent student status will carry over to future award years as long as the 
+student stays enrolled at the same school and their circumstances don’t change. 
+Note: Students should be aware that the school isn’t required to perform dependency overrides, and if the 
+financial aid administrator determines that an override isn’t appropriate, the decision can’t be appealed to 
+ED. 
+Unusual Circumstances Supporting Documentation 
+The best thing you can do to help a student who believes they should be considered independent due to 
+unusual circumstances is to encourage the student to gather as much written evidence as possible, so 
+that they are prepared to provide it to the financial aid office at the school they plan to attend. 
+Each school will determine what documentation is acceptable according to their professional judgment 
+policy. 
+Examples of documentation for unusual circumstances may include the following: 
+• documented interview between the student and a financial aid administrator 
+• submission of court order or official federal or state documentation showing that the student’s 
+parents or legal guardians are incarcerated 
+• documented phone call or written statement from an attorney, guardian ad litem, court-appointed 
+special advocate (or similar), or representative of TRIO or GEAR UP confirming the applicant’s 
+circumstances and the person’s relationship to the student 
+• documented determination of independence made by a financial aid administrator at another 
+institution in the same or prior award year 
+Adjustments Due to Special Financial Circumstances 
+In some circumstances, a financial aid administrator may choose to adjust certain items on the FAFSA 
+form to account for financial difficulties. The student should contact the financial aid administrator at their 
+college, career school, or trade school to discuss their situation if 
+• the family has unusually large medical bills or nursing home expenses that aren’t covered by 
+insurance, 
+• the family is paying unusually high elementary or secondary school tuition or dependent care 
+expenses, or 
+• the student or a parent has recently lost their job. 
+As with the examples in our discussion of unusual circumstances, the list above is not to be taken as 
+complete and definitive. A financial aid administrator is required to assess situations on a case-by-case 
+basis and then make any adjustments to the FAFSA form based on the special financial circumstances 
+that the student can appropriately document. 
+Please make it clear to students that the financial aid administrator isn’t required to adjust financial 
+elements on the FAFSA form. The financial aid administrator’s decision is final and can’t be appealed to 
+ED. 
+Note: Professional judgments related to special financial circumstances will not carry over to future award 
+years.
+
+Federal Student Aid Page 39 of 49
+Special Financial Circumstances Supporting Documentation 
+A student who has special financial circumstances should gather as much written evidence as possible 
+and provide it to the financial aid office at the school they plan to attend. Each school will determine what 
+documentation is acceptable according to their professional judgment policy. 
+Examples of documentation for special financial circumstances may include the following: 
+• documented interview between the student and a financial aid administrator 
+• statements from the student, parent(s), spouse, or third parties 
+• statements from school staff 
+• court or legal documents 
+• other supplementary information about the student’s (or other contributor’s) financial status or 
+personal circumstances 
+Adjustments Due to Student Homelessness 
+On the FAFSA form, a student will self-identify if they are an unaccompanied and homeless youth, or 
+unaccompanied, at risk of homelessness, and self-supporting. They will also indicate if they have been 
+determined to be homeless or at risk of homelessness by one of the following sources: 
+• homeless liaison for a high school or school district 
+• financial aid administrator from a different school that documented the student’s circumstance for 
+the same or prior award year 
+• director or designee of a 
+o transitional or emergency shelter 
+o street outreach program 
+o homeless youth drop-in center 
+o program serving individuals experiencing homelessness 
+o program supported by federal TRIO or GEAR UP grant 
+A student who indicates that they have received a homeless determination will be considered 
+independent on the FAFSA form, and the FAFSA form will automatically calculate an estimated SAI. 
+A student who hasn’t received a homeless youth determination will be able to complete the FAFSA form 
+without providing parent information. The FAFSA form will automatically calculate a provisional SAI, and 
+the student will receive an estimate of their federal student aid eligibility based on this provisional SAI. 
+However, they will need to contact the college, career school, or trade school they will attend for a 
+financial aid administrator to make a determination. 
+If a school approves the student’s homeless youth determination, their independent student status will 
+carry over to subsequent FAFSA forms in future award years unless their school documents a change in 
+status.
+
+Federal Student Aid Page 40 of 49
+Student Homelessness Supporting Documentation 
+If a student doesn’t have a homeless youth determination from one of the sources listed in the previous 
+section, a financial aid administrator at their school must make a case-by-case determination based on a 
+written statement or documented interview with the student. The student must confirm that they are an 
+unaccompanied homeless youth or unaccompanied, at risk of homelessness, and self-supporting. 
+All homeless youth determinations must be made without factoring in the reasons that the student is 
+unaccompanied and/or homeless. 
+2025–26 Deadlines 
+Here are some important deadlines and time frames for the 2025–26 application cycle for students and 
+schools. The 2025–26 FAFSA form will be available on or before Dec. 1, 2024. To be considered for 
+federal student aid for the 2025–26 award year, the student must complete a 2025–26 FAFSA form 
+between the date it becomes available and midnight Central time, June 30, 2026. 
+Note: State-imposed deadlines for state-funded aid appear on both the FAFSA site (fafsa.gov) and the 
+FAFSA PDF. Schools often have their own deadlines for federal campus-based and school financial aid. 
+The following actions are expected to have a deadline in September 2026: 
+• corrections made and received by FPS 
+• duplicate FAFSA Submission Summary requested 
+The following actions are expected to have deadlines in late September 2026: 
+• the school receives the FAFSA Submission Summary or ISIR (deadline is the late September 
+date or the date the student is no longer enrolled for that award year, whichever is earlier) 
+• verification of the student’s information is completed (deadline is the late September date, 120 
+days after the student’s last day of enrollment, or the deadline the school sets, whichever is 
+earliest) 
+Verification is considered complete for Federal Pell Grants when the school receives a valid FAFSA 
+Submission Summary or ISIR on which all information used to calculate the SAI is correct. Therefore, 
+although a student has 120 days or until the September 2026 deadline to provide documentation, the 
+student also must have any corrections processed by this deadline. Note that the disbursement of funds 
+from certain other programs might be restricted to shorter periods.
+
+Federal Student Aid Page 41 of 49
+Part 3: Completing the Free Application for Federal Student Aid 
+(FAFSA®) Form 
+As mentioned in Part 2 of this handbook, if a student wishes to receive federal student aid to attend a 
+postsecondary school, the student must complete the FAFSA® form. Many states and schools also rely 
+on FAFSA information to award their state and institutional student aid funds. 
+Please be sure your students understand that they shouldn’t pay to have their FAFSA form completed or 
+processed. If a student is asked to pay a fee for help with the application, they should remember that free 
+advice on student aid is widely available and should consider what services are being offered by the 
+company charging the fee. Preparers can’t charge fees to fill out the FAFSA form on the student’s behalf. 
+Encourage students to consult a high school or TRIO counselor, a college or career/trade school financial 
+aid administrator, or the Federal Student Aid Information Center (FSAIC) before paying for advice or an 
+application service. 
+A student can complete and submit the FAFSA form electronically (see Part 2 of this handbook) at 
+fafsa.gov. 
+Alternatively, a student can print out and complete a FAFSA PDF (see page 31) and mail it to the address 
+specified on that version of the FAFSA form. The FAFSA PDF will be available in November 2024 at 
+StudentAid.gov/resources. 
+Pointers for Completing the FAFSA® Form 
+To avoid mistakes and delays in processing, it’s crucial that students, parents, and any other contributor 
+carefully read and follow all directions on the FAFSA form. If they have questions when filling out the 
+online form, they can select an info icon or a question mark icon for explanations and details. They can 
+also ask our virtual assistant, Aidan®, for help. Students who are filling out the FAFSA PDF may call 
+FSAIC for help at 1-800-433-3243. 
+We strongly recommend that the student start the FAFSA form and complete their section first to save 
+time and prevent possible errors. If the student doesn’t start the FAFSA form first, or if the student and a 
+contributor are working in the online form at the same time, the contributor may have more difficulty 
+completing their section or may even spend time providing information that’s not required. 
+If a student or another contributor wants to see every FAFSA question before filling out the FAFSA form, 
+they can download the FAFSA PDF (available in November 2024) at StudentAid.gov/resources. 
+Note: The FAFSA PDF features green and orange highlighted sections. The green sections are for the 
+student and (if applicable) the student’s spouse to complete. If applicable, the orange sections are for the 
+parent(s) or parent’s spouse to complete. 
+The following information provides a summary and pointers for the different FAFSA sections that the 
+student will move through as they fill out the FAFSA form online. If a student’s spouse, parent, and/or a 
+parent’s spouse is identified as a required contributor on the student’s FAFSA form, they will answer 
+questions in their own “Identity Information” and “Financials” sections. A parent contributor will also 
+answer questions in a “Demographics” section.
+
+Federal Student Aid Page 42 of 49
+Student Identity Information 
+Purpose: This section of the FAFSA form collects information used to track and identify a student (name, 
+Social Security number [SSN], and so on) as well as other information that affects a student’s basic 
+eligibility for federal (or state and some institutional) student aid. 
+All contributors, including the student, must provide consent and approval to have their federal tax 
+information transferred from the IRS into the FAFSA form to determine the student’s eligibility for federal 
+student aid. 
+Personal Circumstances 
+Purpose: The questions in this section of the FAFSA form determine whether a student is a dependent 
+student or an independent student for purposes of calculating the Student Aid Index (SAI). The student 
+will be classified as an independent student for the 2025–26 award year, even if the student is still living 
+with their parent(s), if the student indicates that they are one of the following: 
+• born before Jan. 1, 2002 
+• married (and not separated) 
+• a graduate or professional student 
+• a member of the armed forces on active duty 
+• a veteran of the armed forces 
+• someone with dependent children or legal dependents (other than a spouse) who live with the 
+student and who receive more than half of their support from the student now and during the 
+2025–26 award year 
+• an orphan 
+• a ward of the court 
+• a current or former foster youth 
+• an emancipated minor 
+• someone in a legal guardianship 
+• someone who is unaccompanied and homeless or self-supporting and at risk of being homeless 
+If the student doesn’t meet any of the criteria above, the student is dependent and at least one parent will 
+be identified as a required contributor on the FAFSA form. See “Parent Information” below if you’re 
+working with a student who has no access to their parent or whose parent refuses to provide their 
+information on the FAFSA form.
+
+Federal Student Aid Page 43 of 49
+Parent Information 
+Depending on the answers that the student provides in the “Personal Circumstances” section, the FAFSA 
+form will inform the student of their dependency status for FAFSA purposes. If the student is considered 
+dependent, they will be required to invite their parent to complete the parent sections of the FAFSA form. 
+The student will invite the parent to the FAFSA form by providing the parent’s name, date of birth, SSN (if 
+they have one), and their email address. 
+If a student is unsure which parent will be a required contributor on the FAFSA form, they can visit 
+StudentAid.gov/fafsaparent to use the Who’s My FAFSA Parent? wizard. This interactive tool will help 
+the student determine which parent(s) will need to participate on their FAFSA form. We also have an 
+infographic titled Is My Parent a Contributor When I Fill Out My FAFSA® Form? available at 
+StudentAid.gov/resources. We encourage you to use it as a reference and to distribute it to students. 
+Many students have questions about providing their parent’s information on the FAFSA form because 
+they don’t consider their parent to be their primary source of support. Perhaps the student lives with 
+another relative and is no longer in touch with their parents. In cases such as these, the student should 
+not report a (nonparent) relative’s information, as processing of student aid could be delayed. A student 
+can’t be considered independent just because their parent won’t help pay for school or the student 
+demonstrates total self-sufficiency. 
+Unusual Circumstances 
+If a student has unusual circumstances that prevent the student from contacting their parent or if 
+contacting their parent would pose a risk to the student, they can select “Yes” on the FAFSA form in 
+response to the question: “Do unusual circumstances prevent the student from contacting their parents or 
+would contacting their parents pose a risk to the student?” After selecting “Yes,” the student will proceed 
+as a provisionally independent student and can complete the FAFSA form without providing parent 
+information. The student will need to contact their school’s financial aid office to find out what supporting 
+documentation they’ll need to submit to the school. 
+A financial aid administrator will be required to assess the student’s situation on a case-by-case basis and 
+make a final determination of dependency status. With supporting documentation, a school’s financial aid 
+administrator has the authority to override a student’s dependency status on their initial application. 
+Please remind the student that any decision made by the financial aid administrator regarding 
+dependency status is final and can’t be appealed to the U.S. Department of Education. 
+See pages 37–38 for more information about dependency status, unusual circumstances, and special 
+financial circumstances, and page 29 for information about submitting the FAFSA form without parent 
+information. 
+Demographics 
+Purpose: Some of the questions in this section of the FAFSA form are for research only and don’t affect 
+federal student aid eligibility, such as the questions related to gender, race, and ethnicity. However, this 
+section also contains other questions that will affect the student’s eligibility to receive federal student aid. 
+For instance, a student must report citizenship status because the student must be a U.S. citizen or 
+eligible noncitizen to receive federal student aid.
+
+Federal Student Aid Page 44 of 49
+Financials 
+Purpose: The income and tax questions in the “Financials” section collect information on the “base year” 
+to determine the student’s eligibility for federal student aid. The base year for applicants of the 2025–26 
+FAFSA form is the 2023 calendar year. 
+Most students won’t need to answer many questions in this section because they will have already 
+provided consent and approval to have their federal tax information transferred from the IRS into the 
+FAFSA form. 
+Select Colleges and Career Schools 
+Purpose: The questions in the “Select Colleges and Career Schools” section collect information about 
+which postsecondary schools (e.g., colleges, career schools, or trade schools) the student is interested in 
+attending. The FAFSA Processing System (FPS) will send the student’s information (except for the list of 
+schools) to each school listed. 
+FPS will send data to no more than 20 schools at a time. For example, if a student originally listed 20 
+schools on the online FAFSA form, then replaced some or all 20 schools with new schools, and then 
+updated or corrected their FAFSA information, only the remaining set of schools would automatically 
+receive the updated or corrected data. 
+For the purposes of federal student aid, the order in which the student lists schools doesn’t matter. 
+However, some states require that the schools be listed in a specified order for the student to be 
+considered for state aid. The FAFSA form will prompt a student to reorder their schools if this applies to 
+them. For more information and to look up individual state requirements, visit StudentAid.gov/apply-for-
+aid/fafsa/filling-out/school-list#order-of-schools-on-your-list.
+Note: The FAFSA PDF has space for 10 schools only, and the paper FAFSA Submission Summary 
+allows a student to change up to three schools only.
+
+Federal Student Aid Page 45 of 49
+Appendix A: Sources of Additional Information 
+Useful Websites 
+Sites for Students 
+StudentAid.gov 
+Our StudentAid.gov website offers students and their families free information on choosing a career, 
+selecting a school, identifying resources to pay for school, and repaying federal student loans. Videos and 
+infographics supplement simply worded explanations to clearly present important topics. 
+Other Student Sites 
+• FAFSA site—The official online application is at fafsa.gov. 
+• StudentAid.gov account—Students and other contributors can create their account username and 
+password at StudentAid.gov/create-account. 
+• College Scorecard—Students can find and compare colleges and career/trade schools that may 
+fit their needs. College Scorecard provides data on college costs, graduation rates, post-college 
+earnings, and other useful information at collegescorecard.ed.gov. 
+• College Navigator—Students can search a database of more than 7,000 colleges and universities 
+by name, location, program, degree offerings, or a combination of criteria at 
+nces.ed.gov/collegenavigator. 
+• Federal Student Aid Estimator—Students can get an early estimate of federal student aid 
+eligibility at StudentAid.gov/aid-estimator. 
+• Who’s My FAFSA Parent? wizard—Students can identify which parent(s) will be a required 
+contributor on their FAFSA form at StudentAid.gov/fafsaparent. 
+• Federal Student Aid’s YouTube page—Our YouTube channel features helpful videos, including 
+FAFSA-related playlists, at YouTube.com/FederalStudentAid. 
+• Federal Student Aid’s X (formerly Twitter) feed—Follow at X.com/fafsa. 
+• Federal Student Aid’s Facebook page—Follow at Facebook.com/FederalStudentAid. 
+• Federal Student Aid’s Instagram page—Follow at Instagram.com/FederalStudentAid. 
+• Education and Training Vouchers (ETVs)—Students who currently are or previously were in 
+foster care can see if they’re eligible for financial assistance for college or career/trade school 
+through the John H. Chafee Foster Care Program for Successful Transition to Adulthood. Learn 
+about this program at acf.hhs.gov/cb/grant-funding/john-h-chafee-foster-care-
+independence-program. Students who may be eligible can contact their local child welfare 
+agency or their state program manager at www.childwelfare.gov/resources/state-foster-care-
+program-managers for details. 
+• Education and training for individuals with disabilities—The vocational rehabilitation state agency 
+list is at rsa.ed.gov. Information about disability programs and services nationwide is available at 
+dol.gov/agencies/odep/topics. 
+• Tax information for students—Federal income tax credit information and other useful information 
+for students is available at irs.gov/individuals/students. 
+• AmeriCorps—Details about a variety of national service options and how students can earn
+
+Federal Student Aid Page 46 of 49
+financial awards to be used for education are at americorps.gov. 
+• U.S. Department of Health and Human Services—Financial aid for health professionals and 
+students is described at hhs.gov/programs/education-and-training/index.html. 
+• GI Bill benefits—The U.S. Department of Veterans Affairs (VA) offers extensive information about 
+education benefits for veterans and their families at va.gov/education/about-gi-bill-benefits. 
+This page links to information about the Post-9/11 GI Bill, the Montgomery GI Bill Active Duty, 
+and the Montgomery GI Bill Selected Reserve. 
+• U.S. Army assistance in return for active duty—Visit www.goarmy.com/benefits/while-you-
+serve/education-training. 
+• Navy education programs—Visit navy.com/what-to-expect/education-opportunities. 
+• Air Force education programs—Visit airforce.com/education. 
+• Marine Corps education programs—Visit www.marines.com/life-as-a-
+marine/benefits/education.html. 
+• State grant agencies—Students can find contact information for their state agencies at 
+www.ed.gov/contact-us/state-contacts. 
+• Scholarship scam avoidance—Students considering using a for-fee scholarship advice service 
+can research the company on the Better Business Bureau website at bbb.org. 
+• Financial aid scam complaints—Students who have been a victim of financial aid fraud should 
+report their experience. Refer them to our “Avoiding Student Aid Scams” page to find the right 
+entities to report the fraud, depending on the type of scam they encountered: 
+StudentAid.gov/resources/scams#report-fraud-and-identity-theft. 
+• Occupational Outlook Handbook—An encyclopedia of careers describing a range of occupations. 
+Students can learn what to expect from a job, including the nature of the work, training needed, 
+and earnings. A free search is at bls.gov/ooh. 
+Sites for Parents 
+• The “Parents of Students” page—Links to information on saving for college or career/trade 
+school, borrowing for school, and tax benefits for education at StudentAid.gov/parent. 
+• Who’s My FAFSA Parent? wizard—An interactive tool to identify which parent(s) will be a 
+required contributor on the FAFSA form is available at StudentAid.gov/fafsaparent. 
+• Tax information for parents—Federal income tax credit information and other useful information 
+for parents is available at irs.gov/individuals/parents. 
+• The Financial Industry Regulatory Authority provides information on 529 plans and other ways to 
+save for college or career/trade school at finra.org/investors/learn-to-invest/types-
+investments/saving-for-education. 
+Sites for Counselors and Mentors 
+• Financial Aid Toolkit—Provides federal student aid information especially for high school 
+counselors and other college access mentors. Offers access to publications, training information, 
+announcements, PowerPoint presentations, and ways to promote federal student aid and college, 
+career school, and trade school access. Visit the site at FinancialAidToolkit.ed.gov. 
+• FAFSA prototype—Helps counselors and mentors increase their understanding of the FAFSA 
+site. The prototype is a web-based design tool that allows users to navigate specific scenarios
+
+Federal Student Aid Page 47 of 49
+that many students and parents will encounter on the live website. The 2025–26 FAFSA 
+prototype is available by visiting fsapartners.ed.gov/fafsa-prototype/2526 and entering 
+“prototype2526” for the access code. 
+• College Affordability and Transparency Center—Includes statistics on schools with the highest 
+and lowest costs, state appropriations for higher education, and for-profit schools receiving more 
+than 90 percent of their revenue from federal student aid. Find this information at 
+collegecost.ed.gov. 
+• FSA Training Center—Offers a comprehensive introductory web-based course that teaches the 
+concepts and procedures involved in managing the federal student aid programs. To access FSA 
+Training Center, go to fsatraining.ed.gov. 
+• TRIO program information—The TRIO programs help prepare disadvantaged students for 
+successful entry into, retention in, and completion of postsecondary education. TRIO information 
+is at www.ed.gov/grants-and-programs/grants-higher-education/trio. 
+• GEAR UP information—Gaining Early Awareness and Readiness for Undergraduate Programs 
+(GEAR UP) is an early-intervention initiative designed to encourage students from low-income 
+backgrounds to have high expectations, stay in school, study hard, and take the right courses to 
+prepare for college, career school, or trade school. Learn more about GEAR UP at 
+www.ed.gov/programs/gearup/index.html. 
+• FSA Partner Connect Knowledge Center—A library of federal student aid information geared 
+toward college financial aid administrators. High school, TRIO, and GEAR UP counselors who 
+regularly help students apply for aid may find the Federal Student Aid Handbook particularly 
+useful, especially in finding detailed information about student eligibility criteria. FSA Partner 
+Connect Knowledge Center is at fsapartners.ed.gov/knowledge-center. 
+• Federal Student Aid’s LinkedIn page—Follow at LinkedIn.com/company/FederalStudentAid. 
+• Federal Student Aid’s Outreach YouTube page—Our outreach YouTube channel provides 
+webinar recordings and other videos about Federal Student Aid’s programs, tools, and resources 
+for college access professionals at YouTube.com/@FSAOutreach. 
+Free Informational Materials 
+A number of resources about federal student aid are available for counselors and mentors on the 
+Financial Aid Toolkit website. The topics listed below (among others) are covered in such formats as fact 
+sheets, videos, infographics, booklets, PowerPoint presentations, sample social media posts, and more, 
+in a searchable library at FinancialAidToolkit.ed.gov/resources. (Note that students should visit 
+StudentAid.gov/resources to access materials appropriate for them.) 
+• preparing for college, career school, or trade school 
+• information needed for the FAFSA form 
+• dependency status for the FAFSA form 
+• who counts as the dependent FAFSA applicant’s parent contributor (and therefore who should 
+provide information on the FAFSA form) in cases of divorce, remarriage, absent parents, etc. 
+• responsible borrowing 
+• federal student loan repayment plans
+
+Federal Student Aid Page 48 of 49
+One-on-One Help: FSAIC 
+For information on any federal student aid program discussed in this handbook, you or your students may 
+contact FSAIC by visiting StudentAid.gov/contact or calling 1-800-433-3243. 
+FSAIC can 
+• help students and parents complete the FAFSA form; 
+• explain the FAFSA Submission Summary and how to make corrections; 
+• check on the processing status of the FAFSA form (Note: this information will be available after 
+Dec. 8, 2024); 
+• explain who is eligible for federal student aid; and 
+• explain how federal student aid is awarded and paid. 
+FSAIC is NOT able to 
+• make policy, 
+• expedite the federal student aid application process, 
+• change the student’s address or the schools that receive the student’s information on the FAFSA 
+form, 
+• mail a paper copy of the FAFSA Submission Summary, 
+• discuss a student’s federal student aid file with an unauthorized person, or 
+• influence an individual school’s financial aid policies.
+
+Federal Student Aid Page 49 of 49
+Appendix B: Abbreviations 
+AGI adjusted gross income 
+COA cost of attendance 
+DACA Deferred Action for Childhood Arrivals 
+DHS U.S. Department of Homeland Security 
+DRN Data Release Number 
+ED U.S. Department of Education 
+ETV Education and Training Voucher 
+FAFSA Free Application for Federal Student Aid 
+FPS FAFSA Processing System 
+FSAIC Federal Student Aid Information Center 
+FSEOG Federal Supplemental Educational Opportunity Grant 
+GEAR UP Gaining Early Awareness and Readiness for Undergraduate Programs 
+GED General Educational Development [certificate] 
+HHS U.S. Department of Health and Human Services 
+HiSET High School Equivalency Test 
+IRS Internal Revenue Service 
+ISIR Institutional Student Information Record 
+NSLDS National Student Loan Data System 
+ROTC Reserve Officers’ Training Corps (when ROTC appears alone, often refers specifically to 
+Army Reserve Officers’ Training Corps) 
+RSA Rehabilitation Services Administration 
+SAI Student Aid Index 
+SSA Social Security Administration 
+SSN Social Security number 
+TEACH Teacher Education Assistance for College and Higher Education (as in TEACH Grant) 
+TRIO not an abbreviation; see www.ed.gov/grants-and-programs/grants-higher-
+education/trio for information on the programs 
+VA U.S. Department of Veterans Affairs
