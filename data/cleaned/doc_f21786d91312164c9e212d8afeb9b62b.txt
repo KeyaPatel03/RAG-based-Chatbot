@@ -1,0 +1,238 @@
+• Skip Nav
+• Accessibility
+• Calendar
+• Directory
+• A to Z
+• Webmail
+• Advanced Search
+• Home
+• Majors
+• Minors
+• Policies & Procedures
+• General Education
+• Graduate Studies
+• Faculty
+• Courses
+
+MECHANICAL ENGINEERING
+
+• Overview
+• Programs
+• Faculty
+• Courses
+
+PROGRAM:
+MECHANICAL ENGINEERING, B.S.
+
+• email
+• print
+• Home
+• /
+• College of Engineering and Computer Science
+• /
+• Mechanical Engineering
+• /
+• Programs
+• /
+• Mechanical Engineering, B.S.
+
+PROGRAM DESCRIPTION
+
+Mechanical Engineering majors at CSUN receive a solid education in the fundamentals of the discipline augmented by hands-on experience that employers have found to be invaluable. Design concepts and projects are integrated throughout the curriculum.
+
+The freshmen and sophomore years provide the student with a breadth of knowledge that is required in specialized courses and in the career work of the mechanical engineer. During these years, students take courses in mathematics, chemistry, physics, computer programming, engineering materials, engineering mechanics, electrical systems and mechanical design. The junior year courses include engineering economics, engineering dynamics, strength of materials, thermodynamics, fluid mechanics, heat transfer, mechanical design, the numerical analysis of engineering systems, and computer-aided analysis and design.
+
+The senior year is composed of a group of required and elective courses that are related to the student’s area of specialization within Mechanical Engineering. The required courses include system dynamics, mechatronics and two semesters of senior design. Students can take their electives to obtain more in-depth knowledge in the following areas: aerospace engineering, automotive engineering, controls engineering, environmental engineering, mechanical design and thermal-fluid systems.
+
+The Mechanical Engineering department takes a practical approach to engineering, offering hands-on design experience as well as theoretical knowledge. That’s an advantage on the job because our graduates have had experience constructing projects, not just analyzing and designing them. A key to this practical training is the department’s Senior Design Program, which is modeled on the industry work groups that students will encounter on the job. Like professional engineers, students design and develop a project, from conception through manufacture. In the process, they gain valuable experience in working as a team, overcoming technical and management challenges, and developing communication skills. Past senior design projects have included an autonomous intelligent ground vehicle, a Formula SAE race car, a human-powered vehicle, unmanned aerial systems and sustainable energy systems.
+
+ACCREDITATION
+
+The Bachelor of Science in Mechanical Engineering is accredited by the Engineering Accreditation Commission of ABET,
+https://www.abet.org
+, under the commission’s General Criteria and Program Criteria for Mechanical and Similarly Named Engineering Programs.
+
+EDUCATIONAL OBJECTIVES
+
+The undergraduate mechanical engineering program should prepare students to enter the engineering profession as skilled practitioners who can make solid contributions to the field, find job satisfaction and have lifelong careers. To accomplish these overall goals, during the first few years following program completion, graduates are expected to:
+
+• Have an engineering job or a position that utilizes the application of their engineering education in the workplace.
+• Demonstrate a record of professional development activities related to the successful practice of engineering.
+• Accept additional responsibilities to meet evolving workplace needs and be regarded by colleagues and supervisors as an effective member of their organization.
+
+PROGRAM REQUIREMENTS
+
+The Mechanical Engineering program assumes that students have a strong high school preparation in science, mathematics and English. High school courses should include four years of mathematics, four years of English and at least one year of Chemistry and Physics with labs. The mathematics courses should include geometry, trigonometry and algebra. Calculus is desirable.
+
+CSUN provides the opportunity for students who have not had a complete background of pre-engineering work in high school to take courses to prepare for the major. These additional courses will not count toward the major and may increase the time to graduate. CSUN provides testing as outlined below to ensure that students start their engineering coursework at an appropriate level.
+
+PLACEMENT EXAM REQUIREMENT
+
+Students entering the Mechanical Engineering program need to take the following exam:
+
+The
+Chemistry Placement Test (CPT)
+is required with a minimum score of 40 prior to enrolling in
+CHEM 107
+. Students who have had high school chemistry and expect to enroll in CHEM 107 must take this test regardless of their score on the AP Chemistry exam. Students who do not achieve this CPT score must complete
+CHEM 100
+with a grade of “C” or better before taking
+CHEM 107
+.
+
+SPECIAL GRADE REQUIREMENTS
+
+• All students must complete the lower division writing requirement before enrolling in any 300-level engineering courses.
+• A grade of “C-” or better is required in all courses in the major. A grade of “C” or better is required in all undergraduate transfer courses.
+• Senior-year courses cannot be taken unless the student has previously completed, or is concurrently completing, all freshman-, sophomore- and junior-year requirements.
+• A grade of “C” or higher is necessary in MATH 150B to meet the prerequisite requirements for the next-level math courses.
+
+COURSE REQUIREMENTS
+
+1. LOWER DIVISION REQUIRED COURSES (47 UNITS)
+
+BIOL 101EN Introduction to Biological Principles for Engineering (2)
+CHEM 107 General Chemistry for Engineers (3)
+MATH 150A Calculus I (5)
+MATH 150B Calculus II (5)
+ME 101/L Introduction to Mechanical Engineering and Lab (1/1)
+ME 186/L Mechanical Design I and Lab (1/1)
+PHYS 220A Mechanics (3)
+PHYS 220AL Mechanics Lab (1)
+
+CE 240/L Engineering Statics and Lab (2/1)
+
+ECE 240N Introduction to Electrical Circuits (3)
+
+ECE 240L Electrical Circuits Lab (1)
+
+MATH 250 Calculus III (3)
+
+MATH 280 Applied Differential Equations (3)
+or
+ECE 280 Applied Differential Equations in Electrical Engineering (3)
+or
+ME 280 Differential Equations for Mechanical Engineers (3)
+
+ME 209 Programming for Mechanical Engineers (1)
+
+ME 286 Mechanical Design II (2)
+
+MSE 227 Engineering Materials (3)
+
+MSE 227L Engineering Materials Lab (1)
+
+PHYS 220B Electricity and Magnetism (3)
+
+PHYS 220BL Electricity and Magnetism Lab (1)
+
+2. UPPER DIVISION REQUIRED COURSES (52 UNITS)
+
+AM 316 Engineering Dynamics (3)
+AM 317 Mechanics Lab (1)
+CE 340/L Strength of Materials and Lab (2/1)
+ME 309 Numerical Analysis of Engineering Systems (2)
+ME 330 Machine Design (3)
+ME 335/L Mechanical Measurements and Lab (1/1)
+ME 370 Thermodynamics (3)
+ME 375 Heat Transfer I (3)
+ME 386/L Computer-Aided Analysis and Design and Lab (2/1)
+ME 390 Fluid Mechanics (3)
+MSE 304 Engineering Economic Analysis (3)
+
+ME 384 System Dynamics: Modeling, Analysis and Simulation (3)
+ME 435/L Mechatronics and Lab (2/1)
+ME 486A Senior Design in Mechanical Engineering I (2)
+ME 486B Senior Design in Mechanical Engineering II (2)
+ME 491 Experimental Methods in Thermal-Fluids Systems (1)
+
+Students must select 12 units of electives from 400- and/or 500-level engineering courses. These electives, together with the required senior-year courses listed above, constitute the student’s Mechanical Engineering senior year. The elective program must be approved by the Mechanical Engineering department before the student files a graduation check. Up to 6 units from the following list of non-ME courses may be taken as senior electives.
+
+AM 410 Vibration Analysis (3)
+CE 460/L Engineering Hydrology and Lab (2/1)
+CE 487 Water Pollution (3)
+ECE 410/L Electrical Machines and Energy Conversion and Lab (3/1)
+ECE 411 Electric Power Systems (3)
+ECE 412 Power Electronics (3)
+ECE 420 Digital Systems Design with Programmable Logic (3)
+ECE 425/L Microprocessor Systems and Lab (3/1)
+ECE 440/L Electronics II and Lab (3/1)
+ECE 501/L Biomedical Measurements and Instrumentation and Laboratory (2/1)
+MSE 527/L Mechanical Behavior of Materials and Lab (2/1)
+
+3. GENERAL EDUCATION (43 UNITS)
+
+Undergraduate students must complete 43 units of
+General Education
+as described in this Catalog, including 3 units of coursework meeting the
+Ethnic Studies (E.S.)
+requirement.
+
+19 units are satisfied by coursework in the major. Completion of the Mechanical Engineering major satisfies Area 2B Critical Thinking.
+MATH 150A
+satisfies Basic Skills Area 2 Mathematical Concepts and Quantitative Reasoning;
+MSE 304
+satisfies 3 units of upper division Area 4 Social and Behavioral Sciences;
+PHYS 220A
+satisfies Area 5A Physical Science;
+BIOL 101EN
+satisfies Area 5B Biological Science;
+PHYS 220AL
+satisfies Area 5C Science Laboratory Activity; and
+ME 370
+satisfies Area 5 Physical and Biological Sciences, Upper Division.
+ME 370
+and
+MSE 304
+taken at CSUN may count as Writing Intensive.
+
+4. CAMPUS REQUIREMENTS (6 UNITS)
+
+Undergraduate students must complete 6 units of
+Campus Requirements
+as described in this Catalog.
+ME 101/L
+and
+ME 209
+meet the Lifelong Learning requirement.
+
+TOTAL UNITS IN THE MAJOR: 99
+
+GENERAL EDUCATION UNITS: 24
+
+CAMPUS REQUIREMENT UNITS: 3
+
+TOTAL UNITS REQUIRED FOR THE B.S. DEGREE: 126
+
+CONTACT
+
+Department of Mechanical Engineering
+Chair: Vidya K. Nandikolla
+Jacaranda Hall (JD) 4513
+(818) 677-2187
+
+PROGRAM LEARNING OUTCOMES
+
+Students receiving a Bachelor of Science in Mechanical Engineering will be able to:
+
+• Identify, formulate and solve complex engineering problems by applying principles of engineering, science and mathematics.
+• Apply engineering design to produce solutions that meet specified needs with consideration of public health, safety and welfare, as well as global, cultural, social, environmental and economic factors.
+• Communicate effectively with a range of audiences.
+• Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental and societal contexts.
+• Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks and meet objectives.
+• Develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• Acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+DEGREE ROAD MAPS
+
+Mechanical Engineering (2025-Present)
+
+Previous Years
+
+TRANSFER ROAD MAPS
+
+Mechanical Engineering (2024-Present)
+
+Previous Years
+
+View Catalog Archives, Degree Road Maps and external resources here:

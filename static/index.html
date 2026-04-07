@@ -162,7 +162,7 @@
           headers: {
             'Content-Type': 'application/json'
           },
-          body: JSON.stringify({ question })
+          body: JSON.stringify({ query: question })
         });
 
         if (!response.ok) {

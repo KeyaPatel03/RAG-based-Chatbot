@@ -1,0 +1,359 @@
+<!doctype html>
+<html class="no-js" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<title>General Catalog - Page Not Found; Dang! </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+ href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/images/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css?v=1757356688000" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css?v=1757356688000" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/print.css?v=1757356688000" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css?v=1757356710000" />
+<script type="text/javascript" src="/js/courseleaf.js?v=1757356710000"></script>
+<script type="text/javascript" src="/js/custom.js?v=1757356710000"></script>
+
+</head>
+
+<body class="">
+
+<nav aria-label="Skip content menu" class="accessible">
+ <div class="accessible-menu">
+ <ul>
+ <li><a href="#contentarea" rel="section">Skip to Content</a></li>
+ <li><a href="/azindex/">AZ Index</a></li>
+ <li><a href="/">Catalog Home</a></li>
+ </ul>
+ </div>
+</nav>
+
+<header id="header" class="header">
+ <div class="header__mobile">
+ <div class="header__hamburger--container">
+ <button class="header__hamburger" aria-controls="header-nav" data-toggle="#header-nav" aria-expanded="false">
+ <span class="header__hamburger--icon">Menu</span>
+ </button>
+ </div>
+ <div class="header__title--mobile">
+ <a href="/">General Catalog</a>
+ </div>
+ <div class="header__university--mobile">
+ <a href="https://www.ucdavis.edu">
+ <img class="logo__mobile--header" src="/images/uc-logo-gold.svg" alt="UC Davis Logo" />
+ </a>
+ </div>
+ </div>
+ <div class="header__upper">
+ <nav>
+ <ul class="header__university">
+ <li>
+ <a class="logo__header" href="https://www.ucdavis.edu/">
+ <img src="/images/uc-logo-gold.svg" class="ucd-logo" alt="UC Davis Logo" width="100" height="16">
+ </a>
+ </li>
+ <li><a href="https://www.ucdavis.edu/admissions">Admissions</a></li>
+ <li><a href="https://www.ucdavis.edu/campus-life">Campus Life</a></li>
+ <li><a href="https://my.ucdavis.edu">Student Life</a></li>
+ <li><a href="https://www.ucdavis.edu/research">Research</a></li>
+ </ul>
+ </nav>
+ </div>
+ <div class="header__title">
+ <h1>2025-2026 General Catalog</h1>
+ </div>
+ <div class="header__nav" id="header-nav">
+ <div class="header__nav--inner-wrap">
+ <div class="header__nav--off-canvas">
+ <div class="header__search--outer-wrap">
+ <div class="header__search">
+ <button class="header__search--toggle" aria-expanded="false" data-toggle="#ucdavis-search-dialog">
+ <span class="header__search--icon">Open Search</span>
+ </button>
+ <div class="header__search--dialog" id="ucdavis-search-dialog">
+ <form id="cl-search" action="/search/">
+ <div class="search-inputs">
+ <label for="ucdavis-search-input" class="sr-only">Search</label>
+ <input type="search" id="ucdavis-search-input" placeholder="Search..." name="q" size="15">
+ <input type="submit" value=" Submit">
+<!--%?pagebasedir?% <input type="hidden" name="caturl" value="/admin" /> -->
+ </div>
+ <div class="search-select">
+ <span class="cat-radio">
+ <label>
+ <input type="radio" name="search-dest" value="catalog" id="search-catalog" checked="checked">
+ Search Catalog Only
+ </label>
+ </span>
+ <span class="davis-radio">
+ <label>
+ <input type="radio" name="search-dest" value="ucdavis" id="search-ucdavis">
+ Search UC Davis
+ </label>
+ </span>
+ </div>
+ </form>
+ </div>
+ </div>
+ </div>
+ <div class="header__quicklinks">
+ <button class="header__quicklinks--button" data-toggle="#header-quicklinks" aria-controls="header-quicklinks" aria-expanded="false">
+ Quick Links
+ </button>
+ <nav class="header__quicklinks--menu" id="header-quicklinks">
+ <ul class="menu">
+ <li>
+ <a href="http://my.ucdavis.edu/">myUCDavis</a>
+ </li>
+ <li>
+ <a href="https://myadmissions.ucdavis.edu/">MyAdmissions</a>
+ </li>
+ <li>
+ <a
+ href="https://giving.ucdavis.edu/">Make a Gift to UC Davis</a>
+ </li>
+ <li>
+ <a href="https://www.ucdavis.edu/about/visit">Visit</a>
+ </li>
+ <li>
+ <a href="http://campusmap.ucdavis.edu/">Campus Map</a>
+ </li>
+ <li>
+ <a href="https://taps.ucdavis.edu/parking">Parking</a>
+ </li>
+ <li>
+ <a href="https://www.ucdavis.edu/jobs/">Jobs</a>
+ </li>
+ <li>
+ <a href="http://www.ucdavisaggies.com/">Athletics</a>
+ </li>
+ <li>
+ <a href="https://www.ucdavis.edu/commencement">Commencement</a>
+ </li>
+ <li>
+ <a href="https://shcs.ucdavis.edu/">Student Health</a>
+ </li>
+ <li>
+ <a href="https://my.ucdavis.edu/schedulebuilder/">Schedule Builder</a>
+ </li>
+ <li>
+ <a href="http://www.alumni.ucdavis.edu/">Alumni</a>
+ </li>
+ <li>
+ <a href="http://ucdavisstores.com/">UC Davis Stores</a>
+ </li>
+ </ul>
+ </nav>
+ </div>
+ <nav class="header__menu" aria-label="Main Top">
+ <ul>
+ <li><a href="/">Home</a></li>
+ <li><a href="https://registrar.ucdavis.edu/calendar">Academic Calendars</a></li>
+ <li><a href="/departments-programs-degrees/#programsanddegreestext">Programs A-Z</a></li>
+ <li><a href="/courses-subject-code/">Courses A-Z</a></li>
+ <li><a href="/undergraduate-education">Undergraduate</a></li>
+ <li><a href="/graduate">Graduate</a></li>
+ <li><a href="/degree-explorer">Degree Explorer</a></li>
+ <li><a href="/course-search/">Course Search</a></li>
+ </ul>
+ </nav>
+
+ </div>
+ </div>
+ </div>
+</header>
+
+<main id="contentarea">
+ <header id="local-header">
+ <h1 class="page-title"><span class="title-main">Page Not Found; Dang! 
+ </span>
+ </h1>
+ </header>
+ 
+ <div class="columns">
+ <div id="col-content" class="col"> 
+
+<div id="textcontainer" class="page_content">
+
+<p style="text-align:center">The URL /departments-programs-degrees/sociology-organizational-studies/ba-sociology-organizational-studies was not found in the catalog.</p>
+<div class="text-align-center">
+<p style="text-align:center"><strong>We are unable to provide what you are looking for,<br/>
+so this page is where you ended up.<br/>
+How about trying, again? Or you can go back <a href="http://catalog.ucdavis.edu/">home</a>.</strong></p>
+<p style="text-align:center"><img alt="404 Error" src="http://local-resources.ucdavis.edu/local_resources/images/404Error.png" width="403" height="358"/></p>
+</div></div><!--end #textcontainer -->
+
+ </div><!-- end col-content -->
+ <div id="col-nav">
+ <aside id="sidebar">
+ <div class="sidebar-item">
+ <nav id="cl-menu" class="togglenav" aria-label="Primary">
+
+<ul class="nav levelzero" id="/">
+<li><a href="https://registrar.ucdavis.edu/calendar/">Academic Calendars</a></li>
+<li><a href="https://www.ucdavis.edu/campus-life/">Campus Life</a></li>
+<li><a href="https://my.ucdavis.edu/">Student Life</a></li>
+<li class="isparent"><div class="toggle-wrap clearfix"><a href="/academic-information-policies-regulations/">Policies, Procedures, &amp;&#8203; Regulations</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Policies, Procedures, &amp;&#8203; Regulations</span></button></div>
+ <ul class="nav levelone" id="/academic-information-policies-regulations/">
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="/academic-information-policies-regulations/registration-course-load/">Registration &amp;&#8203; Course Load</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Registration &amp;&#8203; Course Load</span></button></div>
+ <ul class="nav leveltwo" id="/academic-information-policies-regulations/registration-course-load/">
+ <li><a href="/academic-information-policies-regulations/registration-course-load/adding-dropping-courses/">Adding &amp;&#8203; Dropping Courses</a></li>
+ <li><a href="/academic-information-policies-regulations/registration-course-load/late-actions/">Late Actions</a></li>
+ <li><a href="/academic-information-policies-regulations/registration-course-load/register-for-classes/">Register for Classes</a></li>
+ <li><a href="/academic-information-policies-regulations/registration-course-load/registration-pass-times/">Registration Pass Times</a></li>
+ </ul>
+</li>
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="/academic-information-policies-regulations/academic-credit/">Academic Credit</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Academic Credit</span></button></div>
+ <ul class="nav leveltwo" id="/academic-information-policies-regulations/academic-credit/">
+ <li><a href="/academic-information-policies-regulations/academic-credit/simultaneous-enrollment/">Simultaneous Enrollment at a Non-&#8203;University of California</a></li>
+ <li><a href="/academic-information-policies-regulations/academic-credit/advanced-placement-ap-examinations/">Advanced Placement (AP) Credit &amp;&#8203; Chart</a></li>
+ <li><a href="/academic-information-policies-regulations/academic-credit/international-baccalaureate-ib-examinations/">International Baccalaureate (IB) Credit &amp;&#8203; Chart</a></li>
+ <li><a href="/academic-information-policies-regulations/academic-credit/ap-ib-charts-archive/">AP &amp;&#8203; IB Charts Archive </a></li>
+ </ul>
+</li>
+ <li><a href="/academic-information-policies-regulations/academic-standing/">Academic Standing</a></li>
+ <li><a href="/academic-information-policies-regulations/examinations/">Examinations</a></li>
+ <li><a href="/academic-information-policies-regulations/general-appeal/">General Appeal</a></li>
+ <li><a href="/academic-information-policies-regulations/grades-grading/">Grades &amp;&#8203; Grading</a></li>
+ <li><a href="https://grad.ucdavis.edu/policies?./">Graduate Studies Policies</a></li>
+ <li><a href="/academic-information-policies-regulations/honors-awards/">Honors &amp;&#8203; Awards</a></li>
+ <li><a href="/academic-information-policies-regulations/leaving-uc-davis/">Leaving UC Davis</a></li>
+ <li><a href="/academic-information-policies-regulations/completing-your-degree/">Completing Your Degree</a></li>
+ <li><a href="/academic-information-policies-regulations/returning-uc-davis/">Returning to UC Davis</a></li>
+ <li><a href="/academic-information-policies-regulations/retroactive-changes/">Retroactive Changes</a></li>
+ <li><a href="/academic-information-policies-regulations/student-conduct-responsibilities/">Student Conduct &amp;&#8203; Responsibilities</a></li>
+ </ul>
+</li>
+<li class="isparent"><div class="toggle-wrap clearfix"><a href="/academic-advising-student-services/">Academic Advising &amp;&#8203; Support Services</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Academic Advising &amp;&#8203; Support Services</span></button></div>
+ <ul class="nav levelone" id="/academic-advising-student-services/">
+ <li><a href="/academic-advising-student-services/student-support-services/">Student Support Services</a></li>
+ </ul>
+</li>
+<li class="isparent"><div class="toggle-wrap clearfix"><a href="/undergraduate-education/">Undergraduate Education</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Undergraduate Education</span></button></div>
+ <ul class="nav levelone" id="/undergraduate-education/">
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="/undergraduate-education/university-degree-requirements/">University Degree Requirements</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle University Degree Requirements</span></button></div>
+ <ul class="nav leveltwo" id="/undergraduate-education/university-degree-requirements/">
+ <li><a href="/undergraduate-education/university-degree-requirements/entry-level-writing/">Entry Level Writing Requirement (ELWR)</a></li>
+ <li><a href="/undergraduate-education/university-degree-requirements/american-history-institutions-requirement/">American History &amp;&#8203; Institutions Requirement</a></li>
+ <li><a href="/undergraduate-education/university-degree-requirements/unit-requirements-limitations/">Unit Requirements &amp;&#8203; Limitations</a></li>
+ <li><a href="/undergraduate-education/university-degree-requirements/senior-residence-requirements/">Senior Residence Requirements</a></li>
+ <li><a href="/undergraduate-education/university-degree-requirements/general-education-ge-requirements/">General Education (GE) Requirements</a></li>
+ <li><a href="/undergraduate-education/university-degree-requirements/scholarship-requirement/">Scholarship Requirement</a></li>
+ </ul>
+</li>
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="/undergraduate-education/college-degree-requirements/">College/&#8203;School Degree Requirements</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle College/&#8203;School Degree Requirements</span></button></div>
+ <ul class="nav leveltwo" id="/undergraduate-education/college-degree-requirements/">
+ <li><a href="/undergraduate-education/college-degree-requirements/agricultural-environmental-sciences/">Agricultural &amp;&#8203; Environmental Sciences </a></li>
+ <li><a href="/undergraduate-education/college-degree-requirements/biological-sciences/">Biological Sciences</a></li>
+ <li><a href="/undergraduate-education/college-degree-requirements/engineering/">Engineering</a></li>
+ <li><a href="/undergraduate-education/college-degree-requirements/graduate-school-of-management/">Graduate School of Management</a></li>
+ <li><a href="/undergraduate-education/college-degree-requirements/letters-science/">Letters &amp;&#8203; Science</a></li>
+ </ul>
+</li>
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="/undergraduate-education/fees-costs-financial-aid/">Fees, Costs, &amp;&#8203;​ Financial Aid</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Fees, Costs, &amp;&#8203;​ Financial Aid</span></button></div>
+ <ul class="nav leveltwo" id="/undergraduate-education/fees-costs-financial-aid/">
+ <li><a href="/undergraduate-education/fees-costs-financial-aid/tuition-residence/">Tuition &amp;&#8203; Residence </a></li>
+ <li><a href="/undergraduate-education/fees-costs-financial-aid/course-materials-service-fees/">Course Materials &amp;&#8203; Service Fees</a></li>
+ <li><a href="/undergraduate-education/fees-costs-financial-aid/part-time-employee-student-fees/">Part-&#8203;Time &amp;&#8203; Employee Students Fees</a></li>
+ <li><a href="/undergraduate-education/fees-costs-financial-aid/non-payment/">Drop for Non-&#8203;Payment &amp;&#8203; Student Payment Deadline</a></li>
+ <li><a href="/undergraduate-education/fees-costs-financial-aid/fee-refunds/">Fee Refunds</a></li>
+ </ul>
+</li>
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="/additional-education-opportunities/">Additional Education Opportunities</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Additional Education Opportunities</span></button></div>
+ <ul class="nav leveltwo" id="/additional-education-opportunities/">
+ <li><a href="/additional-education-opportunities/bodega-marine-laboratory-program/">Bodega Marine Laboratory Program</a></li>
+ <li><a href="/additional-education-opportunities/first-year-seminar-program/">First-&#8203;Year Seminar Program</a></li>
+ <li><a href="/additional-education-opportunities/global-learning-hub/"> Global Learning Hub</a></li>
+ <li><a href="/additional-education-opportunities/independent-study-program/">Independent Study Program</a></li>
+ <li><a href="/additional-education-opportunities/internship-program/">Internship Program</a></li>
+ <li><a href="/additional-education-opportunities/quarter-at-aggie-square/">Quarter at Aggie Square</a></li>
+ <li><a href="/additional-education-opportunities/summer-sessions/">Summer Sessions</a></li>
+ <li><a href="/additional-education-opportunities/uc-center-sacramento/">UC Center Sacramento</a></li>
+ <li><a href="/additional-education-opportunities/uc-washington-program-ucdc/">UC Washington Program (UCDC)</a></li>
+ <li><a href="/additional-education-opportunities/university-honors-program/">University Honors Program</a></li>
+ </ul>
+</li>
+ <li><a href="/undergraduate-education/bachelors-degree-requirements-archive/">Bachelor’s Degree Requirements Archive</a></li>
+ </ul>
+</li>
+<li class="isparent"><div class="toggle-wrap clearfix"><a href="/graduate/">Graduate &amp;&#8203; Professional Education</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Graduate &amp;&#8203; Professional Education</span></button></div>
+ <ul class="nav levelone" id="/graduate/">
+ <li><a href="https://www.ucdavis.edu/admissions/graduate-school/">Graduate Admissions</a></li>
+ <li><a href="https://grad.ucdavis.edu/senior-academic-advisors-graduate-studies/">Graduate Studies Advising</a></li>
+ <li><a href="https://www.ucdavis.edu/admissions/professional-school-admissions/">Professional School Admissions</a></li>
+ <li class="isparent"><div class="toggle-wrap clearfix"><a href="https://gradstudies.ucdavis.edu/tuition-and-fees/">Tuition &amp;&#8203; Fees</a><button onclick="toggleNav(this); return false;" class="arrow-wrap" aria-expanded="false"><span class="arrow">Toggle Tuition &amp;&#8203; Fees</span></button></div>
+ <ul class="nav leveltwo" id="https://gradstudies.ucdavis.edu/tuition-and-fees/">
+ <li><a href="https://registrar.ucdavis.edu/tuition/non-payment/">Drop for Non-&#8203;Payment </a></li>
+ <li><a href="https://grad.ucdavis.edu/financial-support?./">Financial Support</a></li>
+ <li><a href="https://grad.ucdavis.edu/financial-aid/"> Financial Aid</a></li>
+ </ul>
+</li>
+ <li><a href="https://grad.ucdavis.edu/withdrawal-readmission/">Withdrawal &amp;&#8203; Readmission</a></li>
+ </ul>
+</li>
+<li><a href="/about-courses/">About Courses</a></li>
+</ul>
+ </nav>
+ </div>
+ 
+ <button id="print-btn" href="#print-dialog" onclick="showPrintDialog(); return false;">
+ <img src="/images/print-option.png" alt="Print Icon" />
+ Print Options
+ </button>
+ </aside>
+ </div> <!-- end col-nav -->
+ </div><!-- end .columns -->
+
+</main>
+
+<footer id="footer">
+ <div class="wrap">
+ <div class="footer__logo">
+ <a href="https://www.ucdavis.edu">
+ <img src="/images/aggie-logo-white.svg" alt="UC Davis" >
+ </a>
+ </div>
+ <div class="footer__links">
+ <ul class="list--pipe">
+ <li><a href="mailto:Catalog-Comment@ucdavis.edu">Questions or comments?</a></li>
+ <li><a href="https://ucdavis.edu/help/privacy-accessibility.html">Privacy &amp; Accessibility</a></li>
+ <li><a href="/catalogcontents">Sitemap</a></li>
+ <li>Publication date: 
+April 28, 2025 </li>
+ </ul>
+ <p>Copyright &copy; The Regents of the University of California, Davis campus. All rights reserved.</p>
+ 
+ <p>This General Catalog is not a contract nor an offer to enter into a contract. While every effort is made to ensure the accuracy of the information provided in this General Catalog, it must be understood that all courses, course descriptions, designations of instructors, curricular and degree requirements and other academic information described herein are subject to change or elimination at any time without notice or published amendment to this catalog. In addition, The University of California reserves the right to make changes at any time, without prior notice, to other programs, policies, procedures, and information, which are described in this General Catalog only as a convenience to its readers. Fees and all other charges are subject to change at any time without notice. Students should consult the appropriate academic or administrative department, school, college, graduate division or other service provider for currently accurate information on any maters described in this General Catalog; contact information is available at <a href="http://ucdavis.edu">http://ucdavis.edu</a>.</p>
+ </div>
+ </div>
+
+ <a href="#header" id="totop"><span class="sr-only">Back to top</span></a>
+</footer>
+
+<aside id="print-dialog" aria-labelledby="dialog-title" class="screen" role="dialog">
+ <div class="print-header">
+ <button onclick="hidePrintDialog(); return false;" aria-controls="#print-dialog">
+ <span class="sr-only">Close this window</span>
+ </button>
+ <h2 id="dialog-title">Print Options</h2>
+ </div>
+ <div class="print-body">
+ <ul>
+ <li>
+ <p><a class="option-name" href="#" role="button" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a></p>
+ <p class="option-desc">Print this page.</p>
+ </li>
+<li><p><a class="option-name" href="/pdf/GenCat20252026.pdf" target="_blank">UC Davis 2025-2026 General Catalog</a></p><p class="option-desc">A PDF of the entire 2025-2026 catalog.</p></li> </ul>
+ </div>
+</aside>
+
+</body>
+</html>

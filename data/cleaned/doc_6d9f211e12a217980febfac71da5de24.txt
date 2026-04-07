@@ -1,0 +1,246 @@
+• Skip Nav
+• Accessibility
+• Calendar
+• Directory
+• A to Z
+• Webmail
+• Advanced Search
+• Home
+• Majors
+• Minors
+• Policies & Procedures
+• General Education
+• Graduate Studies
+• Faculty
+• Courses
+• Overview
+• Programs
+• Faculty
+• Courses
+
+PROGRAM:
+COMPUTER SCIENCE, B.S.
+
+• email
+• print
+• Home
+• /
+• Programs
+• /
+• Computer Science, B.S.
+
+PROGRAM DESCRIPTION
+
+The B.S. degree in Computer Science provides a broad knowledge of computing and is designed for students who desire: (a) to pursue graduate work in computer science and (b) to work on the development and support of software projects in a diverse range of specialized areas. The Computer Science degree consists of a set of core courses and a 15-unit senior electives package. The core of the program covers programming languages, computer system organization, operating systems, data structures, software engineering, computation theory and societal implications in computing. The senior electives package allows students to specialize in such fields as artificial intelligence, embedded applications, networking, gaming, graphics, software engineering and security.
+
+ACCREDITATION
+
+The Bachelor of Science in Computer Science is accredited by the Computing Accreditation Commission of ABET,
+https://www.abet.org
+, under the commission’s General Criteria and Program Criteria for Computer Science and Similarly Named Computing Programs.
+
+PROGRAM REQUIREMENTS
+
+The B.S. in Computer Science program requires a total of 120 units, including General Education requirements, major core courses and a 15-unit senior electives package. To graduate, a student must complete a minimum of 18 residency units from the list of upper division required courses listed below, in addition to all other institutional residency requirements.
+
+LAPTOP REQUIREMENT
+
+All incoming freshmen and transfer students in the Computer Science major are required to have personal and continuous access to a laptop computer when they enter the program. This laptop must meet the minimum requirements of the Computer Science department. For questions about this requirement, please contact the Department of Computer Science at (818) 677-3398. See
+Laptop Requirement—Minimum Specification
+for detailed information regarding the laptop and software specifications. Students receiving financial aid are encouraged to consult with the
+Financial Aid and Scholarships Department
+for assistance associated with required technology costs.
+
+SPECIAL GRADE REQUIREMENTS
+
+Carefully check course prerequisites, as many courses in the major require grades of “C” or better in prerequisite courses.
+
+No grade lower than a “C” will be accepted on transfer from another institution to satisfy Computer Science requirements. Where specific grade requirements are not specified, no CSUN grade lower than a “C-” will be accepted for courses required in the Computer Science program.
+
+1. LOWER DIVISION REQUIRED COURSES (38-40 UNITS)
+
+COMP 110/L Introduction to Algorithms and Programming and Lab (3/1)
+or
+COMP 111A/L
+and
+COMP 111B/L
+Introduction to Algorithms and Programming and Lab (2/1, 2/1)
+
+COMP 122/L Computer Architecture and Assembly Language and Lab (3/1)
+
+COMP 182/L Data Structures and Program Design and Lab (3/1)
+
+COMP 222 Computer Organization (3)
+
+COMP 256/L Discrete Structures for Computer Science and Lab (3/1)
+
+COMP 282 Advanced Data Structures (3)
+
+MATH 150A Calculus I (5)
+
+MATH 150B Calculus II (5)
+
+MATH 262 Introduction to Linear Algebra (3)
+
+PHIL 230 Introduction to Formal Logic (3)
+
+2. LOWER DIVISION SCIENCE ELECTIVES (8-9 UNITS)
+
+SELECT ONE OF THE FOLLOWING LIFE SCIENCE COURSES WITH LAB (4 UNITS):
+
+BIOL 106
+and
+BIOL 106L
+Biological Principles I and Lab (3/1)
+BIOL 107
+and
+BIOL 107L
+Biological Principles II and Lab (3/1)
+GEOL 110
+and
+GEOL 112
+The Fossil Record of Ancient Life on Earth and Lab (3/1)*
+
+SELECT ONE OF THE FOLLOWING PHYSICAL SCIENCE COURSES WITH LAB (4-5 UNITS):
+
+CHEM 101
+and
+CHEM 101D
+and
+CHEM 101L
+General Chemistry I and Discussion and Lab (3/1/1)
+GEOG 101
+and
+GEOG 102
+The Physical Environment and Lab (3/1)
+GEOG 103
+and
+GEOG 105
+Weather and Lab (3/1)
+GEOL 101
+and
+GEOL 102
+Geology of Planet Earth and Lab (3/1)
+GEOL 110
+and
+GEOL 112
+The Fossil Record of Ancient Life on Earth and Lab (3/1)*
+PHYS 220A
+and
+PHYS 220AL
+Mechanics and Lab (3/1)
+
+*
+GEOL 110
+and
+GEOL 112
+can be used to satisfy at most one of the above requirements.
+
+3. UPPER DIVISION REQUIRED COURSES (29 UNITS)
+
+Before taking upper division courses in Computer Science, students must be admitted to the Computer Science major/minor programs, the Computer Information Technology major program, the Data Science minor program, the Computer Engineering major program or the Information Systems/Information Technology major program.
+
+COMP 310 Automata, Languages and Computation (3)
+
+COMP 322/L Introduction to Operating Systems and System Architecture and Lab (3/1)
+
+COMP 324 Computer Networking and Security (3)
+
+COMP 333 Concepts of Programming Languages (3)
+
+COMP 380/L Introduction to Software Engineering and Lab (2/1)
+
+COMP 482 Algorithm Design and Analysis (3)
+or
+MATH 482 Combinatorial Algorithms (3)
+
+COMP 490/L Senior Design Project I and Lab (2/1)
+
+COMP 491/L Senior Design Project II and Lab (2/1)
+
+MATH 340 Introduction to Probability and Statistics (4)
+
+4. UPPER DIVISION ELECTIVES (15 UNITS)
+
+Computer Science majors are required to take 15 units of senior electives.
+
+The senior electives must consist of 15 units of 400- or 500-level courses in Computer Science (not COMP 482, 490/L, 491/L, 492, 494, 499, or 502). The electives may include
+MATH 481A
+(Numerical Analysis) as 3 of the 15 units.
+
+Requests for taking a 400- or 500-level course as a senior elective that does not meet the requirements stated above must be approved by the student’s faculty advisor and by the department chair prior to enrollment in the course.
+
+It is strongly recommended that students discuss their career goals with an advisor prior to selecting their senior electives. The advisor will suggest appropriate courses for the student to consider.
+
+5. GENERAL EDUCATION (43 UNITS)
+
+Undergraduate students must complete 43 units of
+General Education
+as described in this Catalog, including 3 units of coursework meeting the
+Ethnic Studies (E.S.)
+requirement.
+
+16 units are satisfied by coursework in the major.
+PHIL 230
+satisfies Area 1B Critical Thinking; Lower division science electives satisfy sections 5A-5C;
+MATH 150A
+satisfies Basic Skills Area 2 Mathematical Concepts and Quantitative Reasoning;
+COMP 310
+satisfies Area 2 Mathematical Concepts and Quantitative Reasoning, Upper Division.
+COMP 310
+taken at CSUN may count as Writing Intensive.
+
+6. CAMPUS REQUIREMENTS (6 UNITS)
+
+Undergraduate students must complete 6 units of
+Campus Requirements
+as described in this Catalog.
+COMP 110/L
+or
+COMP 111B/L
+meets the Lifelong Learning requirement.
+
+TOTAL UNITS IN THE MAJOR: 90-93
+
+GENERAL EDUCATION UNITS: 27
+
+CAMPUS REQUIREMENT UNITS: 3
+
+TOTAL UNITS REQUIRED FOR THE B.S. DEGREE: 120-123
+
+CONTACT
+
+PROGRAM LEARNING OUTCOMES
+
+Students receiving a Bachelor of Science in Computer Science will be able to:
+
+• Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
+• Design, implement and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+• Communicate effectively in a variety of professional contexts.
+• Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+• Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+• Apply computer science theory and software development fundamentals to produce computing-based solutions.
+
+DEGREE ROAD MAPS
+
+Computer Science (2025-Present)
+
+Previous Years
+
+TRANSFER ROAD MAPS
+
+Computer Science (2023-Present)
+
+Previous Years
+
+ADT/STAR ACT DEGREE ROAD MAPS
+
+Students who have graduated with a verified Associate Degree for Transfer and have been admitted to a CSUN program that has been deemed similar will be able to complete the baccalaureate degree within 60 semester units. For additional information, see
+ADT/STAR Act Degree Road Maps
+.
+
+Computer Science - AS-T in Computer Science (2023-Present)
+
+Previous Years
+
+View Catalog Archives, Degree Road Maps and external resources here:

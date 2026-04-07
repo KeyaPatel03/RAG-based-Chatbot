@@ -73,23 +73,3 @@ While launches may feel like the end of a process, for us, it’s just the begin
 You helped us build it, now help us improve it
 .
 We know there are more stories to be told beyond this first release, and we want to hear from you.
-
-DATA POINTS AND SOURCES USED FOR THIS STORY
-
-• Completed High School
-• District Name
-• Earned a Postsecondary Award
-• Enrolled in College
-• Foster Youth
-• Homeless Status
-• Institution Attended
-• Race/Ethnicity
-• Sex/Gender
-• Type of Community College Award
-• Type of First-Time Enrollment
-• Type of Four-Year Award
-• Wage Record
-
-LEARN ABOUT DATA SYSTEM PRIVACY.
-
-All of the student data we use in our stories is anonymous. Student personal information is never collected or displayed on C2C.

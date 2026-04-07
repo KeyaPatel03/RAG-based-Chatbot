@@ -1,0 +1,1027 @@
+• HOME
+• courses
+• Economics
+
+ECONOMICS
+
+[
+undergraduate program
+|
+graduate program
+|
+faculty
+]
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+COURSES
+
+For course descriptions not found in the
+UC San Diego General Catalog 2025–26
+, please contact the department for more information.
+
+LOWER DIVISION
+
+ECON 1. Principles of Microeconomics (4)
+
+Introduction to the study of the economic system. Course will introduce the standard economic models used to examine how individuals and firms make decisions in perfectly competitive markets, and how these decisions affect supply and demand in output markets.
+
+ECON 2. Market Imperfections and Policy (4)
+
+Analysis of monopoly and imperfectly competitive markets, market imperfections and the role of government.
+Prerequisites:
+ECON 1.
+
+ECON 3. Principles of Macroeconomics (4)
+
+Introductory macroeconomics: unemployment, inflation, business cycles, monetary and fiscal policy.
+Prerequisites:
+ECON 1.
+
+ECON 4. Financial Accounting (4)
+
+(Cross-listed with MGT 4.) Recording, organizing, and communicating financial information relating to business entities. Credit not allowed for both ECON 4 and MGT 4.
+
+ECON 5. Data Analytics for the Social Sciences (4)
+
+(Cross-listed with POLI 5D.) Students engage in hands-on learning with applied social science problems. The course teaches the basics of data management and collection, data analysis, and data visualization. To perform these analyses, students learn how to code in various programming software, including Excel, Stata, and R. Students may receive credit for only one of the following courses: ECON 5, POLI 5, POLI 5D, ECON 5R.
+
+POLI 5R, POLI 5DR, ECON 5R. Data Analytics for the Social Sciences (4)
+
+(Cross-listed with POLI 5DR.) Students engage in hands-on learning with applied social science problems. The course teaches the basics of data management and collection, data analysis, and data visualization. To perform these analyses, students learn how to code in various programming software, including Excel, Stata, and R. Students may receive credit for only one of the following courses: ECON 5, POLI 5, POLI 5D, ECON 5R.
+
+ECON 86. 10x10 Career Lessons (2)
+
+This course empowers students to identify the essential skills needed for their professional aspirations and to design their career paths. Through instruction and through interactions with industry experts, UC San Diego alumni, and career advisers, students learn about real-world career insights and essential competencies. Students also learn about effective strategies to leverage these skills and pursue their individual career trajectories.
+
+ECON 87. First-year Student Seminar (1)
+
+The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students. May be repeated when course topics vary. (P/NP grades only.)
+
+UPPER DIVISION
+
+ECON 100A. Microeconomics A (4)
+
+Economic analysis of household choices for the demand of goods and services. Analysis of firms’ production and costs and the supply of output. Analysis of perfectly competitive markets and introduction to general equilibrium.
+Prerequisites:
+ECON 1 and MATH 10C or 20C or 31BH.
+
+ECON 100B. Microeconomics B (4)
+
+Game theory and analysis of the effects of imperfect market structure, strategy and information economics, public goods, and externalities.
+Prerequisites:
+ECON 100A.
+
+ECON 100C. Microeconomics C (4)
+
+Advanced analysis of production, costs, the supply of output, and demand for factors of production. Advanced analysis of the demand for goods and services. Applications to consumption and saving decisions, strategic behavior, and the supply of labor. General equilibrium and welfare.
+Prerequisites:
+ECON 100B.
+
+ECON 100AH. Honors Microeconomics A (1)
+
+Honors sequence expanding on the material taught in ECON 100A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100A or after successful completion of ECON 100A with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 100BH. Honors Microeconomics B (1)
+
+Honors sequence expanding on the material taught in ECON 100B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100B or after successful completion of ECON 100B with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 100CH. Honors Microeconomics C (1)
+
+Honors sequence expanding on the material taught in ECON 100C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 100C or after successful completion of ECON 100C with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 101. International Trade (4)
+
+Examines theories of international trade in goods and services and relates the insights to empirical evidence. Explains international trade at the level of industries and firms and analyzes the consequences of trade for resource allocation, welfare, and the income distribution. Discusses sources of comparative advantage, motives for trade policies, and the effects of trade barriers and trading blocs on welfare and incomes.
+Prerequisites:
+ECON 100B or 102.
+
+ECON 102. Globalization (4)
+
+Presents theories of global economic integration, grounded in the principle of comparative advantage. Investigates patterns of trade when trade is balanced and capital flows when trade is not balanced. Assesses the consequences of global economic integration and economic policies for industry location, incomes, welfare and economic growth, and studies goods, services and sovereign debt markets.
+Prerequisites:
+ECON 1 or 100B and 2 or 3 or MATH 20C.
+
+ECON 102T. Advanced Topic in Globalization (2)
+
+This course presents a selection of empirical applications and advanced topics that build on the material covered in ECON 102, Globalization. Students have the opportunity to analyze global trade and capital market data and to prepare a presentation and brief paper on a specific topic.
+Prerequisites:
+department approval required. May be taken concurrently with ECON 102 or after completion of ECON 102.
+
+ECON 103. International Monetary Relations (4)
+
+Analyzes exchange rates and the current account. Relates their joint determination to financial markets and the real-side macroeconomy using international macroeconomic models and presents empirical regularities. Discusses macroeconomic policies under different exchange rate regimes and implications for financial stability and current account sustainability.
+Prerequisites:
+ECON 102 or 110B or 173A.
+
+ECON 104. Nobody’s Fool: Economics with Morals (2)
+
+The prevailing paradigm in economics is self-interest, but what if acting unselfishly is what is in your self-interest? We will explore economic questions from the viewpoint that individuals have moral values that guide how they live. This allows us to address issues like fairness, love, marriage, giving, identity, conformity, discrimination, crime, punishment, and reparations.
+Prerequisites:
+ECON 100C.
+
+ECON 105. Industrial Organization and Firm Strategy (4)
+
+Theory of monopoly and oligopoly pricing, price discrimination, durable goods pricing, cartel behavior, price wars, strategic entry barriers, mergers, pro- and anticompetitive restraints on business.
+Prerequisites:
+ECON 100C.
+
+ECON 106. International Economic Agreements (4)
+
+Examines reasons for international economic agreements, their design, the strategic interactions that determine how the agreements are implemented and sustained, and consequences for global welfare and inequality. Draws on international economics, game theory, law and economics, and political economy to understand international economic agreements. These tools are used to understand multilateral trade and investment agreements, such as NAFTA, and international organizations, such as the WTO.
+Prerequisites:
+ECON 100B and 102.
+
+ECON 107. Economic Regulation and Antitrust Policy (4)
+
+Detailed treatment of antitrust policy: Sherman Act, price fixing, collusive practices, predatory pricing, price discrimination, double marginalization, exclusive territories, resale price maintenance, refusal to deal, and foreclosure. Theory of regulation and regulatory experience in electrical utilities, oil, telecommunications, broadcasting, etc.
+Prerequisites:
+ECON 2 or 100B; and MATH 10C or 20C or 31BH.
+
+ECON 109. Game Theory (4)
+
+Introduction to game theory. Analysis of people’s decisions when the consequences of the decisions depend on what other people do. This course features applications in economics, political science, and law.
+Prerequisites:
+ECON 100C or MATH 31CH or MATH 109 or (CSE 20 and MATH 20 C).
+
+ECON 109T. Advanced Topics in Game Theory (2)
+
+This course presents a selection of applications and advanced topics that build on the material covered in the ECON 109. Game Theory course.
+Prerequisites:
+department approval required. May be taken concurrently with ECON 109 or after completion of ECON 109.
+
+ECON 110A. Long Run Macroeconomics (4)
+
+Analysis of the determination of long run growth and models of the determination of output, interest rates, and the price level. Analysis of inflation, unemployment, and monetary and fiscal policy.
+Prerequisites:
+ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH.
+
+ECON 110B. Short Run Macroeconomics (4)
+
+Analysis of the determination of consumption spending at the aggregate level; extension of the basic macro model to include exchange rates and international trade; the aggregate money supply, and the business cycle.
+Prerequisites:
+ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH.
+
+ECON 110AH. Honors Macroeconomics A (1)
+
+Honors sequence expanding on the material taught in ECON 110A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110A or after successful completion of ECON 110A with A–or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 110BH. Honors Macroeconomics B (1)
+
+Honors sequence expanding on the material taught in ECON 110B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 110B or after successful completion of ECON 110B with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 111. Monetary Economics (4)
+
+Financial structure of the US economy. Bank behavior. Monetary control.
+Prerequisites:
+ECON 110B.
+
+ECON 112. Macroeconomic Data Analysis (4)
+
+Examines time series methods for data analysis with an emphasis on macroeconomic applications. Students are provided with an overview of fundamental time series techniques, hands-on experience in applying them to real-world macroeconomic data, and expertise in performing empirical tests of policy-relevant macroeconomic theories, such as the permanent income hypothesis, the Keynesian fiscal multiplier, and the Phillips curve.
+Prerequisites:
+ECON 110B and ECON 120B or MATH 181B. Enrollment limited to majors in the Department of Economics and MA33 only.
+
+ECON 113. Mathematical Economics (4)
+
+Mathematical concepts and techniques used in advanced economic analysis; applications to selected aspects of economic theory.
+Prerequisites:
+ECON 100C or MATH 140A or MATH 142A and MATH 18 or MATH 31AH.
+
+ECON 116. Economic Development (4)
+
+Introduction to the economics of less developed countries, covering their international trade, human resources, urbanization, agriculture, income distribution, political economy, and environment.
+Prerequisites:
+ECON 2 or 100B.
+
+ECON 117. Economic Growth (4)
+
+Basic economic dynamics, consumption versus growth with fixed or growing populations, the Harrod-Domar growth model, the neoclassical growth model, optimal growth, the Golden Rule, money and economic growth, technological progress and economic growth, human capital and endogenous economic growth, and alternative theories of growth and distribution.
+Prerequisites:
+ECON 100A.
+
+ECON 118. Law and Economics: Torts, Property, and Crime (4)
+
+Uses economic theory to evaluate the economic effects of US law in several legal fields, including tort law (accidents), products liability law, property law, criminal law (law enforcement), and litigation. Also considers risk bearing and why people buy insurance.
+Prerequisites:
+ECON 2 or 100A; and MATH 10A or 20A.
+
+ECON 119. Law and Economics: Contracts and Corporations (4)
+
+This course asks how firms are organized and why the corporate form dominates, how corporations are governed and the distortions that result, when firms borrow and how they deal with financial distress and bankruptcy. The course will present basic legal doctrines in corporate law, contract law, debtor-creditor law, and bankruptcy, and use economic models to analyze whether and when these doctrines promote economically efficient behavior.
+Prerequisites:
+ECON 2 or 100A and MATH 10A or 20A.
+
+ECON 120A. Econometrics A (4)
+
+Probability and statistics used in economics. Probability and sampling theory, statistical inference, and use of spreadsheets. Credit not allowed for ECON 120A after ECE 109, MAE 108, MATH 180A, MATH 183, or MATH 186.
+Prerequisites:
+ECON 1; and MATH 10C or 20C or 31BH.
+
+ECON 120B. Econometrics B (4)
+
+Basic econometric methods, including the linear regression, hypothesis testing, quantifying uncertainty using confidence intervals, and distinguishing correlation from causality. Credit not allowed for both ECON 120B after MATH 181B.
+Prerequisites:
+ECON 120A or ECE 109 or MAE 108 or MATH 180A or MATH 183 or MATH 186.
+
+ECON 120C. Econometrics C (4)
+
+This course covers causal inference methods in econometrics. Students are introduced to commonly used causal inference methods in economics, business, and public policy for identifying and estimating causal effects. The main topics are causality and causal models, experiments and quasi-experiments, instrumental variable regression, panel data methods, difference-in-difference, and regression discontinuity designs.
+Prerequisites:
+ECON 120B or MATH 181B.
+
+ECON 120AH. Honors Econometrics A (1)
+
+Honors sequence expanding on the material taught in ECON 120A. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120A or after successful completion of ECON 120A with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 120BH. Honors Econometrics B (1)
+
+Honors sequence expanding on the material taught in ECON 120B. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120B or after successful completion of ECON 120B with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 120CH. Honors Econometrics C (1)
+
+Honors sequence expanding on the material taught in ECON 120C. Major GPA of 3.5 or better required. May be taken concurrently with ECON 120C or after successful completion of ECON 120C with A– or better or consent of instructor. Priority enrollment given to majors in the department.
+Prerequisites:
+department approval required.
+
+ECON 121. Applied Econometrics and Data Analysis (4)
+
+Theoretically develops extensions to the standard econometric toolbox, studies their application in scientific research, and applies them to data. Emphasis is on using techniques, and on understanding and critically assessing others’ use of them. Requires practical work on the computer using a range of data from around the world. Topics include advanced regression analysis, limited dependent variables, nonparametric methods, and new methods for causal inference.
+Prerequisites:
+(ECON 120B or MATH 181B) and (ECON 120C or ECON 5 or POLI 5 or POLI 5D).
+
+ECON 122. Econometric Theory (4)
+
+Detailed study of the small sample and asymptotic properties of estimators commonly used in applied econometric work: multiple linear regression, instrumental variables, generalized method of moments, and maximum likelihood. Econometric computation using MATLAB. Recommended preparation: ECON 120C.
+Prerequisites:
+ECON 120B or MATH 181B and MATH 18 or MATH 31AH.
+
+ECON 125. The Science of Population (4)
+
+Explores how to measure and understand the forces that shape human population and its interaction with social, economic, and natural environments. Topics include the growth rate and structure of population, as well as mortality, fertility, migration, and their drivers. Emphasizes analysis of demographic data using statistical programming. Applications focus on differences between the past and present, between rich and poor countries, and between racial and ethnic groups within the United States.
+Prerequisites:
+PSYC 60 or MATH 183 or MATH 181A or MATH 11 or ECON 120A or MATH 186 or ECE 109 or MAE 108.
+
+ECON 129. Cities, Inequality, Innovation (4)
+
+Explores the dual role of cities as places of innovation and job creation but also places of great economic inequality and segregation over the last century. Studies the experience of American cities, identifying fundamental forces that made them prosper or decline. Connect cities to observed aggregate trends in innovation, job creation, and economic inequality. Practices use of GIS software to organize and analyze spatial data.
+Prerequisites:
+ECON 110A and (ECON 120A or ECE 109 or MAE 108 or MATH 180A or MATH 183 or MATH 186).
+
+ECON 130. Public Policy (4)
+
+Course uses basic microeconomic tools to discuss a wide variety of public issues, including the war on drugs, global warming, natural resources, health care and safety regulation. Appropriate for majors who have not completed ECON 100A-B-C and students from other departments.
+Prerequisites:
+ECON 2 or 100A.
+
+ECON 131. Economics of the Environment (4)
+
+Environmental issues from an economic perspective. Relation of the environment to economic growth. Management of natural resources, such as forest and fresh water. Policies on air, water, and toxic waste pollution. International issues such as ozone depletion and sustainable development.
+Prerequisites:
+ECON 2 or 100A.
+
+ECON 132. Energy Economics (4)
+
+Energy from an economic perspective. Fuel cycles for coal, hydro, nuclear, oil, and solar energy. Emphasis on efficiency and control of pollution. Comparison of energy use across sectors and across countries. Global warming. Role of energy in the international economy.
+Prerequisites:
+ECON 1 and (ECON 2 or 3 or 100A or 131 or ESYS 103 or MAE 124) and MATH 10C or 20C or 31BH.
+
+ECON 132T. Advanced Topics in Energy Economics (2)
+
+This course presents a selection of applications and advanced topics that build on the material covered in the ECON 132, Energy Economics course.
+Prerequisites:
+ECON 132.
+
+ECON 134. US Budget Policy (4)
+
+The course examines major issues relating to US budget policy, including deficits and debt, distributional and efficiency effects of the tax system, Social Security and disability insurance, and transfer programs. We build on empirical and theoretical tools to give students a framework for understanding the practice of US budget policymaking in relation to current economic debates
+.
+Prerequisites:
+ECON 100A. Enrollment limited to majors in the Department of Economics.
+
+ECON 135. Urban Economics (4)
+
+(Cross-listed with USP 102.) Economic analysis of why cities develop, patterns of land use in cities, why cities suburbanize, and the pattern of urban commuting. The course also examines problems of urban congestion, air pollution, zoning, poverty, crime, and discusses public policies to deal with them. Credit not allowed for both ECON 135 and USP 102.
+Prerequisites:
+ECON 2 or 100A; and MATH 10A or 20A.
+
+ECON 136. Human Resources (4)
+
+A practical yet theory-based study of the firm’s role in managing workers, including issues related to hiring, education and training, promotions, layoffs and buyouts, and the overarching role that worker compensation plays in all of these.
+Prerequisites:
+ECON 100B.
+
+ECON 137. Corruption (4)
+
+This course examines corruption in developing countries today, with the aims of understanding why it occurs, what the consequences are, and what can or should be done about it. In the process, we will endeavor to build practical problem-solving and communication skills. As such, the course is designed for future leaders in business, nonprofit, and public service settings who seek to develop their ability to map high-quality research into pragmatic enterprise decision making.
+Prerequisites:
+ECON 100C and 120C. Enrollment limited to majors in the Department of Economics and MA33 only; department approval required.
+
+ECON 138. Economics of Discrimination (4)
+
+This course will investigate differences in economic outcomes on the basis of race, gender, ethnicity, religion, and sexual orientation. We will study economic theories of discrimination, empirical work testing those theories, and policies aimed at alleviating group-level differences in economic outcomes.
+Prerequisites:
+ECON 1.
+
+ECON 139. Labor Economics (4)
+
+Theoretical and empirical analysis of labor markets. Topics include labor supply, labor demand, human capital investment, wage inequality, labor mobility, immigration, labor market discrimination, labor unions and unemployment.
+Prerequisites:
+ECON 2 or 100B.
+
+ECON 140. Economics of Health Care Production and Finance (4)
+
+Provides an overview of the physician, hospital, and pharmaceutical segments of the health sector. Uses models of physician behavior, for-profit and nonprofit institutions to understand the trade-offs facing health-sector regulators and the administrators of public and private insurance arrangements.
+Prerequisites:
+ECON 2 or ECON 100B.
+
+ECON 141. Economics of Health Consumers (4)
+
+Demand for health care and health insurance, employer provision of health insurance and impact on wages and job changes. Cross-country comparisons of health systems.
+Prerequisites:
+ECON 100C.
+
+ECON 142. Behavioral Economics (4)
+
+Course will study economic models in which standard economic rationality assumptions are combined with psychologically plausible assumptions on behavior. We consider whether the new models improve ability to predict and understand phenomena including altruism, trust and reciprocity, procrastination, and self-control.
+Prerequisites:
+ECON 100B or ECON 109.
+
+ECON 143. Experimental Economics (4)
+
+Explore use of experiments to study individual and interactive (strategic) decision making. Topics may include choice over risky alternatives, altruism and reciprocity, allocation and information aggregation in competitive markets, cooperation and collusion, bidding in auctions, strategy in coordination and “outguessing” games.
+Prerequisites:
+ECON 100C. Enrollment limited to majors in the Department of Economics and MA33 only.
+
+ECON 144. Economics of Conservation (4)
+
+Examines conservation of biodiversity from an economic perspective. Topics include valuing biodiversity, defining successful conservation, and evaluating the cost effectiveness of policies such as conservation payments, ecotourism, and privatization. Emphasis on forests, coral reefs, elephants, tigers, and sea turtles.
+Prerequisites:
+ECON 2 or 100A.
+
+ECON 145. Economics of Ocean Resources (4)
+
+Economic issues associated with oceans. Economics of managing renewable resources in the oceans, with an emphasis on fisheries, economics of conservation and biodiversity preservation for living marine resources, with an emphasis on whales, dolphins, sea turtles, and coral reefs.
+Prerequisites:
+ECON 2 or 100A.
+
+ECON 146. Economic Stabilization (4)
+
+Theory of business cycles and techniques used by governments to stabilize an economy. Discussion of recent economic experience.
+Prerequisites:
+ECON 110B.
+
+ECON 147. Economics of Education (4)
+
+Examination of issues in education using theoretical and empirical approaches from economics. Analysis of decisions to invest in education. Consideration of various market structures in education, including school choice and school finance programs.
+Prerequisites:
+ECON 2 or 100A; and ECON 120B or MATH 181B.
+
+ECON 149. Introduction to Economic Design (4)
+
+The course will examine the theory and practice of designing markets and institutions for strategic agents. We will discuss applications in auctions, voting and social choice, online platforms, resource allocation, and matching markets.
+Prerequisites:
+MATH 109 or MATH 15A or ECON 100A or CSE 21 or CSE 20 or MATH 154 or MATH 188 or MATH 184.
+
+ECON 150. Public Economics: Taxation (4)
+
+Overview of the existing national tax structure in the United States, its effects on individual and firm decisions, and the resulting efficiency costs and distributional consequences. The course concludes with an examination of several commonly-proposed tax reforms.
+Prerequisites:
+ECON 100C.
+
+ECON 151. Public Economics: Expenditures I (4)
+
+Overview of the public sector in the United States and the scope of government intervention in economic life. Theory of public goods and externalities. Discussion of specific expenditure programs such as education and national defense.
+Prerequisites:
+ECON 100C.
+
+ECON 152. Public Economics: Expenditures II (4)
+
+Overview of the public sector in the United States and the justifications for government intervention in economic life. Theory of income redistribution and social insurance. Applications to current policy in such areas as health insurance, welfare, unemployment insurance, and Social Security.
+Prerequisites:
+ECON 100C.
+
+ECON 152T. Advanced Topics in Family Economics and Social Insurance (2)
+
+Investigate design of social insurance in the context of the family. Learn effects of economic shocks, such as unemployment and adverse health events, on the family as the economic unit. Learning outcomes include informal self-insurance arrangements and spillovers across family members. Use theory to study welfare implications of findings on optimal design of social insurance policies.
+Prerequisites:
+ECON 152.
+
+ECON 158. Economic History of the United States I (4)
+
+(Cross-listed with HIUS 140.) The United States as a raw materials producer, as an agrarian society, and as an industrial nation. Emphasis on the logic of the growth process, the social and political tensions accompanying expansion, and nineteenth- and early twentieth-century transformations of American capitalism. Credit not allowed for both ECON 158 and HIUS 140.
+Prerequisites:
+upper-division standing.
+
+ECON 159. Economic History of the United States II (4)
+
+(Cross-listed with HIUS 141.) The United States as a modern industrial nation. Emphasis on the logic of the growth process, the social and political tensions accompanying expansion, and twentieth-century transformations of American capitalism. Credit not allowed for both ECON 159 and HIUS 141.
+Prerequisites:
+upper-division standing.
+
+ECON 162. Economics of Mexico (4)
+
+Survey of the Mexican economy. Topics such as economic growth, business cycles, saving-investment balance, financial markets, fiscal and monetary policy, labor markets, industrial structure, international trade, and agricultural policy.
+Prerequisites:
+ECON 1 and 3.
+
+ECON 164. The Indian Economy (4)
+
+Survey of the Indian economy. Historical overview and perspective; political economy; democracy and development; economic growth; land, labor, and credit markets; poverty and inequality; health, education, and human development; technology and development; institutions and state capacity; contemporary policy issues and debates.
+Prerequisites:
+ECON 1 and 3.
+
+ECON 164T. Advanced Topics in the Indian Economy (2)
+
+ECON 164T will cover topics in more depth than in ECON 164 with more extensive readings and discussion. The class will meet in a seminar format where students will be expected to actively participate in discussions based on the readings and write a short paper at the end of the quarter.
+Prerequisites:
+department approval required. May be taken concurrently with ECON 164 or after completion of ECON 164.
+
+ECON 165. Middle East Economics (4)
+
+Socioeconomic development in the Arab world, Iran, and Turkey. Historical perspective; international trade and fuel resources; education, health, and gender gaps; unemployment and migration; population and environment; Islam and democracy.
+Prerequisites:
+ECON 1 and 3.
+
+ECON 165T. Advanced Topics in Middle East Economics (2)
+
+This course will cover certain country experiences and certain topics in more depth than in ECON 165. Students will also have the opportunity to choose countries and topics of particular interest to them for further reading and as subjects for a presentation and brief paper.
+Prerequisites:
+department approval required. May be taken concurrently with ECON 165 or after completion of ECON 165.
+
+ECON 167. Economics of China (4)
+
+Survey of the Chinese economy. Topics such as economic growth, China’s transition to a market economy, international trade, financial markets, labor markets, and industrial structure.
+Prerequisites
+:
+ECON 1 and 3.
+
+ECON 168. Economics of Modern Israel (4)
+
+This course explores economic processes that shape the Israeli economy. Topics include biblical economics, economics of religion, economic growth, income inequality and consumer protests, employment, globalization, inflation, the high-tech sector, terrorism, and education.
+Prerequisites
+:
+ECON 1 and 3.
+
+ECON 169. Economics of Korea (4)
+
+This course covers long-run economic development and current economic issues of South Korea. Topics include examination of major policy changes (e.g., shifts toward export promotion, heavy and chemical industries promotion); Korea’s industrial structure, including the role of large enterprises (chaebol); role of government; and links between Korea and other countries.
+Prerequisites
+:
+ECON 3 and 100A.
+
+ECON 171. Decisions Under Uncertainty (4)
+
+Decision making when the consequences are uncertain. Decision trees, payoff tables, decision criteria, expected utility theory, risk aversion, and applications to investments and asset pricing.
+Prerequisites:
+ECON 100A and ECE 109 or MAE 108 or MATH 181A or ECON 120A or MATH 180A or MATH 183 or MATH 186 or MATH 180B.
+
+ECON 172A. Operations Research A (4)
+
+Linear and integer programming, elements of zero-sum, two-person game theory, and specific combinatorial algorithms. Credit not allowed for both ECON 172A and MATH 171A.
+Prerequisites:
+ECON 100A; and ECON 120A or ECE 109 or MATH 180A or MATH 183 or MATH 186; and MATH 18 or 31AH.
+
+ECON 172B. Operations Research B (4)
+
+Nonlinear programming, deterministic and stochastic dynamic programming, queuing theory, search models, and inventory models. Credit not allowed for both ECON 172B and MATH 171B.
+Prerequisites:
+ECON 172A or MATH 171A.
+
+ECON 173A. Financial Markets (4)
+
+Financial market functions, institutions and instruments: stocks, bonds, cash instruments, derivatives (options), etc. Discussion of no-arbitrage arguments, as well as investors’ portfolio decisions and the basic risk-return trade-off established in market equilibrium.
+Prerequisites:
+ECON 100A and ECON 120B or MATH 181B; and MATH 18 or 31AH.
+
+ECON 173B. Corporate Finance (4)
+
+Introduces the firm’s capital budgeting decision, including methods for evaluation and ranking of investment projects, the firm’s choice of capital structure, dividend policy decisions, corporate taxes, mergers and acquisitions.
+Prerequisites:
+ECON 4 or MGT 4; and ECON 173A.
+
+ECON 174. Financial Risk Management (4)
+
+Risk measures, hedging techniques, value of risk to firms, estimation of optimal hedge ratio, risk management with options and futures. ECON 171 is recommended.
+Prerequisites:
+ECON 173A.
+
+ECON 175. International Financial Markets (4)
+
+Examines international asset prices and their consequences from an economic perspective using both theory and data. Topics include exchange rates, global bonds and derivatives, and a lot of emphasis on the US dollar’s specialness in the international financial system and emerging economy’s financial markets.
+Prerequisites:
+ECON 1 and ECON 3 and MATH 10C or MATH 20C or MATH 31BH.
+
+ECON 176. Marketing (4)
+
+Role of marketing in the economy. Topics such as buyer behavior, marketing mix, promotion, product selection, pricing, and distribution. Concurrent enrollment in ECON 120C is permitted.
+Prerequisites:
+ECON 120C.
+
+ECON 178. Machine Learning for Economics and Business (4)
+
+The course provides an introduction to a number of modern statistical learning methods. It covers the basic concepts and computational issues behind these methods, the concepts of prediction and uncertainty quantification, as well as applications in economics and business.
+Prerequisites:
+ECON 120C. Enrollment limited to EN25, EN26, EN28, and MA33 majors only or by consent of department.
+
+ECON 181. Topics in Economics (4)
+
+Selected topics in economics. May be taken for credit up to three times.
+Prerequisites:
+ECON 1 and ECON 3.
+
+ECON 182. Topics in Microeconomics (4)
+
+Selected topics in microeconomics.
+Prerequisites:
+ECON 100C.
+
+ECON 183. Topics in Macroeconomics (4)
+
+May be taken for credit up to three times.
+Prerequisites:
+ECON 110B.
+
+ECON 184. Topics in Economics with Data Analytics (4)
+
+Selected topics in economics with an emphasis on data applications.
+Prerequisites:
+ECON 120B or MATH 181B.
+
+ECON 185. Detecting Discrimination in Data (4)
+
+Exploring and understanding the causes of gaps by group status (race, gender, etc.) in data. Work on independent projects exploring gaps by group status in publicly available datasets. Learn to decompose gaps to assess how these gaps might be driven by discrimination using techniques such as the Kitagawa-Oaxaca-Blinder decomposition, multivariate regression, etc. Familiarization with the concepts of taste-based, statistical, and structural discrimination as underlying drivers of gaps.
+Prerequisites:
+ECON 120B or MATH 181B.
+
+ECON 186. Careers in Economics and Business (2)
+
+Coverage of career paths in the business profession in various aspects to broaden students’ knowledge of career opportunities. Review of the current business environment, financial markets, economy, unemployment, banking crises, market updates, and all related business topics. Class also provides students with key knowledge and practical skills used in the real world that complement traditional academics to maximize interview, communication, and presentation skills and strengthen résumé building.
+Prerequisites:
+ECON 1 and ECON 3.
+
+ECON 190. An Introduction to Research in Economics (2)
+
+Provides students with tools to carry out their own research in economics. Tools include learning meaningful information sources, including economics datasets and literature databases. Develops the skills to write key sections of an academic article in economics, such as a section including results or a section connecting a research idea to the existing literature.
+Prerequisites:
+ECON 100A and ECE 109 or ECON 120A or MATH 181A or MATH 186 or MATH 183 or MAE 108 or MATH 180A.
+
+ECON 191A. Senior Essay Seminar A (4)
+
+Senior essay seminar for students with superior records in department majors. Students must complete ECON 191A and ECON 191B in consecutive quarters.
+Prerequisites:
+department stamp required.
+
+ECON 191B. Senior Essay Seminar B (4)
+
+Senior essay seminar for students with superior records in department majors. Students must complete ECON 191A and ECON 191B in consecutive quarters.
+Prerequisites:
+department stamp required.
+
+ECON 195P. Pedagogy and Learning Apprenticeship (4)
+
+Under the supervision of an instructor, undergraduate students gain teaching experience through practical experiences in course management and effective teaching methods. Limited to advanced economics majors with at least a 3.5 GPA in upper-division economics work. (P/NP grades only.) Students may not earn more than eight units credit in 195P courses.
+Prerequisites:
+consent of the department.
+
+ECON 198. Directed Group Study (2 or 4)
+
+Directed study on a topic or in a group field not included in regular department curriculum by special arrangement with a faculty member.
+Prerequisites:
+upper-division standing and consent of instructor. May be repeated up to three times when course topics vary. (P/NP grades only.)
+
+ECON 199. Independent Study (2 or 4)
+
+Independent reading or research under the direction of and by special arrangement with a Department of Economics faculty member. (P/NP grades only.)
+Prerequisites:
+consent of instructor and department approval.
+
+GRADUATE
+
+ECON 200A. Microeconomics A (4)
+
+Modern consumer and producer theory. Preferences, utility maximization, demand, choice under uncertainty, intertemporal choice. Production, cost, profit maximization and supply. Comparative statics, duality.
+Prerequisites:
+none. Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 200B. Microeconomics B (4)
+
+Arrow-Debreu model of general economic equilibrium and welfare economics. Axiomatic theory of the firm and household. Existence of general economic equilibrium. First and Second Fundamental Theorems of Welfare Economics. Futures and contingent commodity markets. Core and core convergence.
+Prerequisites:
+ECON 200A. Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 200C. Microeconomics C (4)
+
+Information economics: static and dynamic games of incomplete information, signaling, screening, and lemons. Institutional analysis: social choice, mechanism design, cooperative bargaining, contracts, strategic theory of the firm.
+Prerequisites:
+ECON 200B. Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 201. Advanced Economic Theory (4)
+
+An intensive examination of selected topics in economic theory. Course topic nonrepetitive in a three-year cycle.
+Prerequisites:
+ECON 207 and 213.
+
+ECON 202A-B-C. Workshop in Economic Theory (0–4/0–4/0–4)
+
+An examination of recent research in economic theory, including topics in general equilibrium, welfare economics, duality, and social choice; development of related research topics by both graduate students and faculty. Course may be repeated an unlimited number of times. (S/U grades only.)
+Prerequisites:
+ECON 207 or consent of instructor.
+
+ECON 204. Contract Theory (4)
+
+This course reviews the theoretical foundations for the analysis of contractual interaction, and it covers a selection of game-theoretic models and applications. The course is intended to provide a foundation for theoretical research on contracts as well as applied research on topics in behavioral/experimental, development, environmental, international, and labor economics, law and economics, and macroeconomics.
+Prerequisites:
+ECON 200A-B-C.
+
+ECON 205. Mathematics for Economists (4)
+
+Advanced calculus review for new graduate students.
+Prerequisites:
+none. Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 206. Decisions (4)
+
+Further topics in consumer and producer theory, intertemporal optimization, and decision making under uncertainty. (Previously numbered ECON 200D.)
+Prerequisites:
+ECON 200A-B-C or consent of instructor.
+
+ECON 208. Games and Information (4)
+
+Further topics in game theory and the economics of information.
+Prerequisites:
+ECON 200A-B-C or consent of instructor.
+
+ECON 210A. Macroeconomics A (4)
+
+Dynamic optimization: Lagrangian methods and recursive methods. The neoclassical growth model: social planner, competitive equilibrium, first and second welfare theorems, steady state analysis, dynamic analysis, shocks, heterogeneity and aggregation, applications.
+Prerequisites:
+none. Enrollment limited to Economics PhD students (EN75); or consent of instructor.
+
+ECON 210B. Macroeconomics B (4)
+
+Models of the household’s intertemporal consumption/saving decision, and implications for risk aversion, basic portfolio allocation, and asset pricing. Models with heterogeneous agents—overlapping generations, incomplete markets, precautionary saving. Implications of labor market frictions for equilibrium employment.
+Prerequisites:
+ECON 210A. Enrollment limited to Economics PhD students (EN75); or consent of instructor.
+
+ECON 210C. Macroeconomics C (4)
+
+Basic facts and time series for macroeconomics. Modern theories of short-run fluctuations: sources of business cycle and the evolution of income, employment, interest rate, and prices. Monetary and fiscal policy theories in the presence of real and nominal rigidities.
+Prerequisites:
+ECON 210B. Enrollment limited to Economics PhD students (EN75); or consent of instructor.
+
+ECON 210D. Monetary Economics and Business Cycles (4)
+
+Study of the determinants of economic fluctuations, inflation, and interest rates with particular focus on the effects of monetary policy. Overview of key methods and findings of empirical research in macroeconomics. Recommended preparation: ECON 220D.
+Prerequisites:
+graduate standing and ECON 210A-B-C.
+
+ECON 211. Advanced Macroeconomics (4-4-4)
+
+Covers various topics in macroeconomics at the frontiers of research, including theory, computation, and empirical work. Emphasis depends on the instructor. Students will read the latest working papers and publications in the covered areas.
+Prerequisites:
+graduate standing and ECON 210A-B-C or consent of instructor.
+
+ECON 212A-B-C. Workshop in Macroeconomics (0–4/0–4/0–4)
+
+Examination of recent research in macroeconomics; development of own research by graduate students and faculty. Course may be repeated an unlimited number of times. (S/U grades only.)
+Prerequisites:
+ECON 210C.
+
+ECON 213. Advanced Macroeconomic Theory (4)
+
+This course develops purely theoretical models for problems in macroeconomics. Topics include dynamic general equilibrium, asset market equilibrium, and economic growth and distribution.
+Prerequisites:
+ECON 210A-B-C or consent of instructor.
+
+ECON 214. Applied Macroeconomics (4)
+
+This course focuses on applied macroeconomics, including econometric testing of macroeconomic theories and empirical measurement guided by theoretical insights. Topics will vary from year to year depending on the latest developments in research. Students will complete the course with a broader understanding of a number of leading topics in macroeconomics as well as a toolkit of estimation and simulation programs. Recommended preparation: ECON 220D.
+Prerequisites:
+graduate standing and ECON 210A-B-C or consent of instructor.
+
+ECON 215. Macroeconomic Policy (4)
+
+This course focuses on theoretical models and empirical analysis aimed at understanding and directing macroeconomic policy, including monetary, fiscal, and structural policies.
+Prerequisites:
+ECON 210A-B-C or consent of instructor.
+
+ECON 216. Computation for Macroeconomics (4)
+
+This course covers advanced computation techniques that are widely used in macroeconomics, finance, and other fields. Students will learn a range of numerical methods for handling systems of equations, integration, optimization, and other problems.
+Prerequisites:
+ECON 210A-B-C or consent of instructor.
+
+ECON 217. Real Frictions and Financial Frictions (4)
+
+While understanding how the macro economy behaves in the ideal, frictionless setting is indispensable; most of the interesting issues in macro arise as a consequence of some sort of friction or missing market. In this course, we will study some models based on real frictions and financial frictions. Topics covered include convex and nonconvex adjustment costs, housing markets and investment decisions, and financial crises.
+Prerequisites:
+ECON 210A-B-C or consent of instructor.
+
+ECON 219. Readings in Macroeconomics (4)
+
+This course will cover numerical analysis of dynamic macroeconomic models. Topics include numerical techniques, dynamic programming, linear systems, solution algorithms, and applications to dynamic general equilibrium.
+Prerequisites:
+graduate standing or consent of instructor.
+
+ECON 220A. Econometrics A (4)
+
+An introduction to probability and statistics for graduate students in economics. Topics include random variables, sampling distributions, the law of large numbers, the central limit theorem, maximum likelihood estimation, hypothesis testing. Knowledge of multivariable calculus and linear algebra is assumed.
+Prerequisites:
+graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 220B. Econometrics B (4)
+
+Introduction to regression analysis and other estimation methods. Topics covered include ordinary and generalized least squares, asymptotic approximations, specification testing, two-stage least squares, generalized method of moments, and maximum likelihood estimation.
+Prerequisites:
+ECON 220A, graduate standing; Enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 220C. Econometrics C (4)
+
+This course focuses on econometric analysis of panel data and cross-section data. Topics covered include static/dynamic panel data models, discrete choice models, censored and truncated regression models, sample selection models, and evaluation of treatment effects. Theory of extreme estimators is used to study the specification, estimation, and testing of these models.
+Prerequisites:
+ECON 220B, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 220D. Econometrics D (4)
+
+Examines modern time series econometrics, extending methods from ECON 220A-C to dependent data. Topics covered include spectral density theory, HAC estimation, vector autoregressions, nonstationary econometrics, filtering.
+Prerequisites:
+ECON 220C, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 220E. Econometrics E (4)
+
+Identification of economic models. Topics include rank and order conditions for identification in linear simultaneous equations systems; identification in nonlinear models; likelihood-based identification criteria; nonparametric identification; identification in models with multiple equilibria.
+Prerequisites:
+ECON 220D, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 220F. Econometrics F (4)
+
+This course focuses on the application of econometric techniques to issues in microeconomics and macroeconomics. The major emphasis in the class is on the completion of an empirical project.
+Prerequisites:
+ECON 220E, graduate standing; enrollment limited to Economics PhD students (EN75) or Rady PhD students (RS79); or consent of instructor.
+
+ECON 221. Advanced Econometrics (4)
+
+Advanced topics in econometrics. Topics may vary from year to year, covering areas such as cross section, time series, panel, limited dependent variables, conditional quantile estimation, bootstrapping, and large- and small-sample distribution theory.
+Prerequisites:
+graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.
+
+ECON 222A-B-C. Workshop in Econometrics (4-4-4)
+
+Examination of recent econometric research; development of own research by students and faculty. Course may be repeated an unlimited number of times. (S/U grades only.)
+
+ECON 225. Forecasting (4)
+
+Topics include testing for rationality of forecasts, Mincer-Zarnowitz regressions, asymmetric loss functions, tests for equal (superior) predictive ability, multivariate forecasting.
+Prerequisites:
+graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.
+
+ECON 226. Bayesian and Numerical Methods (4)
+
+Topics include Bayesian inference and decision theory, loss functions, estimation of dynamic stochastic general equilibrium models, nonlinear time series, state-space models, spatial-temporal models, and high-frequency data.
+Prerequisites:
+graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.
+
+ECON 227. Nonparametric and Semiparametric Models (4)
+
+Topics include neural networks, kernels, series, splines, estimation of densities and spectra, smoothing parameter selection, semiparametric models, efficiency and adaptation, forecasting with nonlinear models, over-fit, computation, and interpretation.
+Prerequisites:
+graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.
+
+ECON 228. Nonstandard Inference (4)
+
+Topics include weak instruments, unit roots, break tests, switching models, set-based inference, maximum likelihood estimation and meaning of misspecified models, consistency, asymptotic normality, consistent covariance matrix estimation, and tests of model misspecification.
+Prerequisites:
+graduate standing and ECON 220A, 220B, 220C, 220D, and 220E or consent of instructor.
+
+ECON 230. Public Economics: Taxation (4)
+
+Exploration of existing theoretical literature evaluating the efficiency and distribution effects of income and commodity taxes. Characterization of an “optimal” tax structure, and examination of problems faced in tax administration. Scrutiny of behavioral responses to existing tax structures.
+Prerequisites:
+ECON 200A-B-C and ECON 220A-B-C.
+
+ECON 231. Public Economics: Public Goods and Externalities (4)
+
+Justifications for government intervention in the context of public goods and externalities. Exploration of normative and positive models of government behavior. Lessons from fiscal federalism for federal, state, and local roles. Applications to specific expenditure programs, such as national defense and education.
+Prerequisites:
+graduate standing and ECON 200A-B-C and ECON 220A-B-C.
+
+ECON 232. Public Economics: Redistribution and Social Insurance (4)
+
+The objective of this course is to provide an understanding of the role of government intervention in the economy in two broad areas of expenditure—redistribution and social insurance—from both a theoretical and an empirical perspective. The emphasis will be on learning techniques that can be applied to produce original research and to critically analyze existing research in the field.
+Prerequisites:
+graduate standing and ECON 200A-B-C and ECON 220A-B-C.
+
+ECON 233. Public Economics of Health Care (4)
+
+The objective of this course is to provide an understanding of the role of government in the health sector. Key applications include insurance markets, physician and hospital objective functions, payment models, health system design, and medical innovation. All topics are considered from both a theoretical and an empirical perspective. The emphasis will be on learning techniques that can be applied to produce original research and to critically analyze existing research in the field.
+Prerequisites:
+graduate standing and ECON 200A-B-C and ECON 220A-B-C.
+
+ECON 235A-B-C. Workshop in Applied Economics (0–4/0–4/0–4)
+
+Examination of recent research in applied economics; development of own research by graduate students and faculty. Course may be repeated an unlimited number of times. (S/U grades only.)
+
+ECON 237. Political Economy: Microeconomic Perspectives (4)
+
+Governments serve functions key to economic development, including correcting market failures, raising taxes, delivering services, and protecting property rights. Correspondingly, research in development economics is increasingly focused on how institutions affect development. Generally, the aim of the course is to provide PhD students a complete introduction to the growing literature in this area. Students may not receive credit for ECON 237 and POLI 231E.
+Prerequisites:
+graduate standing.
+
+ECON 241. Microeconomics of Development (4)
+
+Course introduces the household as a decision-making unit, and the contracts and institutions that emerge to compensate for imperfect markets. Emphasis is placed on data and identification strategies that can be used to measure the impact of policy interventions.
+Prerequisites:
+graduate standing or consent of instructor.
+
+ECON 242. Macroeconomics of Development (4)
+
+This course covers development accounting, growth accounting, human capital accumulation, skill-biased technological change, multisector growth models, structural transformation, urban-rural migration, misallocation, informality, technology adoption and diffusion, and other related topics.
+Prerequisites:
+graduate standing or consent of instructor.
+
+ECON 243. Organizational Economics of Development (4)
+
+The study of organizational effectiveness, in both the private and public sectors, bridges the gap between microeconomic analysis of individual and household behavior and macroeconomic analysis of economic aggregates such as capital and output. Topics covered include organizational capacity, leadership and management, staffing, incentives, contracting, finance, learning, market structure, regulations, and politics.
+Prerequisites:
+graduate standing or consent of instructor.
+
+ECON 245. International Trade (4)
+
+This course covers the determinants of the pattern and volume of trade in goods and services, the interaction of international trade with income distribution and economic growth, and commercial policy. The emphasis is on theory, with some empirical illustration and motivation.
+Prerequisites:
+consent of instructor.
+
+ECON 246. International Macroeconomics (4)
+
+This course presents open-economy macroeconomics and international finance. Topics include theories of the exchange rate, foreign-exchange regimes, current account adjustments, and international portfolio investments. The course examines real and monetary explanations, and implications of international capital market integration.
+Prerequisites:
+consent of instructor.
+
+ECON 247. Empirical Topics in International Economics (4)
+
+This course examines the empirical work in international trade or international macroeconomics. International trade topics include empirical tests of theories of international trade and international capital movements. International macroeconomic topics include empirical studies of exchange rate and relative price adjustments.
+Prerequisites:
+consent of instructor.
+
+ECON 248. Spatial Economics (4)
+
+This graduate-level course presents the workhorse spatial model used to think about economic geography in economics. We present numerous additions and extensions to the framework to study a wide variety of topics including but not limited to inequality, firm location choices, endogenous amenities and segregation, knowledge spillovers, migration frictions, interregional trade, coastal flooding, and more.
+Prerequisites:
+ECON 200A and ECON 210A and ECON 280.
+
+ECON 249A. International Development Workshop I (1–4)
+
+Presentation of recent research in international and development economics by faculty and graduate students, covering micro and macroeconomic aspect of both areas. Regular attendance is required.
+Prerequisites:
+graduate standing or consent of instructor.
+
+ECON 249C. International Development Workshop III (1–4)
+
+Presentation of recent research in international and development economics by faculty and graduate students, covering micro and macroeconomic aspect of both areas. Regular attendance is required.
+Prerequisites:
+graduate standing or consent of instructor.
+
+ECON 250A. Empirical Methods in Labor Economics (4)
+
+Econometric methods currently used in applied microeconomics explained through examples from labor economics.
+Prerequisites:
+none.
+
+ECON 250B. Topics in Labor Economics (4)
+
+Topics typically include labor demand, labor supply, wage setting, inequality, intergenerational mobility, demographics, economics of family, migration, unemployment, religion, conflict, discrimination, human capital, education and training.
+Prerequisites:
+ECON 250A.
+
+ECON 250C. Advanced Topics in Labor Economics (4)
+
+Topics typically include labor supply, education and training, human capital, discrimination, intergenerational mobility, inequality, wage setting.
+Prerequisites:
+ECON 250A and ECON 250B.
+
+ECON 260. Industrial Organization: Firms (4)
+
+This course covers theory and empirical applications in the following areas of industrial organization: dynamic pricing, price discrimination, collusion, market power, discrete choice demand modeling, entry, asymmetric information, and search.
+Prerequisites:
+ECON 220C. Enrollment by completion of prerequisites or by consent of instructor.
+
+ECON 261. Industrial Organization: Markets (4)
+
+This course covers theory and empirical applications in the following areas of industrial organization: mergers, vertical integration, and innovation. Optional topics include network effects, technology adoption, and regulation.
+Prerequisites:
+ECON 200C and 220C. Enrollment by completion of prerequisites or by consent of instructor.
+
+ECON 262. Behavioral Game Theory (4)
+
+This course is intended to give students an introduction to the study of strategic interaction through a behavioral lens. We will review game theory experiments and analyze which theoretical predictions are validated and which are violated in practice. We will characterize the systematic violations of the theory that come from experiments and study how these behavioral regularities can be incorporated into new equilibrium concepts.
+Prerequisites:
+graduate standing and ECON 200A-B-C.
+
+ECON 263. Modeling Behavioral Economics (4)
+
+Covers various models in behavioral economics including self-control, bounded memory, belief manipulation, framing effects, and behavioral game theory. The course will also discuss their role in industrial organization, finance, and political economy, and their implications for welfare.
+Prerequisites:
+graduate standing and ECON 200A-B-C.
+
+ECON 264. Experimental Economics (4)
+
+Design and interpretation of controlled experiments using human subjects. (Previously numbered ECON 207.)
+Prerequisites:
+consent of instructor.
+
+ECON 265. Alternative Choice Theory (4)
+
+Experimental findings by economists and psychologists of systematic departures from the classical model of decision making under risk and uncertainty. Issues of dynamic consistency in choice. Development, formal analysis and application of alternative models of risk preferences and beliefs.
+Prerequisites:
+graduate standing and ECON 200A-B-C.
+
+ECON 266. Economics of Natural Resources (4)
+
+Theoretical and empirical issues in natural resource economics. (Previously numbered ECON 242.)
+Prerequisites:
+consent of instructor.
+
+ECON 267. Topics in Environmental and Resource Economics (4)
+
+The course will cover any of a variety of topics in environmental and resource economics, including climate change, exhaustible and renewable resources, international environmental agreements, nonmarket valuation, energy economics, and water allocation.
+Prerequisites:
+graduate standing.
+
+ECON 268. Energy and Environmental Economics (4)
+
+Designed to prepare graduate students for original research in environmental or energy economics. Topics include theory and empirical study of economic regulation, energy markets, technological change, pollution and other externalities, energy efficiency, and climate change. Emphasis on empirical applications.
+Prerequisites:
+graduate standing and ECON 200A-B-C or consent of instructor.
+
+ECON 270. Finance—Core Asset Pricing (4)
+
+Theoretical and empirical issues in finance. (Previously numbered ECON 214A.)
+
+ECON 272. Finance—Theory and Testing of Intertemporal Asset Pricing Models (4)
+
+Theoretical and empirical issues in finance. (Previously numbered ECON 214C.)
+
+ECON 280. Computation (2)
+
+Introduction to computing for economists. This course introduces students to the most widely used computational and programming tools in economics. The methods and tools covered in the class will be illustrated through various empirical applications.
+Prerequisites:
+enrollment limited to economics PhD students (EN75).
+
+ECON 281. Special Topics in Economics (4)
+
+Lecture course at an advanced level on a special topic. May be repeated for credit if topic differs. (Previously numbered ECON 267.)
+Prerequisites:
+consent of instructor.
+
+ECON 284. Becoming an Economist (2)
+
+This course provides students with a framework and a range of practical skills to navigate the transition from being full-time students to being independent researchers. Topics and issues covered will include research design, peer review, portfolio management, co-authorship and collaboration, well-being and life balance, and the meta-system. (S/U grades only.)
+
+ECON 285. Precandidacy Presentation (2)
+
+This course is a workshop in which students make formal presentations on the literature and on their own projects and receive input from other students and the instructor.
+Prerequisites:
+graduate standing.
+
+ECON 286. Graduate Research Presentation Workshop (3)
+
+The aim of the course is to train students to present their research effectively to a broad audience. Students are required to prepare a formal presentation, and then to provide feedback on the presentations made by other students. Depending on student demand, meetings may be divided into multiple sections, based on field interests.
+Prerequisites:
+graduate standing, ECON 285.
+
+ECON 291. Advanced Field Advising (4)
+
+Controlled reading and discussion with adviser; literature survey. May be repeated for credit. (S/U grades only.)
+
+ECON 296. Original Research Paper (1–12)
+
+In this course, students are guided toward the formulation of an original research idea and the writing of an original paper. Students receive support and input through group discussion and also through interaction with the instructor.
+Prerequisites:
+graduate standing.
+
+ECON 297. Independent Study (1–5)
+
+(S/U grades only.)
+
+ECON 299. Research in Economics for Dissertation (1–12)
+
+(S/U grades only.)
+
+ECON 500A-B-C. Teaching Methods in Economics (4-4-4)
+
+The study and development of effective pedagogical materials and techniques in economics. Students who hold appointments as teaching assistants must enroll in this course, but it is open to other students as well. (S/U grades only.)

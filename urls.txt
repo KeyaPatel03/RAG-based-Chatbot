@@ -85,15 +85,13 @@ https://www.csac.ca.gov/cal-grant
 # Immigrants Rising 
 https://immigrantsrising.org/in-state-tuition-tool/
 
-# *Federal Student Aid
-https://studentaid.gov/sites/default/files/repaying-your-loans.pdf
-https://studentaid.gov/sites/default/files/pslf-infographic.pdf
-https://studentaid.gov/sites/default/files/MasterPromissoryNoteMPNDirectSubsidizedLoansandDirectUnsubsidizedLoans-en-us.pdf
-https://www.nasfaa.org/uploads/documents/2025-26_Federal_Student_Aid_Program_Summary.pdf
-https://pnpi.org/wp-content/uploads/2022/06/FederalStudentAidPrimer_June2022_.pdf
-https://fsapartners.ed.gov/sites/default/files/2025-2026/2025-2026_Federal_Student_Aid_Handbook/_knowledge-center_fsa-handbook_2025-2026_vol7.pdf
-https://studentaid.gov/sites/default/files/2025-26-fafsa.pdf
-https://studentaid.gov/sites/default/files/2026-27-fafsa-form.pdf
+# Federal Student Aid
+https://studentaid.gov/manage-loans/repayment/repaying-101
+https://studentaid.gov/manage-loans/forgiveness-cancellation
+https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized
+https://studentaid.gov/h/understand-aid/how-aid-works
+https://studentaid.gov/understand-aid/types/grants/pell
+https://studentaid.gov/apply-for-aid/fafsa/fafsa-deadlines
 
 # Higher Ed Immigration Portal 
 https://www.presidentsalliance.org/wp-content/uploads/2019/11/UCLA_Undocumented_handbook_WEB_Oct2019.pdf

@@ -1,0 +1,718 @@
+• HOME
+• courses
+• Bioengineering
+
+BIOENGINEERING
+
+[
+undergraduate program
+|
+graduate program
+|
+faculty
+]
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+COURSES
+
+For course descriptions not found in the
+UC San Diego General Catalog 2025–26
+, please contact the department for more information.
+
+Note:
+The department will endeavor to offer the courses as outlined below; however, unforeseen circumstances sometimes mandate a change of scheduled offerings.
+Students are strongly advised to check with the department’s Student Affairs Office.
+This is of particular importance in planning schedules to satisfy graduation requirements.
+
+The quarter in which a course is scheduled may differ in subsequent academic years. Students should consult
+TritonLink
+and the Student Affairs Office to obtain current information.
+
+Prerequisites are enforced when students register for courses. Students who have satisfied prerequisites at another institution or by AP credit may need to be preauthorized to register in these courses. If preauthorization is necessary, students should contact the Student Affairs Office before the scheduled registration period.
+
+Some courses require materials fees.
+
+LOWER DIVISION
+
+BENG 1. Introduction to Bioengineering (2)
+
+An introduction to bioengineering that includes lectures and hands-on laboratory for design projects. The principles of problem definition, engineering inventiveness, team design, prototyping, and testing, as well as information access, engineering standards, communication, ethics, and social responsibility will be emphasized. P/NP grades only.
+Prerequisites:
+none. (F,W)
+
+BENG 2. Introductory Computer Programming and MATLAB (2)
+
+Introduction to MATLAB is designed to give students fluency in MATLAB, including popular toolboxes. Consists of interactive lectures with a computer running MATLAB for each student. Topics: variables, operations, and plotting; visualization and programming; and solving equations and curve fitting.
+Prerequisites:
+bioengineering: biosystems majors only or consent of department. (F)
+
+BENG 87. First-year Student Seminar (1)
+
+The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students. (F,W,S)
+
+BENG 90. Special Topics in Bioengineering (1–4)
+
+Course given at the discretion of the faculty on current topics of interest in bioengineering. This course will cover topics from biomechanics, biosystems, bioinformatics, and biotechnology among others.
+Prerequisites:
+bioengineering majors only (BE25, BE27, BE28, BE29) or consent of department. (F,W,S)
+
+BENG 90L. Special Topics in Bioengineering with Laboratory (1–4)
+
+Course given at the discretion of the faculty on current topics of interest in bioengineering. This course is intended to be a lecture and lab component topics course. This course will cover topics from biomechanics, biosystems, bioinformatics and biotechnology among others.
+Prerequisites:
+bioengineering majors only (BE25, BE27, BE28, BE29) or consent of department. (F,W,S)
+
+BENG 91. Topics in Bioengineering and Medicine (1)
+
+Seminar discussing the interface between and opportunities for bioengineering and medicine. Students will interact with clinical faculty and bioengineering faculty to discuss current topics and problems where engineering solutions could improve the practice of medicine. Intended for first-year and transfer students in the Department of Bioengineering.
+Prerequisites:
+bioengineering majors only or consent of department.
+
+BENG 97. Internship/Field Studies (1–4)
+
+An enrichment program available to a limited number of lower-division undergraduate students, which provides work experience with industry, government offices, and hospitals. The internship is coordinated through UC San Diego’s Academic Internship Program under the supervision of a faculty member and an industrial, government, or hospital employee.
+Prerequisites:
+lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3.0, and a completed and approved Special Studies form. (F,W,S)
+
+BENG 98. Directed Group Study (1–4)
+
+Directed group study on a topic or in a field not included in the regular department curriculum. (P/NP grades only.)
+Prerequisites:
+lower-division standing, completion of thirty units of undergraduate study at UC San Diego with a UC San Diego GPA of at least 3.0 and consent of a bioengineering faculty member; completed and approved Special Studies form.
+
+BENG 99. Independent Study for Undergraduates (4)
+
+Independent reading or research by arrangement with a bioengineering faculty member. (P/NP grades only.)
+Prerequisites:
+lower-division standing, completion of thirty units of undergraduate study at UC San Diego with a UC San Diego GPA of at least 3.0 and consent of a bioengineering faculty member; completed and approved Special Studies form.
+
+BENG 99H. Independent Study (1)
+
+Independent study or research under direction of a member of the faculty.
+Prerequisites:
+student must be of first-year standing and a Regents Scholar; approved Special Studies form.
+
+UPPER DIVISION
+
+BENG 100. Introduction to Probability and Statistics for Bioengineers (4)
+
+The class provides foundation in probability and statistics. Topics include probability spaces, random variables, independence, common distributions, CLT, estimator accuracy, maximum likelihood, and hypothesis testing. Written problems are provided for each topic. Applications are discussed in regard to bioengineering problems.
+Prerequisites:
+MATH 18 or MATH 31AH , MATH 20C or MATH 31BH; bioengineering majors only or consent of department. (F,S,Su)
+
+BENG 102. Molecular Components of Living Systems (4)
+
+Introduction to molecular structures. Macromolecules and assemblies-proteins, nucleic acids, and metabolites. Principles of design of simple and complex components of organelles, cells, and tissues.
+Prerequisites:
+BENG 120 or consent of department. (S)
+
+BENG 103B. Bioengineering Mass Transfer (4)
+
+Mass transfer in solids, liquids, and gases with application to biological systems. Free and facilitated diffusion. Convective mass transfer. Diffusion-reaction phenomena. Active transport. Biological mass transfer coefficients. Steady and unsteady state. Flux-force relationships. (Credit not allowed for both CENG 101C and BENG 103B.)
+Prerequisites:
+CENG 101A or MAE 101A or BENG 112A, or consent of department. (S)
+
+BENG 110. Musculoskeletal Biomechanics (4)
+
+Statics, dynamics, and solid mechanics of hard and soft musculoskeletal tissues. Forces, moments, static equilibrium, kinematics, kinetics applied to human mechanics, and movement. Stress, strain, and material properties of musculoskeletal tissues. Problem solving and design in biomechanics.
+Prerequisites:
+MATH 20D, MATH 20E or MATH 31CH, MATH 18 or MATH 31AH; PHYS 2A or PHYS 2AR, PHYS 2BL, or consent of department. (F)
+
+BENG 112A. Soft Tissue Biomechanics (4)
+
+Tensor analysis. Stress, strain, equilibrium, and constitutive law for soft biological tissues. Applications of solid mechanics to mammalian tissue physiology. Viscoelasticity. Finite elasticity. Problem solving and design in soft tissue biomechanics.
+Prerequisites:
+BENG 110 or consent of department. (W)
+
+BENG 112B. Fluid and Cell Biomechanics (4)
+
+Fluid hydrostatics and flow dynamics. Flow kinematics and conservation laws applied to the circulation. Viscous biofluids. Biopolymers, cell mechanics, and mechanobiology. Problem solving and design in biofluid and cell mechanics.
+Prerequisites:
+BENG 112A or consent of department. (S)
+
+BENG 120. Organic Chemistry Structural and Design Principles (4)
+
+Structural and design principles of carbon compounds. Structure and stereochemistry. Functional groups and chemical transformations. Structure and design principles of biomolecules. Molecules of life and their organization.
+Prerequisites:
+CHEM 6A and 6B; majors only or consent of department. (W)
+
+BENG 122A. Biosystems and Control (4)
+
+Systems and control theory applied to bioengineering. Modeling, linearization, transfer functions, Laplace transforms, closed-loop systems, design and simulation of controllers. Dynamic behavior and controls of first and second order processes. PID controllers. Stability. Bode design. Features of biological controls systems. A simulation project using MATLAB and an oral presentation are required. Credit not allowed for both ECE 101 and BENG 122A.
+Prerequisites:
+MAE 40 or ECE 35 or consent of department. (F)
+
+BENG 123. Dynamic Simulation in Bioengineering (4)
+
+Dynamic simulation of biochemical reaction networks, including reconstruction of networks, mathematical description of kinetics of biochemical reactions, dynamic simulation of systems of biochemical reactions, and use of simulators for data interpretation and prediction in biology. Emphasis on a design project.
+Prerequisites:
+MATH 18 or MATH 31AH, MATH 20D, BENG 120, or CHEM 40B; majors only or consent of department. (W)
+
+BENG 125. Modeling and Computation in Bioengineering (4)
+
+Computational modeling of molecular bioengineering phenomena: excitable cells, regulatory networks, and transport. Application of ordinary, stochastic, and partial differential equations. Introduction to data analysis techniques: power spectra, wavelets, and nonlinear time series analysis.
+Prerequisites:
+BENG 122A or BENG 123 or BENG 181 or consent of department. (S)
+
+BENG 130. Biotechnology Thermodynamics and Kinetics (4)
+
+An introduction to physical principles that govern biological matter and processes, with engineering examples. Thermodynamic principles, structural basis of life, molecular reactions and kinetics, and models to illustrate biological phenomena.
+Prerequisites:
+CHEM 6B, MATH 20A, 20B, 20D, PHYS 2A, 2B, 2C; majors only or consent of department. (W)
+
+BENG 133. Numerical Analysis and Computational Engineering (4)
+
+Principles of digital computing, including number representation and arithmetic operations. Accuracy, stability, and convergence. Algorithms for solving linear systems of equations, interpolation, numerical differentiation, and integration and ordinary differential equations.
+Prerequisites:
+MATH 20D and MATH 18 or MATH 31AH or consent of department. (F)
+
+BENG 134. Measurements, Statistics, and Probability (4)
+
+A combined lecture and laboratory course that provides an introductory treatment of probability theory, including distribution functions, moments, and random variables. Practical applications include estimation of means and variances, hypothesis testing, sampling theory, and linear regression.
+Prerequisites:
+MATH 20D and MATH 18 or MATH 31AH; BENG 100 or consent of department. (S)
+
+BENG 135. Biomedical Signals and Systems (4)
+
+Discrete systems: linearity, convolution, impulse, and step responses. Linear systems properties. Difference equations. Fourier Series. Continuous FS. Discrete FS. Periodic signals, filtering, and FT. Discrete FT examples. Frequency response of linear systems. Sampling. Relationship between FT, DFT. Laplace Transform. LT and inverse LT.
+Prerequisites:
+ECE 45 and MAE 40; bioengineering majors only (BE25, BE27, BE28 and BE29) or consent of department. (F)
+
+BENG 140A. Bioengineering Physiology (4)
+
+Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems. Not intended for premedical bioengineering students. Credit not allowed for both BIPN 100 or BIPN 100R and BENG 140A.
+Prerequisites:
+CHEM 6A-B, PHYS 2A-C, BILD 1, or BENG 102; majors only or consent of department. (W)
+
+BENG 140B. Bioengineering Physiology (4)
+
+Introductory mammalian physiology for bioengineering students, with emphasis on control mechanisms and engineering principles. Digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. (Credit not allowed for both BIPN 102 and BENG 140B.)
+Prerequisites:
+CHEM 6A or CHEM 6AH and PHYS 2A or PHYS 2AR and PHYS 2B and BILD 1, or BENG 102; majors only or consent of instructor. (S)
+
+BENG 141. Biomedical Optics and Imaging (4)
+
+Introduction to optics. Light propagation in tissue. Propagation modeling. Optical components. Laser concepts. Optical coherence tomography. Microscopic scattering. Tissue optics. Microscopy. Confocal microscopy. Polarization in tissue. Absorption, diffuse reflection, light scattering spectroscopy. Raman, fluorescence lifetime imaging. Photo-acoustic imaging.
+Prerequisites:
+PHYS 2C or consent of department. (F)
+
+BENG 152. Biosystems Engineering Laboratory (4)
+
+Laboratory course emphasizing electronic instrumentation and signals. Projects involve biophysical measurement, data acquisition, and data processing. Laboratory examples include electrical circuit design and analysis, physiological signal acquisition and processing, and microcontrollers for system control. Program or materials fees may apply.
+Prerequisites:
+MAE 40 or ECE 35; bioengineering: biosystems majors only or consent of department. (W)
+
+BENG 160. Chemical and Molecular Bioengineering Techniques (4)
+
+Introductory laboratory course in current principles and techniques of chemistry and molecular biology applicable to bioengineering. Quantitation of proteins and nucleic acids by spectrophotometric, immunological, and enzymatic methods. Separations and purification by centrifugation, chromatographic, and electrophoretic methods. Course materials fees may apply.
+Prerequisites:
+BICD 100, BENG 100, CHEM 40B or CHEM 40BH or BENG 120, MAE 170; majors only or consent of department. (S)
+
+BENG 161A. Bioreactor Engineering (4)
+
+Engineering, biochemical, and physiological considerations in the design of bioreactor processes: enzyme kinetics, mass transfer limitations, microbial growth, and product formation kinetics. Fermentation reactor selection, design, scale-up, control. Quantitative bioengineering analysis and design of biochemical processes and experiments on biomolecules.
+Prerequisites:
+MATH 20D and BENG 103B or consent of department. (F)
+
+BENG 161B. Biochemical Engineering (4)
+
+Commercial production of biochemical commodity products. Application of genetic control systems and mutant populations. Recombinant DNA and eukaryotic proteins in
+E. coli
+and other host organisms. Product recovery operations, including the design of bioseparation processes of filtration, adsorption, chromatography, and crystallization. Bioprocess economics. Human recombinant erythropoietin as an example, from genomic cloning to CHO cell expression, to bioreactor manufacturing and purification of medical products for clinical application.
+Prerequisites:
+MATH 20D and BENG 103B and BENG 160 or consent of department. (W)
+
+BENG 162. Biotechnology Laboratory (4)
+
+Laboratory practices and design principles for biotechnology. Culture of microorganisms and mammalian cells, recombinant DNA bioreactor design and operation. Design and implementation of biosensors. A team design-based term project and oral presentation required. Course materials fees may apply.
+Prerequisites:
+BENG 160; majors only or consent of department. (F)
+
+BENG 166A. Cell and Tissue Engineering (4)
+
+Engineering analysis of physico-chemical rate processes that affect, limit, and govern the function of cells and tissues. Cell migration, mitosis, apoptosis, and differentiation. Dynamic and structural interactions between mesenchyme and parenchyme. The role of the tissue microenvironment including cell-cell interactions, extracellular matrix, and growth factor communication. The design of functional tissue substitutes including cell and material sourcing, scale-up and manufacturability, efficacy and safety, regulatory, and ethical topics. Clinical applications.
+Prerequisites:
+BILD 1 and CHEM 6C or CHEM 6CH or CHEM 7L or CHEM 7LM and MATH 20D and PHYS 2A or PHYS 2AR, PHYS 2B-C; senior standing or consent of department. (F)
+
+BENG 168. Biomolecular Engineering (4)
+
+Basic molecular biology and recombinant DNA technologies. Structure and function of biomolecules that decode genomes and perform energy conversion, enzymatic catalysis, and active transport. Metabolism of macromolecules. Molecular diagnostics. Design, engineering, and manufacture of proteins, genomes, cells, and biomolecular therapies.
+Prerequisites:
+BILD 1 or consent of department. (W)
+
+BENG 172. Bioengineering Laboratory (4)
+
+A laboratory course demonstrating basic concepts of biomechanics, bioengineering design, and experimental procedures involving animal tissue. Sources of error and experimental limitations. Computer data acquisition, modeling, statistical analysis. Experiments on artery, muscle and heart mechanics, action potentials, viscoelasticity, electrocardiography, hemorheology. Course materials fees may apply.
+Prerequisites:
+MAE 170; junior or senior standing in the major or consent of instructor. (S)
+
+BENG/BIMM/CSE 181. Molecular Sequence Analysis (4)
+
+(Cross-listed as BIMM 181 and CSE 181.) This course covers the analysis of nucleic acid and protein sequences, with an emphasis on the application of algorithms to biological problems. Topics include sequence alignments, database searching, comparative genomics, and phylogenetic and clustering analyses. Pairwise alignment, multiple alignment, DNA sequencing, scoring functions, fast database search, comparative genomics, clustering, phylogenetic trees, gene finding/DNA statistics.
+Prerequisites:
+CSE 100; CSE 101; BIMM 100 or CHEM 114C; bioinformatics majors only. (W)
+
+BENG/BIMM/CSE/CHEM 182. Biological Databases (4)
+
+(Cross-listed as BIMM 182, CSE 182, and CHEM 182.) This course provides an introduction to the features of biological data, how those data are organized efficiently in databases, and how existing data resources can be utilized to solve a variety of biological problems. Object-oriented databases, data modeling, and data description. Survey of current biological database with respect to above; implementation of database focused on a biological topic.
+Prerequisites:
+CSE 100; bioinformatics majors only. (S)
+
+BENG 183. Applied Genomic Technologies (4)
+
+Principles and technologies for using genomic information for biomedical applications. Technologies will be introduced progressively, from DNA to RNA to protein to whole cell systems. The integration of biology, chemistry, engineering, and computation will be stressed. Topics include technology for the genome, DNA chips, RNA technologies, proteomic technologies, aphysiomic and phenomic technologies, and analysis of cell function.
+Prerequisites:
+BIMM 100 or CHEM 114C, or consent of department. (F)
+
+BENG 186A. Principles of Biomaterials Design (4)
+
+Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Economic impact. Ethical issues. A term project and oral presentation are required.
+Prerequisites:
+BILD 1 and BENG 130 and PHYS 2A or PHYS 2AR, or consent of department. (S)
+
+BENG 186B. Principles of Bioinstrumentation Design (4)
+
+Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation. Potentiometric and amperometric signals and amplifiers. Biopotentials, membrane potentials, chemical sensors. Electrical safety. Mechanical transducers for displacement, force, and pressure. Temperature sensors. Flow sensors. Light-based instrumentation.
+Prerequisites:
+ECE 35 or MAE 40; or consent of department. (W)
+
+BENG 187A. Bioengineering Design Project: Planning (1)
+
+General engineering design topics including project planning and design objectives, background research, engineering needs assessment, technical design specifications, engineering standards, and design requirements and constraints. Introduction to biomedical and biotechnology design projects. Career and professional advising. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.
+Prerequisites:
+BENG 112A or BENG 152 or BENG 168 or BENG 181; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems majors, or bioengineering: bioinformatics majors only or consent of department. (S)
+
+BENG 187B. Bioengineering Design Project: Development (1)
+
+Development of an original bioengineering design for solution of a problem in biology or medicine. Analysis of economic issues, manufacturing and quality assurance, ethics, safety, design constraints, government regulations, and patent requirements. Oral presentation and formal engineering reports. Career and professional advising. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.
+Prerequisites:
+BENG 187A; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems or bioengineering: bioinformatics majors only or consent of instructor. (F)
+
+BENG 187C. Bioengineering Design Project: Implementation (1)
+
+Approaches to implementation of senior design project, including final report. Teams will report on construction of prototypes, conduct of testing, collection of data, and assessment of reliability and failure. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.
+Prerequisites:
+BENG 187B; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems or bioengineering: bioinformatics majors only or consent of instructor. (W)
+
+BENG 187D. Bioengineering Design Project: Presentation (1)
+
+Oral presentations of design projects, including design, development, and implementation strategies and results of prototype testing. Majors must enroll in the course for a letter grade in order to count the sequence toward the major. No exceptions will be approved.
+Prerequisites:
+BENG 187C; bioengineering, bioengineering: biotechnology, or bioengineering: biosystems or bioengineering: bioinformatics majors only or consent of instructor. (S)
+
+BENG 188A. Design Development in Bioengineering (3)
+
+Development of design project in bioengineering.
+Prerequisites:
+BENG 187A; BE25, BE27, BE28, and BE29 majors only or consent of department. (F)
+
+BENG 188B. Design Implementation in Bioengineering (3)
+
+Implementation of design project in bioengineering.
+Prerequisites:
+BENG 188A; BE25, BE27, BE28, and BE29 majors only or consent of department. (W)
+
+BENG 189. Physiological Systems Engineering (4)
+
+Quantitative description of physiological systems, e.g., electrical and mechanical properties of muscle (skeletal and cardiac). Modeling and simulation of properties. Kidney, transport, and models. Neural circuits and models.
+Prerequisites:
+BENG 133, 134, 135, 140A and 140B, or consent of department. (W)
+
+BENG 190. Special Topics in Bioengineering (1–4)
+
+Course given at the discretion of the faculty on current topics of interest in bioengineering.
+Prerequisites:
+bioengineering majors only (BE25, BE27, BE28, BE29) or consent of department. (F,W,S)
+
+BENG 190L. Special Topics in Bioengineering with Laboratory (1–4)
+
+Course given at the discretion of the faculty on current topics of interest in bioengineering. This course is intended to be a lecture and lab component special topics course. This course will cover topics from biomechanics, biosystems, bioinformatics, and biotechnology among others.
+Prerequisites:
+bioengineering majors only (BE25, BE27, BE28, BE29) or consent of department. (F,W,S)
+
+BENG 191/291. Senior Seminar I: Professional Issues in Bioengineering (2)
+
+(Conjoined with BENG 291.) Instills skills for personal and organizational development during lifelong learning. Student prepares portfolio of personal attributes and experiences, prepares for career interviews plus oral report of interviewing organizational CEO. Graduate students will prepare a NIH small business research grant.
+Prerequisites:
+consent of instructor. (W)
+
+BENG 193. Clinical Experience in Bioengineering (4)
+
+Introduction on the integration of bioengineering and clinical medicine through lectures and rotations with clinical faculty. Students will work with clinical mentors and course faculty to identify areas where engineering can improve diagnostics, clinical practice, and/or treatment. May be coscheduled with BENG 294C.
+Prerequisites:
+BENG 140A or BIPN 100; BENG 140B or BIPN 102; consent of instructor required. A GPA of 3.5 is requested as a requirement per the agreement with the School of Medicine to ensure that students who are participating in the program have a strong academic background to be in the clinic as an undergraduate. (S)
+
+BENG 195P. Pedagogy and Learning Apprenticeship (2)
+
+Under the supervision of an instructor, undergraduate students gain teaching experience through practical experiences in course management and effective teaching methods. (P/NP grades only.)
+Prerequisites:
+3.0 GPA in the major and department approval. (F,W,S)
+
+BENG 196. Bioengineering Industrial Internship (1–4)
+
+Under the joint supervision of a faculty adviser and industry mentor, the student will work at or be mentored at a bioengineering industrial company to gain practical bioengineering experience, summarized in a technical report. May be taken for credit up to three times. With department approval, four units of credit may substitute for a technical elective. (P/NP grades only.)
+Prerequisites:
+consent of department and completion of all lower-division course requirements, including general-science requirement; laboratory experience. (F,W,S,Su)
+
+BENG 197. Engineering Internship (1–4)
+
+An enrichment program, available to a limited number of undergraduate students, which provides work experience with industry, government offices, hospitals, and their practices. Subject to the availability of positions, students will work in a local industry or hospital (on a salaried or unsalaried basis) under the supervision of a faculty member and industrial, government, or hospital employee. Prior department approval and final report are required. Units may not be applied toward major graduation requirements.
+Prerequisites:
+completion of ninety units with a 2.5 GPA and approval from a bioengineering faculty coordinator. (F,W,S,Su)
+
+BENG 198. Directed Group Study (1–4)
+
+Directed group study, on a topic or in a field not included in the regular department curriculum, by arrangement with a bioengineering faculty member. (P/NP grades only.)
+Prerequisites:
+upper-division standing, completion of ninety units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 2.5, consent of instructor, and a completed and approved Special Studies form. (F,W,S)
+
+BENG 199. Independent Study for Undergraduates (4)
+
+Independent reading or research by arrangement with a bioengineering faculty member. May be taken for credit three times. (P/NP grades only.)
+Prerequisites:
+upper-division standing, completion of ninety units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 2.5, consent of instructor, and a completed and approved Special Studies form. (F,W,S,Su)
+
+GRADUATE
+
+BENG 202/CSE 282. Bioinformatics II: Introduction to Bioinformatics Algorithms (4)
+
+(Formerly BENG 202/CSE 257A.) Introduction to methods for sequence analysis. Application to genome and proteome sequences. Protein structure, sequence-structure analysis.
+Prerequisites:
+Pharm 201 or consent of instructor. (W)
+
+BENG 203/CSE 283. Genomics, Proteomics, and Network Biology (4)
+
+Annotating genomes, characterizing functional genes, profiling, reconstructing pathways.
+Prerequisites:
+Pharm 201, BENG 202/CSE 282, or consent of instructor. (S)
+
+BENG 204. Systems Medicine: Data Analytics and Mechanisms (4)
+
+Conversion of data into mechanistic models to facilitate an “engineering” concept of human cells, tissues, and organs. It will involve data science, systems biology, pathophysiology, and engineering models.
+Prerequisites:
+graduate standing. (W)
+
+BENG 207. Topics in Bioengineering (4)
+
+Course given at the discretion of the faculty on current topics of interest in bioengineering. (F,W,S)
+
+BENG 208. Topics in Bioengineering with Lab (4)
+
+Course given at the discretion of the faculty on topics of current interest in engineering science. This course is intended to be a lecture and lab companion topics course.
+Prerequisites:
+consent of instructor. (S)
+
+BENG/MAE 209. Continuum Mechanics Applied to Medicine/Biology (4)
+
+Introduction to the basic definitions of continuum mechanics and their mathematical formulation at the graduate level with applications to problems in medicine and biology.
+Prerequisites:
+(BENG 226 or MAE 201 or MAE 210A) and (BENG 227 or MAE 201 or MAE 210A) and (BENG 221 or MAE 208). (S)
+
+BENG 211. Systems Biology and Bioengineering I: Biological Components (4)
+
+Components of biological systems, their biochemical properties and function. The technology used for obtaining component lists. Relationship within and integration of component lists. Structured vocabularies and component ontologies. Algorithms for comparative approaches in deciphering and mining component lists.
+Prerequisites:
+BENG 230A or BIMM 100, or consent of instructor. (F)
+
+BENG 212. Systems Biology and Bioengineering II: Large-Scale Data Analysis (4)
+
+Analysis of biological data can be performed at four levels: 1) statistical analysis, 2) integration of knowledge, 3) integration of networks, and 4) integration of biophysical laws. This course teaches the first two levels. The first level consists of specialized topics in statistical analysis of large-scale data sets and machine learning. The second level consists of leveraging prior knowledge for the analysis of diverse, multi-omic datasets and network reconstruction.
+Prerequisites:
+graduate standing. (W)
+
+BENG 213. Systems Biology and Bioengineering III: Building and Simulating Large-Scale in Silico Models (4)
+
+Analysis of biological data can be performed at four levels: 1) statistical analysis, 2) integration of knowledge, 3) integration of networks, and 4) integration of biophysical laws. This course teaches the last two levels. The third level consists of integrating data in the context of genome-scale models to simulate and predict cellular phenotypes. The fourth level consists of analyzing data in the context of kinetic and thermodynamic laws that govern cellular function.
+Prerequisites:
+BENG 212 and graduate standing. (S)
+
+BENG 216. Neuromorphic Integrated Bioelectronics (4)
+
+Custom design of very large-scale integrated circuits and systems in silicon microchips that emulate the adaptive intelligence, resilience, and efficiency of neural sensing and cognitive processing in the brain, and interface dynamically with the body to probe and modulate physiological function. Assignments include a final project that entails the design, layout, and simulation of a neuromorphic or biomedical integrated circuit.
+Prerequisites:
+graduate standing. (F)
+
+BENG 219. Data Science for Multiscale Biology (4)
+
+Hands-on experience with computational tools for multiscale data analysis using example data sets obtained from multiscale biology research.
+Prerequisites:
+graduate standing or consent of instructor. (F)
+
+BENG 221. Mathematical Methods for Bioengineering (4)
+
+Introduction of the foundations of engineering by teaching the mathematical methods that describe the engineering principles. Analytical and numerical approaches to solving the equations.
+Prerequisites:
+graduate standing in bioengineering or consent of instructor. (F)
+
+BENG 223. Thermodynamics, Statistical Mechanics, Interfacial Phenomena in Living Systems (4)
+
+Thermodynamics, statistical mechanics, and interfacial phenomena that emphasize the chemical natures of living systems. Topics include intermolecular and surface forces, calculation of energetic processes, computation of electrical forces and fields, and principles of physics in multiscale engineering and design.
+Prerequisites:
+graduate standing in bioengineering or consent of instructor. (W)
+
+BENG 224. Regulatory Affairs (4)
+
+Introduces real-world tools and skills that product development engineers are expected to master in a medical device company. Students will be introduced to all stages of medical device development in an FDA-regulated environment with an emphasis in design controls and building a design history file. Students will also be exposed to other relevant topics such as project management, legal consideration, medical reimbursement, regulatory submissions, commercialization, and product improvements.
+Prerequisites:
+graduate standing in bioengineering only or consent of department.
+
+BENG 225. Business of Biotech (4)
+
+This course broadly covers the business of biotech with emphasis on innovation and communication skills. Topics include (1) disruptive technologies, (2) FDA regulation, (3) licensing and spinouts, (4) financing, (5) business models, and (6) business development and acquisitions. The format is intensive and interactive.
+Prerequisites:
+graduate standing in bioengineering or consent of department.
+
+BENG 226. Foundations of Bioengineering I: Tissue and Cell Properties (4)
+
+Modern development of biomechanics at an advanced mathematical level. Description of internal stresses and deformation in living tissues and fluids, thermodynamics. Mechanics of soft connective tissue, extracellular matrix, cells, membranes, and cytoskeleton. Mechanotransduction, migration, adhesion. Blood flow in microvessels. Biomechanical analysis of tissue injury. Recommended preparation: a previous background in biomechanics is strongly recommended prior to taking this course.
+Prerequisites:
+graduate standing or consent of instructor. (S)
+
+BENG 227. Transport Phenomena in Living Systems (4)
+
+This course describes the movement of heat and chemical mass in biological systems. Diffusion, convection and biochemical reactions in a variety of biological and engineering examples are analyzed and modeled. Students that have taken BENG 222 cannot take BENG 227 for credit.
+Prerequisites:
+BENG 221, graduate standing, or consent of instructor. (S)
+
+BENG 230A. Biochemistry (4)
+
+A graduate course in biochemistry especially tailored to the requirements and background of bioengineering graduate students. It will cover the important macro- and small molecules in cells that are the major constituents, or that function as signaling molecules or molecular machineries. The structures, pathways, interactions, methodologies, and molecular designs using recombinant DNA technology will be covered.
+Prerequisites:
+restricted to bioengineering graduate students with major code BE75. (F)
+
+BENG 230B. Cell and Molecular Biology (4)
+
+A general survey of structure-function relationships at the molecular and cellular levels. Emphasis on basic genetic mechanisms; control of gene expression; membrane structure, transport and traffic; cell signaling; cell adhesion; mechanics of cell division; and cytoskeleton.
+Prerequisites:
+BENG 230A; restricted to bioengineering graduate students with major code BE75. (W)
+
+BENG 230C. Cardiovascular Physiology (4)
+
+Physical concepts of behavior of heart, large blood vessels, vascular beds in major organs and the microcirculation. Physical and physiological principles of blood flow, blood pressure, cardiac work, electrophysiology of the heart. Special vascular beds, including their biological and hemodynamic importance. Integration through nervous and humoral controls.
+Prerequisites:
+BENG 230B or consent of instructor.
+
+BENG 230D. Respiratory and Renal Physiology (4)
+
+Mechanics of breathing. Gas diffusion. Pulmonary blood flow. Stress distribution. Gas transport by blood. Kinetics of oxygen and carbon dioxide exchange. VA/Q relations. Control of ventilation. Glomerular and proximal tubule functions. Water metabolism. Control of sodium and potassium in the kidney.
+Prerequisites:
+BIPN 100, 102, and BENG 230C, or consent of instructor. (F,W,S)
+
+BENG 232. Musculoskeletal Health, Injury, and Disease (4)
+
+An overview of the musculoskeletal system from a bioengineering perspective. Health, injury, disease of bone, cartilage, tendon, ligament, meniscus, synovium, intervertebral disc, skeletal muscle, peripheral nerve. Mechanisms and models underlying current and future therapies.
+Prerequisites:
+graduate standing or consent of instructor. (S)
+
+BENG 233. Neuromuscular Physiology and Biomechanics (4)
+
+Mechanical properties of structures involved in movement (muscles, tendons, bones). Models of neuromuscular adaptation to chronic electrical stimulation, voluntary exercise, surgical overload, spinal cord injury, denervation, limb immobilization, exercise-induced injury and muscle regeneration. Stem cells in muscle function and plasticity.
+Prerequisites:
+graduate standing or consent of instructor.
+
+BENG 234. Intro to Neurophysiology: Molecules to Systems (4)
+
+Introduction to molecular and cellular neurobiology and their integration with systems neurophysiology. Homeostasis will be an organizing theme. The material will be presented both qualitatively and quantitatively, emphasizing the mathematical, physical, and chemical foundations and dynamics that underlie neurophysiological functions.
+Prerequisites:
+graduate standing or consent of instructor. (S)
+
+BENG 235. Molecular Imaging and Quantitation in Living Cells (4)
+
+This course will introduce quantitative fluorescence microscopy techniques for imaging, manipulating, and quantifying the spatiotemporal characteristics of molecular events in live cells. A laboratory component will be integrated with students organized into small teams for projects. Recommended preparation: basic optics at the level of ECE 181, introductory molecular and cellular biology at the level of BIMM 100 and BICD 110, respectively.
+Prerequisites:
+graduate standing or consent of instructor. (S)
+
+BENG 238/MED 238. Molecular Biology of the Cardiovascular System (4)
+
+An overview of heart, vascular development and associated diseases from a molecular biological perspective. Current approaches for generating mouse models of cardiovascular disease and recently developed technologies for physiological assessment in small animal models will be presented. (W)
+
+BENG 241A. Tissue Engineering and Regenerative Medicine: Foundations (4)
+
+Overview and foundations of tissue engineering and regenerative medicine. Tissue structure, function, and dynamics in health and disease. Cells, microenvironment, extracellular matrix, and biomaterials as components of engineered tissues and organs. Functional goals, design, testing, and evaluation of therapies.
+Prerequisites:
+graduate standing. (F)
+
+BENG 241B. Tissue Engineering and Regenerative Medicine: Cell Microenvironment (4)
+
+The role of the cellular microenvironment in directing cell behavior and function in health and disease. Cell adherence and deformation and cell-mediated matrix remodeling. Bioengineering of the microenvironment in tissue engineering and regenerative medicine.
+Prerequisites:
+BENG 241A, graduate standing, or consent of instructor.
+
+BENG 241C. Tissue Engineering and Regenerative Medicine: Development and Growth (4)
+
+Development, morphogenesis, growth, and remodeling of tissues and organs in health and disease. Integrative metabolism and biomechanics of cells and extracellular matrix at tissue, organ, and organism scales. Bioengineering restoration of tissues and organs. Industry applications and regulations.
+Prerequisites:
+BENG 241A, graduate standing, or consent of instructor.
+
+BENG 242/MATS 257/NANO 257. Polymer Science and Engineering (4)
+
+Quantitative basic understanding of different branches of polymer science varying from polymer chemistry, characterization, thermodynamics, rheological properties, smart materials, self-assembly in biopolymers (natural) and synthetic polymers, and applications of polymers ranging from medicine to structure.
+Prerequisites:
+graduate standing in bioengineering, nanoengineering, or materials science, or consent of instructor.
+
+BENG 247A/ECE 247A/NANO 247A. Advanced Biophotonics (4)
+
+Basic physics and chemistry of interaction of photons with matter; photonic radiation pressure; advanced optoelectronic detection systems, devices, methods, time-resolved fluorescent, chemiluminescent methods, fluorescent energy transfer techniques, quantum dots, near-field optical techniques, mechanisms of light sensitive biological systems including chloroplasts for photosynthetic energy conversion and basis of vision processes.
+Prerequisites:
+graduate standing. (F)
+
+BENG 247B/ECE 247B/NANO 247B. Bioelectronics (4)
+
+Topics include photolithographic techniques for high-density DNA microarray production, incorporation of CMOS control into electronic DNA microarrays, direct electronic detection technology, biofuel cells, highly integrated devices (lab-on-a-chip, in vivo biosensors, etc.). Form heterogeneous materials and components.
+Prerequisites:
+graduate standing. (W)
+
+BENG 247C/ECE 247C/NANO 247C. Bionanotechnology (4)
+
+Bionanotechnology is defined as science and engineering that involve working with biomolecules on the nanoscale. DNA and protein-based nanostructures or even entire microorganisms are subject of study and development of nanomachines. Another avenue is the nanoscale biomimicry in which synthetic systems are engineered to mimic what nature has already achieved. Bionanotechnology finds utility in medicine, materials, the environment. Students may receive credit for one of the following: NANO 247C, BENG 247C, or ECE 247C.
+Prerequisites:
+graduate standing. (S)
+
+BENG 254. Synthetic Biology (4)
+
+Introduction to genetic circuits in natural systems, engineering principles in biology, characterization of biological components, numerical methods for systems analysis and design, fabrication of genetic systems in theory and practice, transformation and characterization, and examples of engineered systems.
+Prerequisites:
+graduate bioengineering majors only or consent of instructor. (S
+)
+
+BENG 260/BGGN 260/PHYS 279. Neurodynamics (4)
+
+Introduction to the nonlinear dynamics of neurons and neural systems using bifurcation theory and chaotic motions, at different levels of abstraction, e.g., biophysical and “reduced” models for analysis of regularly spiking and bursting cells. Laboratory exercises will accompany the lectures.
+Prerequisites:
+graduate standing or consent of instructor. (F)
+
+BENG 267. Microcirculation in Health and Disease (4)
+
+Structural and functional aspects of transport and blood-tissue exchange in key organs during circulatory shock, bacterial toxemia, hypertension. Physical and ultrastructural techniques used to analyze small-vessel dynamics.
+Prerequisites:
+consent of instructor. (S)
+
+BENG 276/CHEM 276/MATH 276/SPPS 276. Numerical Analysis in Multiscale Biology (4)
+
+Introduces mathematical tools to simulate biological processes at multiple scales. Numerical methods for ordinary and partial differential equations (deterministic and stochastic), and methods for parallel computing and visualization. Hands-on use of computers emphasized; students will apply numerical methods in individual projects.
+Prerequisites:
+consent of instructor. (W)
+
+BENG 277/BIOM 287. Tissue Engineering Laboratory (4)
+
+Students will learn to conduct tissue engineering and developmental biology experiments, microfabricate cell culture systems, engineer biopolymer materials, and develop and analyze quantitative models of transport, cell fate, and growth mechanics. The understanding and manipulation of multicellular processes that comprise development and growth involves specialized areas of biomechanics, developmental biology, biomaterials, and the tools of molecular biology, as well as the integration of theory and experiment. To fabricate functional tissues, it is important to establish underlying molecular and physical mechanisms and then control and integrate these.
+Prerequisites:
+consent of instructor. (W)
+
+BENG 278/RAD 278. Magnetic Resonance Imaging (4)
+
+This lab course provides hands-on experience with MR physics, data acquisition, image formation, and data analysis, using a human MRI scanner. It will cover basic principles of MRI and key applications, including scanner hardware, spin echoes, gradient echoes, echo-planar imaging, MR angiography, fMRI, and perfusion imaging. This will be accomplished through one hour of formal instruction and four hours of scanner time per week. Each week will cover one topic, and grading will be based on lab reports. The last two weeks are reserved for a final project, which can be student initiated.
+Prerequisites:
+BENG 280A or basic knowledge of linear systems and MRI, or consent of instructor. (W)
+
+BENG 280A/ECE 207. Principles of Biomedical Imaging (4)
+
+Fundamentals of Fourier transform and linear systems theory including convolution, sampling, noise, filtering, image reconstruction and visualization with an emphasis on applications to biomedical imaging. Examples from optical imaging, CT, MR, ultrasound, nuclear, PET, and radiography. Students may not receive credit for ECE 207 and BENG 280A.
+Prerequisites:
+graduate standing. (F)
+
+BENG 280B. Comparative Biomedical Imaging (4)
+
+Application of biomedical imaging to the measurement of structure, function, and dynamics of organ systems from the microscopic to the organ level. Emphasis on detailed evaluation and comparison of specific imaging modalities.
+Prerequisites:
+consent of instructor. (W,S)
+
+BENG 280C. Imaging Cardiovascular Disease (4)
+
+This course will focus on the imaging modalities used to diagnose and guide treatment of cardiovascular disease such as echocardiography, single photon computed tomography (SPECT), X-ray angiography, computed tomography (CT), and magnetic resonance imaging (MRI).
+Prerequisites:
+graduate standing. (S)
+
+BENG 281. Seminar in Bioengineering (1)
+
+Weekly seminars by faculty, visitors, postdoctoral research fellows, and graduate students concerning research topics in bioengineering and related subjects. May be repeated for credit. Course does not apply toward MS graduation requirements. (S/U grades only.) (F,W,S)
+
+BENG 282. Seminar: Faculty Research (1)
+
+Weekly seminars by bioengineering faculty presenting their research. May be repeated for credit. Course does not apply toward MS or PhD graduation requirements. (S/U grades only.) (F)
+
+BENG 283/CHEM 283/BIOM 283. Supramolecular Structure Determination Laboratory (4)
+
+A laboratory course combining hands-on mass spectrometry and bioinformatics tools to explore the relationship between structure and function in macromolecules. Tools for peptide sequencing, analysis of post-translational modification, and fragmentation analysis by mass spectrometry are examples of experiments students will run.
+Prerequisites:
+consent of instructor.
+
+BENG 285/BNFO 285/ECE 204. Statistical Learning in Bioinformatics (4)
+
+A hallmark of bioinformatics is the computational analysis of complex data. The combination of statistics and algorithms produces statistical learning methods that automate the analysis of complex data. Such machine learning methods are widely used in systems biology and bioinformatics. This course provides an introduction to statistical learning and assumes familiarity with key statistical methods. Students may not receive credit for BENG 285 and ECE 204 and BNFO 285.
+Prerequisites:
+ECE 271A or ECE 271B or MATH 283; or consent of instructor.
+
+BENG 291/191. Senior Seminar I: Professional Issues in Bioengineering (2)
+
+(Conjoined with BENG 191.) Instills skills for personal and organizational development during lifelong learning. Student prepares portfolio of personal attributes and experiences, prepares for career interviews plus oral report of interviewing organizational CEO. Graduate students will prepare a NIH small business research grant.
+Prerequisites:
+consent of instructor. (W)
+
+BENG 292. Scientific Ethics (1)
+
+Lectures, readings, and discussions about the responsible conduct and reporting of research, working with others in science, and social responsibilities; the course is designed as an option for meeting federal regulations for such training. Students should review the following web page prior to enrollment:
+https://ethics.ucsd.edu/courses/ethics/index.html
+. (S/U grades only.)
+Prerequisites:
+doctoral students only or consent of department. (F,W,S)
+
+BENG 294A. Patient-Centered Clinical Medicine for Bioengineers (4)
+
+Case-based introduction to patient-focused reasoning. Covers principles of quantitative physiology, medical devices (diagnostic and therapeutic), and complexities of real-world care settings. Emphasis on cardiopulmonary diseases.
+Prerequisites:
+bioengineering MS medicine majors only or consent of department.
+
+BENG 294B. Engineering in the Patient Healthcare System (4)
+
+Evaluation of medical schools in terms of historical background, specialties, graduating MDs metrics, and employment; and their societal, environmental, economic, political, and research impact. Coordination with medical school interviews with assigned off-campus time allocation. Report on results attained.
+Prerequisites:
+BENG 294A; bioengineering MS medicine majors only or consent of department.
+
+BENG 294C. Clinical Experience in Bioengineering (4)
+
+Capstone experiential learning course where students are to integrate bioengineering training and clinical medicine through lectures and rotations with clinical faculty. Students will identify problems with diagnostics, clinical practice, and/or treatment, and use engineering principles to design solutions. May be coscheduled with BENG 193.
+Prerequisites:
+BENG 294B; bioengineering MS medicine majors only or consent of department.
+
+BENG 295. Bioengineering Design Project and Industrial Training (4)
+
+Independent work by graduate students focused on design, applied research, and professional experience.
+Prerequisites:
+consent of instructor and department approval. (F,W,S)
+
+BENG 296. Independent Study (4)
+
+Prerequisites:
+consent of instructor. (F,W,S)
+
+BENG 298. Directed Group Study (1–4)
+
+Directed group study on a topic or in a field not included in regular department curriculum, by special arrangement with a faculty member. (S/U grades only.)
+Prerequisites:
+consent of instructor. (F,W,S)
+
+BENG 298L. Laboratory Research Rotation (4)
+
+Laboratory research rotation for first-year BENG PhD students. Students will write a final paper. (S/U grades only.)
+Prerequisites:
+PhD student in bioengineering. (F,W,S)
+
+BENG 299. Graduate Research (1–12)
+
+Independent work by graduate students engaged in research and writing theses. (S/U grades only.)
+Prerequisites:
+consent of instructor. (F,W,S)
+
+BENG 500. Apprentice Teaching for Specialization in Multi-Scale Biology (2, 4)
+
+Teaching experience in one of the six bioengineering lab courses designated as a part of the BENG PhD Specialization in Multi-Scale Biology. Student is under the direction of the faculty member in charge of the course. (S/U grades only.)
+Prerequisites:
+consent of instructor and department approval. (F,W,S)
+
+BENG 501. Teaching Experience (2, 4)
+
+Teaching experience in an appropriate bioengineering undergraduate course under direction of the faculty member in charge of the course. Lecturing one to two hours per week in either a problem-solving section or regular lecture. (S/U grades only.)
+Prerequisites:
+consent of instructor and department approval. (F,W,S)

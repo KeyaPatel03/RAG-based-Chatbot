@@ -1,0 +1,172 @@
+BACHELOR OF SCIENCE IN ELECTRICAL ENGINEERING
+
+Program Webpage:
+https://engineering.sfsu.edu/electrical-engineering
+
+Program Head: Dr. Xiaorong Zhang
+
+OVERVIEW
+
+Electrical Engineering applies mathematics and science to drive innovation in power systems, analog and digital electronics, signal processing, communications, and control—preparing engineers to tackle real-world challenges with practical, cutting-edge solutions.
+
+The Bachelor of Science in Electrical Engineering (BSEE) at SF State builds industry-ready professionals through a hands-on curriculum focused on designing electrical components, solving complex problems, and analyzing advanced systems. The four-year program progresses as follows:
+
+• Years 1-2 : Foundation in mathematics, physics, chemistry, and introductory engineering, including computer programming and circuits.
+Years 1-2
+: Foundation in mathematics, physics, chemistry, and introductory engineering, including computer programming and circuits.
+
+• Year 3 : Exploration of electronics, signals, and systems through interactive coursework and labs.
+Year 3
+: Exploration of electronics, signals, and systems through interactive coursework and labs.
+
+• Year 4 : Specialization in areas like electronics, computers, communications, signal processing, power systems, and robotics, culminating in a multidisciplinary senior project designing an engineering solution.
+Year 4
+: Specialization in areas like electronics, computers, communications, signal processing, power systems, and robotics, culminating in a multidisciplinary senior project designing an engineering solution.
+
+General Education courses complement technical studies, fostering ethical, community-minded graduates.
+The
+GE requirements
+are described in the Undergraduate Education section of this Bulletin.
+
+Accredited by the Engineering Accreditation Commission of ABET (
+https://www.abet.org
+), the BSEE meets rigorous standards, ensuring recognition by employers and graduate programs worldwide.
+
+PROGRAM EDUCATIONAL OBJECTIVES
+
+Graduates of the BSEE program are expected to have, within a few years of graduation:
+
+• Established themselves as practicing professionals or engaged in graduate study in electrical engineering or a related field.
+Established themselves as practicing professionals or engaged in graduate study in electrical engineering or a related field.
+
+• Demonstrated an ability to be productive and responsible professionals.
+Demonstrated an ability to be productive and responsible professionals.
+
+APPLICANTS
+
+• Freshmen : Admission requires four years of high school, one year of physics, and one year of chemistry. Computer programming is recommended to enhance problem-solving and technical readiness.
+Freshmen
+: Admission requires four years of high school, one year of physics, and one year of chemistry. Computer programming is recommended to enhance problem-solving and technical readiness.
+
+• Transfers : Complete the mathematics, chemistry, physics, and engineering sequence in SF State BSEE's First-Time Student Roadmap for freshman and sophomore years at a community college for a seamless transition.
+Transfers
+: Complete the mathematics, chemistry, physics, and engineering sequence in SF State BSEE's
+First-Time Student Roadmap
+for freshman and sophomore years at a community college for a seamless transition.
+
+CAREERS IN ELECTRICAL ENGINEERING
+
+SF State BSEE graduates launch into dynamic careers, applying hands-on expertise to shape tomorrow’s technology. Across the Bay Area and beyond, our alumni design and test electronic systems, circuit boards, and microchips in
+electronics
+, build 5G networks in
+communications
+, and create AI-driven automation in
+robotics and control
+. They innovate and maintain sustainable solutions in
+power and utilities
+—from solar grids to wind systems, develop smart firmware for IoT devices in
+embedded systems
+, and enhance applications like wireless systems, media, and diagnostics through
+signal processing
+.
+
+High-tech firms, consultancies, and startups seek our graduates’ practical skills—honed through hands-on lab work and projects like the senior design capstone—while others pursue master’s or Ph.D. degrees or interdisciplinary fields.
+
+PROGRAM LEARNING OUTCOMES
+
+Upon completion of the Bachelor of Science in Electrical Engineering, a student will be able to demonstrate:
+
+• an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+• an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+• an ability to communicate effectively with a range of audiences.
+• an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+• an ability to function effectively on a team whose members together provide leadership, create a collaborative environment, establish goals, plan tasks, and meet objectives.
+• an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+ELECTRICAL ENGINEERING (B.S.)
+— 93 UNITS MINIMUM
+
+All courses for the major must be completed with a letter grade.
+
+GENERAL EDUCATION REQUIREMENTS MET IN THE MAJOR
+
+The requirements below are deemed “met in the major” upon completion of the courses listed (even though the courses and their prerequisites are not approved for GE). This is true whether or not the student completes the major.
+
+• Area 1B (Critical Thinking) is satisfied upon completion of ENGR 205 and either ENGR 201 or ENGR 213 .
+• Upper-Division General Education, Physical and Life Sciences (5UD) is satisfied upon completion of ENGR 478 .
+
+LOWER-DIVISION MATH AND SCIENCE COURSES (30-31 UNITS)
+
+LOWER-DIVISION ELECTRICAL ENGINEERING COURSES (19 UNITS)
+
+UPPER-DIVISION ELECTRICAL ENGINEERING COURSES (38 UNITS)
+
+UPPER-DIVISION ENGINEERING ELECTIVES (6 UNITS)
+
+Choice of upper-division electives must present a clearly identifiable educational objective and ensure that the program requirements in engineering science and design are met by all students. Distribution of credit units among engineering science and design is given in the Advising Guide. A study plan of intended upper-division electives must be approved by the student’s advisor and the program coordinator prior to the seventh semester of the engineering program.
+
+A total of 6 units of upper-division engineering electives from the following list of courses is required. Students with a GPA of at least 3.0 and the required prerequisites may take graduate courses (numbered 800 and above) with the approval of their advisor or the program coordinator.
+
+GENERAL EDUCATION REQUIREMENTS
+
+Note: LD = Lower-Division; UD = Upper-Division.
+
+FIRST-TIME STUDENT ROADMAP (4 YEAR)
+
+The roadmaps presented in this Bulletin are intended as suggested plans of study and do not replace meeting with an advisor. For a more personalized roadmap, please use the
+Degree Planner
+tool found in your
+Student Center
+.
+
+Students should use their
+Pathway/Category
+to determine which roadmap to follow. For directions on how to view your Pathway/Category, visit
+how to find your pathway
+. Questions? Contact
+Gator Smart Start.
+
+First-Time Student Roadmap – QR Pathway 1/2
+
+5 Year First-Time Student Roadmap – QR Pathway 1/2
+
+First-Time Student Roadmap – QR Pathway 3/4
+
+SF STATE SCHOLARS ROADMAP
+
+The San Francisco State Scholars program provides undergraduate students with an accelerated pathway to a graduate degree. Students in this program pursue a bachelor’s and master’s degree simultaneously. This program allows students to earn graduate credit while in their junior and/or senior year, reducing the number of semesters required for completion of a master’s degree.
+
+Electrical Engineering BS + Electrical and Computer Engineering MS SF State Scholars Roadmap
+
+GENERAL ADVISING INFORMATION FOR TRANSFER STUDENTS
+
+• Before transfer, complete as many lower-division requirements or electives for this major as possible.
+• The following courses are not required for admission but are required for graduation. Students are strongly encouraged to complete these units before transfer; doing so will provide more flexibility in course selection after transfer. a course in U.S. History a course in U.S. & California Government
+• a course in U.S. History
+• a course in U.S. & California Government
+For information about satisfying the requirements described in (1) and (2) above at a California Community College (CCC), please visit
+http://www.assist.org
+. Check any geographically accessible CCCs; sometimes, options include more than one college. Use ASSIST to determine:
+
+• Which courses at a CCC satisfy any lower-division major requirements for this major;
+• Which courses at a CCC satisfy CSU GE, US History, and US & CA Government requirements.
+Remedial courses are not transferable and do not apply to the minimum 60 semester units/90 quarter units required for admission.
+
+Additional units for courses that are repeated do not apply to the minimum 60 units required for upper-division transfer (for example, if a course was not passed on the first attempt or was taken to earn a better grade).
+
+Before leaving the last California Community College of attendance, obtain a summary of completion of lower-division General Education units (IGETC or CSU GE Breadth). This is often referred to as a GE certification worksheet. SF State does not require delivery of this certification to Admissions, but students should retain this document for verifying degree progress after transfer.
+
+Credit for Advanced Placement, International Baccalaureate, or College-Level Examination Program courses: AP/IB/CLEP credit is not automatically transferred from the previous institution. Units are transferred only when an official score report is delivered to SF State. Credit is based on the academic year during which exams were taken. Refer to the University Bulletin in effect during the year of AP/IB/CLEP examination(s) for details regarding the award of credit for AP/IB/CLEP.
+
+Students pursuing majors in science, technology, engineering, and mathematics (STEM) disciplines often defer 6-9 units of lower-division General Education in Areas C and D until after transfer to focus on preparation courses for the major. This advice does not apply to students pursuing associate degree completion before transfer.
+
+TRANSFERRING FROM INSTITUTIONS OTHER THAN CCCS OR CSUS
+
+Review SF State's lower-division General Education requirements. Note that, as described below, the four basic skills courses required for admission meet GE Areas 1A/A2, 1B/A3, 1C/A1, and 2/B4 in the SF State GE pattern. Courses that fulfill the remaining areas of SF State’s lower-division GE pattern are available at most two-year and four-year colleges and universities.
+
+Of the four required basic skills courses, a course in critical thinking (1B/A3) may not be widely offered outside the CCC and CSU systems. Students should attempt to identify and take an appropriate course no later than the term of application to the CSU. To review more information about the 1B/A3 requirement, please visit
+bulletin.sfsu.edu/undergraduate-education/general-education/lower-division/#AAEL
+.
+
+Waiting until after transfer to take a single course at SF State that meets both US and CA/local government requirements may be an appropriate option, particularly if transferring from outside of California.

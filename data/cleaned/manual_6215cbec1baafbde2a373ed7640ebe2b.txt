@@ -1,0 +1,2 @@
+<script>
+ window.location.href = "https://search.csusm.edu?t=4&q=chemistry programs bschemistry"</script>

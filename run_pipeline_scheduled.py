@@ -32,7 +32,7 @@ def run_pipeline():
     logger.info("[Step 1] Scraping URLs...")
     urls = scrap.load_urls_from_file()
     if not urls:
-        logger.warning("[stop] No URLs found in urls.txt or clgUrls.txt")
+        logger.warning("[stop] No URLs found in urls.txt or clgUrls.txt") 
         return False
 
     try:
@@ -56,7 +56,7 @@ def run_pipeline():
         return False
     
     logger.info("[Step 4] Embedding and Storing in ChromaDB...")
-    try:
+    try: 
         embed_new_chunks()
     except Exception as e:
         logger.error(f"[error] Embedding step failed: {e}", exc_info=True)

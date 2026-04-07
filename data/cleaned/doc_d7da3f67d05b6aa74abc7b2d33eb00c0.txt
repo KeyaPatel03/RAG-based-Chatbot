@@ -1,0 +1,242 @@
+• Skip Nav
+• Accessibility
+• Calendar
+• Directory
+• A to Z
+• Webmail
+• Advanced Search
+• Home
+• Majors
+• Minors
+• Policies & Procedures
+• General Education
+• Graduate Studies
+• Faculty
+• Courses
+
+ELECTRICAL AND COMPUTER ENGINEERING
+
+• Overview
+• Programs
+• Faculty
+• Courses
+
+PROGRAM:
+ELECTRICAL ENGINEERING, B.S.
+
+• email
+• print
+• Home
+• /
+• College of Engineering and Computer Science
+• /
+• Electrical and Computer Engineering
+• /
+• Programs
+• /
+• Electrical Engineering, B.S.
+
+PROGRAM DESCRIPTION
+
+“Nowadays the world is lit by lightning,” playwright Tennessee Williams wrote. But electrical and computer engineers prove him wrong every day.
+
+From city lights to satellites, semiconductors, telephone switching systems and audio equipment, their work depends on electricity and the engineers who design and develop ways to harness its power.
+
+Electrical Engineering majors at CSUN receive a solid, broad-based education. Among the many topic areas in the basic curriculum are mathematics, physics, chemistry, computer programming, engineering materials, electrical circuits, engineering mechanics, thermodynamics, engineering economy and numerical analysis. At the senior level, students may choose elective courses from one or more of the following Electrical and Computer Engineering areas: Biomedical Engineering, Communications, Digital Systems Design, Control Systems, Electronics, Microwave and Antenna Engineering, or Power Systems.
+
+The Electrical and Computer Engineering (ECE) department has 17 labs associated with its ECE classes. In the labs, students work alongside professors who may be designing medical instrumentation for healthcare, designing microcontroller-based applications, developing pager and satellite communications systems, or working on innovations in electrical power systems.
+
+All students in the EE or CompE programs take part in the department’s senior design program, modeled on industry work groups that students will encounter on the job. Like professional engineers, students design and develop a project from conception through manufacture. In the process, they gain valuable experience in working as a team and dealing with personalities, as well as technical areas.
+
+Senior design projects have included national intercollegiate competitions. Students compete in designing a micromouse and training it to run through a 10-square-foot maze. Students also work on interdisciplinary teams to design, build, program and test an unmanned autonomous helicopter. Other projects include developing a sophisticated stereo system, a control system for a satellite tracking antenna, a television tuner, fabrication of a hybrid circuit, software-defined radio, etc.
+
+ACCREDITATION
+
+The Bachelor of Science in Electrical Engineering is accredited by the Engineering Accreditation Commission of ABET,
+https://www.abet.org
+, under the commission’s General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s), and Similarly Named Engineering Programs.
+
+PROGRAM EDUCATIONAL OBJECTIVES (PEOS)
+
+Graduates of the Electrical Engineering programs will meet the following educational objectives within a few years after graduation:
+
+• Have professional careers in Electrical Engineering or related technical fields, or continue their studies at the graduate level.
+• Advance their academic and professional growth through leadership, innovation, collaboration, and ethical decision-making that benefit communities and society.
+
+PROGRAM REQUIREMENTS
+
+The Electrical Engineering program is based on an expectation of adequate high school preparation in science, mathematics and English. High school courses should include algebra, plane geometry, trigonometry, chemistry or physics (all desirable), and four years of English.
+
+CSUN provides the opportunity for students who have not had a complete background of pre-engineering work in high school to take courses to prepare for the major. These additional courses will not count toward the major and may increase the time to graduate. CSUN provides testing as outlined below to ensure that students start their engineering coursework at an appropriate level.
+
+PLACEMENT EXAM REQUIREMENT
+
+The
+Chemistry Placement Test (CPT)
+is required with a score of 40 or higher prior to enrolling in
+CHEM 107
+. Students who have had high school chemistry and expect to enroll in
+CHEM 107
+must take this test regardless of their score on the AP Chemistry exam. Students who do not receive this CPT score must receive a grade of “C” or better in
+CHEM 100
+before taking
+CHEM 107
+.
+
+SPECIAL GRADE REQUIREMENTS
+
+• All students must complete the lower division writing requirement before enrolling in 300-level engineering courses.
+• A grade of “C-” or better is required in all courses in the major. A grade of “C” or better is required in all undergraduate transfer courses.
+• Senior-level courses cannot be taken unless the student previously completed or is concurrently completing all freshman-, sophomore- and junior-level core requirements.
+• A grade of “C” or higher is necessary in MATH 150B to meet the prerequisite requirements for the next-level math courses.
+
+COURSE REQUIREMENTS
+
+The B.S. in Electrical Engineering program requires a minimum of 126 units total, including General Education requirements of 27 units, an Electrical Engineering core of 81 units and a minimum of 18 units of approved electives. Electrical Engineering majors must complete a minimum of 39 semester units of upper division engineering courses in residency, including Senior Design Project I and II.
+
+Additional information about this program and its facilities, faculty and students can be found on the
+Department of Electrical and Computer Engineering
+website.
+
+1. LOWER DIVISION REQUIRED COURSES (44 UNITS)
+
+BIOL 101EN Introduction to Biological Principles for Engineering (2)
+CHEM 107 General Chemistry for Engineers (3)
+ECE 101/L Introduction to Electrical Engineering and Lab (1/1)
+ECE 206/L Computing for Electrical Engineering and Lab (2/1)
+MATH 150A Calculus I (5)
+MATH 150B Calculus II (5)
+PHYS 220A Mechanics (3)
+PHYS 220AL Mechanics Lab (1)
+
+CE 240/L Engineering Statics and Lab (2/1)
+
+ECE 240 Electrical Engineering Fundamentals (3)
+
+ECE 240L Electrical Circuits Lab (1)
+
+MATH 250 Calculus III (3)
+
+MATH 280 Applied Differential Equations (3)
+or
+ECE 280 Applied Differential Equations in Electrical Engineering (3)
+
+MSE 227 Engineering Materials (3)
+
+PHYS 220B Electricity and Magnetism (3)
+
+PHYS 220BL Electricity and Magnetism Lab (1)
+
+2. UPPER DIVISION REQUIRED COURSES (37 UNITS)
+
+Note: All students must complete the lower division writing requirement before enrolling in any 300-level engineering courses.
+
+ECE 309 Numerical Methods in Electrical Engineering (2)
+ECE 320/L Theory of Digital Systems and Lab (3/1)
+ECE 340/L Electronics I and Lab (3/1)
+ECE 350 Linear Systems I (3)
+ECE 351 Linear Systems II (3)
+ECE 455 Mathematical Models in Electrical Engineering (3)
+MSE 304 Engineering Economy (3)
+
+ME 370 Thermodynamics (3)
+ME 376 Heat Transfer in Electrical and Electronic Systems (3)
+
+The senior core consists of a set of courses considered essential for all students seeking a career in electrical engineering.
+
+ECE 370 Electromagnetic Fields and Waves I (3)
+ECE 450 Probabilistic Systems in Electrical Engineering (3)
+ECE 480 Fundamentals of Control Systems (3)
+ECE 492 Senior Design Project I (1)
+ECE 493 Senior Design Project II (2)
+
+3. UPPER DIVISION ELECTIVES (18 UNITS)
+
+The senior elective packages must contain at least 18 units of 400-/500-level department courses and labs that are well balanced in both design and analysis. One of the electives must be either
+ECE 440/L
+(3/1) or
+ECE 442/L
+(3/1). Students will be required to take the corresponding labs for every elective chosen that offers a lab. For each lab taken, the corresponding lecture course is a corequisite. The student’s total engineering program should contain at least 18 units of engineering design.
+
+Note: Students can take
+ECE 370L
+and/or
+ECE 480L
+as part of their senior electives.
+
+All senior electives must be completed with a faculty advisor and approved by the department chair or designee. A number of examples of suggested senior elective packages in the Electrical Engineering degree are available in the department office. Other programs also are possible and may be developed with an advisor.
+
+4. GENERAL EDUCATION (43 UNITS)
+
+Undergraduate students must complete 43 units of
+General Education
+as described in this Catalog, including 3 units of coursework meeting the
+Ethnic Studies (E.S.)
+requirement.
+
+19 units are satisfied by coursework in the major. Completion of the Electrical Engineering major satisfies A3 Critical Thinking.
+MATH 150A
+satisfies Basic Skills Area 2 Mathematical Concepts and Quantitative Reasoning;
+ECE 340
+satisfies Area 2 Mathematical Concepts and Quantitative Reasoning, Upper Division;
+MSE 304
+satisfies 3 units of upper division Area 4 Social and Behavioral Sciences;
+PHYS 220A
+satisfies Area 5A Physical Science;
+BIOL 101EN
+satisfies Area 5B Biological Science; and
+PHYS 220AL
+satisfies Area 5C Science Laboratory Activity.
+ECE 340
+and
+MSE 304
+taken at CSUN may count as Writing Intensive.
+
+5. CAMPUS REQUIREMENTS (6 UNITS)
+
+Undergraduate students must complete 6 units of
+Campus Requirements
+as described in this Catalog.
+ECE 206/L
+meets the Lifelong Learning requirement.
+
+TOTAL UNITS IN THE MAJOR: 99
+
+GENERAL EDUCATION UNITS: 24
+
+CAMPUS REQUIREMENT UNITS: 3
+
+TOTAL UNITS REQUIRED FOR THE B.S. DEGREE: 126
+
+CONTACT
+
+Department of Electrical and Computer Engineering
+Chair: Xiaojun Geng
+Jacaranda Hall (JD) 4509
+(818) 677-2190
+
+PROGRAM LEARNING OUTCOMES
+
+Students receiving a Bachelor of Science in Electrical Engineering will be able to:
+
+• Identify, formulate and solve complex engineering problems by applying principles of engineering, science and mathematics.
+• Apply engineering design to produce solutions that meet specified needs with consideration of public health, safety and welfare, as well as global, cultural, social, environmental and economic factors.
+• Communicate effectively with a range of audiences.
+• Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental and societal contexts.
+• Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks and meet objectives.
+• Develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• Acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+DEGREE ROAD MAPS
+
+Electrical Engineering (2025-Present)
+
+Previous Years
+
+TRANSFER ROAD MAPS
+
+Electrical Engineering (2023-Present)
+
+Previous Years
+
+View Catalog Archives, Degree Road Maps and external resources here:

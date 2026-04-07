@@ -1,0 +1,1160 @@
+• HOME
+• courses
+• Mechanical and Aerospace Engineering
+
+MECHANICAL AND AEROSPACE ENGINEERING (MAE)
+
+[
+undergraduate program
+|
+graduate program
+|
+faculty
+]
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+COURSES
+
+For course descriptions not found in the
+UC San Diego General Catalog 2025–26
+, please contact the department for more information.
+
+All students enrolled in MAE courses are expected to meet prerequisite and performance standards, i.e., students may not enroll in any MAE courses or courses in another department which are required for the major prior to having satisfied prerequisite courses with a D or better. The department requires at least a D grade in each course required for the major. This includes the required math, physics, and chemistry courses. All courses required for the major must be taken for a letter grade and students will not graduate with more than one D grade in any course within their major. If a student has more than one D grade, it is the student’s choice which course to repeat. Additional details are given under the various program outlines, course descriptions, and admission procedures for the Jacobs School of Engineering in this catalog. Furthermore, the majority of MAE courses have enrollment restrictions that give priority to or are open only to students who have been admitted to an MAE major. Where these restrictions apply, the registrar will not enroll other students unless approved by the department. The department expects that students will adhere to these policies of their own volition and enroll in courses accordingly. Students are advised that they may be dropped at any time from course rosters if prerequisites have not been met.
+
+While most lower-division courses are offered more than once each year, many MAE upper-division courses are taught only once per year, and courses are scheduled to be consistent with the curricula as shown in the tables. When possible, MAE does offer selected large enrollment courses more than once each year.
+
+LOWER DIVISION
+
+MAE 02. Introduction to Aerospace Engineering (4)
+
+An introduction to topics in aeronautical and astronautical engineering including aerodynamics, propulsion, flight mechanics, structures, materials, orbital mechanics, design, mission planning, and environments. General topics include historical background, career opportunities, engineering ethics, and professionalism.
+Prerequisites:
+none.
+
+MAE 03. Introduction to Mechanical Design (4)
+
+Introduction to design process through hands-on individual and team projects. Topics include 2D/3D CAD (drawing projections/isometrics, dimensioning), design problem identification, prototype fabrication techniques (shop skills, rapid prototyping), design process (concept generation/selection, risk reduction strategies, scheduling), learning from hardware performance (problem solving/redesign), teamwork. Use of components: fasteners, couplings, DC motors, oral/written communication with graphics. Program or materials fees may apply.
+Prerequisites:
+PHYS 2A or 4A. Enrollment restricted to BE 25, MC 25, MC 27, MC 29, and MC 30–37 majors only.
+
+MAE 05. Quantitative Computer Skills (4)
+
+Introductory course for nonengineering majors. Use of computers in solving problems; applications from life sciences, physical sciences, and engineering. Students run existing computer programs and complete some programming in BASIC.
+Prerequisites:
+none.
+
+MAE 07. Spatial Visualization (1)
+
+(Cross-listed with SE 7.) Spatial visualization is the ability to manipulate 2-D and 3-D shapes in one’s mind. In this course, students will perform exercises that increase their spatial visualization skills. P/NP grades only. Students may not receive credit for SE 7 and MAE 7.
+Prerequisites:
+none.
+
+MAE 08. MATLAB Programming for Engineering Analysis (4)
+
+Computer programming in MATLAB with elementary numerical analysis of engineering problems. Arithmetic and logical operations, arrays, graphical presentation of computations, symbolic mathematics, solutions of equations, and introduction to data structures.
+Prerequisites:
+MATH 20A and 20B or consent of instructor.
+
+MAE 11. Thermodynamics (4)
+
+Fundamentals of engineering thermodynamics: energy, work, heat, properties of pure substances, first and second laws for closed systems and control volumes, gas mixtures. Application to engineering systems, power and refrigeration cycles, combustion. Renumbered from MAE 110A. Students may not receive credit for MAE 11 and MAE 110A.
+Prerequisites:
+PHYS 2C and CHEM 6A. Enrollment restricted to engineering majors only.
+
+MAE 20. Elements of Materials Science (4)
+
+The structure of materials: metals, ceramics, glasses, semiconductors, superconductors, and polymers to produce desired, useful properties. Atomic structures. Defects in materials, phase diagrams, microstructural control. Mechanical and electrical properties are discussed. Time temperature transformation diagrams. Diffusion.
+Prerequisites:
+PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20C.
+
+MAE 21. Aerospace Materials Science (4)
+
+Atomic structure and physical properties of engineering materials including metals, ceramics, glasses, polymers, and composite materials. Defects and phase diagram of materials. Material testing and processing. Program or materials fees may apply.
+Prerequisites:
+PHYS 2A or 4A, CHEM 6A or CHEM 6AH, and MATH 20B. Enrollment restricted to MC 25 and MC 35–37 majors only.
+
+MAE 30A.
+Statics and Introduction to Dynamics
+(4)
+
+Statics: statics of particles and rigid bodies in 3-D. Free body diagrams. Moment of a force, couples, equivalent systems of forces. Distributed forces, centroids, and centers of gravity. Introduction to dynamics: 3-D relative motion, kinematics, and kinetics of particles. Newton’s equations of motion. Equilibrium problems with friction. Enrollment restricted to engineering majors MC 25, MC 27, MC 29, MC 30–34, MC 35–37, and SE 27.
+Prerequisites:
+PHYS 2A and MATH 31BH or MATH 20C.
+
+MAE 30B. Dynamics and Vibrations (4)
+
+Dynamics: energy methods for motion of particles and rigid bodies, including virtual work, power, and Lagrange’s equations. Impact and impulses. Systems of particles. Introduction to 3-D dynamics of rigid bodies. Introduction to vibrations: free and harmonically forced vibrations of undamped and damped single degree of freedom systems. Enrollment restricted to engineering majors only MC 25, MC 27, MC 29, MC 30–34, MC 35–37, and SE 27.
+Prerequisites:
+MAE 30A.
+
+MAE 40. Linear Circuits (4)
+
+Steady-state and dynamic behavior of linear, lumped-parameter electrical circuits. Kirchhoff’s laws. RLC circuits. Node and mesh analysis. Operational amplifiers. Signal acquisition and conditioning. Electric motors. Design applications in engineering.
+Prerequisites:
+MATH 20D and MATH 31AH or MATH 18 or MATH 20F, and PHYS 2B.
+
+MAE 87. First-year Student Seminar (1)
+
+The First-year Student Seminar program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges. Topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.
+Prerequisites:
+none.
+
+MAE 88. Learn Sustainable Well-Being: Compassion for Self and Others, an Engineer’s Perspective (1)
+
+This experiential course teaches the art of practicing psychological well-being, based on Eastern and Western approaches (e.g., mindfulness, positive psychology, cognitive therapy, neuroscience, theatre and art), from the perspective of an engineer. Each week there is a short lecture on a given topic, combined with workshop-style exercises.
+Prerequisites:
+none.
+
+MAE 91. Introduction to Topics in Mechanical and Aerospace Engineering (4)
+
+An introduction to special topics in mechanical and aerospace engineering.
+Prerequisites:
+none.
+
+MAE 92A. Design Competition—Design, Build, and Fly Aircraft (1)
+
+(Cross-listed with SE 10A.) Student teams design, build, and fly unmanned aircraft for a national student competition. Students concentrate on vehicle system design including aerodynamics, structures, propulsion, and performance. Teams engineering, fabricate the aircraft, submit a design report, and prep aircraft for competition.
+Prerequisites:
+consent of instructor.
+
+MAE 93. Design Competition—Design, Build, and Test Race Car (1)
+
+Student teams design, build, and test a formula-style racing car for an international student competition. Students concentrate on vehicle system analysis and design, manufacturability and performance. Teams engineer, fabricate car, submit a design report and prep car for competition.
+Prerequisites:
+department approval.
+
+MAE 94. Rocketry Competitions—Design and Build Rockets and Space Systems (1)
+
+Student teams design, build, and test different components of rockets and cubesats for national level competitions. Students will be involved in planning, designing, manufacturing, and testing various systems. Team engineers will focus on the feasibility of manufacturing and performance for the targeted competitions. Final design reports will be prepared by the teams.
+Prerequisites:
+department approval.
+
+MAE 98. Directed Group Study (2)
+
+Directed group study on a topic or in a field not included in the regular departmental curriculum. P/NP grades only. May be taken for credit two times. Credit may not be received for a course numbered 97, 98, or 99 subsequent to receiving credit for a course numbered 197, 198, or 199.
+Prerequisites:
+department approval.
+
+MAE 99H. Independent Study (1)
+
+Independent study or research under direction of a member of the faculty.
+Prerequisites:
+student must be of first-year standing and a Regent’s Scholar; approved Special Studies form.
+
+UPPER DIVISION
+
+MAE 101A. Introductory Fluid Mechanics (4)
+
+Fluid statics; fluid kinematics; integral and differential forms of the conservation laws for mass, momentum, and energy; Bernoulli equation; potential flows; dimensional analysis and similitude.
+Prerequisites:
+PHYS 2A or 4A and MATH 20D and MATH 20E or MATH 31CH, or consent of instructor. Enrollment restricted to MC 25, MC 27, MC 29, MC 30–34, and MC 35–37 majors only.
+
+MAE 101B. Advanced Fluid Mechanics (4)
+
+Laminar and turbulent flow. Pipe flow including friction factor. Boundary layers, separation, drag, and lift. Compressible flow including shock waves.
+Prerequisites:
+MAE 101A or CENG 101A, and MAE 11 or MAE 110A or CENG 102, or consent of instructor.
+
+MAE 101C. Heat Transfer (4)
+
+Extension of fluid mechanics in MAE 101A–B to viscous, heat-conducting flows. Application of the energy conservation equation to heat transfer in ducts and external boundary layers. Heat conduction and radiation transfer. Heat transfer coefficients in forced and free convection. Design applications.
+Prerequisites:
+MAE 101A or CENG 101A,
+MAE 101B,
+and MAE 105.
+
+MAE 101D. Intermediate Heat Transfer (4)
+
+Course builds on the MAE fluids sequence, offering more advanced concepts in conduction, convection, radiation, and heat exchanger design. This course covers numerical methods in conduction, boiling, condensation and evaporation analysis, natural and turbulent convection, spectral and directional radiative transfer, heatpipes, thermal design of spacecraft, heat exchanger analysis and design.
+Prerequisites:
+senior standing and MAE 101C, or consent of instructor.
+
+MAE 104. Aerodynamics (4)
+
+Basic relations describing flow field around wings and bodies at subsonic and supersonic speed. Thin-wing theory. Slender-body theory. Formulation of theories for evaluating forces and moments on airplane geometries. Application to the design of high-speed aircraft.
+Prerequisites:
+MAE 101A and 101B, or consent of instructor. Enrollment restricted to MC 25, MC 27, MC 29, MC 30–34, MC 35–37, and SE 27 majors only.
+
+MAE 105. Introduction to Mathematical Physics (4)
+
+Fourier series, Sturm Liouville theory, elementary partial differential equations, integral transforms with applications to problems in vibration, wave motion, and heat conduction.
+Prerequisites:
+PHYS 2A and B, and MATH 20D or 21D. Enrollment restricted to engineering majors only.
+
+MAE 107. Computational Methods in Engineering (4)
+
+Introduction to scientific computing and algorithms; iterative methods, systems of linear equations with applications; nonlinear algebraic equations; function interpolation and differentiation and optimal procedures; data fitting and least-squares; numerical solution of ordinary differential equations.
+Prerequisites:
+MAE 8 or 9, and MATH 18 or 20F or 31AH.
+
+MAE 108. Probability and Statistical Methods for Engineering (4)
+
+Probability theory, conditional probability, Bayes theorem, random variables, densities, expected values, characteristic functions, central limit theorem. Engineering reliability, elements of estimation, random sampling, sampling distributions, hypothesis testing, confidence intervals. Curve fitting and data analysis. Students cannot receive credit for MAE 108 and ECE 109, ECON 120A, MATH 180A, MATH 183, MATH 186, or SE 125.
+Prerequisites:
+MATH 18 or 20F.
+
+MAE 110. Thermodynamic Systems (4)
+
+Thermodynamic analysis of power cycles with application to combustion driven engines: internal combustion, diesel, and gas turbines. Thermodynamics of mixtures and chemical and phase equilibrium. Computational methods for calculating chemical equilibrium. Renumbered from MAE 110B. Students may not receive credit for MAE 110 and MAE 110B.
+Prerequisites:
+MAE 11 or 110A.
+
+MAE 113. Fundamentals of Propulsion (4)
+
+Compressible flow, thermodynamics, and combustion relevant to aircraft and space vehicle propulsion. Analysis and design of components for gas turbines, including turbines, inlets, combustion chambers and nozzles. Fundamentals of rocket propulsion.
+Prerequisites:
+MAE 11 or MAE 110A or CENG 102, and MAE 101A or CENG 101A, and MAE 101B or CENG 101C. Enrollment restricted to MC 25, MC 27, MC 29, MC 30–34, and MC 35–37 majors only.
+
+MAE 114. Space Propulsion (4)
+
+This course covers the fundamentals of rocket propulsion and discusses advanced concepts in space propulsion. Topics include liquid and solid propellant rocket engines, electrical rocket propulsion, nuclear propulsion devices, solar-powered vehicles, and current challenges and opportunities in launch vehicle technologies.
+Prerequisites:
+MAE 113.
+
+MAE 117A. Elementary Plasma Physics (4)
+
+(Cross-listed with Physics 151.) Particle motions, plasmas as fluids, waves, diffusion, equilibrium and stability, nonlinear effects, controlled fusion. Recommended preparation: PHYS 100B–C or ECE 107.
+Prerequisites:
+MATH 20D or 21D, or consent of instructor.
+
+MAE 118. Introduction to Energy and Environment (4)
+
+Overview of present-day primary energy sources and availability: fossil fuel, renewable, and nuclear; heat engines; energy conservation, transportation, air pollution, and climate change. Students may not receive credit for both MAE 118 and MAE 118A.
+Prerequisites:
+MAE 101A or CENG 101A, or consent of instructor.
+
+MAE 119. Introduction to Renewable Energy: Solar and Wind (4)
+
+Basic principles of solar radiation—diffuse and direct radiation; elementary solar energy engineering—solar thermal and solar photovoltaic; basic principles of wind dynamics—hydrodynamic laws, wind intermittency, Betz’s law; elementary wind energy engineering; solar and wind energy perspectives; operating the California power grid with 33 percent renewable energy sources. Students may not receive credit for both MAE 118B and MAE 119.
+Prerequisites:
+PHYS 2C or consent of instructor.
+
+MAE 120. Introduction to Nuclear Energy (4)
+
+Overview of basic fission and fusion processes. Elementary fission reactor physics and engineering; environmental and waste disposal issues. Survey of fusion technology issues and perspectives. May not receive credit for both MAE 118C and MAE 120.
+Prerequisites:
+MAE 101A or CENG 101A, or consent of instructor.
+
+MAE 121. Air Pollution Transport and Dispersion Modeling (4)
+
+Overview of air pollution and wastes and their impact. Characteristics of air pollutants. Air pollution transport. Atmospheric stability. Plume rise and dispersion. Meteorological data. Selecting the appropriate air quality model and case studies. Modeling complex terrain situations. Current air quality modeling issues. Laws and regulations to control air pollution.
+Prerequisites:
+MAE 122.
+
+MAE 122. Flow and Transport in the Environment (4)
+
+Introduction to the air and aquatic environments. Buoyancy, stratification, and rotation. Earth surface energy balance. Introduction to the atmospheric boundary layer. Advection and diffusion. Turbulent diffusion and dispersion in rivers and in the atmospheric boundary layer. Surface waves and internal gravity waves.
+Prerequisites:
+MAE 101A or CENG 101A, or consent of instructor.
+
+MAE 123. Introduction to Transport in Porous Media (4)
+
+Introduction to groundwater flow. Pollution transport through the water table. Fundamentals of flow. Single- and multi-phase flow. Darcy law. Well hydraulics. Diffusion and dispersion. Gravity currents and plumes in porous media. Chemistry of fluid-solid interactions. Fundamentals of adsorption and surface reactions.
+Prerequisites:
+MAE 105,
+or consent of instructor
+.
+
+MAE 125. Building Energy Efficiency (4)
+
+Physical building performance including building thermodynamics, daylighting, and solar control. Heat transfer through building envelope, solar geometry, and shading. Heating, ventilation, and air conditioning system design, water heating, microclimates, passive system design, energy efficient design, applicant energy use, cost estimating. Building energy codes and standards. Building design project with whole building energy simulation software.
+Prerequisites:
+upper-division standing.
+
+MAE 126A. Environmental Engineering Laboratory (4)
+
+Analysis of experiments in Environmental Engineering: Drag in a water tunnel, shading effects on solar photovoltaic, buoyant plume dispersion in a water tank, atmospheric turbulence, and others. Use of sensors and data acquisition. Laboratory report writing; error analysis; engineering ethics.
+Prerequisites:
+MAE 101A or CENG 101A; MAE 170.
+
+MAE 126B. Environmental Engineering Design (4)
+
+Fundamental principles of environmental design. Building a working prototype or computer model for an environmental engineering application. Work in teams to propose and design experiments and components, obtain data, complete engineering analysis, and write a report. Engineering ethics and professionalism.
+Prerequisites:
+MAE 126A.
+
+MAE 130. Advanced Vibrations (4)
+
+Harmonically excited vibrations. Vibration of multiple degree-of-freedom systems. Observations, including beat frequencies, static and dynamic coupling, traveling, and standing wave phenomena. Vibration of continuous systems. Hamilton’s equations. Distributed and point forces and moments in continuous systems and the generalized Dirac distribution. Response to impact and impulse excitation. Modeling continuous systems with approximate discrete models. Restricted to engineering majors only MC 25, MC 27, MC 29, MC 30–34, MC 35–37, MO 21, SE 27.
+Prerequisites:
+MATH 18 or MATH 31AH and MAE 30B.
+
+MAE 131A. Solid Mechanics I (4)
+
+Concepts of stress and strain. Hooke’s Law. Axial loading of bars. Torsion of circular shafts. Shearing and normal stresses in beam bending. Deflections in beams. Statically determinate and indeterminate problems. Combined loading. Principal stresses and design criteria. Buckling of columns.
+Prerequisites:
+MATH 20D and MAE 30A or MAE 130A or SE 101A.
+
+MAE 131B. Fundamentals of Solid Mechanics II (4)
+
+Analysis of 3-D states of stress and strain. Governing equations of linear elasticity. Solution of elasticity problems in rectangular and polar coordinates. Stress concentration. Failure criteria. Torsion of noncircular and thin walled members. Energy methods. Plastic collapse and limit analysis.
+Prerequisites:
+MAE 131A or SE 110A and MAE 105. Enrollment restricted to engineering majors only.
+
+MAE 133. Finite Element Methods in Mechanical and Aerospace Engineering (4)
+
+Development of stiffness and mass matrices based upon variational principles and application to static, dynamic, and design problems in structural and solid mechanics. Architecture of computer codes for linear and nonlinear finite element analysis. The use of general-purpose finite element codes.
+Prerequisites:
+MAE 131A or SE 110A.
+
+MAE 142. Dynamics and Control of Aerospace Vehicles (4)
+
+The dynamics of vehicles in space or air are derived for analysis of the stability properties of spacecraft and aircraft. The theory of flight, lift, drag, Dutch roll and phugoid modes of aircraft are discussed. Optimal state space control theory for the design of analog and digital controllers (autopilots).
+Prerequisites:
+MAE 104 and MAE 143B or ECE 171A, or consent of instructor. Enrollment restricted to engineering majors only.
+
+MAE 143A. Signals and Systems (4)
+
+Dynamic modeling and vector differential equations. Concepts of state, input, output. Linearization around equilibria. Laplace transform, solutions to ODEs. Transfer functions and convolution representation of dynamic systems. Discrete signals, difference equations, z-transform. Continuous and discrete Fourier transform.
+Prerequisites:
+MATH 20D or 21D, MATH 20E, MATH 18 or 20F or 31AH, or consent of instructor.
+
+MAE 143B. Linear Control (4)
+
+Analysis and design of feedback systems in the frequency domain. Transfer functions. Time response specifications. PID controllers and Ziegler-Nichols tuning. Stability via Routh-Hurwitz test. Root locus method. Frequence response: Bode and Nyquist diagrams. Dynamic compensators, phase-lead and phase-lag. Actuator saturation and integrator wind-up.
+Prerequisites:
+MAE 143A or consent of instructor.
+
+MAE 144. Embedded Control and Robotics (4)
+
+Each student builds, models, programs, and controls an unstable robotic system built around a small Linux computer. Review/synthesis of: A) modern physical and electrical CAD. B) dynamics, signals and systems, linear circuits; PWMs, H-bridges, quadrature encoders. C) embedded Linux, C, graphical programming; multithreaded applications; bus communication to supporting ICs. D) classical control theory in both continuous-time (CT) and discrete-time (DT); interconnection of CT and DT elements. Program or materials fees may apply.
+Prerequisites:
+upper-division standing or graduate student, and MAE 143B or BENG 122A or ECE 171A, or consent of instructor.
+
+MAE 145. Introduction to Robotic Planning and Estimation (4)
+
+This course is an introduction to robotic planning algorithms and programming. Topics include sensor-based planning (bug algorithms), motion planning via decomposition and search (basic search algorithms on graphs, A*), the configuration-space concept, free configuration spaces via sampling, collision detection algorithms, (optimal) planning via sampling (probabilistic trees), environment roadmaps, and filtering for robot localization and environment mapping (SLAM).
+Prerequisites:
+MAE 8, MAE 108, and senior standing or consent of instructor.
+
+MAE 146. Introduction to Machine Learning Algorithms (4)
+
+An introduction to the principles used to design and implement machine learning algorithms, as well as an understanding of their advantages and limitations. The topics covered are python review, supervised learning (linear, logistic/sigmoid regression, generalized linear models, nonlinear regression via Kernels), neural network types (convolutional, recurrent, deep NN), unsupervised learning (k-means clustering). Application of ML in different examples. Recommended preparation: ECE 143 and/or python programming knowledge.
+Prerequisites:
+(MATH 31AH or MATH 18) and (MATH 20C or MATH 31BH) and MAE 8 and (MAE 108 or ECE 109 or SE 125 or MATH 186 or MATH 183 or MATH 180A or ECON 120A).
+
+MAE 148. Introduction to Autonomous Vehicles (4)
+
+(Cross-listed with ECE 148.) Fundamentals of autonomous vehicles. Working in small teams, students will develop 1/8-scale autonomous cars that must perform on a simulated city track. Topics include robotics system integration, computer vision, algorithms for navigation, on-vehicle vs. off-vehicle computation, computer learning systems such as neural networks, locomotion systems, vehicle steering, dead reckoning, odometry, sensor fusion, GPS autopilot limitations, wiring, and power distribution and management.
+Prerequisites
+:
+ECE 15 or ECE 35 or MAE 2 or MAE 3 and department approval.
+
+MAE 149. Sensor Networks (4)
+
+(Cross-listed with ECE 156.) Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust censor fabrics; current experience with low power, low-cost sensor deployments. Students may not receive credit for both MAE 149 and ECE 156. May be coscheduled with SIOC 238.
+Prerequisites:
+upper-division standing.
+
+MAE 150. Computational Methods for Design (4)
+
+Computer-aided analysis and design. Design methodology, tolerance analysis, Monte Carlo analysis, kinematics and computer-aided design of linkages, design of cams and cam dynamics, design optimization, finite element analysis fundamentals, design using commercially available CAD and analysis software.
+Prerequisites:
+MAE 30A or MAE 130A or SE 101A or BENG 110, MAE 107 or SE 121, MAE 3 or MAE 2, and senior standing in engineering major, or consent of instructor.
+
+MAE 152. Introductions to Manual and CNC Machining (1)
+
+In this class, students are introduced to precision machining. Students will learn the proper safe operating procedures of a manual mill and lathe, band saws, and hand tools. Other topics include the basics of tolerancing, design (Fusion 360), and operation of CNC milling and turning. Program or materials fees may apply. Recommended preparation: It is recommended that students take introduction to design process through a hands-on design project course or some other introduction to shop course.
+Prerequisites:
+MAE 3 or MAE 2 and consent of instructor.
+
+MAE 153. Design of Machine Components (4)
+
+An introduction to the fundamentals of machine design in mechanical and aerospace engineering. The course covers the principles of failure theories, design methodologies, and their application in essential machine elements and structures. Topics include analyzing components by applying the theories from statics, dynamics, and mechanics of materials; static and fatigue failure theories; and designing machine components, including shafts, gears, bearings, fasteners, and geometric dimensioning and tolerancing.
+Prerequisites:
+MAE 131A.
+
+MAE 154. Product Design and Entrepreneurship (4)
+
+This course will teach teams of students how to develop concepts and business plans in the design of new and innovative products. Emphasis will be placed on identifying user needs, concept generation, and prototype fabrication.
+Prerequisites:
+upper-division standing and consent of instructor.
+
+MAE 155A. Aerospace Engineering Design I (4)
+
+Fundamental principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism.
+Prerequisites:
+MAE 2, MAE 21, or SE 2 or SE 104, MAE 104, MAE 30B or MAE 130C, and SE 160A, or consent of instructor.
+
+MAE 155B. Aerospace Engineering Design II (4)
+
+The principles of aerospace vehicle design including the conceptual, preliminary, and detailed design phases. Aeronautical or astronautical design project that integrates all appropriate engineering disciplines as well as issues associated with optimization, teamwork, manufacturability, reporting, and professionalism. Program or materials fees may apply.
+Prerequisites:
+MAE 113, MAE 142, MAE 155A, and MAE 170, or consent of instructor.
+
+MAE 156A. Fundamental Principles of Mechanical Design I (4)
+
+Fundamental principles of mechanical design and the design process. Application of engineering science to the design and analysis of mechanical components. Initiation of team design projects that culminate in MAE 156B with a working prototype designed for a real engineering application. Professional ethics discussed. Program or materials fees may apply.
+Prerequisites:
+MAE 3, MAE 30B, MAE 131A, MAE 150, and MAE 170, or consent of instructor. Open to major codes MC 27 and MC 30–34 only.
+
+MAE 156B. Fundamental Principles of Mechanical Design II (4)
+
+Fundamental principles of mechanical design and the design process. Culmination of a team design project initiated in MAE 156A which results in a working prototype designed for a real engineering application.
+Prerequisites:
+MAE 156A in the immediately preceding quarter, MAE 101C, MAE 143B, and MAE 160 or MAE 131B. Open to major codes MC 27 and MC 30–34 only.
+
+MAE 160. Mechanical Behavior of Materials (4)
+
+Elasticity and inelasticity, dislocations and plasticity of crystals, creep, and strengthening mechanisms. Mechanical behavior of ceramics, composites, and polymers. Fracture: mechanical and microstructural. Fatigue. Laboratory demonstrations of selected topics.
+Prerequisites:
+MAE 20, MAE 30A or MAE 130A or SE 101A, and MAE 131A, or consent of instructor.
+
+MAE 165. Fatigue and Failure Analysis of Engineering Components (4)
+
+The engineering and scientific aspects of crack nucleation, slow crack growth, and unstable fracture in crystalline and amorphous solids. Microstructural effects on crack initiation, fatigue crack growth and fracture toughness. Methods of fatigue testing and fracture toughness testing. Fractography and microfractography. Design safe methodologies and failure prevention. Failure analysis of real engineering structures.
+Prerequisites:
+consent of instructor.
+
+MAE 166. Modern Concepts in Nanotechnology (4)
+
+(Cross-listed with NANO 156.) This course offers a worm’s eye perspective on recent developments on nanomaterials through case studies building on basic principles of synthesis techniques, processing, microstructural control, and unique physical properties of materials in nanoscale dimensions. Particular focus will be given to physical properties and technological applications of nanowires, quantum dots, and thin films. Students may not receive credit for both NANO 156 and MAE 166.
+Prerequisites:
+upper-division standing.
+
+MAE 167. Wave Dynamics in Materials (4)
+
+Pressure and shear waves in infinite solids. Reflection and diffraction. Rayleigh and Love waves in semi-infinite space. Impulse load on a half space. Waveguides and group velocity.
+Prerequisites:
+consent of instructor.
+
+MAE 170. Experimental Techniques (4)
+
+Principles and practice of measurement and control and the design and conduct of experiments. Technical report writing. Lectures relate to dimensional analysis, error analysis, signal-to-noise problems, filtering, data acquisition and data reduction, as well as background of experiments and statistical analysis. Experiments relate to the use of electronic devices and sensors.
+Prerequisites:
+PHYS 2C or PHYS 4B and PHYS 2CL or MAE 140 or MAE 40. Enrollment restricted to MC 25, MC 27, MC 29, MC 30–34, MC 35–37, BE 25, BE 27.
+
+MAE 171A. Mechanical Engineering Laboratory I (4)
+
+Design and analysis of experiments in fluid mechanics, solid mechanics, and control engineering. Experiments in wind tunnel, water tunnel, vibration table and material testing machines, and refined electromechanical systems. Laboratory report writing; error analysis; engineering ethics.
+Prerequisites:
+MAE 101A,
+MAE 143B
+,
+and MAE 170. Enrollment restricted to MC 27 and MC 30–34 majors only.
+
+MAE 171B. Mechanical Engineering Laboratory II (4)
+
+Design and analysis of original experiments in mechanical engineering. Students research projects using experimental facilities in undergraduate laboratories: wind tunnel, water channel, vibration table, and testing machine and control systems. Students propose and design experiments, obtain data, complete engineering analysis and write a major report.
+Prerequisites:
+MAE 171A.
+
+MAE 175A. Aerospace Engineering Laboratory I (4)
+
+Analysis of aerospace engineering systems using experimental facilities in undergraduate laboratories: wind tunnel, water channel, vibration table, and testing machine. Students operate facilities, obtain data, complete engineering analysis and write major reports.
+Prerequisites:
+senior standing; MAE 143B or CENG 120; and MAE 170, or consent of instructor.
+
+MAE 180. Orbital Mechanics (4)
+
+Students perform analyses based on mission requirements. Selected topics include astrodynamics, orbital motion, perturbations, coordinate systems and frames of reference, ground tracks and classification of common orbits, orbit determination, orbital maneuvers, station keeping, orbit injection and launch geometry, and interplanetary and lunar trajectories.
+
+MAE 181. Space Mission Analysis and Design (4)
+
+Space mission concepts, architectures, and analysis. Mission geometry. Astrodynamics. Orbit and constellation design. Space environment. Payload and spacecraft design and sizing. Power sources and distribution. Thermal management. Structural design. Guidance and navigation. Space propulsion. Orbital debris and survivability. Cost modeling and risk analysis.
+Prerequisites:
+upper-division standing or consent of instructor.
+
+MAE 182. Spacecraft Guidance and Navigation (4)
+
+Navigational and guidance requirements for orbital, planetary, and atmospheric entry missions. Guidance systems. Observation instrument point, tracking, control. Celestial, radio, and inertial navigation schemes. Link budgets, antennas, and telemetry systems.
+Prerequisites:
+MAE 108 and MAE 180. Recommended enrollment in MAE 143B before or concurrently.
+
+MAE 184. Flight Simulation Techniques (4)
+
+Students will develop software and methods to simulate the motion characteristics of flight vehicles. Six degree-of-freedom equations of motion will be reviewed with emphasis on computer implementation. Algorithms for data modeling, numerical integration, equilibrium, and linearization will be introduced. Three-dimensional visualization techniques will be explored for representing operator and observer viewpoints. Applications include aircraft, launch vehicles, automobiles, and marine vessels.
+Prerequisites:
+upper-division standing or consent of instructor.
+
+MAE 185. Computational Fluid Mechanics (4)
+
+This course will cover numerical solutions of the compressible and incompressible Navier-Stokes equations using finite difference and finite volume discretization with a primary emphasis on programming and a secondary emphasis on application of commercial tools. Introduction to flow visualization will also be covered.
+Prerequisites:
+MAE 101B and MAE 107.
+
+MAE 190. Topics in Mechanical and Aerospace Engineering (4)
+
+Topics of special interest in mechanical and aerospace engineering. May be repeated for credit as topics vary.
+Prerequisites:
+upper-division standing.
+
+MAE 191. Topics in Mechanical and Aerospace Engineering with Laboratory (4)
+
+Topics of special interest in mechanical and aerospace engineering with laboratory. May be repeated for credit as topics vary.
+Prerequisites:
+upper-division standing.
+
+MAE 197. Engineering Internship (1–12)
+
+Students work in local industry or hospitals under faculty supervision. Units may not be applied toward graduation requirements. Salaried or unsalaried. Number of units determined by enrollment frequency. First quarter up to four units. Subsequent quarters cannot exceed one unit.
+Prerequisites:
+consent of instructor and department stamp, 2.50 overall GPA minimum, at least ninety units.
+
+MAE 198. Directed Group Study (1–4)
+
+Directed group study on a topic or in a field not included in the regular department curriculum, by special arrangement with a faculty member. May be taken P/NP only.
+Prerequisites:
+consent of instructor.
+
+MAE 199. Independent Study for Undergraduates (1–4)
+
+Independent reading or research on a problem by special arrangement with a faculty member. P/NP grades only.
+Prerequisites:
+consent of instructor.
+
+GRADUATE
+
+MAE 200. Controls (4)
+
+This course covers topics in probability and stochastic processes, linear control and estimation including optimal linear control, nonlinear stabilization, and optimal control and estimation for nonlinear systems.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 201. Mechanics of Fluids (4)
+
+This course covers topics in kinematics, equations of motion, dimensional analysis, laminar and irrotational flow, vorticity dynamics, and boundary layers.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 202. Thermal Processes (4)
+
+This course covers topics in energy conservation, heat conduction, convection, radiation, heat transfer in ducts, external boundary layer, and heat exchangers.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 203. Solid Mechanics and Materials (4)
+
+This course covers topics in kinematics, conservation laws, constitutive equation of linear elastic solids, plasticity, and viscoelasticity.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 204. Robotics (4)
+
+This course covers topics in robotics, dynamics, kinematics, mechatronics, control, locomotion, and manipulation.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 205. Graduate Seminar (1)
+
+Each graduate student in MAE is expected to attend one seminar per quarter, of his or her choice, dealing with current topics in fluid mechanics, solid mechanics, applied plasma physics and fusion, chemical engineering, applied ocean sciences, energy and combustion, environmental engineering, or materials science, and dynamics and controls. Topics will vary. (S/U grades only)
+
+MAE 206. Energy Systems (4)
+
+This course covers topics in primary energy sources, availability and variability, fossil fuels, renewables and nuclear, energy dependent energy sources, heat engine, energy conservation, exergy, transportation, air pollution, and climate change.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 207. Topics in Engineering Science (4)
+
+A course to be given at the discretion of the faculty in which topics of current interest in engineering will be presented.
+Prerequisites:
+consent of instructor.
+
+MAE 208. Mathematics for Engineers (4)
+
+This course will reintroduce the mathematics fundamentals necessary for success in the engineering graduate program in MAE. Topics will include calculus, ODE’s, vector calculus, linear algebra, probability and PDE’s.
+Prerequisites:
+nongraduate students can enroll with consent of instructor.
+
+MAE 209. Continuum Mechanics Applied to Medicine/Biology (4)
+
+(Cross-listed with BENG 209.) Introduction to the basic definitions of continuum mechanics and their mathematical formulation at the graduate level with applications to problems in medicine and biology. This course is intended for students with little or no background in mechanics; it is an introduction to the Biomechanics courses BENG 250 A–B in the Department of Bioengineering and to Solid and Fluid Mechanics courses MAE 210A and MAE 231A in the Department of Mechanical and Aerospace Engineering. This course should NOT be taken concurrently with MAE 210A or MAE 231A.
+Prerequisites:
+BENG 226 or MAE 201 and BENG 227 or MAE 201 or MAE 210A and BENG 221 or MAE 208 or consent of instructor.
+
+MAE 210A. Fluid Mechanics I (4)
+
+Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.
+Prerequisites:
+graduate standing.
+
+MAE 210B. Fluid Mechanics II (4)
+
+Potential flows, boundary layers, low-Reynolds number flows.
+Prerequisites:
+BENG 209 or MAE 209 or MAE 210A; or consent of instructor.
+
+MAE 210C. Fluid Mechanics III (4)
+
+Flow instabilities, linear stability theory; introduction to turbulent flows.
+Prerequisites:
+MAE 210A–B or consent of instructor.
+
+MAE 211. Introduction to Combustion (4)
+
+Fundamental aspects of flows of reactive gases, with emphasis on processes of combustion, including the relevant thermodynamics, chemical kinetics, fluid mechanics, and transport processes. Topics may include deflagrations, detonations, diffusion flames, ignition, extinction, and propellant combustion.
+Prerequisites:
+graduate standing.
+
+MAE 212. Introductory Compressible Flow (4)
+
+Equations of motion for compressible fluids; one-dimensional gas dynamics and wave motion, waves in supersonic flow, including oblique shock waves; flow in ducts, nozzles, and wind tunnels; methods of characteristics.
+Prerequisites:
+nongraduate students may enroll with consent of instructor.
+
+MAE 213. Mechanics of Propulsion (4)
+
+Fluid mechanics, thermodynamics and combustion processes involved in propulsion of aircraft and rockets by air breathing engines, and solid and liquid propellant rocket engines characteristics and matching of engine components; diffusers, compressors, combustors, turbines, pumps, nozzles.
+Prerequisites:
+MAE 212 or graduate standing.
+
+MAE 214A. Introduction to Turbulence and Turbulent Mixing (4)
+
+Basic features of turbulent flows. Analytical description of turbulence: random variables, correlations, spectra, Reynolds-averaging, coherent structures. Length and time scales. Kolmogorov similarity theory. Turbulence transport equations. Free shear flows. Homogeneous turbulence. Wall-bounded flows. Mixing of velocity and scalar fields.
+Prerequisites:
+graduate standing.
+
+MAE 215. Multiphase Flow and Heat Transfer (4)
+
+This course is designed to teach the fundamentals and some applications of multiphase systems. The first part of the course introduces the basics of thermodynamics and transport processes in generalized multiphase systems, along with the description of interfacial transport mechanisms. In the second part, the course focuses on the analyses of transport processes and interfacial instabilities in specific systems, including droplets, bubbles, and sprays.
+Prerequisites:
+graduate standing.
+
+MAE 217A. Introduction to Gas Discharge Plasma Physics (4)
+
+Charged particle motion in electromagnetic field, atomic processes in plasmas, electric breakdown of the gases, plasma quasi-neutrality, sheath, probes. Electron kinetics in low-temperature plasma, particle and energy fluxes, DC and RF driven discharges, instabilities of gas discharge plasmas.
+Prerequisites:
+consent of instructor.
+
+MAE 217B. Introduction to Nonmagnetized Hot Plasma Physics (4)
+
+Coulomb collisions, collisionless approximation for hot plasma dynamics, Vlasov equation, waves in nonmagnetized plasma, dispersion equation, WKB approximation, Landau dumping, plasma instabilities, quasi-linear theory.
+Prerequisites:
+MAE 217A or consent of instructor.
+
+MAE 217C. Introduction to Magnetized Hot Plasma Physics (4)
+
+Drifts of magnetized charged particles, charged particle motion in different magnetic configurations, toroidal plasma equilibrium, Grad-Shafranov equation, neoclassical plasma transport in tokamak, waves in homogeneous magnetized plasma, waves in inhomogeneous magnetized plasma, instabilities of magnetized plasma.
+Prerequisites:
+MAE 217A and B, or consent of instructor.
+
+MAE 218A. Introduction to High Energy Density Physics (MHD and Pinches) (4)
+
+Equation of state, Saha equilibrium. Shock rarefaction, and blast waves, self-similar motion. Rayleigh-Taylor, Kelvin-Helmholtz, and Richtmyer-Meshkov instabilities. Z-pinch, Bennett equilibrium, radiation collapse, and radiation sources.
+Prerequisites:
+MAE 217A, B, and C, or consent of instructor.
+
+MAE 218B. Introduction to High Energy Density Physics (Laser-Plasma Interactions) (4)
+
+Propagation and absorption of laser beam in plasma, ablation pressure. Laser scattering and laser-plasma instabilities (stimulated Raman and Brillouin scattering, filamentation and decay instabilities). Electron heat transport, mechanisms of magnetic field generation.
+Prerequisites:
+MAE 217A, B, and C, or consent of instructor.
+
+MAE 219. Design and Control of Haptic Systems (4)
+
+Course provides an introduction to the design and control of haptic systems, which provide touch feedback to human users interacting with virtual environments and teleoperated robots. Topics include haptic-focused mechatronic design, system modeling and analysis (kinematics and dynamics), human-in-the-loop feedback control, and haptic feedback evaluation. Course topics including mechatronic system design, as well as system modeling, analysis, and control reinforce many fundamental MAE topics.
+Prerequisites:
+graduate standing.
+
+MAE 220A. Physics of Gases (4)
+
+Thermodynamics of gases for use in gas dynamics. Derivation of thermodynamic functions from statistical mechanics. Applications of classical and quantum statistical mechanics to chemical, thermal, and radiative properties of gases. Equilibrium and nonequilibrium radiation, chemical equilibrium, and elements of chemical kinetics. Laser and reacting-flow applications.
+Prerequisites:
+graduate standing.
+
+MAE 220B. Physical Gas Dynamics (4)
+
+Velocity distribution functions, the Boltzmann equation, moment equations and the Navier-Stokes equations. The dynamics of molecular collisions. The Chapman-Enskog expansion and transport coefficients: shear and bulk viscosity, heat conduction, molecular and thermal diffusion. Linearizations about equilibrium: applications to acoustics and supersonic flows with relaxation.
+Prerequisites:
+MAE 220A and graduate standing.
+
+MAE 221A.
+Conduction Heat Transfer
+(4)
+
+Fourier’s Law
+, the heat conduction equation, multidimensional conduction, unsteady conduction, moving boundary problems, conduction on slabs
+, cylindrical and spherical shells, multidimensional fins, numerical solution methods
+.
+Prerequisites:
+graduate standing.
+
+MAE 221B. Mass Transfer (4)
+
+Fundamentals of diffusive and convective mass transfer and mass transfer with chemical reaction. Development of mass conservation equations. Analytical and numerical solutions to mass transport problems. Specific topics and applications will vary. Students may not receive credit for MAE 221B and CENG 221B.
+Prerequisites:
+graduate standing.
+
+MAE 221C. Convection Heat Transfer (4)
+
+Classical introduction to convection analysis and fundamentals, including detailed treatment of nested boundary layers, turbulent mixing, similarity ad modeling, scale analysis, and the use of general conservation equations. Special topics covered in this course may include high-speed flows, natural convection, viscous dissipation, micro-scale convection, convection on rotating surfaces, and/or convection applications to mechanical and aerospace engineering.
+Prerequisites:
+graduate standing.
+
+MAE 221D. Radiation Heat Transfer (4)
+
+Physics of radiation, electromagnetic spectrum, spectral properties of gases, liquids, and solids, radiation exchange between surfaces, view factor algebra, transfer factors, radiation transfer through gases. Special topics covered may include near-field radiation, atmospheric radiation, solar radiation, etc.
+Prerequisites:
+graduate standing.
+
+MAE 223. Ocean Technology Design and Development (4)
+
+Advances in open-source technology are catalyzing advances in environmental fluid mechanics and oceanography. In this course, we will combine lectures and hands-on experience to transition off-the-shelf technology into undersea sensors. Lectures include ocean sensing techniques, sensor characterization and calibration, pressure tolerance design, sensor deployment approaches. Students working in small groups will design and test using MAE and Scripps Institution of Oceanography facilities.
+Prerequisites:
+graduate standing.
+
+MAE 224A. Environmental Fluid Dynamics I (4)
+
+Basics of stratified flows. Linear waves: surface waves, internal gravity waves, dispersion, reflection, mountain waves. Ray tracing. Gravity currents and intrusions. Hydraulic control. Stability of and mixing in stratified shear flows. Recommended preparation: MAE 210A.
+
+MAE 224B. Environmental Fluid Dynamics II (4)
+
+Plumes and thermals. Application to building ventilation. Basics of rotating flows. Geostrophic flow. Thermal wind balance. Ekman boundary layer. Shallow water equations. Normal modes of a stratified fluid. Potential vorticity. Waves in a rotating fluid. Recommended preparation: MAE 210A.
+Prerequisites:
+MAE 224A or consent of instructor.
+
+MAE 225A. Nanoscale and Microscale Heat Transfer for Energy Conversion Applications I (4)
+
+An advanced introduction to the principles underlying conduction, convection, and radiation phenomena at the atomic/molecular scale; overview of macroscopic thermal sciences, kinetic theory and fluidics, statistical thermodynamics and quantum theory, thermal properties as a function of dimensionality; experimental methods.
+Prerequisites:
+MAE 221A, graduate standing.
+
+MAE 225B. Nanoscale and Microscale Heat Transfer for Energy Conversion Applications II (4)
+
+Energy conversion and coupled transport processes; electron and phonons, equilibrium and nonequilibrium energy transfer in nanostructures. Ballistic-diffusive treatment, thermal radiation issues in nanomaterials, near-field energy transfer, molecular dynamics, and experimental methods.
+Prerequisites:
+MAE 221A, MAE 225A, and graduate standing.
+
+MAE 226. Advanced Dynamics (4)
+
+This course covers advanced topics in Lagrange’s equations, rigid and flexible body dynamics, virtual power, non-holonomic dynamics, functional analysis, and integrals of motion. After taking this class, the student should be able to determine the equations of motion for even very complex dynamical systems; determine special invariants of the system helping to avoid detailed solution by computer and providing insight; and understand the basics of minimization and variational calculus.
+Prerequisites:
+graduate standing.
+
+MAE 227. Convex Optimization for Engineers (4)
+
+This course focuses on convex optimization theory, convexification of non-convex problems, engineering applications, modeling and implementation in a programming language. This course covers convex sets and functions, convex optimization problems (LP, QP, SOCP, SDP), weak and strong duality, optimality conditions, and solution and shadow price interpretation. Some applications include design in mechanical engineering, optimal control problems, machine learning, energy, transportation, etc.
+Prerequisites:
+graduate standing.
+
+MAE 228. Selected Topics in Plasma Physics (4)
+
+Collisionless magnetic reconnection, interactions of relativistic laser field with plasma, plasma in astrophysics, computational plasma physics.
+Prerequisites:
+MAE 217A-B-C or consent of instructor.
+
+MAE 230. Introduction to Photonics (4)
+
+The objectives of this course are twofold—to provide students with an understanding of the fundamental concepts of photonics and to provide students with insights into state-of-the-art research and technology in the area of photonics. After successful completion of the class, students will be able to mathematically describe basic phenomena in photonics.
+Prerequisites:
+graduate standing.
+
+MAE 231A. Foundations of Solid Mechanics (4)
+
+Specification of stress and strain; infinitesimal and finite deformation; conservation equations; typical constitutive equations; minimum potential energy principle.
+Prerequisites:
+graduate standing.
+
+MAE 231B. Elasticity (4)
+
+Basic field equations. Typical boundary value problems of classical linear elasticity. Problems of plane stress and plane strain. Variational principles.
+Prerequisites:
+MAE 209/BENG 209, or MAE 231A, or consent of instructor.
+
+MAE 231C. Inelasticity (4)
+
+(Cross-listed with SE 273.) Overview of inelastic behavior of materials. Models of plasticity, viscoplasticity, viscoelasticity. Micromechanics and modeling of damage. Fatigue phenomena. Fracture mechanics. Processes and models of the failure of materials. Students may not receive credit for both SE 273 and MAE 231C.
+Prerequisites:
+graduate standing and MAE 231A or SE 271, or consent of instructor.
+
+MAE 232A. Finite Element Methods in Solid Mechanics I (4)
+
+(Cross-listed with SE 276A.) Finite element methods for linear problems in solid mechanics. Emphasis on the principle of virtual work, finite element stiffness matrices, various finite element formulations and their accuracy, and the numerical implementation required to solve problems in small strain, isotropic elasticity in solid mechanics.
+Prerequisites:
+graduate standing.
+
+MAE 232B. Finite Element Methods in Solid Mechanics II (4)
+
+(Cross-listed with SE 276B.) Finite element methods for linear problems in structural dynamics. Beam, plate, and doubly curved shell elements are derived. Strategies for eliminating shear locking problems are introduced. Formulation and numerical solution of the equations of motion for structural dynamics are introduced and the effect of different mass matrix formulations on the solution accuracy is explored.
+Prerequisites:
+graduate standing and MAE 232A or SE 276A.
+
+MAE 232C. Finite Element Methods in Solid Mechanics III (4)
+
+(Cross-listed with SE 276C.) Finite element methods for problems with both material and geometrical (large deformations) nonlinearities. The total LaGrangian and the updated LaGrangian formulations are introduced. Basic solution methods for the nonlinear equations are developed and applied to problems in plasticity and hyperelasticity.
+Prerequisites:
+graduate standing and MAE 232A or SE 276A and MAE 231A or SE 271.
+
+MAE 233A. Fracture Mechanics (4)
+
+Theoretical strength; stress concentration. Linear and nonlinear fracture mechanics: stress singularity, fracture modes, crack tip plastic zone, dugdale model, the R-curve; power-law materials, the J-integral; fatigue; special topics.
+Prerequisites:
+MAE 231A, MAE 231B, or consent of instructor.
+
+MAE 233B. Micromechanics (4)
+
+General theory of transformation strains and corresponding elastic fields; Green’s functions and other solution methods; dislocations; inclusions and inhomogeneities; micromechanics of plastic flow, microcracking, cavitation, and damage in crystalline and other solids.
+Prerequisites:
+MAE 231A-B-C or consent of instructor.
+
+MAE 235. Computational Techniques in Finite Elements (4)
+
+(Cross-listed with SE 233.) Practical application of the finite element method to problems in solid mechanics. Elements of theory are presented as needed. Covered are static and dynamic heat transfer and stress analysis. Basic processing, solution methods, and postprocessing are practiced with commercial finite element software. Students may not receive credit for SE 233 and MAE 235.
+Prerequisites:
+graduate standing.
+
+MAE 238. Stress Waves in Solids (4)
+
+Linear wave propagation; plane waves; reflection and refraction; dispersion induced by geometry and by material properties. Application of integral transform methods. Selected topics in nonlinear elastic, anelastic, and anisotropic wave propagation.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 240. Space Flight Mechanics (4)
+
+Astrodynamics modeling within Newtonian, Lagrangian, and Hamiltonian frameworks with application to spacecraft motion in non-Keplerian and strongly perturbed environments. Topics include the gravitational n-body problem and reduced-order models, perturbation formulations and dynamical systems theory, and numerical methods.
+Prerequisites:
+graduate standing.
+
+MAE 242. Robot Motion Planning (4)
+
+Modeling, solving, and analyzing planning problems for single robots or agents. Configuration space for motion planning, sampling-based motion planning, combinatorial motion planning, feedback motion planning, differential models, and nonholonomic constraints. Basic decision-theory and dynamic programming, sensor, and information spaces.
+Prerequisites:
+graduate standing.
+
+MAE 243. Electric Power Systems Modeling (4)
+
+Formulate and solve canonical constrained optimization problems in electric power systems planning and operation, with applications to current and future low-carbon grids. Techno-economic assessment, implementations in a modern algebraic modeling language, and techniques to enhance computational tractability will be covered.
+Prerequisites:
+graduate standing.
+
+MAE 244. Renewable Energy Integration (4)
+
+The objective of this course is to introduce students to the research field of integration of renewable energy (RE) in power systems. This course covers some relevant literature and the state of the art in the following subareas related to RE integration: capacity expansion models, optimal power flow, power dynamics, electricity markets, RE variability and forecasting, machine learning and AI for power systems, microgrids and islanded grids, electrical vehicles and demand response, among others.
+Prerequisites:
+graduate standing.
+
+MAE 247. Cooperative Control of Multi-agent Systems (4)
+
+Tools for the design of cooperative control strategies for multi-agent systems are presented. Topics include continuous and discrete-time evolution models, proximity graphs, performance measures, invariance principles, and coordination algorithms for rendezvous, deployment, flocking, formation of autonomous vehicles and consensus.
+Prerequisites:
+graduate standing.
+
+MAE 248. Safety for Autonomous Systems (4)
+
+This project-based course covers the mathematical foundations of dynamical system safety analysis and modern algorithmic approaches to decision-making in safety critical contexts. The focus is on safety analysis and safe learning for robots and other systems, paying special attention to uncertainty and the reality gap between mathematical models and the physical world. Class meetings combine whiteboard-style lecture, seminar-style discussion, and guest lectures from experts in the field.
+Prerequisites:
+graduate standing.
+
+MAE 249. Soft Robotics (4)
+
+Roboticists have begun to explore the design of automated systems using soft materials (e.g., elastomers, gels, fluids) with the goal of achieving the versatility and robustness of biological organisms. This course provides a survey of topics important for the design, analysis, and control of soft robotics, including modeling (e.g., nonlinear elasticity), actuation (e.g., fluidic elastomer actuators), sensing (e.g., liquid metal sensors), and design optimization (e.g., using artificial evolution).
+Prerequisites:
+graduate standing.
+
+MAE 251. Structure and Analysis of Solids (4)
+
+Cross-listed with NANO 227, MATS 227, and CHEM 222.) Key concepts in the atomic structure and bonding of solids such as metals, ceramics, and semiconductors. Symmetry operations, point groups, lattice types, space groups, simple and complex inorganic compounds, structure/property comparisons, structure determination with X-ray diffraction. Ionic, covalent, metallic bonding compared with physical properties. Atomic and molecular orbitals, bands vs. bonds, free electron theory. Students may only receive credit for one of the following: CHEM 222, MAE 251, MATS 227, or NANO 227.
+Prerequisites:
+graduate standing.
+
+MAE 253. Advanced Ceramics (4)
+
+(Cross-listed with MATS 236.) Topics include phase equilibria and crystallography, defects and thermodynamics (Kröger-Vink notation), glass science, electrical and ionic transport behavior, Brouwer diagrams, powder synthesis and compaction, sintering theory and grain growth, mechanical, optical, magnetic, electrical properties, fuel cells. Students may not receive credit for MATS 236 and MAE 253.
+Prerequisites:
+graduate standing.
+
+MAE 254. Energy Materials and Applications (4)
+
+(Cross-listed with MATS 256.) This class will cover the fundamentals/engineering aspects of various energy materials based on metallic, ceramic, semiconductor, and chemical structures, and their applications related to solar cells, fuel cells, batteries, fusion energy, and hydrogen storage will be discussed. Students may not receive credit for MATS 256 and MAE 254.
+Prerequisites:
+graduate standing.
+
+MAE 255. Boundary Layer and Renewable Energy Meteorology (4)
+
+Radiative and convective heat transfer in the atmosphere. Surface energy balance and the urban heat island. Turbulence and dispersion in the atmospheric boundary layer. Solar and wind energy systems, resource assessment, and intermittency.
+Prerequisites:
+MAE 210A or consent of instructor.
+
+MAE 256. Radiative Transfer for Energy Applications (4)
+
+Global insolation heat engine; solar-wind coupling; regional/seasonal insolation patterns; atmospheric radiation balance; RTE models; scattering; optical depth and transmittance of cloud layers; Schwarzschild’s equation; absorption/emission lines; rotational, vibrational and electronic transitions; Doppler/pressure broadening; Elsasser/Malkmus/Edwards models; solution methods.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 257. Polymer Science and Engineering (4)
+
+(Cross-listed with MATS 257.) Quantitative basic understanding of different branches of polymer science varying from polymer chemistry, characterization, thermodynamics, rheological properties, smart materials, self-assembly in biopolymers (natural) and synthetic polymers, and applications of polymers ranging from medicine to structure. Students may receive credit for one of the following: MATS 257, MAE 257, BENG 242, or NANO 257.
+Prerequisites:
+graduate standing.
+
+MAE 259. ODE Simulation Methods (4)
+
+Orthogonality and norms. Reflection and rotation matrices. Solving systems of linear equations via LU and QR decompositions; least squares. Conditioning, sparsity, and parallelism. Iterative methods. Matrix subspaces. Eigen, Schur, and singular value decompositions. Pseudoinverses. Spectral representations, Fourier transforms, and the Dirac delta.
+Prerequisites:
+graduate standing.
+
+MAE 260. Fundamentals and Applications of Computational Materials Science (4)
+
+(Cross-listed with MATS 260.) Computational methods for MatSci will be discussed, dealing with atomic scale empirical or semiempirical potentials. How and why to develop such potentials for metallic materials will be a focus of the course. Molecular dynamics and Monte Carlo methods will be covered in detail. Applications of these techniques to some example problems in materials science, mechanical deformation, dislocation interactions, nucleation/growth of phases, melting solidification structures, and point defects are presented.
+Prerequisites:
+graduate standing.
+
+MAE 261. Cardiovascular Fluid Mechanics (4)
+
+Topics in the mechanics of blood flow including analytical solutions for flow in deformable vessels, one-dimensional equations, cardiovascular anatomy, lumped parameter models, vascular trees, scaling laws, and an introduction to the biomechanics and treatment of adult and congenital cardiovascular diseases.
+Prerequisites:
+MAE 210A and 290A, or consent of instructor.
+
+MAE 262. Biological Fluid Mechanics (4)
+
+Fluids phenomena relevant to the function, environment, and dynamics of biological cells. Topics include low-Reynolds number flows, cell motility, internal cellular flows, development and morphogenesis, hydrodynamics of suspensions and polymers, rheology, diffusion, hydrodynamics of deformable bodies (vesicles, membranes, filaments), cells under shear flow.
+Prerequisites:
+MAE 209 or 210A and graduate standing, or consent of instructor.
+
+MAE 263. Experimental Methods in Cell Mechanics (4)
+
+Methods to measure mechanical aspects of cellular nature and behavior such as intracellular rheology, intracellular force distribution and propagation, cell adhesion strength, generation of propulsive forces during locomotion, interaction with the extracellular matrix, and response to external mechanical stimuli.
+Prerequisites:
+MAE 209 or MAE 210A, and graduate standing.
+
+MAE 264. Mechanics and Thermodynamics of Biological Membranes (4)
+
+This course will introduce the advanced graduate student to the topics of mechanical and thermodynamic analyses of cellular membranes, lipid bilayers, and the study of synthetic vesicles.
+Prerequisites:
+MAE 209 and graduate standing, or consent of instructor.
+
+MAE 265A. Electronic and Photonic Properties of Materials (4)
+
+(Cross-listed with MATS 251A.) The electronic and optical properties of metals, semiconductors, and insulators. The concept of the band structure. Electronic and lattice conductivity. Type I and Type II superconductivity. Optical engineering using photonic band gap crystals in one-, two-, and three-dimensions. Current research frontiers. Students may not receive credit for MATS 251A and MAE 265A.
+Prerequisites:
+graduate standing.
+
+MAE 265B. Magnetic Materials: Principles and Applications (4)
+
+(Cross-listed with MATS 251B and NANO 251A and ECE 221.) The basis of magnetism: Classical and quantum mechanical points of view. Different kinds of magnetic materials. Magnetic phenomena including anisotropy, magnetostriction, domains, and magnetization dynamics. Current frontiers of nanomagnetics research including thin films and particles. Optical, data storage, and biomedical engineering applications of soft and hard magnetic materials. Letter grades only. Students may not receive credit for ECE 221 and MAE 265B and MATS 251B and NANO 251A.
+Prerequisites:
+graduate standing; consent of instructor.
+
+MAE 266. Biomaterials (4)
+
+(Cross-listed with MATS 252.) This class will cover biomaterials and biomimetic materials. Metal, ceramic, and polymer biomaterials will be discussed. Emphasis will be on the structure-property relationships, biocompatibility/degradation issues and tissue/material interactions. Synthesis and mechanical testing of biomimetic materials will also be discussed.
+Prerequisites:
+consent of instructor.
+
+MAE 267. Nanomaterials and Properties (4)
+
+(Cross-listed with MATS 253.) This course discusses synthesis techniques, processing, microstructural control and unique physical properties of materials in nanodimensions. Topics include nanowires, quantum dots, thin films, electrical transport, electron emission properties, optical behavior, mechanical behavior, and technical applications of nanomaterials.
+Prerequisites:
+consent of instructor.
+
+MAE 269. Bioinspired Mobile Robotics (4)
+
+This course presents the field of bioinspired robotics and locomotion. Concepts include modes of bioinspired locomotion (walking, running, undulatory locomotion for example); limb kinematics; development of dynamic models from Euler-Lagrange, Newton’s laws, manipulator equations; stability analysis of oscillatory gaits; force and compliance control of robot legs; generation of rhythmic movement and coupled oscillators.
+Prerequisites:
+MAE 204.
+
+MAE 270. Multidisciplinary Design Optimization (4)
+
+Introduction to engineering design optimization involving multidisciplinary models. Topics covered include local sensitivity analysis, gradient-based optimization, gradient-free optimization, surrogate models, discrete optimization, and multidisciplinary design optimization architectures. Students will apply these methods to a practical design problem of their choosing through a course project.
+Prerequisites:
+graduate standing.
+
+MAE 271A. Thermodynamics of Solids (4)
+
+(Cross-listed with NANO 265, MATS 201A, and ECE 238A.) The thermodynamics and statistical mechanics of solids. Basic concepts, equilibrium properties of alloy systems, thermodynamic information from phase diagrams, surfaces and interfaces, crystalline defects.
+Prerequisites:
+graduate standing.
+
+MAE 271B. Solid State Diffusion and Reaction Kinetics (4)
+
+(Cross-listed with MATS 201B and ECE 238B.) Thermally activated processes, Boltzmann factor, homogenous and heterogeneous reactions, solid state diffusion, Fick’s laws, diffusion mechanisms, Kirkendall effect, Boltzmann-Matano analysis, high diffusivity paths.
+Prerequisites:
+consent of instructor.
+
+MAE 271C. Phase Transformations (4)
+
+(Cross-listed with MATS 201C.) Classification of phase transformations; displacive and reconstructive transformations; classical and nonclassical theories of nucleation; Becker-Doering, Volmer-Weber, lattice instabilities, spinodal decomposition. Growth theories; interface migration, stress effects, terrace-ledge mechanisms, epitaxial growth, kinetics and mechanics. Precipitation. Order-disorder transformations. Solidification. Amorphization.
+Prerequisites:
+consent of instructor.
+
+MAE 272. Imperfections in Solids (4)
+
+(Cross-listed with MATS 205A.) Point, line, and planar defects in crystalline solids, including vacancies, self-interstitials, solute atoms, dislocations, stacking faults, and grain boundaries; effects of imperfections on mechanical properties; interactions of dislocations with point defects; strain hardening by micro-obstacles, precipitation, and alloying elements.
+Prerequisites:
+graduate standing.
+
+MAE 273A. Dynamic Behavior of Materials (4)
+
+(Cross-listed with MATS 213A.) Elastic waves in continuum; longitudinal and shear waves. Surface waves. Plastic waves; shock waves, Rankine-Hugoniot relations. Method of characteristics, differential and difference form of conservation equations; dynamic plasticity and dynamic fracture. Shock wave reflection and interaction.
+Prerequisites:
+consent of instructor.
+
+MAE 274. Model Reduction (4)
+
+Students will learn the mathematical tools, theory, and algorithms of model reduction so as to reproduce and predict behaviors in complex systems with low-dimensional models. Covers a wide range of methods and theory: system-theoretic (balanced truncation, transfer-function interpolation), data-driven and projection-based (proper orthogonal decomposition), and model learning approaches (dynamic mode decomposition, operator inference, Loewner-based system identification, eigensystem realization).
+Prerequisites:
+MAE 280A and MAE 290A.
+
+MAE 276. Mechanics of Soft Materials (4)
+
+(Cross-listed with MATS 231.) Main focus is the large deformations and instabilities in soft materials, such as elastomers, gels, and biomaterials. Some contents in thermodynamics and finite deformation theory are reviewed and summarized. Fundamental theories are applied to study the mechanics of gels, electroactive polymers, and biomaterials. This course intends to use soft material as an example to illustrate how to study the interaction between mechanics and other fields in materials (e.g., electric field, chemical field). Students may not receive credit for both MAE 276 and MATS 231.
+Prerequisites:
+graduate standing.
+
+MAE 279. Uncertainty Quantification (4)
+
+This course is an introduction to uncertainty quantification and will cover basic and advanced computational methods to quantify uncertainties in parameters, systems, and simulation. Covers basics in statistical and stochastic modeling, Monte Carlo sampling techniques including variance reduction and importance sampling, sensitivity analysis, Bayes’ theorem and related Bayesian inference methods (variants of Markov chain Monte Carlo).
+Prerequisites:
+graduate standing.
+
+MAE 280A. Linear Systems Theory (4)
+
+Linear algebra: inner products, outer products, vector norms, matrix norms, least squares problems, Jordan forms, coordinate transformations, positive definite matrices, etc. Properties of linear dynamic systems described by ODEs: observability, controllability, detectability, stabilizability, trackability, optimality. Control systems design: state estimation, pole assignment, linear quadratic control.
+
+MAE 280B. Linear Control Design (4)
+
+Parameterization of all stabilizing output feedback controllers, covariance controllers, H-infinity controllers, and L-2 to L-infinity controllers. Continuous and discrete-time treatment. Alternating projection algorithms for solving output feedback problems. Model reduction. All control design problems reduced to one critical theorem in linear algebra.
+Prerequisites:
+MAE 280A.
+
+MAE 281A. Nonlinear Systems (4)
+
+Existence and uniqueness of solutions of EDE’s, sensitivity equations. Stability, direct and converse Lyapunov theorems, LaSalle’s theorem, linearization, invariance theorems. Center manifold theorem. Stability of perturbed systems with vanishing and nonvanishing perturbations, input-to-state ability, comparison method. Input-output stability. Perturbation theory and averaging. Singular perturbations. Circle and Popov criteria.
+Prerequisites:
+MAE 280A.
+
+MAE 281B. Nonlinear Control (4)
+
+Small gain theorem, passivity. Describing functions. Nonlinear controllability, feedback linearization, input-state and input-output linearization, zero dynamics. Stabilization, Brockett’s necessary conditions (local), control Lyapunov functions, Sontag’s formula (global). Integrator back stepping, forwarding. Inverse optimality, stability margins. Disturbance attenuation, deterministic and stochastic, nonlinear H-infinity. Nonlinear observers.
+Prerequisites:
+MAE 281A.
+
+MAE 283A. Parametric Identification: Theory and Methods (4)
+
+Constructing dynamical models from experimental data. Deterministic and stochastic discrete time signals. Discrete time systems. Nonparametric identification: correlation and spectral analysis. Parametric identification: realization and prediction error methods, least squares estimation, approximate modeling. Experiment design. Frequency domain identification. Recommended preparation: MAE 143C.
+
+MAE 283B. Approximate Identification and Control (4)
+
+Identification for control: approximate identification, estimation of models via closed-loop experiments. Closed-loop identification techniques. Estimation of model uncertainty. Model invalidation techniques. Iterative techniques for model estimation and control design.
+Prerequisites:
+MAE 283A.
+
+MAE 284. Robust and Multivariable Control (4)
+
+Multivariable feedback systems: transfer function matrices, Smith-McMillan form, poles, zeros, principal gains, operator norms, limits on performance. Model uncertainties, stability and performance robustness. Design of robust controllers, H_inf and mu synthesis. Controller reduction.
+Prerequisites:
+MAE 141B or MAE 280A.
+
+MAE 285. Design of Micro/Nanoacoustofluidic Devices (4)
+
+Acoustofluidics is a burgeoning field reliant on high frequency acoustics and underpinning many new developments and devices at micro to nano scales. First the basics, piezoelectricity, microfluidics, acoustics, and device metrology. Then, new physics arising from the unusually large accelerations (10^7 to 10^9 m/s^2) induced by acoustic waves. Finally, how various phenomena of acoustofluidics at small scales can be used in designing practical devices.
+Prerequisites:
+MAE 210A or CENG 210A, and MAE 210B, graduate standing, or consent of instructor.
+
+MAE 286. Hybrid Systems (4)
+
+Definition of hybrid system. Examples in mechanics, vision, and multi-agent systems. Trajectories of hybrid systems. Chattering, Zeno phenomena. Stability analysis. Arbitrary switching: common Lyapunov functions. Slow switching: dwell time. State-dependent switching: multiple Lyapunov functions, Invariance Principle. Hybrid control design. Applications.
+Prerequisites:
+MAE 281A or consent of instructor.
+
+MAE 287. Control of Distributed Parameter Systems (4)
+
+Lyapunov stability; exact solutions to PDEs; boundary control of parabolic PDEs (reaction-advection-diffusion and other equations); boundary observer design; control of complex-valued PDEs (Schrodinger and Gunzburg-Landau equations); boundary control of hyperbolic PDEs (wave equations) and beam equations; control of first-order hyperbolic PDEs and delay equations; control of Navier-Stokes equations; motion planning for PDEs; elements of adaptive control for PDEs and control of nonlinear PDEs.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 288A. Optimal Control (4)
+
+Deterministic methods: Pontryagin’s Maximum Principle, dynamic programming, calculus of variations. Stochastic methods: Gauss-Markov processes, Linear Quadratic control, Markov chains. Linear Quadratic Gaussian Control and the Separation Principle.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 288B. Optimal Estimation (4)
+
+Least Squares and Maximum Likelihood Estimation methods, Gauss-Markov models, State Estimation and Kalman Filtering, prediction and smoothing. The extended Kalman filter.
+Prerequisites:
+MAE 280A completed or concurrent, or consent of instructor.
+
+MAE 289A. Mathematical Analysis for Applications (4)
+
+Topics in mathematical analysis, with the emphasis on those of use in applications. The topics may include metric spaces, open and closed sets, compact sets, continuity, differentiation, series of functions and uniform convergence, convex sets and functions, transforms, and Stokes theorem.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 289B. Real Analysis for Applications (4)
+
+Topics in real analysis, with the emphasis on those of use in applications. May include countable/uncountable, open and closed sets, topology, Borel sets, sigma algebras, measurable functions, integration (Lebesgue), absolute continuity, function spaces, and fixed-point theorems.
+Prerequisites:
+MAE 289A, graduate standing, or consent of instructor.
+
+MAE 289C. Functional Analysis and Applications (4)
+
+Topics in functional analysis, with the emphasis on those of use in applications. May include function spaces, linear functionals, dual spaces, reflexivity, linear operators, strong and weak convergence, Hahn-Banach Theorem, nonlinear functionals, differential calculus of variations, Pontryagin Maximum Principle. Students cannot obtain credit for MAE 289C if they have taken MAE 289.
+Prerequisites:
+MAE 289B, graduate standing, or consent of instructor.
+
+MAE 290A. Numerical Linear Algebra (4)
+
+Fundamental concepts in numerical linear algebra. Fundamental matrix decompositions: LU, Cholesky, QR, Eigen, Schur, Jordan, SVD; how to compute them. Solution of large linear systems via iterative methods (Lanczos, Arnoldi, CG, GMRES). Stability of algorithms and conditioning of mathematical problems. Finite precision arithmetic and roundoff issues. Additional topics may include randomized methods for computing SVD/QR and solution of Lyapunov/Riccati equations for high-dimensional systems.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 290B. Numerical Differential Equations (4)
+
+Finite difference approximation. Initial value ODEs: explicit, implicit, accuracy, stability, convergence, Runge-Kutta and multipoint methods, stiff systems. Boundary value ODEs: shooting and equilibrium method. PDEs: stability and accuracy. Hyperbolic PDEs: central and upwinding methods, linear advection, Burgers equation. Parabolic PDEs: convection-diffusion equation, multidimensional problems. Elliptic PDEs: direct solution, iterative solution, multigrid method. Fourier spectral method.
+Prerequisites:
+graduate standing or consent of instructor.
+
+MAE 290C. Computational Fluid Dynamics (4)
+
+Numerical methods in fluid dynamics and convective transport processes. Numerical solution of the Euler and Navier-Stokes equation. Additional topics will vary according to instructor. Examples include eigenvalue problems in hydrodynamic stability, vortex methods, spectral and panel methods.
+Prerequisites:
+MAE 210A-B, 290A-B, and consent of instructor.
+
+MAE 291. Design and Mechanics in Computer Technology (4)
+
+Design and mechanics problems inherent in computer peripherals such as disk files, tape drives, and printers. Formulation and solution of problems involving mechanics, fluid mechanics, and materials; Reynolds equation, slider bearings; friction and wear; actuator design, impact printing; silicon fluid jets.
+Prerequisites:
+consent of instructor. (Not offered every year.)
+
+MAE 292. Computer-Aided Design and Analysis (4)
+
+Introduction to 2-D and 3-D computer-aided design. Design problems may include ball bearing kinematics, Weibull statistics, nonrepeatable spindle run-out, four bar linkages, beam deflection and vibration, design of magnetic head suspension, hydrodynamic theory of lubrication, air bearings, heat transfer, optical servo, design of ink jet print head.
+Prerequisites:
+consent of instructor. (Not offered every year.)
+
+MAE 293. Flow Control (4)
+
+Intersection of control theory and fluid mechanics. Applications: transition delay, turbulence mitigation, noise reduction, weather forecasting, shape optimization, and UAV’s (perching). Tractable feedback (Riccati-based) formulations via parallel and parabolic flow assumptions. Regularization of variational (adjoint-based) formulations for MPC and MHE. EnKF and EnVE approaches for forecasting.
+Prerequisites:
+MAE 290A or consent of instructor.
+
+MAE 294A. Introduction to Applied Mathematics (4)
+
+(Cross-listed with SIO 203A.) Review of exact methods for ordinary differential equations. Expansions about regular and irregular singular points, eigenfunction methods for ordinary differential equations, special functions, Fourier series and integral transforms, linear algebra.
+
+MAE 294B. Introduction to Applied Mathematics II (4)
+
+(Cross-listed with SIO 203B.) Partial differential equations: characteristics, similarity solutions, Green’s functions, images, wave equation, diffusion equation, Laplace’s equation. Applications to continuum mechanics, potential fields, and transport phenomena such as diffusion, linear and nonlinear waves, Burger’s equation, shocks, and other topics. Other topics according to the interests of the instructor.
+Prerequisites:
+MAE 294A or SIO 203A or consent of instructor.
+
+MAE 294C. Introduction to Applied Mathematics III (5)
+
+(Cross-listed with SIO 203C.) Perturbation theory, asymptotic methods and asymptotic expansions. Approximate methods for linear and nonlinear differential equations, such as WKB, the method of multiple scales and boundary layer theory.
+Prerequisites:
+MAE 294B or SIO 203B or SIO 215B or consent of instructor.
+
+MAE 295. Field Study (1–12)
+
+Provides field study in industry with faculty supervision. Analysis and problem solving using real world applications.
+Prerequisites:
+consent of adviser and department; 3.0 GPA.
+
+MAE 296. Independent Study (1–4)
+
+Independent reading or research on a problem as arranged by a designated faculty member. Must be taken for a letter grade only.
+Prerequisites:
+consent of instructor.
+
+MAE 298. Directed Group Study (1–4)
+
+Directed group study on a topic or in a field not included in regular department curriculum, by special arrangement with a faculty member.
+Prerequisites:
+consent of instructor. (S/U grades permitted.)
+
+MAE 299. Graduate Research (1–12)
+
+Independent work by graduate students engaged in research and writing theses. (S/U grades only.)
