@@ -1,4 +1,28 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Data + databases
+data/
+*.sqlite3
+*.bin
+
+# Temporary folders
+tmp*/
 outputs_aiohttp/
+
+# Zip files
+*.zip
+
+# OS / misc
+.DS_Storeoutputs_aiohttp/
 keyavenv/
 __pycache__/
 *.pyc
+
+
+
+
