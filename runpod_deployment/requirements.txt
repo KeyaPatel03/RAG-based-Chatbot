@@ -1,0 +1,17 @@
+# RunPod handler dependencies — pure LLM inference only
+# (ChromaDB and embedding models run locally on the university cluster)
+
+runpod==1.6.2
+
+# PyTorch — installed by the base Docker image (runpod/pytorch); listed here
+# so local testing works.  Pin matches Dockerfile base image.
+torch==2.3.0
+
+# HuggingFace model loading + 4-bit quantization
+transformers==4.40.1
+bitsandbytes==0.43.1
+accelerate==0.29.3
+
+# Misc utilities
+requests==2.31.0
+python-dotenv==1.0.1
