@@ -11,10 +11,11 @@ webScrap_from_urls_txt.py  (UPDATED WITH METADATA GENERATION)
 
 import io
 import asyncio
+import os
 import ssl
 import certifi
 import aiohttp
-from aiohttp import ClientTimeout, TCPConnector
+from aiohttp import ClientTimeout, TCPConnector, CookieJar
 from bs4 import BeautifulSoup, NavigableString
 from pathlib import Path
 from urllib.parse import urlparse
@@ -22,6 +23,7 @@ import sys
 import json
 import hashlib
 import subprocess
+from yarl import URL
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 from pypdf import PdfReader
 
@@ -44,10 +46,19 @@ SAVE_RENDERED_FOR_DEBUG = True
 PLAYWRIGHT_TIMEOUT_MS = 30000
 PW_WAIT_FOR_FUNCTION_TIMEOUT_MS = 8000
 TCP_LIMIT_PER_HOST = 5
+SCRAPER_STORAGE_STATE = os.getenv("SCRAPER_STORAGE_STATE", "").strip()
 
 BLOCKED_HTTP_STATUSES = {401, 403, 406, 409, 410, 412, 429}
 FIREFOX_FIRST_DOMAINS = {"studentaid.gov"}
 PLAYWRIGHT_INSTALL_ATTEMPTED = False
+LOGIN_WALL_MARKERS = (
+    "account login",
+    "collegeboard - sign in",
+    "sign in",
+    "unlock account",
+    "create account",
+    "okta",
+)
 # ----------------------------
 
 
@@ -122,6 +133,68 @@ def is_probable_spa_shell_text(text: str) -> bool:
         "loading...",
     )
     return any(marker in lower for marker in shell_markers)
+
+
+def is_probable_login_wall(text: str, final_url: str = "") -> bool:
+    lower_text = (text or "").lower()
+    lower_url = (final_url or "").lower()
+    if "account.collegeboard.org/login" in lower_url:
+        return True
+    if any(marker in lower_text for marker in LOGIN_WALL_MARKERS):
+        return True
+    if "account.collegeboard.org/login" in lower_text:
+        return True
+    return False
+
+
+def load_cookies_from_storage_state(storage_state_path: str):
+    cookies = []
+    if not storage_state_path:
+        return cookies
+
+    state_path = Path(storage_state_path)
+    if not state_path.exists():
+        print(f"[cookies] storage state not found: {state_path}")
+        return cookies
+
+    try:
+        state = json.loads(state_path.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[cookies] failed to read storage state {state_path}: {e}")
+        return cookies
+
+    for cookie in state.get("cookies", []):
+        name = cookie.get("name")
+        value = cookie.get("value")
+        domain = cookie.get("domain")
+        if not name or value is None or not domain:
+            continue
+
+        cookies.append({
+            "name": name,
+            "value": value,
+            "domain": domain,
+            "path": cookie.get("path") or "/",
+            "secure": cookie.get("secure", True),
+        })
+
+    if state.get("cookies"):
+        print(f"[cookies] loaded {len(state.get('cookies', []))} cookies from {state_path}")
+    return cookies
+
+
+def build_cookie_jar_from_storage_state(storage_state_path: str) -> CookieJar:
+    try:
+        loop = asyncio.get_running_loop()
+    except RuntimeError:
+        loop = asyncio.new_event_loop()
+
+    jar = CookieJar(loop=loop, unsafe=True)
+    for cookie in load_cookies_from_storage_state(storage_state_path):
+        scheme = "https" if cookie.get("secure", True) else "http"
+        response_url = URL(f"{scheme}://{cookie['domain'].lstrip('.')}{cookie['path']}")
+        jar.update_cookies({cookie["name"]: cookie["value"]}, response_url=response_url)
+    return jar
 
 
 def maybe_install_playwright_browsers(reason: str) -> bool:
@@ -263,16 +336,20 @@ async def fetch(session: aiohttp.ClientSession, url: str):
     try:
         async with session.get(url, headers=headers, timeout=timeout, allow_redirects=True) as resp:
             status = resp.status
+            final_url = str(resp.url)
             content_type = resp.headers.get("Content-Type", "").lower()
-            print(f"[fetch] {url} -> HTTP {status} ({content_type})")
+            if final_url != url:
+                print(f"[fetch] {url} -> {final_url} -> HTTP {status} ({content_type})")
+            else:
+                print(f"[fetch] {url} -> HTTP {status} ({content_type})")
             if "application/pdf" in content_type:
                 data = await resp.read()
-                return status, ("IS_PDF", data)
+                return status, ("IS_PDF", data), final_url
             text = await resp.text(errors="ignore")
-            return status, text
+            return status, text, final_url
     except Exception as e:
         print(f"[error] fetching {url}: {e}")
-        return None, ""
+        return None, "", url
 
 
 async def fetch_bytes(session: aiohttp.ClientSession, url: str):
@@ -324,11 +401,17 @@ async def render_with_playwright(playwright, url: str, timeout_ms: int = PLAYWRI
                 browser = await browser_type.launch(headless=True, args=launch_args or [])
             else:
                 raise
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 720},
-            ignore_https_errors=True,
-        )
+        context_kwargs = {
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "viewport": {"width": 1280, "height": 720},
+            "ignore_https_errors": True,
+        }
+        if SCRAPER_STORAGE_STATE:
+            storage_state_path = Path(SCRAPER_STORAGE_STATE)
+            if storage_state_path.exists():
+                context_kwargs["storage_state"] = str(storage_state_path)
+                print(f"[playwright] using storage state {storage_state_path}")
+        context = await browser.new_context(**context_kwargs)
         page = await context.new_page()
 
         if stealth is not None:
@@ -514,7 +597,7 @@ async def process_url(session, playwright, url):
                     "status": "success",
                 }
 
-    status, html_text = await fetch(session, url)
+    status, html_text, final_url = await fetch(session, url)
 
     if isinstance(html_text, tuple) and html_text[0] == "IS_PDF":
         pdf_data = html_text[1]
@@ -532,6 +615,16 @@ async def process_url(session, playwright, url):
                 "status": "success",
             }
         html_text = ""
+
+    if is_probable_login_wall(html_text or "", final_url):
+        print(f"[blocked-login] {url} redirects to a College Board login wall ({final_url}); skipping.")
+        return {
+            "doc_id": doc_id,
+            "url": url,
+            "source": "web",
+            "final_url": final_url,
+            "status": "blocked_login",
+        }
 
     blocked_status = status in BLOCKED_HTTP_STATUSES if status is not None else False
     need_render = blocked_status or looks_js_driven(html_text)
@@ -607,8 +700,9 @@ async def process_url(session, playwright, url):
 async def main(urls):
     ssl_context = ssl.create_default_context(cafile=certifi.where())
     connector = TCPConnector(limit_per_host=TCP_LIMIT_PER_HOST, ssl=ssl_context)
+    cookie_jar = build_cookie_jar_from_storage_state(SCRAPER_STORAGE_STATE)
 
-    async with aiohttp.ClientSession(connector=connector) as session:
+    async with aiohttp.ClientSession(connector=connector, cookie_jar=cookie_jar) as session:
         async with async_playwright() as pw:
             tasks = [process_url(session, pw, u) for u in urls]
             results = await asyncio.gather(*tasks)

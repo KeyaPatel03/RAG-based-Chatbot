@@ -1,5 +1,0 @@
-PAGE NOT FOUND
-
-The page that you requested could not be found.  Please check the url and try again.
-
-ERROR 404
