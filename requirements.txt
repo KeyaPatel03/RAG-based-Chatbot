@@ -1,5 +1,5 @@
 # Web server
-fastapi==0.111.4
+fastapi==0.109.2
 uvicorn[standard]==0.32.1
 # RAG / embeddings (runs locally on Render)
 torch==2.3.0                          # used in query.py for embedding computation
