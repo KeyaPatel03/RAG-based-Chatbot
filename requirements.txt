@@ -2,7 +2,7 @@
 fastapi==0.109.2
 uvicorn[standard]==0.32.1
 # RAG / embeddings (runs locally on Render)
-torch                          # used in query.py for embedding computation
+torch==2.2.2                            # used in query.py for embedding computation
 transformers==4.40.1                   # AutoTokenizer, AutoModel for sentence-transformer
 chromadb==0.5.5                       # vector DB
 pysqlite3-binary==4.1.3               # chromadb needs a newer sqlite3 (critical on Render)
