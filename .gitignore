@@ -17,6 +17,11 @@ outputs_aiohttp/
 # Zip files
 *.zip
 
+# Docker local overrides / build artifacts
+.docker/
+docker-compose.override.yml
+docker-compose.local.yml
+
 # OS / misc
 .DS_Storeoutputs_aiohttp/
 keyavenv/
@@ -28,3 +33,4 @@ __pycache__/
 
 .env
 .env
+
