@@ -1,0 +1,2 @@
+/var/spool/slurm/d/job1440474/slurm_script: line 18: cd: /WAVE/users2/unix/kpatel8/Track2Cllg: No such file or directory
+/var/spool/slurm/d/job1440474/slurm_script: line 21: /WAVE/users2/unix/kpatel8/keyavenv/bin/activate: No such file or directory

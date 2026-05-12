@@ -2,8 +2,7 @@
 fastapi==0.109.2
 uvicorn[standard]==0.32.1
 
-# RAG / embeddings
-torch          
+# RAG / embeddings 
 transformers==4.40.1
 chromadb==0.5.5
 pysqlite3-binary
