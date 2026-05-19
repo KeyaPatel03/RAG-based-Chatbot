@@ -1,0 +1,326 @@
+• HOME
+• curric
+• Bioengineering
+
+BIOENGINEERING
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+Warren College
+Student Affairs
+141 Powell-Focht Bioengineering Hall
+http://be.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+DEPARTMENTAL FOCUS
+
+Bioengineering
+is an interdisciplinary major in which the principles and tools of traditional engineering fields, such as mechanical, materials, electrical, and chemical engineering, are applied to biomedical and biological problems. Engineering plays an increasingly important role in medicine in projects that range from basic research in physiology to advances in biotechnology and the improvement of health-care delivery. By its very nature, bioengineering is broad and requires a foundation in the engineering sciences as well as in physiology and other biological sciences.
+
+The overall mission of the Department of Bioengineering is to improve health and quality of life by applying engineering principles to scientific discovery and technology innovation and to train future leaders in bioengineering through inspiring education and dedicated mentorship.
+
+The program educational objectives for UC San Diego bioengineering programs are as follows:
+
+BIOENGINEERING (BS)
+
+The bioengineering (BS) program aims to provide students with the breadth required for participation in the interdisciplinary field of bioengineering and the depth required by engineers to advance the practice in the discipline. Our objective is to graduate students who are able to successfully pursue:
+
+• advanced studies leading to research and graduate degrees in biomechanics, microcirculation, physiology, or biomedical imaging.
+• professional engineering practice and design in industries serving the advancement of medicine in areas of medical device development, manufacturing, quality control, or prosthetic design.
+• advanced professional education in medicine, health, or related medical sciences.
+• continuous professional development to serve innovation and entrepreneurship in bioengineering and related technical fields.
+
+BIOENGINEERING: BIOTECHNOLOGY (BS)
+
+The bioengineering: biotechnology (BS) program aims to provide students with the breadth required for participation in the interdisciplinary field of biotechnology and the depth required by engineers to advance the practice in the discipline. Our objective is to graduate students who are able to successfully pursue:
+
+• advanced studies leading to research and graduate degrees in cell and tissue engineering, biomolecular engineering, or genetic engineering.
+• professional engineering practice and design in industries serving the advancement of medicine in areas of bioprocess engineering, biomaterials, therapeutics, or design of diagnostics.
+• advanced professional education in medicine, health, or related medical sciences.
+• continuous professional development to serve innovation and entrepreneurship in biochemical engineering and related technical fields.
+
+BIOENGINEERING: BIOSYSTEMS (BS)
+
+The bioengineering: biosystems (BS) program aims to provide students with the breadth required for participation in the interdisciplinary field of bioengineering and the depth required by engineers to advance the practice in the discipline. Our objective is to graduate students who are able to successfully pursue:
+
+• advanced studies leading to research and graduate degrees in computational and systems biology, biomedical instrumentation, or biosystems modeling and control.
+• professional engineering practice and design in industries serving the advancement of medicine in areas of bioinstrumentation, quality control, or biomedical computation.
+• advanced professional education in medicine, health, or related medical sciences.
+• continuous professional development to serve innovation and entrepreneurship in biosystems engineering and related technical fields.
+
+BIOENGINEERING: BIOINFORMATICS (BS)
+
+The bioengineering: bioinformatics (BS) program aims to provide students with the breadth required for participation in the interdisciplinary field of bioinformatics and the depth required by engineers to advance the practice in the discipline. Our objective is to graduate students who are able to successfully pursue:
+
+• advanced studies leading to research and graduate degrees in computational biology and biological systems data analysis.
+• professional engineering practice and design in industries serving the advancement of medicine in areas of genetic, transcriptional, proteomic, or metabolic data analysis applied to living systems.
+• advanced professional education in medicine, health, or related medical sciences.
+• continuous professional development to serve innovation and entrepreneurship in bioinformatics and related technical fields.
+
+STUDENT OUTCOMES FOR THE UC SAN DIEGO DEPARTMENT OF BIOENGINEERING’S PROGRAMS: BIOENGINEERING (BS), BIOENGINEERING: BIOTECHNOLOGY (BS), BIOENGINEERING: BIOSYSTEMS (BS)
+
+Upon the completion of the bioengineering program, graduates will have:
+
+• an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+• an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+• an ability to communicate effectively with a range of audiences.
+• an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+• an ability to function effectively on a team whose members together provide leadership, create a collaborative environment, establish goals, plan tasks, and meet objectives.
+• an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• an ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+At the undergraduate level, the department offers several four-year engineering majors, including a newly developed
+BS in
+bioengineering: biosystems
+. This major focuses on the interaction and integration of components in complex biological and engineering assemblages, and how the function and interactions of these components affect overall performance. The major draws on foundations of classical electrical and systems engineering, with biological applications at levels of the molecular and cellular to the physiological and whole organism and provides an alternative to other bioengineering majors that emphasize mechanical, chemical, and computational approaches. The major prepares students for careers in the bioengineering industry, in research and development, and for further education in graduate, medical, and business schools.
+
+One major leads to a
+BS in bioengineering
+. This major prepares students for careers in the biomedical device industry and for further education in graduate school. Students completing the BS in bioengineering have a broad preparation in traditional topics in engineering, allowing for a variety of career pathways. This program addresses the bioengineering topics of biomechanics, biotransport, bioinstrumentation, bioelectricity, biosystems, and biomaterials, and the complementary fields of systems and integrative physiology. Education in these areas allows application of bioengineering and other scientific principles to benefit human health by advancing methods for effective diagnosis and treatment of disease, e.g., through development of medical devices and technologies.
+
+The department also offers a
+BS in bioengineering: biotechnology.
+This major prepares students for careers in the biotechnology industry and for further education in graduate school. The curriculum has a strong engineering foundation with emphasis on biochemical process applications. This program addresses the bioengineering topics of biochemistry, metabolism, kinetics, biotransport, biosystems, bioreactors, bioseparations, tissue engineering, and the complementary fields of cellular physiology. Education in these areas allows application of bioengineering and physicochemical principles to cellular and molecular biology, with the applications that benefit human health.
+
+The department also offers a major leading to a
+BS in bioengineering: bioinformatics
+.
+Bioinformatics is the study of the structure and flow of information (genetic, metabolic, and regulatory) in living systems. The bioinformatics major emphasizes computation and model-based approaches to assembling, integrating, and interpreting biological information. This major has been developed by the Departments of Bioengineering, Computer Science and Engineering, and the School of Biological Sciences, and students may apply through any of these departments or the division. The major prepares students for careers in the pharmaceutical, biotechnology, and biomedical software industries, and for further studies in graduate or medical school.
+
+The programs and curricula of the Department of Bioengineering emphasize education in the fundamentals of engineering sciences that form the common basis of all engineering subspecialties. Education with this emphasis is intended to provide students with an interdisciplinary engineering foundation for a career in which engineering practice may expand rapidly. In addition, elements of bioengineering design are incorporated at every level in the curricula. This is accomplished by integration of laboratory experimentation, computer applications, and exposure to real bioengineering problems throughout the program. In all
+majors, students also work in teams on a senior design project to design a solution to a multidisciplinary bioengineering problem suggested by professionals in bioengineering industry, academia, or medicine.
+
+The bioengineering (BS), bioengineering: biosystems (BS) and bioengineering: biotechnology (BS) programs are accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org.
+The bioengineering: bioinformatics (BS) program is not accredited by a commission of ABET as it has a relatively heavy emphasis on biological, chemical, and physical sciences.
+
+At the graduate level, specialized curricula lead to the
+MS, MEng (master of engineering),
+and
+PhD
+, as well as an integrated BS/MS. The department also offers a
+PhD in bioinformatics
+through the Bioinformatics and Systems Biology program. It is intended for students who have an interdisciplinary persuasion to work across computers, biology, medicine, and engineering. For further information on the degree, please email
+bioinfo@ucsd.edu
+or go online to
+http://bioinformatics.ucsd.edu
+. The MEng is a terminal professional degree whereas the MS and PhD are research programs. (
+See section on “The Graduate Program.”
+) The graduate programs are characterized by strong interdisciplinary relationships with the other engineering departments and Departments of Physics, Mathematics, Biology, Chemistry and Biochemistry, Medicine, and others, as well as with campus organizations such as the Institute of Engineering in Medicine, Institute for Mechanics and Materials, and the School of Medicine.
+
+THE UNDERGRADUATE PROGRAM
+
+MAJOR REQUIREMENTS
+
+Specific course requirements for each of the majors are outlined in tables below. In addition to the required technical courses specifically indicated, a suggested scheduling of humanities and social science courses (HSS) is included in the curricula for students to use to meet college general-education requirements. To graduate, students must maintain an overall GPA of at least 2.0, and obtain at least a C– grade in each course required for the major. All courses required for the major must be taken for a letter grade.
+
+Deviations from the required programs of study must be approved by the Undergraduate Studies Committee
+prior
+to students taking alternative courses. In addition, students must obtain departmental approval of technical elective (TE) course selections
+prior
+to students taking the course. In the bioengineering, biosystems, and biotechnology programs, TE courses are restricted to those that meet accreditation standards. Courses such as BENG 197 and 198 are encouraged, but do not count as upper-division technical electives. BENG 195, 196, and 199 can be used as technical electives under certain conditions. Policy information may be obtained from the Student Affairs Office.
+
+Students with accelerated academic preparation at admission to the university may vary the scheduling of lower-division courses such as mathematics, physics, and chemistry, but must first consult the department. Most lower-division courses are offered more than once each year to permit students some flexibility in their program scheduling. However, most upper-division bioengineering courses are taught only once each year.
+
+Deviations in the scheduling of upper-division bioengineering courses are strongly discouraged, as such changes usually lead to a delay in graduation.
+
+The curricula shown in the tables below are consistent with the current scheduling of classes.
+
+Minors are not offered in the Department of Bioengineering, and double major options are restricted. Students interested in double majors should consult the Student Affairs Office as early as possible.
+
+GENERAL-EDUCATION/COLLEGE REQUIREMENTS
+
+For graduation, each student must satisfy general-education course requirements determined by the student’s college, as well as the major requirements determined by the department. The seven colleges at UC San Diego require different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the curriculum and the breadth of general education.
+
+The bioengineering programs allow for humanities and social science (HSS) courses so that students can fulfill their college requirements. Students must develop a program that includes a total of at least forty units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. It should be noted, however, that some colleges require more than the ten HSS courses indicated in the curriculum tables below. Accordingly, students in these colleges may take longer to graduate than the four years indicated in the schedule. Students must consult with their colleges to determine which HSS courses to take.
+
+BIOENGINEERING (BS)
+
+The bioengineering (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Bioengineering and Biomedical Engineering and Similarly Named Engineering Programs.
+
+1
+CHEM 7L may be taken in any quarter within the first two years after completion of CHEM 6B.
+
+2
+Ten HSS courses are listed here; individual college requirements may be higher.
+
+3
+Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.
+
+BIOENGINEERING: BIOTECHNOLOGY (BS)
+
+The bioengineering: biotechnology (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Bioengineering and Biomedical Engineering and Similarly Named Engineering Programs.
+
+1
+CHEM 7L may be taken concurrently with Chem 6C or in any quarter within the first two years after completion of CHEM 6B.
+
+2
+Ten HSS courses are listed here; individual college requirements may be higher.
+
+3
+Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.
+
+BIOENGINEERING: BIOSYSTEMS (BS)
+
+The bioengineering: biosystems (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Bioengineering and Biomedical Engineering and Similarly Named Engineering Programs.
+
+1
+Ten HSS courses are listed here; individual college requirements may be higher.
+
+2
+Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.
+
+BIOENGINEERING: BIOINFORMATICS (BS)
+
+(Not accredited by a commission of ABET)
+
+1
+Technical elective (TE) courses must be selected from a departmental approved list. Consult the Student Affairs Office.
+
+2
+Ten HSS courses are listed here; individual college requirements may be higher.
+
+POLICIES AND PROCEDURES
+
+FIRST-YEAR AND CONTINUING ADMISSION TO MAJORS IN THE DEPARTMENT OF BIOENGINEERING
+
+Because of heavy student interest in the majors in the Department of Bioengineering and the limited resources available to accommodate this demand, maintenance of a high-quality program makes it necessary to limit enrollments to the most qualified students.
+
+Students admitted into a capped major who transfer out of the capped major may transfer back into it
+one time
+without meeting the full requirements for continuing student admission prior to the end of their sophomore year,
+provided they are in good academic standing.
+
+First-year students who have excelled in high school and have declared
+bioengineering (BS)
+,
+bioengineering: biotechnology (BS), bioengineering: bioinformatics (BS),
+or
+bioengineering: biosystems (BS)
+on their UC San Diego application are eligible for direct admission into those majors.
+
+The UC San Diego Office of Admissions and Relations with Schools will calculate an admissions target number and admit the appropriate number of incoming first-year students into each capped major using the “UC San Diego Holistic Review” score as a ranking method. Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest “holistic review score,” until the admission target number is reached. These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen capped major.
+
+First-year students who applied but were not admitted directly from high school into the capped
+bioengineering (BS)
+,
+bioengineering: biotechnology (BS), bioengineering: bioinformatics (BS),
+or
+bioengineering: biosystems (BS)
+majors will be admitted into the major indicated as their “second choice” on the UC application (providing it is an “open” major).
+
+Each fall quarter, a certain number (determined on an annual basis) of “continuing” sophomore students who apply will be selected to enter the capped
+bioengineering (BS), bioengineering: biotechnology (BS), bioengineering: bioinformatics (BS),
+or
+bioengineering: biosystems (BS)
+majors. Interested continuing students must not be past sophomore year, as time to graduation would be delayed since departmental upper-division courses are currently offered only once a year.
+
+Continuing students will be required to complete the following courses
+prior
+to applying, depending on their major of choice:
+
+Bioengineering
+and
+bioengineering: biotechnology
+: BILD 1; CHEM 6A-B; MAE 8; MATH 20A-C; PHYS 2A-B.
+
+Bioengineering: bioinformatics
+: BILD 1; CHEM 6A-B; CSE 11; MATH 20A-C; PHYS 2A-B.
+
+Bioengineering: biosystems
+: CHEM 6A-B; MATH 20A-C, PHYS 2A-B.
+
+If students have met some of the above requirements through Advanced Placement course work, they should be advised of the following: A minimum of three courses listed must have been completed at UC San Diego. If students cannot meet this three-course minimum due to prior credit, students must offer grades for MATH 20D, MATH 18, or MATH 20E until the three-course minimum has been met.
+
+Students will receive email instructions from the Bioengineering Student Affairs Office concerning completion of an online application at the beginning of fall quarter of their second year.
+Online applications must be submitted by Friday of the first week of instruction in fall quarter.
+Continuing students’ applications will be ranked according to the GPA obtained in the required courses only.
+
+Applications to a capped major will be approved, starting with the student having the highest GPA in the required courses, until the predetermined target number is reached. The Bioengineering Student Affairs Office will notify students in a timely manner who are successful in transitioning into one of the capped majors.
+
+Continuing students who apply and are unable to transition into one of the capped majors will also be notified of their status in a timely manner by the Bioengineering Student Affairs Office.
+
+TRANSFER STUDENT ADMISSION INTO BIOENGINEERING, BIOENGINEERING: BIOTECHNOLOGY, BIOENGINEERING: BIOINFORMATICS, OR BIOENGINEERING: BIOSYSTEMS
+
+General advice: Transfer students are advised to complete the following courses for their major before enrolling at UC San Diego. Preparing well for the major helps students move efficiently toward graduation.
+
+• Calculus I—for Science and Engineering (MATH 20A)
+• Calculus II—for Science and Engineering (MATH 20B)
+• Calculus and Analytic Geometry (MATH 20C)
+• Differential Equations (MATH 20D)
+• Linear Algebra (MATH 18)
+• Vector Calculus (MATH 20E)
+• Complete calculus-based physics series with lab experience (PHYS 2A-B-C)
+• CHEM 6A and 6B (except computer science and computer engineering majors) Note: A total of ten quarter-units of general chemistry (including laboratory) are strongly recommended for students applying to all majors offered by the Department of Bioengineering.
+
+• Highest level of introductory computer programming language course offerings at the community college
+The UC San Diego Office of Admissions and Relations with Schools will calculate an admissions target number and admit the appropriate number of incoming transfer students into each capped major, based on the community college GPA. Additionally, transfer students should have completed the following courses for admission equivalent to UC San Diego:
+
+Bioengineering:
+MATH 20A-B-C-D; PHYS 2A-B and 2BL-CL; and CHEM 6A-B
+
+Bioengineering: biotechnology:
+MATH 20A-B-C-D; PHYS 2A-B and 2CL; and CHEM 6A-B
+
+Bioengineering: bioinformatics
+and
+bioengineering: biosystems:
+MATH 20A-B-C-D; PHYS 2A-B; and CHEM 6A-B
+
+Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest community college GPA, until the admission target number is reached. (At least a 3.2 GPA in the community college transfer courses, and a 3.4 GPA in math, physics, and computer science courses, are likely to be needed to gain admission.) These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen impacted major.
+
+Transfer students who applied but were not admitted directly from community college into the capped
+bioengineering,
+bioengineering: biotechnology, bioengineering: bioinformatics,
+or bioengineering: biosystems
+majors will be admitted into the major indicated as their “second choice” on the UC application (providing it is an “open” major).
+
+ACADEMIC ADVISING
+
+Upon admission to a major, students are encouraged to seek advice from departmental staff in the Bioengineering Student Affairs Office, Room 141, Powell-Focht Bioengineering Hall, to plan a program of study. Students are expected to chart their progress within their major. As the department may make a small number of course and/or curricular changes every year, it is imperative that students check their email for updates and consult a bioengineering undergraduate adviser on an annual basis.
+
+To enroll in any courses required for a bioengineering major, a student must have completed prerequisite courses. (The department does not consider D or F grades as adequate preparation for subsequent material.) Where these prerequisite course work and other restrictions apply, the registrar will not enroll other students except by department approval. Students are advised that they may be dropped from course rosters if prerequisites have not been met.
+
+Bioengineering courses are typically offered only once a year and therefore should be taken in the recommended sequence. If courses are taken out of sequence, it may not always be possible to enroll in courses as desired or needed for timely graduation. If this occurs, students should seek immediate departmental advice.
+
+Programmatic advice may be obtained from the Student Affairs Office. In addition, technical advice may be obtained from a specific bioengineering faculty adviser assigned to each student upon admission to the major.
+
+PROGRAM ALTERATIONS, EXCEPTIONS TO REQUIREMENTS, AND SPECIAL PROGRAMS
+
+Exceptions to any program or course requirements are possible if approved by the Undergraduate Studies Committee before the courses in question are taken. Petitions may be obtained from the Bioengineering Student Affairs Office.
+
+A capstone design course sequence is required for senior level students in all undergraduate majors in the department. The capstone design course sequence consists of a multiquarter upper-division sequence of courses that totals ten quarter-units and includes (1) a series of four one-unit courses on selection (BENG 187A), design (BENG 187B), implementation (BENG 187C), and presentation (BENG 187D) of design projects, with consideration of professional issues, and (2) a sequence of two three-unit laboratory design projects (BENG 188A-B), offered in many of the primary areas of bioengineering, including biomechanics, systems bioengineering, nanoscale and molecular bioengineering, organ system bioengineering, tissue engineering and regenerative medicine, and bioinstrumentation. The design projects and presentations will be performed by student teams in the course sequence.
+
+Under the guidance of a bioengineering faculty member, lower- and upper-division level bioengineering students have opportunities to participate in independent study and research.
+
+Upper-division bioengineering students may take BENG 199, Independent Study for Undergraduates. Lower-division bioengineering students may enroll in BENG 99, which is similar to BENG 199 except that less background in the curriculum is needed. These courses are taken as electives on a P/NP basis. Under certain conditions, a BENG 199 course may be used to satisfy upper-division technical elective course requirements for the major. Students interested in this alternative must identify a faculty member with whom they wish to work and propose a two-quarter research or study topic for
+all
+majors. Completion of two consecutive quarters of BENG 199 will satisfy both technical elective requirements in all majors. After obtaining the faculty adviser’s concurrence on the topic and scope of the study, the student must submit a Special Studies form through the EASy system (each quarter). These forms must be completed, approved, and processed by the end of week two of the quarter in which the course is to be taken.
+
+Students interested in participating in the instructional activities of the department may be approved to take BENG 195P, Undergraduate Teaching as an elective on a P/NP basis. Policy in this regard may be obtained from the Student Affairs Office.
+
+INDUSTRIAL INTERNSHIP PROGRAM AND GRADUATE INDUSTRIAL TRAINING PROGRAM
+
+The Department of Bioengineering offers two industry-related programs: the
+Industrial Internship Program
+for undergraduates and the
+Graduate Industrial Training Program
+for graduate students. Both industrial programs are designed to complement the department’s academic curriculum with practical industry experience. Students interested in these programs should contact the Bioengineering Student Affairs Office well in advance of the quarter in which they would like to start their internship.
+
+The Industrial Internship Program
+is available to undergraduate students who have completed all lower-division course requirements. Academic credit under BENG 196, Bioengineering Industrial Internship, can be earned by spending ten weeks or more as interns in an industrial setting. The intern may be involved in a range of activities, including design, analysis, manufacturing, testing, regulatory affairs, etc., under the direction of a mentor in the workplace. At the completion of the internship experience, students are required to submit a brief report to the mentor and faculty adviser describing their activities. Up to four units of BENG 196 may be used toward technical elective credit.
+
+The Graduate Industrial Training Program
+is designed for students in the Master of Engineering Degree Program. This program serves to significantly enhance the professional development of MEng students in preparation for leadership in the bioengineering industry. Students will complete an independent industrial bioengineering project in a company setting under the direction of an industrial and faculty adviser.

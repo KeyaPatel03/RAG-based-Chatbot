@@ -1,0 +1,483 @@
+• HOME
+• curric
+• Economics
+
+ECONOMICS
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+ECONOMICS STUDENT SERVICES
+Social Sciences Research Building, Rooms 157–170
+https://economics.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+INTRODUCTION
+
+Economics is the study of how individuals, organizations, and societies deal with scarcity—the fact that resources are not sufficient to satisfy everyone’s wants. Because scarcity requires choice among alternative uses of resources, economists study both the technology by which resources are turned into the products people want and the preferences through which people choose among alternatives. Further, since society is composed of many individuals and groups, economists study markets, governments, and other institutions through which a society might gain the advantages of cooperation and resolve the conflicts due to competing goals. The economics curriculum develops tools and uses them to analyze a wide range of societal problems, and also to study the role of the government in solving these problems.
+
+Information on the undergraduate program, and descriptions of each of our majors, can be found on the undergraduate program’s website at
+https://economics.ucsd.edu/undergraduate-program/index.html
+. The website contains answers to frequently asked questions, gives practical tips for avoiding problems, and provides a more detailed discussion of the department’s majors than is possible in the general catalog. It is important for students contemplating a major in the department to be familiar with the website and the prerequisite requirements listed therein. Students communicate with undergraduate advisers in the department either through in-person walk-in advising sessions, or through the Virtual Advising Center (VAC). VAC (
+vac.ucsd.edu
+) documents student questions and department responses. It also authenticates student identity and protects student information. Students must use their UC San Diego email address to send and receive messages in VAC.
+
+The Department of Economics hosts the EconUGBlog (
+http://econugblog.wordpress.com/
+) to provide information to undergraduate students about events, jobs, and internship opportunities related to economics.
+
+Students interested in studying abroad are encouraged to go the Study Abroad UC San Diego Office or to their website:
+http://studyabroad.ucsd.edu/
+for more information.
+
+Transfer students should see the department website at
+https://economics.ucsd.edu/undergraduate-program/resources/transfer-students.html
+.
+
+THE UNDERGRADUATE PROGRAM
+
+LOWER-DIVISION ECONOMICS COURSES
+
+MICROECONOMICS AND MACROECONOMICS—ECON 1-2-3
+
+The department offers three lower-division economics classes, ECON 1-2-3. ECON 1 is an introduction to the study of the economic system from the micro, or individual decision maker’s perspective. The focus of ECON 1 is the allocation of resources and the distribution of income in perfectly competitive markets. ECON 2 is a continuation of the study of microeconomics with a focus on the allocation of resources in monopoly and other imperfectly competitive markets, market imperfections, and the role of government in markets. ECON 3 introduces macroeconomics: unemployment, inflation, business cycles, and monetary and fiscal policy. ECON 1 is a prerequisite for both ECON 2 and ECON 3. ECON 2 and ECON 3 can be taken in any order and may be taken concurrently.
+
+ACCOUNTING COURSE
+
+The department offers an accounting course, ECON 4. ECON 4 is a lower-division requirement for the BS in management science and the management science minor. ECON 4 is cross-listed with MGT 4. Students will not receive credit for ECON 4 if taken after MGT 4.
+
+DATA ANALYTICS COURSE
+
+The department offers a data analytics course, ECON 5. ECON 5 is a lower-division requirement for the BS in economics major, the BS in management science, and the management science minor.
+
+UPPER-DIVISION ECONOMICS CORE COURSES
+
+The upper-division economics and management science core courses are expected to be offered every quarter (fall, winter, and spring) with the following exceptions:
+
+Fall—no ECON 172B
+
+Spring—no ECON 172A or 173A
+
+The 100, 110, 120, 172, and 173 core courses are sequential. That is, A must be taken before B, and when applicable, B before C.
+
+THE ECONOMICS MAJOR (BS)
+
+The economics BS program is designed to provide a broad understanding of resource allocation and income determination mechanisms. Both the development of the tools of economic analysis and their application to contemporary problems and public policy are stressed. The program places a strong emphasis on quantitative skills, mathematical analysis, economic modeling, and econometrics.
+
+When choosing which mathematics series to take, MATH 10A-B-C or MATH 20A-B-C, it is important to remember that only MATH 20A-B-C allows students access to MATH 20F and several upper-division mathematics courses that are recommended as preparation for advanced degrees, such as a master’s or doctoral degree in economics, and to enhance career prospects in finance, data analysis, and other fields that require strong analytical abilities.
+
+Therefore, while we require economics majors to take MATH 10A-B-C, we recommend that economics students take MATH 20A-B-C.
+
+A student majoring in the economics BS program must meet the following requirements:
+
+• Lower-division mathematics courses: MATH 10A-B-C (required) or MATH 20A-B-C (recommended).
+• Lower-division economics courses: ECON 1, ECON 3, and ECON 5.
+• Upper-division economics core courses: ECON 100A-B-C (microeconomics), ECON 110A-B (macroeconomics), and ECON 120A-B-C (econometrics).
+• Upper-division economics electives: Five more economics courses at the upper-division level. At least two of these elective courses must be advanced electives. The BS economics advanced electives are:
+• Note that the prerequisites for advanced economics electives are the completion of core courses. Therefore, BS economics majors are strongly encouraged to take ECON 100A-B-C and ECON 120A-B-C in their sophomore year. Please check course descriptions for exact prerequisites.
+A detailed description of the BS economics major, as well as two- and four-year plans, are available in the undergraduate program section of the department website:
+https://economics.ucsd.edu/undergraduate-program/index.html
+.
+
+THE ECONOMICS MAJOR (BA)
+
+The economics BA program is designed to provide a broad understanding of resource-allocation and income-determination mechanisms. The focus is on the study of human behavior explained by economic incentives, the emphasis on strategic interactions, and the implications for policy choices at the local, national, and international levels.
+
+When choosing which mathematics series to take, MATH 10A-B-C or MATH 20A-B-C, it is important to remember that only MATH 20A-B-C allows students access to MATH 20F and several upper-division mathematics courses that are recommended as preparation for PhD study in economics and business administration, as well as for graduate studies for professional management degrees, including the MBA. Therefore, while we require economics majors to take MATH 10A-B-C, we recommend that economics students take MATH 20A-B-C.
+
+A student majoring in economics must meet the following requirements:
+
+• Lower-division mathematics courses. MATH 10A-B-C (required) or MATH 20A-B-C (recommended).
+• Lower-division economics courses. ECON 1 and ECON 3.
+• Upper-division economics core courses. ECON 100A-B (microeconomics), ECON 110A-B (macroeconomics), and ECON 120A-B-C (econometrics).
+• Upper-division economics electives. Five more economics courses at the upper-division level. The economics electives are any four-unit economics course numbers 100–199. Note: Required core courses cannot be used to satisfy this category. ECON 100C can be used as an elective.
+A detailed description of the BA economics major, as well as two- and four-year plans, are available in the Undergraduate Program section of the department website:
+https://economics.ucsd.edu/undergraduate-program/index.html
+.
+
+THE BUSINESS ECONOMICS MAJOR (BS)
+
+The business economics major is a collaborative, interdisciplinary degree program between the Rady School of Management and the Department of Economics. This major will train students to operate within firms and to understand how firms operate within markets. Training in core economics disciplines (microeconomics, macroeconomics, econometrics) will teach students how firms interact with markets, how economies function, and how to extract insights from data. Training in core business disciplines (accounting, finance, management, marketing, operations, strategy) will teach students how to perform various functions inside businesses. Electives will deepen students’ skillsets after core training is complete.
+
+When choosing which mathematics series to take, MATH 10A-B-C or MATH 20A-B-C, it is important to remember that only MATH 20A-B-C allows students access to several upper-division mathematics courses that are recommended as preparation for PhD study in economics and business administration, as well as for graduate studies for professional management degrees, including the MBA. Therefore, while we require business economics majors to take MATH 10A-B-C, we recommend that business economics students take MATH 20A-B-C.
+
+A student majoring in business economics must meet the following requirements:
+
+Lower division (nine classes, thirty-six units):
+
+• Lower-division mathematics courses: MATH 10A-B-C or MATH 20A-B-C (recommended)
+• Lower-division economics courses: ECON 1 (principles of microeconomics), ECON 3 (principles of macroeconomics), and ECON 5/POLI 5 (data analytics for the social sciences)
+• Lower-division Rady School of Management courses: MGT 45 (principles of accounting or both ECON/MGT 4 and MGT 5), MGT 16 (personal ethics at work), MGT 71 (operations management)
+Upper-Division Core (ten classes, forty units):
+
+• Upper-division economics core courses: ECON 100A (intermediate microeconomics, part A), ECON 100B (intermediate microeconomics, part B), ECON 110B (short-run macroeconomics), ECON 120A (econometrics, part A), ECON 120B (econometrics, part B)
+• Upper-division Rady School of Management core courses: MGT 100 (customer analytics), MGT 160 (experiments in firms), MGT 162/162R (negotiations), MGT 164 (business and organizational leadership), MGT 180 (business finance)
+Upper-Division Electives (three classes, twelve units):
+
+• Upper-division economics and Rady School of Management electives: three upper-division courses, at least one of which must be from economics and at least one of which must be from the Rady School of Management.
+
+THE MANAGEMENT SCIENCE MAJOR (BS)
+
+Management science is no longer a major or minor students can choose. Current students with a management science major or minor will be able to complete their degree; however,
+they will not be able to switch back into it if they decide to switch out.
+
+Management science builds on a set of related quantitative methods commonly used to solve problems arising in the private (business and finance) and public (government) sectors. While students will gain some familiarity with the traditional functional fields of business management, this program is more tightly focused and more quantitative than a traditional business administration major. It is not, however, a program in applied mathematics or operational research, since the economic interpretation and application of the tools are continually stressed. Rather, it is a quantitative major in applied economics with a management focus.
+
+A student majoring in management science must meet the following requirements:
+
+• Lower-division mathematics courses. MATH 20A-B-C and MATH 18.
+• Lower-division economics courses. ECON 1, ECON 3, and ECON 4.
+• Upper-division economics core courses. ECON 100A-B-C (microeconomics), ECON 120A-B-C (econometrics), ECON 171 (decisions under uncertainty), ECON 172A-B (operations research), and ECON 173A-B (finance).
+• Upper-division economics electives. Four more economics courses at the upper-division level. At least two of these elective courses must be “advanced electives.” The management science advanced electives are ECON 103. International Monetary Relations ECON 105. Industrial Organization and Firm Strategy ECON 109. Game Theory ECON 113. Mathematical Economics ECON 121. Applied Econometrics ECON 122. Econometric Theory ECON 125. Demographic Analysis and Forecasting ECON 150. Public Economics: Taxation ECON 151. Public Economics: Expenditures I ECON 152. Public Economics: Expenditures II ECON 174. Financial Risk Management ECON 176. Marketing ECON 178. Economic and Business Forecasting MATH 194. The Mathematics of Finance (refer to course description for enforced prerequisite list)
+ECON 103. International Monetary Relations
+
+ECON 105. Industrial Organization and Firm Strategy
+
+ECON 109. Game Theory
+
+ECON 113. Mathematical Economics
+
+ECON 121. Applied Econometrics
+
+ECON 122. Econometric Theory
+
+ECON 125. Demographic Analysis and Forecasting
+
+ECON 150. Public Economics: Taxation
+
+ECON 151. Public Economics: Expenditures I
+
+ECON 152. Public Economics: Expenditures II
+
+ECON 174. Financial Risk Management
+
+ECON 176. Marketing
+
+ECON 178. Economic and Business Forecasting
+
+MATH 194. The Mathematics of Finance (refer to course description for enforced prerequisite list)
+
+Note that many of these advanced management science electives recommend 100C as a prerequisite for the class. In the fall quarter of 2010, 100C became a prerequisite for the advanced electives that currently only recommend 100C as a prerequisite. Therefore, management science majors are strongly encouraged to take ECON 100A-B-C and ECON 120A-B-C in their sophomore year.
+
+A detailed description of the management science major, as well as two- and four-year plans, are available in the Undergraduate Program section of the department website:
+https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/mgmt-sci.html
+.
+
+JOINT MAJOR IN MATHEMATICS AND ECONOMICS (BSC)
+
+This major is considered to be excellent preparation for the PhD study in economics and business administration, as well as for graduate studies for professional management degrees, including the MBA.
+
+Majors in economics generally recognize the importance of mathematics to their discipline. Undergraduate students who plan to pursue doctoral study in economics or business need the more advanced mathematics training prescribed in this major. Majors in mathematics often feel the need for a more formal introduction to issues involving business applications of science and mathematics. Extending their studies into economics provides this application and can provide a bridge to successful careers or advanced study. This major provides a formal framework making it easier to combine study in economics and mathematics.
+
+Course requirements of the joint major in mathematics and economics consist principally of the required courses of the mathematics major and the economics/management science majors:
+
+LOWER-DIVISION REQUIREMENTS
+
+• One of the following sequences: Calculus and Linear Algebra. MATH 20A-B-C-D and MATH 18 Honors Calculus. MATH 31AH-BH, MATH 20D
+• Calculus and Linear Algebra. MATH 20A-B-C-D and MATH 18
+• Honors Calculus. MATH 31AH-BH, MATH 20D
+• Introductory economics. ECON 1 and ECON 3
+
+UPPER-DIVISION REQUIREMENTS
+
+Fifteen upper-division courses in mathematics and economics, with a minimum of seven courses from one department and eight from the other department, chosen from the courses listed below (prerequisites are strictly enforced):
+
+• Mathematical Reasoning. MATH 109 ( Note: Students completing MATH 31CH may substitute a four-unit upper-division MATH elective for MATH 109.)
+• One of the following: Applied Linear Algebra. MATH 102 Numerical Linear Algebra. MATH 170A Abstract Algebra. MATH 100A-B
+• Applied Linear Algebra. MATH 102
+• Numerical Linear Algebra. MATH 170A
+• Abstract Algebra. MATH 100A-B
+• One of the following: Foundations of Real Analysis. MATH 140A Introduction to Analysis. MATH 142A
+• Foundations of Real Analysis. MATH 140A
+• Introduction to Analysis. MATH 142A
+• One of the following: Ordinary Differential Equations. MATH 130 Foundations of Real Analysis. MATH 140B Introduction to Analysis. MATH 142B
+• Ordinary Differential Equations. MATH 130
+• Foundations of Real Analysis. MATH 140B
+• Introduction to Analysis. MATH 142B
+• Microeconomics. ECON 100A-B-C
+• Econometrics/Statistics. One of the following: ECON 120A-B-C MATH 180A and ECON 120B-C MATH 180A and 181A-B and ECON 120C
+• ECON 120A-B-C
+• MATH 180A and ECON 120B-C
+• MATH 180A and 181A-B and ECON 120C
+• One of the following: Macroeconomics. ECON 110A-B Mathematical Programming: Numerical Optimization. MATH 171A-B Introduction to Operations Research. ECON 172A-B Decisions Under Uncertainty. ECON 171 and Introduction to Operations Research. ECON 172A
+• Macroeconomics. ECON 110A-B
+• Mathematical Programming: Numerical Optimization. MATH 171A-B
+• Introduction to Operations Research. ECON 172A-B
+• Decisions Under Uncertainty. ECON 171 and Introduction to Operations Research. ECON 172A
+When choosing across the MATH 140 or the MATH 142 series, it is recommended that students take MATH 142. Other courses that are strongly recommended are MATH 190, and 193A-B and ECON 109, 113, 173A-B, 174, and 178.
+
+Further information may be obtained in the mathematics and economics undergraduate advising offices.
+
+HONORS
+
+BS ECONOMICS MAJORS
+
+To graduate with the phrase “with distinction” on your diploma, you must complete a total of seven electives, four of which are advanced. You must also have an upper-division GPA in your major greater than or equal to 3.5. The upper-division major GPA will only include grades for courses taken at universities in the UC system and through EAP.
+
+To graduate with the phrase “with highest distinction” on your diploma, you must complete two additional advanced electives (for a total of seven electives, four of which are advanced), take the honors sections of at least two upper-division courses (ECON 100AH-BH-CH, ECON 110AH-BH, and ECON 120AH-BH-CH), and take the Senior Essay Seminar (ECON 191A-B). You must also have an upper-division GPA in your major greater than or equal to 3.5. The major GPA in your honors sections and ECON 191A-B must be 3.5 or above. Admission to honors sections and ECON 191A-B is by special permission; check with the undergraduate advisers in the Economics Student Services Office.
+
+BA ECONOMICS MAJORS
+
+To graduate with the phrase “with distinction” on your diploma, you must complete two additional advanced electives (for a total of seven electives, two of which are advanced). You must also have an upper-division GPA in your major greater than or equal to 3.5. The upper-division major GPA will only include grades for courses taken at universities in the UC system and through EAP.
+
+To graduate with the phrase “with highest distinction” on your diploma, you must complete two additional advanced electives (for a total of seven electives, two of which are advanced), take the honors sections of at least two upper-division courses (ECON 100AH-BH-CH, ECON 110AH-BH, and ECON 120AH-BH-CH), and take the senior essay seminar (ECON 191A-B). You must also have an upper-division GPA in your major greater than or equal to 3.5. The major GPA in your honors sections and ECON 191A-B must be 3.5 or above. Admission to honors sections and ECON 191A-B is by special permission; check with the undergraduate advisers in the economics Student Services Office.
+
+BUSINESS ECONOMICS MAJORS
+
+To graduate with honors requires the following:
+
+• At least two economics honors courses: ECON 100AH, 100BH, 100CH, 110AH, 110BH, 120AH, 120BH, 120CH. (Note: enrollment in these honors classes is by special permission; check with the undergraduate advisers in the Economics Student Services Office, SH 245.)
+• An honors thesis. The student must enroll in ECON 191A-B. Enrollment in this sequence is by approved proposal. Check with the undergraduate advisers in the Economics Student Services Office, SH 245. The research and writing of the thesis will be conducted over two quarters of the senior year under the supervision of a faculty adviser. The completed thesis must be approved by the business economics honors committee and presented orally to this committee.
+• A minimum GPA of 3.0 overall, 3.5 in the upper-division courses required for the major, and a 3.5 in the following four classes: the two economics honors classes and ECON 191A-B
+The business economics honors committee will determine the level of honors to be awarded, based on the student’s GPA in the major and the quality of the honors work.
+
+MANAGEMENT SCIENCE MAJORS
+
+Management science is no longer a major or minor students can choose. Current students with a management science major or minor will be able to complete their degree; however,
+they will not be able to switch back into it if they decide to switch out.
+
+To graduate with the phrase “with distinction” on your diploma, you must have an upper-division GPA in your major greater than or equal to 3.5. The upper-division major GPA will only include grades for courses taken at universities in the UC system and through EAP.
+
+To graduate with the phrase “with highest distinction” on your diploma, you must complete the honors sections of at least two upper-division courses (ECON 100AH-BH-CH or ECON 120AH-BH-CH) and take the Senior Essay Seminar (ECON 191A-B). You must also have an upper-division GPA in your major greater than or equal to 3.5. The major GPA in your honors sections and ECON 191A-B must be 3.5 or above. Admission to honors sections and ECON 191A-B is by special permission; check with the undergraduate advisers in the Economics Student Services Office.
+
+JOINT MATHEMATICS/ECONOMICS MAJORS
+
+To graduate with honors requires the following:
+
+• At least one quarter of the Student Colloquium, MATH 196. ( Note: MATH 196 is only offered in the fall quarter.)
+• At least one Economics honors course: ECON 100AH, 100BH, 100CH, 110AH, 110BH, 120AH, 120BH, 120CH. ( Note : enrollment in these honors classes is by special permission; check with the undergraduate advisers in the Economics Student Services Office, SH 245.)
+• An honors thesis. The research and writing of the thesis will be conducted over two quarters of the senior year under the supervision of a faculty adviser. The completed thesis must be approved by the Joint Mathematics and Economics Honors Committee and presented orally to this committee. If the student is a declared major in the mathematics department (MA33), this thesis will be credited as eight units of MATH 199H. Enrollment in MATH 199H is by special permission; check with the undergraduate advisers in the mathematics department, located in Applied Physics and Mathematics Building Room 7409. If the student is a declared major in the economics department (EN28), the student must enroll in ECON 191A-B. Enrollment in this sequence is by approved proposal. Check with the undergraduate advisers in the Economics Student Services Office, SH 245.
+• If the student is a declared major in the mathematics department (MA33), this thesis will be credited as eight units of MATH 199H. Enrollment in MATH 199H is by special permission; check with the undergraduate advisers in the mathematics department, located in Applied Physics and Mathematics Building Room 7409.
+• If the student is a declared major in the economics department (EN28), the student must enroll in ECON 191A-B. Enrollment in this sequence is by approved proposal. Check with the undergraduate advisers in the Economics Student Services Office, SH 245.
+• A minimum GPA of 3.0 overall, 3.5 in the upper-division courses required for the major and a 3.5 in the following four classes: MATH 196, Economics Honors class, and either ECON 191A-B or two quarters of MATH 199H.
+The Joint Mathematics and Economics Honors Committee will determine the level of honors to be awarded, based on the student’s GPA in the major and the quality of the honors work.
+
+GRADE RULES FOR MAJORS
+
+To graduate with a major, a minimum GPA of 2.0 is required in upper-division courses used to satisfy major requirements. All courses must be taken for a letter grade and passed with a grade of C­– (C minus), or better, with the exception of ECON 195, ECON 198, and ECON 199, for which P/NP grading is mandatory. No more than twelve units of ECON 195, ECON 198, and ECON 199 taken P/NP may be counted toward major requirements. ECON 195 may only be taken twice for credit (eight units).
+
+ECONOMICS DEPARTMENT RESIDENCY REQUIREMENT
+
+To receive a bachelor of arts degree in economics, no more than four upper-division courses taken externally from UC San Diego can be counted toward the major.
+
+To receive a bachelor of science degree in business economics, no more than one upper-division economics course and one upper-division Rady School of Management course may be taken externally from UC San Diego and be counted toward the major.
+
+To receive a bachelor of science degree in management science, no more than six upper-division courses taken externally from UC San Diego can be counted toward the major.
+Management science is no longer a major or minor students can choose. Current students with a management science major or minor will be able to complete their degree; however,
+they will not be able to switch back into it if they decide to switch out.
+
+To receive a bachelor of science degree in joint mathematics/economics, no more than three upper-division courses taken externally from UC San Diego can be counted toward the major.
+
+ADVANCED PLACEMENT/AP, INTERNATIONAL BACCALAUREATE/IB, AND A-LEVEL EXAM CREDITS
+
+Receiving a score of 5 on the AP Microeconomics Exam will give you credit for ECON 1.
+
+Receiving a score of 5 on the AP Macroeconomics Exam will give you credit for ECON 3.
+
+Receiving a score of 7 on the IB exam will give you credit for both ECON 1 and ECON 3.
+
+Receiving the grade of A*(a*) on the A-Level Exam will give you credit for both ECON 1 and ECON 3.
+
+MINORS (ECONOMICS, BUSINESS ECONOMICS, AND MANAGEMENT SCIENCE)
+
+Management science is no longer a major or minor students can choose. Current students with a management science major or minor will be able to complete their degree; however,
+they will not be able to switch back into it if they decide to switch out.
+
+Grades of P/NP are acceptable for minor courses. If courses are taken for a letter grade, passing is considered with a C– (C minus) or better. To declare a minor, you must use the major/minor tool on
+TritonLink
+.
+
+The economics minor consists of eight courses:
+
+Lower-Division Requirements:
+
+• ECON 1. Principles of Microeconomics
+• ECON 2. Microeconomic Applications or ECON 100A
+• ECON 3. Principles of Macroeconomics or ECON 110A
+Upper-Division Requirements:
+
+• Five upper-division economics courses (five courses, twenty units), which are otherwise not restricted (Econ 100–199).
+To enroll in courses planned for the minor, all prerequisites must be met.
+
+The business economics minor consists of nine courses:
+
+Three Required Lower-Division Courses:
+
+• ECON 1. Principles of Microeconomics
+• ECON 3. Principles of Macroeconomics
+• MGT 45. Principles of Accounting (or both ECON 4/ MGT 4 and MGT 5)
+Three Rady School of Management classes from the following list (at least two must be upper division):
+
+• MGT 16. Personal Ethics at Work*
+• MGT 71. Operations Management*
+• MGT 100. Customer Analytics
+• MGT 160. Experiments in Firms
+• MGT 162/162R. Negotiations
+• MGT 164. Business and Organizational Leadership
+• MGT 180. Business Finance
+*Students may select only one lower-division option.
+
+Two upper-division economics courses (eight units), which are otherwise not restricted (ECON 100–199).
+
+One upper-division course from either Rady School of Management or economics (four units), which are otherwise not restricted (MGT 100–199 or Econ 100–199).
+
+The management science minor, paralleling the economics minor, consists of nine courses: introductory microeconomics (ECON 1); microeconomic applications (ECON 2) or ECON 100A; introductory macroeconomics (ECON 3) or ECON 110A; financial accounting (ECON 4), and any additional five classes from the following list:
+
+ECON 100A. Microeconomics A
+
+ECON 100B. Microeconomics B
+
+ECON 100C. Microeconomics C
+
+ECON 120A. Econometrics A
+
+ECON 120B. Econometrics B
+
+ECON 120C. Econometrics C
+
+ECON 171. Decisions Under Uncertainty
+
+ECON 172A. Operations Research A
+
+ECON 172B. Operations Research B
+
+ECON 173A. Financial Markets
+
+ECON 173B. Corporate Finance
+
+ECON 174. Financial Risk Management
+
+ECON 176. Marketing
+
+ECON 178. Economic and Business Forecasting
+
+THE BACHELOR OF ARTS IN ECONOMICS—PUBLIC POLICY AND MASTER OF PUBLIC POLICY (BA/MPP)
+
+REQUIREMENTS FOR ADMISSION
+
+The BA/MPP is a five-year program offered jointly by the Department of Economics and the School of Global Policy and Strategy (GPS). Students interested in pursuing the BA/MPP must be currently enrolled in the Department of Economics at UC San Diego, and a declared economics BA major. Students who meet the admissions requirements listed below may apply to the combined degree track of Economics—Public Policy, BA and a Master of Public Policy in the spring quarter of their junior year.
+
+• Completion of fall and winter quarters of the junior year with a minimum cumulative GPA of 3.00 and a minimum 3.4 GPA in Department of Economics upper-division course work.
+• Satisfactory completion of the Department of Economics upper-division sequences: ECON 100A-B-C, ECON 110 A-B, and ECON 120A-B-C.
+• Completion of all parts of the application as indicated on the GPS admissions website and apply.grad.ucsd.edu .
+• Students will also be required to complete a noncredit, professional internship in the field of public policy during the summer, prior to matriculation to graduate standing in the MPP program.
+• Some admitted students may be required to attend summer preparation courses in writing prior to the beginning of their first year in the program.
+Applicants will be admitted to the combined degree program on the basis of demonstrated academic excellence in upper-division course work in the Department of Economics, leadership, community involvement, and demonstrated interest in public policy.
+
+THE BA/MPP CURRICULUM
+
+Students interested in the BA/MPP must initially enroll as economics majors and complete the lower-division and upper-division sequences required for the BA in Economics. Once admitted to the BA/MPP program by GPS, however, instead of five upper-division Department of Economics electives as required for the standard major, Economics—Public Policy students will have a requirement of four. Two of these electives must be in the Department of Economics. GPCO 404, Market Failures, and GPCO 406, Public Finance and Taxation, taken at GPS in the senior year, will count for the other two electives.
+
+Following are the requirements for the BA/MPP five-year program:
+
+Lower-division requirements:
+
+• MATH 10 A-B-C. Calculus or MATH 20 A-B-C. Calculus for Science and Engineering
+• ECON 1. Principles of Microeconomics
+• ECON 3. Principles of Macroeconomics
+Upper-division requirements through the junior year:
+
+• ECON 100 A-B-C. Microeconomics
+• ECON 110 A-B. Macroeconomics
+• ECON 120 A-B-C. Econometrics
+• Economics elective from prescribed list
+GPS requirements for the senior year
+
+• GPCO 400. Policy Making Process
+• GPCO 404. Market Failures
+• GPCO 456. Program Design and Evaluation
+• GPCO 406. Public Finance and Taxation
+• GPCO 407. Policy Analysis Decision Theory
+Fifth year/MPP graduate year
+—twelve courses (forty-eight units)
+
+Required courses:
+
+• Four courses in a single policy area (sixteen units)
+• One quarter research capstone (four units)
+• Prerequisites that may be required for second-year courses
+• Electives
+A sample five-year plan is below:
+
+First-year
+
+MATH 10/20A
+ECON 1
+Writing
+
+MATH 10/20B
+ECON 3
+Writing
+
+MATH 10/20C
+Writing
+GE
+
+Sophomore
+
+ECON 100A
+ECON 120A
+GE/DEI
+GE/Writing
+
+ECON 100B
+ECON 120B
+GE
+
+ECON 100C
+ECON 120C
+GE
+
+Junior
+
+ECON 110A
+UD ECON ELECTIVE
+GE
+
+ECON 110B
+Elective
+GE
+
+UD ECON ELECTIVE
+Elective
+GE
+
+Senior
+
+GPCO 456
+Elective
+
+GPCO 400
+GPCO 404
+GE
+
+GPCO 406
+GPCO 407
+GPEC 446 recommended
+Elective
+
+Graduate Year
+
+GPEC 443 recommended
+Area of Specialization
+
+MPP Capstone
+GPEC 444 recommended
+Area of Specialization
+
+Area of Specialization
+Elective
+
+All BA/MPP students must complete an internship between their senior and graduate years. Students will be assisted in the identification of and application to an appropriate internship by GPS Career Services. Funding for travel and/or accommodations may be available.
+
+Students who are admitted to the five-year program and either opt out in their senior year or fail to matriculate to graduate standing because of poor performance will be allowed to return to the standard BA in Economics (EN25). They will be required to complete a fifth elective.
+
+Please see
+http://economics.ucsd.edu/undergraduate-program/index.html
+for all rules, restrictions, and requirements for the economics major through the junior year.

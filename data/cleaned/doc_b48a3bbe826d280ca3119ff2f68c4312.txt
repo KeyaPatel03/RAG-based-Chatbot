@@ -1,0 +1,755 @@
+• HOME
+• curric
+• Electrical and Computer Engineering
+
+ELECTRICAL AND COMPUTER ENGINEERING (ECE)
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+Earl Warren College
+Jacobs Hall
+Undergraduate Affairs, Suite 2700
+Graduate Affairs, Suite 2700
+http://ece.ucsd.edu/
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+PROGRAM MISSION STATEMENT
+
+To educate tomorrow’s technology leaders.
+
+PROGRAM EDUCATIONAL OBJECTIVES
+
+• Graduates are able to pursue graduate study in engineering or other professional fields.
+• Graduates are able to excel in technical careers and apply their knowledge in the professional arena.
+• Graduates are able to be leaders in their field, making technical contributions as well as having more general impact on society at large.
+
+STUDENT OUTCOMES
+
+Student outcomes have been established based on the Program Educational Objectives. Graduates of the ECE program in electrical engineering are expected to have the following:
+
+• An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+• An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+• An ability to communicate effectively with a range of audiences
+• An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+• An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+• An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+• An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+
+THE UNDERGRADUATE PROGRAMS
+
+The Department of Electrical and Computer Engineering offers undergraduate programs leading to the BS in
+electrical engineering, engineering physics,
+and computer engineering, and the BA in
+electrical engineering and society.
+Each of these programs can be tailored to provide preparation for graduate study or employment in a wide range of fields. Only the Electrical Engineering (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Electrical, Computer, Communications, Telecommunication(s), and Similarly Named Engineering Programs.
+
+Students in the Electrical Engineering Program must take lower-division courses in electrical engineering, mathematics, chemistry, and physics (sixty-eight units) and follow a very flexible structure in the upper-division depth requirements (sixty-eight units, for a total of 136 units of lower-division and upper-division course work in any given depth). After the lower-division courses, all students must take upper-division courses that include a combination of breadth courses, depth courses, technical electives, two professional electives, and one design course.
+
+The Engineering Physics Program is conducted in cooperation with the Department of Physics. Its structure is very similar to that of electrical engineering except the depth requirement includes seven courses and there are only five electives.
+
+The Computer Engineering Program is conducted jointly with the Department of Computer Science and Engineering. It has a more prescribed structure. The program encompasses the study of hardware design, data storage, computer architecture, assembly languages, and the design of computers for engineering, information retrieval, and scientific research.
+
+The BA—Electrical Engineering and Society Program intends to better prepare engineering students in the areas of social sciences and the humanities, as a response to the globalization of engineering and technology. We recognize that “engineering only” training may not be sufficient when students seek alternate career paths besides engineering upon graduation, such as in the law, finance, and public policy sectors.
+
+For information about the program and about academic advising, students are referred to the section on ECE departmental regulations. In order to complete the programs in a timely fashion, students must plan their courses carefully, starting in their first year. Students should have sufficient background in high school mathematics so that they can take first-year calculus in the first quarter.
+
+For graduation, each student must also satisfy general-education requirements determined by the student’s college. The eight colleges at UC San Diego require widely different numbers of general-education courses. Students should choose their college carefully, considering the special nature of the college and the breadth of education required. They should realize that some colleges require considerably more courses than others. Students wishing to transfer to another college should see their college adviser.
+
+Graduates of community colleges may enter ECE programs in the junior year. However, transfer students should be particularly mindful of the first-year and sophomore course requirements when planning their programs.
+
+These programs have strong components in laboratory experiments and in the use of computers throughout the curricula. In addition, the department is committed to exposing students to the nature of engineering design. This is accomplished throughout the curricula by use of design-oriented homework problems, by exposure to engineering problems in lectures, by courses that emphasize student-initiated projects in both laboratory and computer courses, and finally by senior design-project courses in which teams of students work to solve an engineering design problem, often brought in from industry.
+
+IT IS IMPERATIVE THAT STUDENTS DISCUSS THEIR CURRICULUM WITH THE APPROPRIATE DEPARTMENTAL ADVISER IMMEDIATELY UPON ENTRANCE TO UC SAN DIEGO, AND THEN AT LEAST ONCE A YEAR UNTIL GRADUATION.
+
+BS ELECTRICAL ENGINEERING PROGRAM
+
+Students must complete 180 units for graduation, including the general-education requirements (GER). Note that 136 units (excluding GER) are required for the major.
+
+LOWER-DIVISION REQUIREMENTS
+(TOTAL OF SIXTY-EIGHT UNITS)
+
+ECE 5, 25, 30, 35, 45, and 65
+
+ECE 15
+
+ECE 15 and 17 or 18
+
+MATH 18 and 20A-B-C-D-E.
+
+PHYS 2A-B-C or PHYS 4A-B-C. (
+Note:
+MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the mathematics placement test permits them to start with MATH 20B or higher may take PHYS 2A in the fall quarter of the first year.)
+
+PHYS 2A-B-C-D or PHYS 4A-B-C-D-E (
+Note:
+MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the mathematics placement test permits them to start with MATH 20B or higher may take PHYS 2A in the fall quarter of the first year.)
+
+• Students with AP Math credit are strongly advised to take MATH 20B in the fall quarter, leaving room for a GER in the winter quarter.
+• The ECE undergraduate website shows sample course plans. Please refer to the website and consult with the staff advisers in the undergraduate offices, room 2700 in Jacobs Hall.
+
+UPPER-DIVISION REQUIREMENTS
+
+Students must select an engineering depth to provide a focus for their studies. Students may choose one of the approved depth sequences listed below or propose another with the approval of the department. A list of approved technical electives and professional electives can be found in the ECE undergraduate office.
+Note:
+In order to fulfill the design requirement, students must complete ECE 111, 115, 140B, 190, or 191 with a grade of C– or better. Graduation will not be approved until a written copy of the design project is submitted to the ECE undergraduate office.
+
+• Breadth Courses: ECE 100, 101, 102, 107, 109
+• Depth Courses: ECE 153, 155, 157A, 158A, 159, 161A
+• Technical Electives: one upper-division engineering, math, or physics course AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+• Breadth Courses: ECE 100, 101, 109, 116
+• Depth Courses: any five of ECE 102, 103, 111*, 140A-B, 141A-B, 143, 158A-B, or 165
+• Technical Electives: three upper-division engineering, math, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111*, 115, 140B, 190, or 191 *ECE 111 MUST be taken as either a depth, technical elective, or design course
+
+• Breadth Courses: ECE 100, 101, 102, 103, 107, 109
+• Depth Courses: ECE 164, 165, 166
+• Technical Electives: three upper-division engineering, math, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+• Breadth Courses: ECE 100, 101, 102, 103, 107, 109
+• Depth Courses: ECE 135A-B, 136L, 183
+• Technical Electives: two upper-division engineering, math, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+• Breadth Courses: ECE 100, 101, 107, 109
+• Depth Courses: ECE 171A, 174, 175A and one of ECE 171B, 172A, or 175B
+• Technical Electives: four upper-division engineering, math, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+• Breadth Courses: ECE 100, 101, 103, 107, 109
+• Depth Courses: ECE 181, 182, 183 and either ECE 184 or 185
+• Technical Electives: three upper-division engineering, math, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+• Breadth Courses: ECE 100, 101, 102, 103, 107, 109
+• Depth Courses: ECE 121A-B, 125A, 128A, and either 125B or 128B
+• Technical Electives: one upper-division engineering, math, or physics course AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+• Breadth Courses: ECE 100, 101, 107, 109
+• Depth Courses: ECE 153, 161A-B-C
+• Technical Electives: four upper-division engineering, math, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses
+• Professional Electives: two upper-division courses
+• Design Course: one of ECE 111, 115, 140B, 190, or 191
+
+BS ENGINEERING PHYSICS
+
+Students must complete a total of 180 units for graduation, including the general-education requirements. Note that 146 units (excluding GER) are required.
+
+LOWER-DIVISION REQUIREMENTS
+(TOTAL OF SIXTY-SIX UNITS)
+
+MATH 18 and 20A-B-C-D-E
+
+PHYS 2A-B-C-D or PHYS 4A-B-C-D-E. MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the mathematics placement test permits them to start with MATH 20B or higher may take PHYS 2A in the fall quarter of the first year.
+
+*Those taking the Physics 4 series will take five courses (twenty units).
+
+PHYS 2DL
+
+ECE 15
+
+ECE 25, 30, 35, 45, and 65
+
+• Students with AP math credit are strongly advised to take MATH 20B in the fall quarter, leaving room for a GER in the winter quarter.
+• The ECE undergraduate website shows sample course plans. Please refer to the website and consult with the staff advisers in the undergraduate offices, room 2700 in Jacobs Hall.
+
+UPPER-DIVISION REQUIREMENTS
+(SEVENTY-SIX UNITS)
+
+The electrical engineering breadth courses ECE 100, 101, 102, 103, 107, and 109, are also required of engineering physics majors. However, because of the scheduling of MATH 110A, PHYS 110A and 130A, they can only be taken in a specific order (please consult the ECE website). For the ECE 109 requirement, credit will not be allowed for ECON 120A, MAE 108, MATH 180A-B, MATH 183, or MATH 186.
+
+Note:
+In order to fulfill the design requirement, students must complete one of the following courses with a grade C– or better. Graduation will not be approved until a written copy of the design project is submitted to the ECE undergraduate office.
+
+The engineering physics design requirement can be fulfilled in any of the following three ways:
+
+• Take ECE 191. Engineering Group Design Project Take ECE 190. Engineering Design. This course requires the department stamp. Specifications and enrollment forms are available in the undergraduate office. Take one of the following courses: ECE 111. Advanced Digital Design Project ECE 118. Computer Interfacing ECE 155B or 155C. Digital Recording Projects
+• Take ECE 191. Engineering Group Design Project
+• Take ECE 190. Engineering Design. This course requires the department stamp. Specifications and enrollment forms are available in the undergraduate office.
+• Take one of the following courses: ECE 111. Advanced Digital Design Project ECE 118. Computer Interfacing ECE 155B or 155C. Digital Recording Projects
+• ECE 111. Advanced Digital Design Project
+• ECE 118. Computer Interfacing
+• ECE 155B or 155C. Digital Recording Projects
+Students who wish to take one of these courses to satisfy the design requirement must fill out an enrollment form and have departmental approval for the design credit prior to taking the course. The project must meet the same specifications as ECE 190.
+
+• Two upper-division engineering, mathematics, or physics courses
+• Three additional electives which students may use to broaden their professional goals
+(For additional information, please refer to the section on “
+Elective Policy for Engineering Physics Majors
+.”)
+
+All BS engineering physics students are required to take PHYS 110A, 130A-B, 140A, MATH 110A, ECE 123 and 166; or ECE 135A and 135B; or ECE 182 and (181 or 183).
+
+ELECTIVE POLICY
+ENGINEERING PHYSICS MAJORS
+
+Technical electives must be upper-division engineering, math or physics courses (except for the bioengineering track). At most one lower-division course in engineering may be used but it must receive prior approval from the ECE department. Certain courses listed below are not allowed as electives because of overlap with ECE courses.
+
+Physics
+
+All upper-division physics courses. Students may not receive upper-division elective credit for any lower-division physics courses.
+
+Mathematics
+
+MATH 180A overlaps ECE 109 and therefore will not qualify for elective credit of either type. MATH 183 or MATH 186 will not be allowed as an elective. MATH 163 will only be allowed as a professional elective. All lower-division mathematics is excluded from elective credit of either type.
+
+Bioengineering
+
+The following series of courses will provide “core” preparation in bioengineering and will satisfy up to five courses of the ECE elective requirements:
+
+BILD 1, BILD 2, BE 100, BE 140A-B
+
+The bioengineering department will guarantee admission to these courses for ECE students on a space available basis.
+
+CSE
+
+The following courses are excluded as electives: CSE 3, 4GS, 6GS, 5A, 7, 8A-B, 11, 123A (duplicates ECE 158A), 140 (duplicates ECE 25), 140L (duplicates ECE 35). CSE 12, 20, and 21 will count toward the three professional electives ONLY.
+
+ECE
+
+Upper-division ECE courses that are not used to satisfy any other requirements.
+
+Mechanical and Aerospace Engineering (MAE)
+
+Credit will not be allowed for MAE 2, 3, 5, 8, 9, 20, 105, 108, 139, 140, 143B, or 170.
+
+Special Studies
+
+Courses 195–199: At most four units of 195–199 may be used for elective credit.
+
+Professional electives are acceptable courses taken in one department. Normally these will be upper-division courses in engineering, mathematics, or physics. Students may also choose upper-division courses from other departments provided that they fit into a coherent professional program. In such cases, a lower-division prerequisite may be included in the electives. Courses other than upper-division engineering, mathematics, or physics must be justified in terms of such a program and must be approved by the ECE department.
+
+Biology and Chemistry
+
+Of the three electives intended to allow for the professional diversity, one lower-division biology or chemistry course from BILD 1, 2, CHEM 6B-C may be counted for credit in combination with two upper-division biology or chemistry courses. Furthermore, this will count only if the student can demonstrate to a faculty adviser that they constitute part of a coherent plan for professional/career development.
+
+Upper-division biology and chemistry courses will count toward the three professional electives but not the three math/physics/engineering technical electives.
+
+Economics
+
+Suitable electives would include
+
+ECON 1 and 3 followed by the courses in one of the following tracks:
+
+• Macroeconomics: ECON 110A-B
+• Monetary economics: ECON 111, and another economics upper-division elective
+ECON 1 and 2 followed by two courses in one of the following tracks:
+
+• Public and Environmental: ECON 118, 130, 131, 132, 133, 137, 145
+• Labor and Human Resources: ECON 137, 139, 140
+Note:
+ECON 100A can be substituted for ECON 2.
+
+ECON 1 and 100A followed by two courses in one of the following tracks:
+
+• Microeconomics. ECON 100B-C
+• Financial Markets. ECON 120B and 173A
+• Operations Research. ECON 172A-B (after taking ECE 109 and MATH 20F)
+• Human Resources: ECON 100B and 136
+Note:
+ECON 120A, and 158-159 will not be allowed as professional electives. If economics is chosen for professional electives, only one technical elective is required for engineering physics majors.
+
+BS COMPUTER ENGINEERING
+
+Students wishing to pursue the computer engineering curriculum may do so in either the ECE or CSE department. The set of required courses and allowed electives is the same in both departments; please note that the curriculum requires eighteen upper-division courses. The Computer Engineering Program requires a total of 132 units (not including the general-education requirements).
+
+The Computer Engineering Program offers a strong emphasis on engineering mathematics and other basic engineering science as well as a firm grounding in computer science. Students should have sufficient background in high school mathematics so that they can take first-year calculus in their first quarter. Courses in high school physics and computer programming, although helpful, are not required for admission to the program.
+
+LOWER-DIVISION REQUIREMENTS
+(TOTAL OF SIXTY UNITS)
+
+MATH 18 and 20A-B-C-D
+
+PHYS 2A-B-C, or PHYS 4A-B-C. MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the Department of Mathematics placement test permits them to start with MATH 20B or a higher course may take PHYS 2A in the fall quarter of the first year; all others will take PHYS 2A in the winter quarter of the first year. Students who receive high grades in both calculus and physics in high school may substitute the major’s sequence, PHYS 4A-B-C for PHYS 2A-B-C.
+
+CSE 11 or 8B,* CSE 12, CSE 29 or ECE 15, CSE 30 or ECE 30.
+
+*Students without any programming experience are advised to take CSE 8A, and then CSE 8B, instead of CSE 11. CSE 11 is a faster-paced version of CSE 8A and CSE 8B and requires experience in programming with a compiled language.
+
+ECE 35, ECE 45
+
+MATH 11 or ECE 109. If ECE 109 is listed as a prerequisite to a particular course, MATH 11 cannot be used to replace ECE 109.
+
+UPPER-DIVISION REQUIREMENTS
+(TOTAL OF SIXTY-EIGHT UNITS)
+
+• All BS computer engineering students are required to take CSE 140, CSE 141, or CSE 142.
+• BS computer engineering students must fulfill the following upper-division ECE requirements: ECE 101, ECE 108, and ECE 111.
+• CSE or ECE Project Course: Students need to select and complete one course from this list: CSE 118, CSE 145, CSE 147, CSE 148, CSE 170, CSE 176A, CSE 176E, ECE 115, ECE 140B, ECE 144, ECE 191, ECE 196. (four units).
+• Electives : Ten courses (forty units) must be completed At least forty units of upper-division (or graduate) CSE and ECE courses need to be taken as electives, which includes CSE 100–299 and ECE 100–299. Maximum of four units of P/NP courses may count among the following: CSE 198, CSE 199, CSE 199H, ECE 191, ECE 193H, ECE 196, ECE 198, ECE 199. Beyond CSE/ECE electives, additional units of these courses can count toward the total degree units. Undergraduate students may use CSE or ECE graduate-level courses toward their major requirements but may need a petition if they have taken the equivalent/similar undergraduate course. Undergraduate students must get instructor's permission and departmental approval (EASy request) to enroll in a graduate course. Only eight units of CSE or ECE electives or technical elective courses from departments outside of CSE or ECE may be used to fulfill major requirements.
+• At least forty units of upper-division (or graduate) CSE and ECE courses need to be taken as electives, which includes CSE 100–299 and ECE 100–299.
+• Maximum of four units of P/NP courses may count among the following: CSE 198, CSE 199, CSE 199H, ECE 191, ECE 193H, ECE 196, ECE 198, ECE 199. Beyond CSE/ECE electives, additional units of these courses can count toward the total degree units.
+• Undergraduate students may use CSE or ECE graduate-level courses toward their major requirements but may need a petition if they have taken the equivalent/similar undergraduate course. Undergraduate students must get instructor's permission and departmental approval (EASy request) to enroll in a graduate course.
+• Only eight units of CSE or ECE electives or technical elective courses from departments outside of CSE or ECE may be used to fulfill major requirements.
+
+OPEN ELECTIVES (EIGHT UNITS)
+
+At most eight units of either lower- or upper-division CSE or ECE courses, which includes courses taken for a letter grade among courses CSE 3–199 and/or ECE 5–199.
+
+NOTES FOR SELECTING AND SCHEDULING CLASSES FOR BS COMPUTER ENGINEERING
+
+(All courses must be taken for a letter grade unless they are offered P/NP only.)
+
+• First Programming Course: CSE 11 is a faster-paced version of CSE 8A and CSE 8B. CSE 8B or CSE 11 must be taken before CSE 12.* Students may self-select which course they wish to take. Students without experience in programming in a compiled language are advised to take CSE 8A and then CSE 8B, instead of CSE 11.
+
+BA ELECTRICAL ENGINEERING AND SOCIETY
+
+Students must complete a total of 180 units for graduation, including the general-education requirements (GER). Note that 140 units (excluding GER) are required.
+
+LOWER-DIVISION REQUIREMENTS
+(TOTAL OF SEVENTY-TWO UNITS)
+
+MATH 18 and 20A-B-C-D-E
+
+PHYS 2A-B-C-D or PHYS 4A-B-C-D-E. MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the mathematics placement test permits them to start with MATH 20B or higher may take PHYS 2A in the fall quarter of the first year.
+
+*Those taking the PHYS 4 series will take five courses (twenty units).
+
+ECE 15
+
+ECE 25, 30, 35, 45, and 65
+
+These can be prerequisite courses for the upper-division depth sequence in social sciences/humanities. For instance, for history studies, this can be two history lower-division courses (HILD 2,7,10–12). Historically oriented HUM, MMW, and CAT courses would count as well. At least one lower-division course should have a writing component. For economics studies, this can be two lower-division courses (ECON 1, and ECON 4 for the finance track); or one lower-division course (ECON 1) plus one upper-division course for the data analysis track. For political science, the following courses may be utilized: POLI 10, POLI 11, POLI 12, POLI 13, POLI 30. For sociology studies, students will choose two lower-division courses from SOCI 1, 2, and 30, of which 30 is highly recommended.
+
+Other courses in social sciences/humanities will be available after an agreement between ECE and the respective departments/programs are established and approved.
+
+• Students with AP math credit are strongly advised to take MATH 20B in the fall quarter, leaving room for a GER in the winter quarter.
+• The ECE undergraduate website shows sample course plans. Please refer to the website and consult with the staff advisers in the undergraduate offices, room 2700 in Jacobs Hall.
+
+UPPER-DIVISION REQUIREMENTS
+(TOTAL OF SIXTY-EIGHT UNITS)
+
+Courses required of all electrical engineering majors:
+
+The six courses—ECE 100, 101, 102, 103, 107, and 109—are required of all electrical engineering majors and they are an assumed prerequisite for senior-level courses, even if they are not explicitly required. Although the courses are largely independent, ECE 65 is a prerequisite for ECE 100 and 102. Students who delay some of the breadth courses until the spring should be careful to not have delayed their depth sequence.
+
+Note:
+In order to fulfill the design requirement, students must complete one of the following courses with a grade C– or better. When taking this course, the student has the option of having a portion of the project related to his/her social sciences/humanities study. Graduation will not be approved until a written copy of the design project is submitted to the ECE undergraduate office.
+
+The electrical engineering design requirement can be fulfilled in any of the following three ways:
+
+• Take ECE 191. Engineering Group Design Project Take ECE 190. Engineering Design. This course requires the department stamp. Specifications and enrollment forms are available in the undergraduate office. Take one of the following courses: ECE 111. Advanced Digital Design Project ECE 118. Computer Interfacing ECE 155B or 155C. Digital Recording Projects
+• Take ECE 191. Engineering Group Design Project
+• Take ECE 190. Engineering Design. This course requires the department stamp. Specifications and enrollment forms are available in the undergraduate office.
+• Take one of the following courses: ECE 111. Advanced Digital Design Project ECE 118. Computer Interfacing ECE 155B or 155C. Digital Recording Projects
+• ECE 111. Advanced Digital Design Project
+• ECE 118. Computer Interfacing
+• ECE 155B or 155C. Digital Recording Projects
+Students who wish to take one of these courses to satisfy the design requirement must fill out an enrollment form and have departmental approval for the design credit prior to taking the course. The project must meet the same specifications as ECE 190.
+
+Two upper-division engineering, mathematics, or physics courses AND two upper-division or lower-division engineering, math, physics, chemistry, and biology courses.
+
+Students must complete a depth requirement of at least six quarter courses to provide a focus for their studies. Sample depth programs for history and economics students are discussed below. Students may choose this demonstrated sequence or they may propose another with the approval of their faculty coadviser from the respective social sciences/humanities department.
+
+• At least four of these should belong to the specific field the student is pursuing (e.g., History of: East Asia, United States, Europe, Science, etc.).
+• At least one course should be in the field of history of science and technology.
+• At least one course should be a colloquium (i.e., a small course, with an emphasis on essay writing).
+HISC 105. History of Environmentalism
+
+HISC 106. The Scientific Revolution
+
+HISC 107. The Emergence of Modern Science
+
+HISC 108. Life Sciences in the Twentieth Century
+
+HISC 111. The Atomic Bomb and the Atomic Age
+
+HISC 115. History of Modern Medicine
+
+HISC 131. Science Technology and Law
+
+HISC 173/273. Seminar on Darwin and Darwinism
+
+HILD 2A. United States History
+
+HILD 7A. Race and Ethnicity in the U.S.
+
+HILD 10. East Asia: The Great Tradition
+
+HILD 11. East Asia and the West, 1279–1911
+
+HILD 12. Twentieth-Century East Asia
+
+HIUS 140. Economic History of the United States
+
+HIUS 151. American Legal History since 1865
+
+HIUS 187. Topics in American Social History
+
+HIUS 148. The American City in the Twentieth Century
+
+HIEU 143. European Intellectual History, 1870–1945
+
+HIGR 222. Historical Scholarship on European History since 1850
+
+HILA 102. Latin America in the Twentieth Century
+
+Track A: Finance (six courses, twenty-four units)
+
+• Intermediate Microeconomic sequence: ECON 100A-B-C
+• Finance sequence: ECON 173A-B
+• One elective course from the following: ECON 104, 105, 109, 113, 119, 120B, 141, 142, 143, 147, 150, 151, 155, 171, 172A
+Track B: Data Analysis (seven courses, twenty-eight units, one of them can be taken during lower-division years)
+
+• Intermediate Microeconomic sequence: ECON 100A-B-C
+• Data Analysis sequence: ECON 120B-C
+• Two elective courses from the following: ECON 104, 105, 109, 119, 121, 125, 150, 151, 152, 155, 173A, 173B, 174, 176, 178
+• Other upper-division courses for satisfying the depth sequences for other studies in social sciences/humanities will be available after an agreement is established between ECE and the respective department/program in social sciences/humanities.
+Policy Analysis
+
+At least four courses from
+
+POLI 160AA. Introduction to Policy Analysis
+
+POLI 160AB. Introduction to Policy Analysis
+
+POLI 162. Environmental Policy
+
+POLI 163. Analyzing Politics
+
+POLI 165. Special Topic: Policy Analysis
+
+POLI 168. Policy Assessment
+
+POLI 170A. Introductory Statistics for Political Science and Public Policy
+
+and at least two courses from
+
+POLI 100H. Race and Ethnicity in American Politics
+
+POLI 102J. Advanced Topics in Urban Politics
+
+POLI 103A. California Government and Politics
+
+POLI 103B. Politics and Policymaking in Los Angeles
+
+POLI 103C. Politics and Policymaking/San Diego
+
+POLI 125A. Communities and the Environment
+
+POLI 126AA. Fundamentals of Political Economy: Modern Capitalism
+
+POLI 142A. United States Foreign Policy
+
+POLI 142J. National Security Strategy
+
+POLI 142M. US Foreign Policy/Regional Security
+
+Students may specialize in one of four departmental concentrations or complete the general sociology track.
+
+Students will choose eight courses, two lower-division and six upper-division courses from their choice of concentrations in Science and Medicine, Law and Society, Economy and Society, International Studies, or General Sociology.
+Note:
+SOCI 30 is highly recommended for all tracks.
+
+Students will choose two lower-division courses from SOCI 1, 2, and 30, of which 30 is highly recommended; and six upper-division courses from the list below.
+
+Lower Division
+
+SOCI 1. Introduction to Sociology
+
+SOCI 2. The Study of Society
+
+SOCI 30. Science, Technology, and Society (highly recommended)
+
+Upper Division
+
+SOCI 113. Sociology of the AIDS Epidemic
+
+SOCI 134A. The Making of Modern Medicine
+
+SOCI 135. Medical Sociology
+
+SOCI 136E. Sociology of Mental Illness: A Historical Approach
+
+SOCI 136F. Sociology of Mental Illness in Contemporary Society
+
+SOCI 138. Genetics and Society
+
+SOCI 149. Sociology of the Environment
+
+SOCI 167. Science and War
+
+SOCI 168E. Sociology of Science
+
+Students will choose two lower-division courses from SOCI 1, 2, and 30, of which 30 is highly recommended; and six upper-division courses from the list below.
+
+Lower Division
+
+SOCI 1. Introduction to Sociology
+
+SOCI 2. The Study of Society
+
+SOCI 30. Science, Technology, and Society (highly recommended)
+
+Upper Division
+
+SOCI 112. Social Psychology
+
+SOCI 142. Social Deviance
+
+SOCI 143. Suicide
+
+SOCI 160E. Law and Culture
+
+SOCI 140. Sociology of Law
+
+SOCI 140F. Law and the Workplace
+
+SOCI 141. Crime and Society
+
+SOCI 147. Organizations, Society, and Social Justice
+
+SOCI 159. Special Topics in Social Organizations and Institutions
+
+SOCI 163. Migration and the Law
+
+Students will choose two lower-division courses from SOCI 1, 2, and 30, of which 30 is highly recommended; and six upper-division courses from the list below.
+
+Lower Division
+
+SOCI 1. Introduction to Sociology
+
+SOCI 2. The Study of Society
+
+SOCI 30. Science, Technology, and Society (highly recommended)
+
+Upper Division
+
+SOCI 125. Sociology of Immigration
+
+SOCI 137. Sociology of Food
+
+SOCI 121. Economy and Society
+
+SOCI 132. Gender and Work
+
+SOCI 139. Social Inequality: Class, Race, and Gender
+
+SOCI 140F. Law and the Workplace
+
+SOCI 148E. Inequality and Jobs
+
+SOCI 152. Social Inequality and Public Policy
+
+SOCI 163. Migration and the Law
+
+SOCI 167. Science and War
+
+SOCI 185. Globalization and Social Development
+
+Students will choose two lower-division courses from SOCI 1, 2, and 30, of which 30 is highly recommended; and six upper-division courses from the list below.
+
+Lower Division
+
+SOCI 1. Introduction to Sociology
+
+SOCI 2. The Study of Society
+
+SOCI 30. Science, Technology, and Society (highly recommended)
+
+Upper Division
+
+SOCI 130. Population and Society
+
+SOCI 145. Violence and Society
+
+SOCI 151. Comparative Race and Ethnic Relations
+
+SOCI 148. Political Sociology
+
+SOCI 153. Urban Sociology
+
+SOCI 157. Religion in Contemporary Society
+
+SOCI 158. Islam in the Modern World
+
+SOCI 169. Citizenship, Community, and Culture
+
+SOCI 176. War and Society
+
+SOCI 177. International Terrorism
+
+SOCI 178. The Holocaust
+
+SOCI 179. Social Change
+
+SOCI 180. Social Movements and Social Protest
+
+SOCI 181. Modern Western Society
+
+SOCI 182. Ethnicity and Indigenous Peoples in Latin America
+
+SOCI 185. Globalization and Social Development
+
+SOCI 187. African Societies Through Film
+
+SOCI 188E. Community and Social Change in Africa
+
+SOCI 188G. Chinese Society
+
+SOCI 188F. Modern Jewish Societies and Israeli Society
+
+SOCI 188D. Latin America: Society and Politics
+
+SOCI 188J. Change in Modern South Africa
+
+SOCI 189. Special Topics in Comparative-Historical Sociology
+
+Students will choose two lower-division courses from SOCI 1, 2, and 30, of which 30 is highly recommended; and six upper-division courses, including one from EACH of the following four concentrations:
+
+Science and Medicine
+
+Law and Society
+
+Economy and Society
+
+International Studies
+
+MINOR CURRICULA
+
+ECE offers three minors in accord with the general university policy that a minor requires five upper-division courses. Students must realize that these upper-division courses have extensive lower-division prerequisites (please consult the ECE undergraduate office). Students should also consult their college provost’s office concerning the rules governing minors and programs of concentration.
+
+Electrical Engineering: Twenty units chosen from the breadth courses ECE 101, 102, 103, 107, 108, 109.
+
+Engineering Physics: Twenty units chosen from the junior year courses PHYS 110A, 130A, MATH 110A, ECE 101, 102, 103, 107, 108, 109.
+
+Computer Engineering: Twenty units chosen from the junior year courses ECE 102, 108, CSE 100, 101, 105, 120, 140, 140L, 141, 141L.
+
+The department will consider other mixtures of upper-division ECE, CSE, physics, and mathematics courses by petition.
+
+UNDERGRADUATE ADMISSIONS, POLICIES, AND PROCEDURES
+
+FIRST-YEAR STUDENT ELIGIBILITY
+
+Effective fall 2015, admission to all four majors in the Department of Electrical and Computer Engineering is currently restricted as described in the section “
+Acceptance to Departmental Majors in the Jacobs School of Engineering
+.” Acceptance into a selective engineering major is based on academic excellence demonstrated in high school. Acceptance will be granted to the maximum number of students in each of these selective major programs consistent with maintaining acceptable program quality and in compliance with admissions procedures and criteria approved by the Academic Senate’s Educational Policy Committee.
+
+TRANSFER STUDENTS ELIGIBILITY
+
+It is strongly recommended that transfer students complete the following course preparation for engineering majors:
+
+• Calculus I—for Science and Engineering (MATH 20A)
+• Calculus II—for Science and Engineering (MATH 20B)
+• Calculus and Analytic Geometry (MATH 20C)
+• Differential Equations (MATH 20D)
+• Linear Algebra (MATH 18)
+• Complete calculus-based physics series with lab experience (PHYS 2A-B-C)
+• Chemistry 6A (except computer science and computer engineering majors)
+• Highest level of introductory “C” computer programming language course offerings at the community college*
+*Refer to the UC San Diego General Catalog to select major prerequisite requirement for computer language courses.
+
+Effective fall 2015, admission to all four majors in the Department of Electrical and Computer Engineering is currently restricted as described in the section “
+Acceptance to Departmental Majors in the Jacobs School of Engineering
+.” Acceptance into a selective engineering major is based on academic excellence demonstrated in community college or accredited four-year university. Acceptance will be granted to the maximum number of students in each of these selective major programs consistent with maintaining acceptable program quality and in compliance with admissions procedures and criteria approved by the Academic Senate’s Educational Policy Committee.
+
+CONTINUING STUDENTS ELIGIBILITY
+
+Continuing undergraduate students who were not admitted to the department as entering students will be able to apply to one of our majors once per year (between summer and fall quarters). For more information about the admission process and criteria, please see the UC San Diego
+Selective Majors page
+.
+
+• MATH 20A, 20B, 20C
+• PHYS 2A-B
+• ECE 35, 45
+• MATH 20A, 20B, 20C
+• PHYS 2A-B
+• ECE 35, 45
+• CSE 8A/B or CSE 11
+
+GRADE REQUIREMENT IN THE MAJOR
+
+Courses required for the major must be taken for a letter grade. All major courses must be completed with a grade of C– or better.
+
+A GPA of 2.0 is required in all upper-division courses in the major, including technical electives. The grade of D will not be considered an adequate prerequisite for any ECE course and will not be allowed for graduation. The engineering design requirement must be completed with a grade of C– or better.
+
+ADVISING
+
+Students are recommended to complete an academic planning form and to discuss their curriculum with the appropriate departmental adviser immediately upon entrance to UC San Diego, and then every year until graduation. This is intended to help students in: a) their choice of depth sequence, b) their choice of electives, c) keeping up with changes in departmental requirements.
+
+NEW TRANSFER STUDENTS IN ELECTRICAL ENGINEERING AND ENGINEERING PHYSICS
+
+The entire curriculum is predicated on the idea of actively involving students in engineering from the time they enter as first-year students. The first-year student courses have been carefully crafted to provide an overview of the engineering mindset with its interrelationships among physics, mathematics, problem solving, and computation. All later courses are specifically designed to build on this foundation. All transfer students should understand that the lower-division curriculum is demanding. Transfer students will be required to take all lower-division requirements or their equivalent. Transfer students are advised to consult the ECE website for sample recommended course schedules and for the ECE course requirement guide.
+
+NEW TRANSFER STUDENTS IN COMPUTER ENGINEERING
+
+Transfer students are advised to consult the ECE website for sample recommended course schedules and for the ECE course requirement guide.
+
+Students who do not have any programming experience are encouraged to take the CSE 8A-B sequence instead of CSE 11. Experience has shown that most students who are not familiar with programming and take CSE 11 have to retake the class because the accelerated pace makes it difficult to learn the new material.
+
+Note:
+Transfer students are encouraged to consult with the ECE undergraduate office for academic planning upon entrance to UC San Diego.
+
+ECE HONORS PROGRAM
+
+The ECE Undergraduate Honors Program is intended to give eligible students the opportunity to work closely with faculty in a project, and to honor the top graduating undergraduate students.
+
+ELIGIBILITY FOR ADMISSION TO THE HONORS PROGRAM
+
+• Students with a minimum GPA of 3.5 in the major and 3.25 overall will be eligible to apply. Students may apply at the end of the winter quarter of their junior year and no later than the end of the second week of fall quarter of their senior year. No late applications will be accepted.
+• Students must submit a project proposal (sponsored by an ECE faculty member) to the honors program committee at the time of application.
+• The major GPA will include ALL lower division required for the major and all upper division required for the major that are completed at the time of application (a minimum of twenty-four units of upper-division course work).
+
+REQUIREMENTS FOR AWARD OF HONORS
+
+• Completion of all ECE requirements with a minimum GPA of 3.5 in the major based on grades through winter quarter of the senior year.
+• Formal participation (i.e., registration and attendance) in the ECE 290 graduate seminar program in the winter quarter of their senior year.
+• Completion of an eight-unit approved honors project (ECE 193H: Honors Project) and submission of a written report by the first day of spring quarter of the senior year. This project must contain enough design to satisfy the ECE BS four-unit design requirement.
+• The ECE honors committee will review each project final report and certify the projects that have been successfully completed at the honors level.
+
+PROCEDURE FOR APPLICATION TO THE HONORS PROGRAM
+
+Between the end of the winter quarter of their junior year and the second week of the fall quarter of their senior year, interested students must advise the department of their intention to participate by submitting a proposal for the honors project sponsored by an ECE faculty member. Admission to the honors program will be formally approved by the ECE honors committee based on GPA and the proposal.
+
+UNIT CONSIDERATIONS
+
+Except for the two-unit graduate seminar, this honors program does not increase a participant’s total unit requirements. The honors project will satisfy the departmental design requirement and students may use four units of their honors project course as a technical elective.
+
+FIVE-YEAR BS/MS PROGRAM
+
+Undergraduates in the ECE department who have maintained a good academic record in both departmental and overall course work are encouraged to participate in the five-year BS/MS program offered by the department. Participation in the program will permit students to complete the requirements for the MS degree within one year following receipt of the BS degree. Complete details regarding admission to and participation in the program are available from the ECE Undergraduate Affairs office.
+
+ADMISSION TO THE PROGRAM
+
+Students should submit an application for the BS/MS program, including three letters of recommendation, by the program deadline during the spring quarter of their junior year. Applications are available from the ECE Undergraduate Affairs office. No GRE’s are required for application to the BS/MS program. A GPA of at least 3.0 both overall and in the major and strong letters of recommendation are required to be considered for program admission.
+
+In the winter quarter of the senior year, applications of students admitted to the program will be forwarded by the department to the UC San Diego Office of Graduate Studies. Each student must submit the regular graduate application fee prior to the application deadline for their application to be processed. Students who have been accepted into the BS/MS program will automatically be admitted for graduate study beginning the following fall provided they maintain an overall GPA through the winter quarter of the senior year of at least 3.0. Upper-division (up to twelve units) or graduate courses taken during the senior year that are not used to satisfy undergraduate course requirements may be counted toward the forty-eight units required for the MS degree.
+
+CONTINUATION IN THE PROGRAM
+
+Once admitted to the BS/MS program, students must maintain a 3.0 cumulative GPA in all courses through the winter quarter of the senior year and in addition must at all times maintain a 3.0 cumulative GPA in their graduate course work. Students not satisfying these requirements may be re-evaluated for continuation in the program.
+
+Admission for graduate study through the BS/MS program will be for the Master of Science degree only. Undergraduate students wishing to continue toward the PhD degree must apply and be evaluated according to the usual procedures and criteria for admission to the PhD program.
+
+CURRICULUM
+
+Students in the five-year BS/MS program must complete the same requirements as those in the regular MS program. Completion of the MS degree requirements within one year following receipt of the BS degree will generally require that students begin graduate course work in their senior year. All requirements for the BS degree should be completed by the end of the senior (fourth) year, and the BS degree awarded prior to the start of the fifth year. Courses taken in the senior year may be counted toward the BS degree requirements or the MS degree requirements, but not both. Students must have received their BS degree before they will be eligible to enroll as graduate students in the department.
+
+The department offers graduate programs leading to the MS, and PhD degrees in electrical engineering. Students can be admitted into ECE graduate studies through either the MS or PhD programs.
+
+The PhD program is strongly research oriented and is for students whose final degree objective is the PhD. If a student with a BS is admitted to this program, he or she will be expected to complete the requirements for the MS degree (outlined below) before beginning doctoral research. The MS is a technically intensive, research-oriented degree intended as preparation for advanced technical work in the engineering profession, or subsequent pursuit of a PhD.
+
+In addition, the department offers MS and PhD programs in computer engineering jointly with CSE, and a PhD program in applied ocean science jointly with MAE and Scripps Institution of Oceanography.
+
+Admission to an ECE graduate program is in accordance with the general requirements of the UC San Diego graduate division, and requires at least a BS degree in engineering, physical sciences, or mathematics with a minimum upper-division GPA of 3.0. Applicants must provide three letters of recommendation and recent GRE General Test scores. TOEFL or IELTS scores are required from international applicants whose native language is not English. Applicants should be aware that the university does not permit duplication of degrees.
+
+Support:
+The department makes every effort to provide financial support for PhD students who are making satisfactory progress. Support may take the form of a fellowship, teaching assistantship, research assistantship, or some combination thereof. International students will not be admitted unless there is reasonable assurance that support can be provided for the duration of their PhD program students in the MS program may also obtain support through teaching or research assistantships, but this is less certain.
+
+Advising:
+Students should seek advice on requirements and procedures from the departmental graduate office and/or the departmental website
+http://ece.ucsd.edu
+. All students will be assigned a faculty academic adviser upon admission and are strongly encouraged to discuss their academic program with their adviser immediately upon arrival and subsequently at least once per academic year.

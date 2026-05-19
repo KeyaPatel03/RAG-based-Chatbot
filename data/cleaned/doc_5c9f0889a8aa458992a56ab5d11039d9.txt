@@ -1,0 +1,423 @@
+ABOUT THE TOOL "YOUR FINANCIAL PATH TO GRADUATION"
+
+The tool helps students with financial aid offers decide whether to enroll in a specific school and how to pay for it, using data and guidelines. This page explains where and how we got those numbers and guidelines.
+
+These technical notes will:
+
+• Explain why we ask for certain information
+• Provide additional information about terms and programs mentioned in the tool
+• Describe where we supply data from
+• List the assumptions and methods for our calculations
+• Add some commentary including facts and suggestions that we hope are helpful
+Here are the main sections of this page for ease of navigation:
+
+• About the tool overall Who this tool serves best Privacy and data sources
+• Who this tool serves best
+• Privacy and data sources
+• About sections of "Your Financial Path to Graduation"
+
+ABOUT THE TOOL OVERALL
+
+WHO THIS TOOL SERVES BEST
+
+This tool works best if you have a financial aid offer to become a full-time, first-time student.
+
+• Full-time: you plan to enroll in the number of credit hours required to be considered a full-time student (usually 12 in a semester system).
+• First-time : you have not enrolled in a college class for credit before.
+If you have enrolled in a postsecondary program before or you are planning less than full-time enrollment, you can still use this tool for financial planning. However, the following data points may be less accurate and/or relevant for you.
+
+PROGRAM LENGTH
+
+Going to school part-time may extend your program length. If you have previous credits that apply to this program, it may shorten your program length. Contact the academic advising office for help calculating how long it will take you to finish the desired program.
+
+PROJECTED TOTAL DEBT, TOTAL COST OF BORROWING, AND ESTIMATED MONTHLY LOAN PAYMENT
+
+These estimates will not account for any student debt acquired during previous postsecondary programs. However, you can account for your current loan payments in the monthly budget tab of the “Can I afford my payment?” page.
+
+GRADUATION RATE
+
+We use the 150% graduation rate, which is the portion of full-time, first-time students who successfully complete their program within 150% of the stated program length (for example, 6 years for a 4-year bachelor’s degree). College Scorecard provides a 200% graduation rate (8 years for a 4-year bachelor’s degree) that includes all students regardless of their full-time or first-time status.
+
+PRIVACY AND DATA SOURCES
+
+PROTECTING YOUR PRIVACY
+
+This tool allows you to leave our website and return without any of your data being stored. It does not collect any of your personal information.
+
+This tool saves your progress by capturing the numbers you’ve entered in the URL; as you proceed through the tool, a new URL will be generated. Every page of the tool offers the option to save your progress and finish later. Clicking on that will generate a pop-up window that allows you to send that URL to any email address. While the URLs are captured by analytics software, they are not stored on Bureau servers and do not tie back to any of your personal information.
+
+EXTERNAL DATA SOURCES USED THROUGHOUT THE TOOL
+
+For information about schools, we rely heavily on data collected and published by the U.S. Department of Education. These include:
+
+• College Scorecard
+• Integrated Postsecondary Education Data System (IPEDS)
+• National Student Loan Data System (NSLDS)
+• List of schools under Heightened Cash Monitoring , a type of financial oversight
+To estimate future budgets for various income levels and regions of the country, we use data from the
+Bureau of Labor Statistics (BLS) Consumer Expenditure Survey
+.
+
+SECTIONS OF "YOUR FINANCIAL PATH TO GRADUATION"
+
+YOUR FINANCIAL AID OFFER
+
+This section compiles the costs associated with attending school as well as your funding sources for covering those costs. Along the way it provides explanations, money saving tips, and other facts to be aware of.
+
+The function of this section depends on whether your school sent you a link to this tool that was prepopulated with information from your financial aid offer.
+
+• If you have a prepopulated link : This section will have numbers supplied by your school, allowing you to review information from your financial aid offer. You can still add in costs and funding sources not included in your offer.
+• If you do not have a prepopulated link : This section will require you to type in numbers from your offer, as well as costs and funding sources not included in your offer. As you do, you will notice that the labels in the tool do not exactly match the labels in your offer. You may need to add together some amounts from your letter to fit them into the provided input fields. If you are unsure about the definition of any cost or funding source in your offer, please ask the financial aid office.
+
+SCHOOL & LIVING SITUATION
+
+This page asks for a lot of information about your plans for the coming school year. Here is why we asked for each of the following pieces of information:
+
+Allows the tool to bring in relevant cost, salary, and performance data from the
+U.S. Department of Education’s College Scorecard
+.
+
+Allows us to project your total debt, if your plan for this year includes student loans.
+
+Note for bachelor’s students: Though 4 years is considered the standard length of bachelor’s degrees,
+graduation data from the National Center for Education Statistics (NCES)
+suggests that more than half of students take longer.
+
+Allows the tool to bring in relevant cost from the
+U.S. Department of Education’s College Scorecard
+.
+
+Allows the tool to bring in relevant cost from the
+U.S. Department of Education’s College Scorecard
+. Also, if you live on campus, your housing and meals will be listed as a direct cost that you pay to the school. If you live off campus or with family, these costs are considered indirect.
+
+Allows the tool to apply the correct limits to your federal loans when calculating your projected total debt.
+
+Note:
+As mentioned above, this tool works best for full-time, first-time students.
+
+THIS YEAR’S COSTS
+
+This page helps you estimate how much money you’ll need for the coming school year. We label this amount “Your estimated costs this year.” What this amount includes is explained in further detail below.
+
+If your offer does not include costs, we supply the most recent data from the U.S. Department of Education’s College Scorecard. This data has typically been submitted within the past 2 academic years, depending on the data collection cycle.We therefore recommend asking the financial aid office for more recent numbers.
+
+We break this total down into several parts, which are explained below. Some of these costs qualify to be covered by financial aid (grants, scholarships, work-study, and loans). Note that this total is an estimate – any numbers provided by the school are based on data they collected from students during previous years. Your actual costs may be higher or lower than this estimate, depending on your personal decisions about the number of classes to take, whether to buy used or new textbooks, where to live and how to feed yourself, whether to use public transit or a personal vehicle, and other factors.
+
+• Direct costs: Anything you will pay the school directly for. This includes tuition and fees – the cost of enrolling in the school and taking classes. It may also include books and supplies if your school charges you directly for them (instead of you buying them from a bookstore or other supplier), on-campus housing, meals if you buy a meal plan, and other charges like loan or student fees. These qualify for financial aid.
+• Indirect costs: All other expenses not paid directly to the school that are related to your education. This includes books and supplies if you source them yourself, transportation, and personal/other/miscellaneous expenses (different schools use different words). If you will not live on campus, then this category also includes housing and meals. Ask the financial aid office what they include in this category, and make sure your qualifying expenses are included in their calculations.
+• Additional financial obligations: Other personal obligations that do not qualify for financial aid, like car or credit card payments, or contributions to your parents’ household expenses. You should include them here anyway, so this tool can help you budget accurately. You should also check with the financial aid office if they qualify for financial aid.
+The Cost of Attendance is the total amount it will cost you to go to college each year. It is also the maximum amount of financial aid that you can be given. Including grants, scholarships, work-study, and loans, plus the Expected Family Contribution from your Student Aid Report, your financial aid must be less than or equal to the Cost of Attendance.
+
+Cost of Attendance is defined by the Higher Education Act of 1965, as amended, as tuition and fees, room and board (housing and meals), books, supplies, transportation, and miscellaneous personal expenses. A standard Cost of Attendance is estimated by schools and should be included in your financial aid offer. Ask the financial aid office which specific expenses are included in the standard Cost of Attendance.
+
+If you have qualifying expenses not included in the standard Cost of Attendance, you may be eligible for more aid. Possible examples include the cost of dependent care or studying abroad, expenses related to any disabilities you may have, and the one-time purchase of a personal computer. They do not include the purchase of a personal vehicle.
+
+If you believe your costs will exceed the standard Cost of Attendance, ask the financial aid office about filing an appeal to have your Cost of Attendance increased. If your appeal is approved, you may receive more aid.
+
+Note:
+More financial aid can mean more loans – more aid does not necessarily mean more “free money” in the form of grants and scholarships.
+
+COSTS NOT COVERED YET
+
+On most of the pages in this section, “Costs not covered yet” will appear in the upper right corner. This number is equal to “Your estimated costs this year” minus the running total of your funding. “Costs not yet covered” will go down as costs decrease or funding increases. Loan fees, also known as origination fees, are not included in your funding but they are included in your debt (see the Federal loans section of these technical notes).
+
+GRANTS AND SCHOLARSHIPS
+
+This page adds up the amount you are being offered from scholarships and grants. Most scholarships and grants do not have to be repaid. However, if you withdraw from school before finishing your classes, you might have to repay part of a grant. Grants are often based on financial need, while scholarships are usually based on merit or some other personal characteristic or status.
+
+This does not have to be repaid (unless, for example, you withdraw from school).
+
+• Must have not previously earned a bachelor’s degree
+• Awarded based on financial need
+• Maximum amount changes year to year; it is $6,345 for the 2020-2021 academic year
+This does not have to be repaid (unless, for example, you withdraw from school).
+
+• For undergraduates who have not previously earned a degree
+• Awarded based on financial need and the institution’s funding availability
+• Amount ranges between $100 and $4,000
+Various federal agencies offer a wide variety of higher education grants.
+Check this page for more information on federal grants you might be eligible for and how to apply for them.
+
+This does not have to be repaid (unless, for example, you withdraw from school).
+
+• For active-duty or reserve servicemembers who are pursuing higher education
+• Up to $4,500 per academic year depending on your service
+This does not have to be repaid (unless, for example, you withdraw from school).
+
+• For servicemembers and veterans
+• Benefits include funds to cover tuition and fees, a monthly living allowance, and an annual book stipend
+There are other federal education benefits for service members and their families, such as the Iraq and Afghanistan Service Grants. In addition to federal education benefits, states and schools may offer additional funding sources.
+Check this Federal Student Aid page on aid for military families.
+You can also ask the financial aid office to help you find resources you’re eligible for.
+
+WORK-STUDY
+
+Work-study is offered by some schools as a means for students to earn money for their education. Work-study programs may or may not be federally funded.
+
+At schools participating in the Federal Work-Study Program, federal work-study provides part-time jobs for undergraduate and graduate students with financial need, allowing them to earn money to help pay education expenses.
+According to Federal Student Aid, “The program encourages community service work and work related to the student’s course of study.”
+Funds from the Federal Work-Study Program are generally not available for upfront costs like tuition, as they are given to you in a paycheck as you earn them by working.
+
+The amount listed in your financial aid offer is the maximum you can earn from those funds and it is not guaranteed. A job will not be lined up for you. If you do not find a job, you will get none of this funding. If you do find a job, you may not get the full amount if your job does not pay enough or give you enough hours. Additionally, there may be a limit on how many hours you can work each week.
+
+FELLOWSHIPS AND ASSISTANTSHIPS (GRADUATE STUDENTS ONLY)
+
+Some graduate programs offer fellowships and assistantships as a means for student to earn money for their education. These opportunities vary from program to program. Ask the financial aid office or program leadership for more details.
+
+FEDERAL LOANS
+
+You must be enrolled in school at least half-time to qualify for federal loans. Your program type will determine which loan types you qualify for and your borrowing limits.
+
+The cost of borrowing depends on the interest rate and loan fee.
+
+• Interest rate : In addition to repaying what you borrowed, you will also pay interest, which is calculated as a percentage of the loan. The interest rate is set each July for all federal student loans borrowed until the following July. The rate on federal student loans is fixed (does not change) for the life of the loan.
+• Loan fee: A percentage of the loan that is deducted immediately from the loan amount. This reduces the amount received but not the amount that must be repaid. (For example, if the loan fee is 1%, then $10 will be subtracted from a $1,000 loan. You will only receive $990 but you would have to repay $1,000.) This percentage is set each fall for loans borrowed throughout the year. In this tool, loan fees are included in your total debt. They are not included in your total funding.
+• In this tool, loan fees are included in your total debt. They are not included in your total funding.
+Repayment starts six months after you finish your program, withdraw from school, or drop below half-time enrollment (grace period).
+
+The Department of Education pays any interest accruing on your loans while you are in school (at least half-time) and during your grace period. This is the cheapest federal loan option. This loan type is available only for undergraduate students with financial need. Currently, the annual limits are $3,500 in year 1, $4,500 in year 2, and $5,500 in year 3 and beyond, with a lifetime total limit of $23,000. These limits are the same for dependent and independent undergrads.
+
+These loans are available for all students, regardless of financial need or program type. You are responsible for the interest that accrues while you are in school and during the six-month grace period after you leave or graduate. Interest accrued during school will capitalize – get added to your interest-bearing principal – when the grace period ends and you start paying back your debt.
+
+Tip:
+Paying down your accrued interest while you’re in school reduces the amount that capitalizes and therefore the amount of interest on your interest. If you make payments while you’re in school or the grace period, tell your servicer to apply them to your accrued interest, not future monthly payments.
+
+Borrowing limits are higher for graduate/professional students as well as independent undergraduate students. Dependent undergrads can borrow as much as independent undergrads if their parents apply and are denied for a Parent PLUS loan.
+
+For undergrads, how much you can borrow in unsubsidized loans depend on how much you borrow in subsidized loans. Suppose you are a dependent, first-year student. Your unsubsidized loan cap is $5,500. If you qualify for and borrow $3,500 in subsidized loans, then you can borrow only the remaining $2,000 in unsubsidized loans.
+
+Depending on subsidized borrowing, the limits for dependent undergraduates are up to $5,500 in year 1, $6,500 in year 2, and $7,500 in year 3 and beyond. The lifetime total limit is $31,000.
+
+Depending on subsidized borrowing, the limits for independent undergraduates (or dependent undergraduates whose family did not qualify for Parent PLUS loans) are up to $9,500 in year 1, $10,500 in year 2, and $12,500 in year 3 and beyond. The lifetime total limit is $57,000.
+
+Graduate and professional students can borrow up to $20,500 per year. The lifetime total limit of $138,500 includes all federal loans for undergraduate study, with no more than $65,500 in subsidized loans.
+
+LOANS FROM YOUR STATE, THE SCHOOL, OR A NONPROFIT
+
+Some states, schools, and nonprofits offer student loans, often through a bank or credit union. These are not loans that you arrange directly with a bank. Is that confusing? Yes! Ultimately, it won’t affect the calculations too much if you don’t categorize your loans exactly right. Regardless, make sure you shop around to get the best deal. Look at the terms: the interest rate, whether interest accumulates during school, whether you’ll have to start repaying the loan immediately after leaving school, and whether there are flexible repayment options.
+
+Loan fees are included in your total debt. They are not included in your total funding.
+
+OTHER SOURCES (NOT ON YOUR FINANCIAL AID OFFER)
+
+This page lists other funding sources that may be available to you.
+
+If you have savings for your education, think carefully about the portion you want to spend on this year’s costs. For a multiyear program, you may want to reserve some of this cash for future years.
+
+The amount that your family can contribute may be different from the Expected Family Contribution (EFC) listed in your financial aid offer. The EFC is calculated from your FAFSA. If your family is unable to put forth the full EFC, talk to the financial aid office about how they calculated the EFC and what your options are. These may include obtaining other grants and scholarships, borrowing more, or finding other sources of income.
+
+For the job income sources listed here, you may want to only include estimates for jobs that you already have. Depending on the economy of the school’s location, it may be difficult to find work. The financial aid office may be able to give you more information.
+
+If you are employed and plan to keep working while you’re in school, ask your boss if they offer financial help for employees who are furthering their education. They may offer tuition reimbursement or other assistance.
+
+COVERING YOUR COSTS
+
+In the previous section you entered all the cost and funding information and kept a running total of your costs not covered yet. This section will help you come up with a plan to fund those uncovered costs.
+
+USING STUDENT LOANS STRATEGICALLY
+
+Not understanding debt was a common concern for many of the past, present, and future students we talked to. This page is one of hopefully many opportunities for you to better understand the commitment that student loans represent. If you choose to borrow federal student loans, you will receive further counseling on that debt from Federal Student Aid.
+
+This page references the average debt of undergraduates at graduation. For more info on average debt at the school you have an offer from,
+visit the school’s profile on College Scorecard
+.
+
+MAKE A PLAN
+
+This page allows you to revisit all the previous pages and revise your costs and funding as you gather more information.
+
+It also provides fields for PLUS loans and private loans offered by banks and credit unions (not through state agencies, schools, or nonprofits).
+
+Applications for Parent PLUS loans are accepted from parents and step-parents of dependent students. Approval is based on the borrower’s credit history, but the credit check does not look at the borrower’s credit score or income.
+
+Legally this debt belongs to the parent or step-parent. However, many students intend to repay this debt as if it were their own, so we provide an option for including the Parent PLUS loan amount in the total loan projections. This does not legally obligate the student to repay this debt.
+
+The borrowing limit is the program’s cost of attendance, minus any other financial assistance received, including other federal loans.
+
+The cost of borrowing includes interest and loan fees.
+
+• Interest accrues while student is in school. We recommend that Parent PLUS borrowers make payments while the student is in school to reduce capitalization – the addition of accrued interest to the interest-bearing principal.
+• Interest rate is set each summer and remains fixed for the life of the loan. The amount borrowed each year will be subject to that year’s interest rate.
+• Loan fee: A percentage of the loan that is deducted immediately from the loan amount. This reduces the amount received but not the amount that must be repaid. (For example, if the loan fee is 1%, then $10 will be subtracted from a $1,000 loan. You will only receive $990 but you would have to repay $1,000.) This percentage is set each fall for loans borrowed throughout the year. If you check the box to include this debt in your total debt projections, then loan fees are included in that debt. They are not included in your total funding.
+• If you check the box to include this debt in your total debt projections, then loan fees are included in that debt. They are not included in your total funding.
+Repayment starts 60 days after the second disbursement of the loan. For example, for a Parent PLUS loan divided between fall semester and spring semester, repayment would begin approximately in March. The Parent PLUS borrower can request a deferment while the student is enrolled in school at least half time, but it is not automatic. We recommend making payments while the student is in school to reduce capitalization – the addition of accrued interest to the interest-bearing principal, which results in paying interest on interest.
+
+Applications are accepted from graduate and professional students. Approval is based on the borrower’s credit history, but the credit check does not look at the borrower’s credit score or income.
+
+The borrowing limit is the program’s cost of attendance, minus any other financial assistance received, including other federal loans.
+
+The cost of borrowing includes interest and loan fees.
+
+• Interest accrues while you are in school. We recommend making payments while in school to reduce capitalization – the addition of accrued interest to the interest-bearing principal.
+• Interest rate is set each summer and remains fixed for the life of the loan. The amount borrowed each year will be subject to that year’s interest rate.
+• Loan fee: A percentage of the loan that is deducted immediately from the loan amount. This reduces the amount received but not the amount that must be repaid. (For example, if the loan fee is 1%, then $10 will be subtracted from a $1,000 loan. You will only receive $990 but you would have to repay $1,000.) This percentage is set each fall for loans borrowed throughout the year. In this tool, loan fees are included in your total debt. They are not included in your total funding.
+• In this tool, loan fees are included in your total debt. They are not included in your total funding.
+Repayment starts six months after you finish your program, withdraw from school, or drop below half-time enrollment. We recommend making payments on interest while you are in school to reduce capitalization – the addition of accrued interest to the interest-bearing principal, which results in paying interest on interest.
+
+Some banks and credit unions offer loans for undergraduate and/or graduate students. The specific terms of each private loan can vary, and private loans are not always available. You should explore all grant, scholarship and federal loan options before taking out a private student loan. If you think you will need a private student loan, you have the right to shop around to find the best deal.
+
+Unlike federal loans, private loans require a credit check. Borrowers may need to apply with a cosigner to meet credit standards or qualify for a lower interest rate.
+
+The cost of borrowing includes interest rates and loan fees, also referred to as origination fees. Private loans usually carry higher interest rates than federal loans. Many private loan products charge variable rates that change over the life of the loan, unlike federal loans. Interest generally starts accruing while you are still in school.
+
+Repayment typically starts after you leave school, and most lenders currently offer a six-month grace period. Some private loans programs require borrowers to start making monthly payments during school or right after graduation. Private lenders usually do not offer the flexible repayment options that are available for federal student loans.
+
+AFFORDING YOUR LOANS
+
+The previous sections helped you add up your costs and funding sources and then make a plan to pay for the coming school year. This section helps you check the long-term affordability of the debt included in your plan.
+
+IS THIS TOO MUCH DEBT?
+
+For undergraduates, some financial aid commentators recommend keeping your total debt under the salary you expect to make your first year out of school. This recommendation is meant to serve as a guidepost to help you determine if you may be borrowing too much.
+
+However, it is a broad generalization that doesn’t apply to every person or every situation. You should consider all your options before making a decision. This guideline is meant to assist with your decision-making process, not to dictate it.
+
+Note:
+If you are considering a career in public service, you should explore the U.S. Department of Education’s income-driven repayment plans and Public Service Loan Forgiveness (PSLF) program, which could result in lower monthly payments and eventual forgiveness of some federal student loan debt.
+
+Here is more information on the debt and salary numbers we provide.
+
+PROJECTED TOTAL DEBT
+
+To estimate the projected total debt, we add up all the loans in your plan for this year (including loan fees). Assuming similar borrowing patterns, we also project your loans during the remaining program years, and then add it all together. We include interest accrued while you were in school.
+
+This projection depends on the length of the program entered on the first page of the tool, “School & living situation.” It also depends on the type(s) of loan(s) you plan to borrow.
+
+Here is how we make projections for different types of loans:
+
+• Federal Direct Subsidized and Unsubsidized Loans: We assume that you will continue to borrow the same percentage of your annual loan limit. For example, suppose you are planning for the first year of a two-year program. If your plan includes 100% of the subsidized loan limit ($3,500) and 80% of the remaining unsubsidized loan eligibility ($1,600), then we assume for the second year that you will borrow 100% of the subsidized limit ($4,500) and 80% of the remaining unsubsidized loan eligibility ($1,600 again), for a total of $11,200.
+• For example, suppose you are planning for the first year of a two-year program. If your plan includes 100% of the subsidized loan limit ($3,500) and 80% of the remaining unsubsidized loan eligibility ($1,600), then we assume for the second year that you will borrow 100% of the subsidized limit ($4,500) and 80% of the remaining unsubsidized loan eligibility ($1,600 again), for a total of $11,200.
+• For all other types of loans – including loans from your state, the school, or a nonprofit; federal PLUS loans; and other private loans from banks and credit unions – we assume that your borrowing will remain exactly the same for the remaining years in your program. In other words, projected non-federal debt equals this year’s non-federal debt times the length of the program. Due to the annual increases in costs, this is likely to result in an underestimation of your total debt.
+• Due to the annual increases in costs, this is likely to result in an underestimation of your total debt.
+• Accrued interest: We assume that the interest rate will remain the same for the remaining years of your program. That is not necessarily the case – it is set every July – but we have no way to predict if it will go up or down. These rates are set by the laws governing federal student loan programs, including the Higher Education Act.
+MEDIAN SALARY OF THIS SCHOOL’S RECENT STUDENTS
+
+This is the median earnings of students working and not enrolled 6 years after starting at this school. It includes students who did not graduate. This data is reported by the school to the IPEDS. Program-level salary data may be available on College Scorecard. You can also
+use the Bureau of Labor Statistics’ Wage Data site to research your potential earnings
+.
+
+Two things to keep in mind about this number:
+
+• The median is the middle: half of students earned more, but half earned less.
+• It is based on students who started your program several years ago and who may not have graduated. Economic conditions regularly change, and your experience may be different.
+
+WHAT WILL INTEREST COST ME?
+
+To determine your estimated monthly student loan payment, we take your projected total debt from “Is this too much debt?” and calculate your total interest over a standard 10-year repayment period, which would be 120 months.
+
+If you owe more than $30,000 in Federal Direct loans, you are eligible to enroll in the extended repayment plan, which can stretch the term of the loan from 10 years to 25 years. Lengthening the term will lower the monthly payment but increase the total repayment cost.
+
+Also, federal student loans have other repayment plan options for repaying your federal student loans, including Pay as You Earn (PAYE) and Income-Based Repayment Plans (IBR), which are based on your income. Your loan servicer will notify you of your repayment options before your grace period ends. Also, you have the right to switch to another available repayment plan at any time during the repayment of your loans. Learn about other repayment options.
+
+CAN I AFFORD MY PAYMENT?
+
+To determine your estimated monthly student loan payment, we take your projected total debt from “Is this too much debt?” and calculate your monthly payment (accounting for accrued interest) over a standard 10-year repayment period, which would be 120 months.
+
+We then offer two different illustrations of this monthly payment.
+
+This tab estimates the number of hours you’d have to work to cover your monthly payment, if you take home $15 an hour. To take home $15 an hour, your wage would have to be higher; how much higher depends on what state you live in, how many dependents you have, and other details of your tax situation.
+
+This section shows large categories of typical expenses once you leave school. They are prepopulated with data from the Bureau of Labor Statistics’ Consumer Expenditure (BLS CE) Survey, based on the average expenses for someone earning your projected yearly salary and living in one of four broadly defined geographical regions in the United States (the Midwest, the Northeast, the South, and the West). The tool defaults to the region where the school is located, but you can change that if you plan to live somewhere else after graduation.
+
+Categories of BLS CE data:
+
+• Housing (includes utilities, cell phone bills, and house repairs)
+• Food
+• Clothing (apparel and services)
+• Transportation
+• Healthcare (includes health insurance and prescriptions)
+• Entertainment spending
+• Pension and Social Security
+• Taxes
+• Other (cash contributions, alcohol, tobacco, personal care products and services, reading, education, and miscellaneous expenses)
+We’ve added a line item for debt payments, in case that is part of your budget. You can change any of the default average amounts shown in the worksheet to better represent your actual budget once you leave school.
+
+The tool then takes your average monthly salary (yearly salary divided by 12) and subtracts your estimated monthly student loan payment and other expenses indicated to estimate how much is left over at the end of the month. This may be a negative number, showing that your costs are more than your projected income.
+
+Keep in mind that the expenses in the tool are for an average household, rather than an individual student. Your own expenses may differ depending on your age, family size, and other factors. For example, the cost of living in your particular town or city may differ substantially from the average cost of living in the relevant geographic region.
+
+WORTH YOUR INVESTMENT
+
+This section provides some statistics about the school you’re considering, as well as a chance to review your plan line-by-line.
+
+COMPARE THIS SCHOOL TO OTHERS
+
+Now that you understand how much debt you’re considering, this page shows you some statistics that indicate how well the school serves students compared to other schools. This is to help you decide if this school is the right investment for you.
+
+The school profile data and statistics comes from College Scorecard. If your school does not appear in College Scorecard, or if you selected a graduate or professional program, you will not be provided with performance statistics about your school. Please contact your school or program about metrics that are important to you, such as:
+
+• On-time completion rate
+• Job placement rate
+• Loan default rate
+• Loan repayment rate
+• Persistence and retention rate
+At least annually, we update the indicator to show if a school is on
+Federal Student Aid's list of schools under Heightened Cash Monitoring 2, also known as HCM2
+. HCM2 is a more rigorous form of the financial oversight that all schools participating in Federal Student Aid receive from the U.S. Department of Education.
+The U.S. Department of Education explains that schools get placed on HCM2 for financial or federal compliance problems
+, such as “accreditation issues, late or missing annual financial statements and/or audits, outstanding liabilities, denial of re-certifications, concern around the school's administrative capabilities, concern around a schools' financial responsibility, and possibly severe findings uncovered during a program review.”
+
+For schools with data in College Scorecard, we provide some statistics on program offerings, graduation, and student debt management. Here’s the definition of each of those statistics and why we think they’re important to consider.
+
+NUMBER OF PROGRAMS AND MOST POPULAR PROGRAMS
+
+This information is included because program choice can affect your earning potential.
+
+If you are going to school to earn more money, you need to complete your degree to get that payoff. The number we provide is the proportion of full-time, first-time, degree/certificate-seeking undergraduates who completed a degree or certificate within 150% of normal time. For bachelor's degrees, 150% of normal time is 6 years. For associate degrees, 150% of normal time is 3 years. For certificate programs it varies by length; for example, 150% of a typically 6-month program is 9 months.
+
+Note:
+Please visit College Scorecard
+for a 200% graduation rate (8 years for a 4-year bachelor’s degree) that includes all students, not just full-time, first-time students.
+
+If you are starting at a 2-year school in order to transfer to a 4-year program, this rate will give you additional information about the success rates of other students at this school. It measures the percent of first-time, full-time students who transferred to a 4-year institution and completed within 3 years.
+
+This is a sign of how many student borrowers experienced financial distress while repaying their student debt. We provide the 3-year default rate, which is the proportion of student borrowers who defaulted on their federal loans within 3 years of starting to repay them, as a result of missing several monthly payments in a row (typically 9 for federal loans). It does not include defaults on private student loans.
+
+This tells you how many people from this school have earned enough money to start paying down their debt. This is defined as the proportion of student borrowers who have reduced the original principal balance of their federal student debt by at least $1 within 3 years of entering repayment.
+
+In addition to seeing the school’s most recent statistics (if available), you can rank it against other schools. The gas gauge graph shows whether the school falls into the top third (green), middle third (yellow), or bottom third (red) of schools within each selected group.
+
+If you are considering a 2-year school, it will only be compared to other 2-year schools. If you are considering a 4-year school, it will only be compared to other 4-year schools.
+
+Here are the comparisons offered:
+
+• In the U.S.: This is the default comparison. It compares the school to all other schools in College Scorecard. For example, if you are considering a 2-year school, that school will be ranked against all other 2-year schools with statistics in College Scorecard.
+• By state: Clicking this ranks the school against all the other schools in the same state. For example, if you are considering a 2-year school in Montana, this comparison will rank that school against all other 2-year schools in Montana.
+• Public/Private : Clicking this compares public schools to other public schools and private schools to other private schools (including for-profit institutions). For example, if you are considering a private, 2-year, for-profit school, it will be ranked against all 2-year private schools in College Scorecard, both for profit and not-for-profit.
+
+REVIEW YOUR PLAN
+
+This page allows you to review all the information you’ve seen and entered. This information should help you to answer crucial questions about whether you can afford this school, both this year and in the future if you are planning to borrow student loans.
+
+Look at “Costs not covered yet” under “Covering my costs.” If this number is more than $0, you may need to revisit your plan and find ways to either reduce costs or increase funding.
+
+The section “Affording your loans” offers a few different ways to evaluate the long-term affordability of the debt you’re considering. These include:
+
+• whether your projected total debt is less than your expected salary
+• the estimated total cost of borrowing that debt on a 10-year repayment plan
+• the affordability of your monthly payment, including comparisons between the projected monthly payment versus a $15 hourly wage and versus a typical budget at your expected salary.
+If your school reports statistics to College Scorecard, we can provide information about available programs, graduation rates, and student success in managing their debt. You can also use this page to compare financial aid offers from multiple schools, line by line, apples to apples.
+
+WHAT TO DO NEXT
+
+The list of possible next steps depends on the type of program you selected. Remember that any changes you made to your offer in "Your Financial Path to Graduation" do not affect your actual financial aid offer or your ability to accept the original offer. You will need to contact the school’s financial aid representative and work with them to have your financial aid package updated if you’d like to make changes to your original financial aid offer.
+
+SAVE & FINISH
+
+SAVING AND YOUR PRIVACY
+
+This tool allows you to leave our website and return without any of your data being stored. It does not collect any of your personal information.
+
+This tool saves your progress by populating the URL with the numbers you’ve entered; as you proceed through the tool, a new URL will be generated. Every page of the tool offers the option to save your progress and finish later. Clicking on that will generate a pop-up window that allows you to send that URL to any email address. While the URLs are captured by analytics software, they are not stored on Bureau servers and do not tie back to any of your personal information.
+
+HOW THE QUESTIONS ARE USED
+
+The goals of this tool are to help students understand their financial aid offer and the potential impact of student loans. Your responses help us evaluate if we are succeeding at those goals. Your responses do not tie back to any of your personal information.
+
+Page last modified
+Jan. 6, 2025
+@
+12:48 PM EST
+
+View older versions of this page at our public archive.

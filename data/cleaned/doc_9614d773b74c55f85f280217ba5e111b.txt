@@ -1,0 +1,466 @@
+• HOME
+• curric
+• Computer Science and Engineering
+
+COMPUTER SCIENCE AND ENGINEERING (CSE)
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+Earl Warren College
+Engineering Building, Unit 3B
+Undergraduate Affairs, Room 1200
+http://cse.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+THE UNDERGRADUATE PROGRAM
+
+DEGREE AND PROGRAM OPTIONS
+
+The Department of Computer Science and Engineering (CSE) offers four degree programs: the BS in computer science, the BS in computer engineering, the BS in artificial intelligence, and the BS in computer science with a specialization in bioinformatics. All major requirements for each degree program must be completed with a C– or better, except for courses offered Pass/No Pass only.
+
+All CSE programs of study provide a broad and rigorous curriculum and are designed to provide students with the strong academic education and technical training necessary for placement in the competitive high-tech job market as well as for advanced studies in graduate school.
+
+The CSE department encourages students to explore opportunities outside the classroom. Students may apply to be tutors and readers in CSE courses, which are excellent opportunities to interact more closely with faculty and gain communication and training skills. Independent research is recommended, and CSE students participate in research projects with graduate students and faculty from CSE, the San Diego Supercomputer Center, Calit2’s Qualcomm Institute, and other departments across campus. The department has strong ties with the local and national high-tech industry, where students can earn course credit through internship positions that allow them to apply their academic knowledge toward exciting commercial technologies.
+
+Please note that DS25, MA30, and any majors within the Jacobs School of Engineering may not double major in any CSE major, nor may they minor in CSE.
+
+BS COMPUTER SCIENCE PROGRAM
+
+The lower-division course requirements are designed to provide a strong foundation in mathematics, physics, programming methodology and skills, and computer organization. Upper-division core courses deal with the theory and design of algorithms, hardware, and software. Electives allow students to gain additional breadth and/or depth in computer science and engineering.
+
+Recommended high school preparation includes mathematics courses so that students can take first-year calculus in their first quarter. Courses in high school physics and computer programming are helpful preparation but are not required.
+
+The BS computer science requires a total of 124 units for the BS computer science program (not including the general-education requirements).
+
+1. LOWER-DIVISION REQUIREMENTS
+
+Students are expected to complete the following fifty-two units by the end of their sophomore year.
+
+• Computer Science and Engineering: CSE 8B or CSE 11, CSE 12, (CSE 15L or CSE 29), CSE 20 (or MATH 15A or MATH 31CH or MATH 109), CSE 21 (or MATH 154 or MATH 184), and CSE 30 (twenty-two or twenty-four units)
+• Computer Science and Engineering: minimum of four units chosen from CSE 3, CSE 4GS, CSE 6R, CSE 6GS, CSE 8A, CSE 42, CSE 86, CSE89, CSE 90, CSE 91, CSE 95, CSE 99, CSE 180, CSE 180R, MAE 8, MAE 9, COGS 9, COGS 10, COGS 18, ECE 15, ENG 10, ENG 15, NANO 15, CENG 15, or any CSE upper-division course not used to fulfill other degree requirements
+• Mathematics: MATH 20A, MATH 20B, MATH 20C (or MATH 31BH), and MATH 18 (or MATH 31AH) (sixteen units)
+• General Science: One course chosen from PHYS 2A, PHYS 2B, PHYS 4A, PHYS 4B, CHEM 6A or CHEM 6AH, CHEM 6B or CHEM 6BH, BILD 1, BILD 2, BILD 3, BICD 100, BIMM 101, BIMM 121, COGS 107A, COGS 107B, COGS 115, ESYS 101, HDS 110, SIO 126, or SIO 128 (four units)
+• Probability and Statistics: MATH 181A or MATH 183 or ECE 109 or ECON 120A or CSE 103 (four units)
+
+2. UPPER-DIVISION REQUIREMENTS
+
+Students must complete seventy-two upper-division units: twelve units of core courses and sixty units of elective courses.
+
+• Core Courses Data structures and programming: CSE 100 Algorithms: CSE 101 Software engineering: CSE 110
+• Data structures and programming: CSE 100
+• Algorithms: CSE 101
+• Software engineering: CSE 110
+• Electives: Almost all upper-division CSE courses that are not core courses or special studies courses are tagged with the program-level outcome(s) (Systems, Theory/Abstraction, and Applications of Computing) with which they align. Electives must give sufficient breadth within these outcomes: At least twelve units of courses tagged with Systems. At least twelve units of courses tagged with Theory/Abstraction. At least twelve units of courses tagged with Applications of Computing. Also, a minimum of twenty-four units of CSE upper-division or graduate courses or non-CSE classes that are tagged with one of the three tags (which are not used to satisfy the core or breadth elective requirements). The following courses may be used as electives: Computer Science and Engineering Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements. Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well. Cognitive Science Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189 Data Science Systems: DSC 102 Economics Applications of Computing: ECON 172A-B Electrical and Computer Engineering Systems: ECE 140A-B Applications of Computing: ECE 140A-B Education Studies Applications of Computing: EDS 124AR, EDS 124BR Engineering (Global Ties) Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center . Linguistics Applications of Computing: LIGN 165, LIGN 167 Mathematics Theory/Abstraction: MATH 170A-B-C, MATH 171A-B, MATH 173A-B, MATH 185 Applications of Computing: MATH 155A, MATH 189 A maximum of twelve units of P/NP courses may count, chosen from: a maximum of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE 197; a maximum of two units of CSE 109. Students who wish to exceed the twelve-unit special studies limit will need to submit a petition for faculty review (faculty will be reviewing the rigor of the special studies being completed).
+
+• At least twelve units of courses tagged with Systems.
+• At least twelve units of courses tagged with Theory/Abstraction.
+• At least twelve units of courses tagged with Applications of Computing.
+• Also, a minimum of twenty-four units of CSE upper-division or graduate courses or non-CSE classes that are tagged with one of the three tags (which are not used to satisfy the core or breadth elective requirements). The following courses may be used as electives: Computer Science and Engineering Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements. Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well. Cognitive Science Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189 Data Science Systems: DSC 102 Economics Applications of Computing: ECON 172A-B Electrical and Computer Engineering Systems: ECE 140A-B Applications of Computing: ECE 140A-B Education Studies Applications of Computing: EDS 124AR, EDS 124BR Engineering (Global Ties) Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center . Linguistics Applications of Computing: LIGN 165, LIGN 167 Mathematics Theory/Abstraction: MATH 170A-B-C, MATH 171A-B, MATH 173A-B, MATH 185 Applications of Computing: MATH 155A, MATH 189
+• Computer Science and Engineering Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements. Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well.
+• Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements.
+• Undergraduate students may petition to use graduate-level course work toward their elective requirements.
+• Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well.
+• Cognitive Science Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189
+• Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189
+• Data Science Systems: DSC 102
+• Systems: DSC 102
+• Economics Applications of Computing: ECON 172A-B
+• Applications of Computing: ECON 172A-B
+• Electrical and Computer Engineering Systems: ECE 140A-B Applications of Computing: ECE 140A-B
+• Systems: ECE 140A-B
+• Applications of Computing: ECE 140A-B
+• Education Studies Applications of Computing: EDS 124AR, EDS 124BR
+• Applications of Computing: EDS 124AR, EDS 124BR
+• Engineering (Global Ties) Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center .
+• Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once.
+• Students may request to have their degree audit updated by contacting the Virtual Advising Center .
+• Linguistics Applications of Computing: LIGN 165, LIGN 167
+• Applications of Computing: LIGN 165, LIGN 167
+• Mathematics Theory/Abstraction: MATH 170A-B-C, MATH 171A-B, MATH 173A-B, MATH 185 Applications of Computing: MATH 155A, MATH 189
+• Theory/Abstraction: MATH 170A-B-C, MATH 171A-B, MATH 173A-B, MATH 185
+• Applications of Computing: MATH 155A, MATH 189
+• A maximum of twelve units of P/NP courses may count, chosen from: a maximum of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE 197; a maximum of two units of CSE 109. Students who wish to exceed the twelve-unit special studies limit will need to submit a petition for faculty review (faculty will be reviewing the rigor of the special studies being completed).
+• All courses must be taken for a letter grade, except those offered P/NP only.
+• See the CSE website for a sample four-year plan of study.
+• Students should read “ CSE Course Placement Advice ” on the CSE website for assistance in determining which CSE course to take first, CSE 3, CSE 8A, or CSE 11.
+• Computer science advanced placement credit: A Exam (Java Programming), two units. Score of 4 exempts CSE 8A, and students should take CSE 11.
+• CSE 8B or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Please obtain department approval for enrollment permission for CSE 20/MATH 15A by submitting a course preauthorization request.
+• Once a graduate course is used for an undergraduate degree, that course may not be reused for a graduate degree.
+• Students are responsible for verifying their degree audit is accurate and up-to-date before submitting their Degree and Diploma Application (DDA). Changes will not be made to degree audits once the degree has been conferred.
+
+BS COMPUTER ENGINEERING PROGRAM
+
+The BS computer engineering program is jointly administered by the Departments of Computer Science and Engineering and Electrical and Computer Engineering. The curriculum is the same in both departments. Students wishing to take the computer engineering program must be admitted to one of the departments.
+
+The lower-division computer engineering program is designed to provide a strong foundation in mathematics, physics, electrical engineering, programming methodology and skills, and computer organization. Upper-division core courses deal with the theory and design of algorithms, hardware and software, as well as electronic systems. Students can gain additional breadth and/ or depth in computer science and engineering by an appropriate selection of technical electives.
+
+Recommended high school preparation includes mathematics courses so that students can take first-year calculus in their first quarter. Courses in high school physics and computer programming are helpful preparation but are not required.
+
+The BS computer engineering program requires a total of 132 units (not including the general-education requirements).
+
+1. LOWER-DIVISION REQUIREMENTS
+
+Students are expected to complete the following sixty-eight units by the end of their sophomore year.
+
+• Computer Science and Engineering: CSE 8B or CSE 11, CSE 12, CSE 29 or ECE 15, and CSE 30 or ECE 30 (sixteen units)
+• Mathematics: MATH 20A, MATH 20B, MATH 20C (or MATH 31BH), MATH 20D, and MATH 18 (or MATH 31AH) (twenty units)
+• Physics : PHYS 2A, PHYS 2B, PHYS 2C (twelve units). MATH 20A is a prerequisite for PHYS 2A. Students whose performance on the Department of Mathematics placement test permits them to start with MATH 20B or a higher course may take PHYS 2A in the fall quarter of the first year; all others will take PHYS 2A in the winter quarter of the first year. Students who received high grades in both calculus and physics in high school may substitute the major’s sequence, PHYS 4A-B-C, for PHYS 2A-B-C.
+• Probability and Statistics: MATH 11 or ECE 109 (four units)
+• Electrical Engineering : ECE 35 and ECE 45 (eight units)
+
+2. UPPER-DIVISION REQUIREMENTS
+
+Students must complete sixty-four upper-division units: eight units of CSE core courses, twelve units of ECE core courses, four CSE or ECE project course units, and forty units of elective courses.
+
+• Core CSE Courses: CSE 140 and (CSE 141 or CSE 142) (eight units)
+• Core ECE Courses : ECE 101, ECE 108, and ECE 111 (twelve units)
+• CSE or ECE Project Course: Students need to select and complete one course from this list: CSE 118, CSE 145, CSE 147, CSE 148, CSE 170, CSE 176A, CSE 176E, ECE 115, ECE 140B, ECE 144, ECE 191, ECE 196 (four units).
+• Electives : Ten courses (forty units) must be completed At least forty units o f upper - division (or graduate) CSE and ECE courses need to be taken as electives, which includes CSE 100 – 299 and ECE 100 – 299. A maximum of four units of P/NP courses may count among the following: CSE 109, CSE 198, CSE 199, CSE 199H, ECE 191, ECE 193H, ECE 196, ECE 198, ECE 199. Beyond CSE and ECE electives, additional units of these courses can count toward the total degree units. Undergraduate students may use CSE or ECE graduate-level courses toward their major requirements but may need a petition if they have taken the equivalent or similar undergraduate course. Undergraduate students must get instructor ’ s permission and departmental approval (EASy request) to enroll in a graduate course . A maximum of two courses (eight units) of CSE or ECE e lectives or t echnical e lective courses from departments outside of CSE or ECE may be used to fulfill the major requirements .
+
+• At least forty units o f upper - division (or graduate) CSE and ECE courses need to be taken as electives, which includes CSE 100 – 299 and ECE 100 – 299.
+• A maximum of four units of P/NP courses may count among the following: CSE 109, CSE 198, CSE 199, CSE 199H, ECE 191, ECE 193H, ECE 196, ECE 198, ECE 199. Beyond CSE and ECE electives, additional units of these courses can count toward the total degree units. Undergraduate students may use CSE or ECE graduate-level courses toward their major requirements but may need a petition if they have taken the equivalent or similar undergraduate course. Undergraduate students must get instructor ’ s permission and departmental approval (EASy request) to enroll in a graduate course .
+• A maximum of two courses (eight units) of CSE or ECE e lectives or t echnical e lective courses from departments outside of CSE or ECE may be used to fulfill the major requirements .
+
+3. OPEN ELECTIVES
+
+Students must complete at most
+eight
+units of either lower
+-
+or upper
+-
+division CSE or ECE courses, which includes courses taken for a letter grade among courses CSE 3
+–
+199 and/or ECE 5
+–
+199.
+
+• All courses must be taken for a letter grade unless they are offered P/NP only.
+• See the CSE website for a sample four-year plan of study.
+• Students should read “ CSE Course Placement Advice ” on the CSE website for assistance in determining which CSE course to take first: CSE 3A, CSE 8A, or CSE 11.
+• Computer science advanced placement credit: A Exam (Java Programming) (two units). Score of 4 exempts CSE 8A; students should take CSE 11.
+• Once a graduate course is used for an undergraduate degree, that course may not be reused for a graduate degree.
+• Students are responsible for verifying their degree audit is accurate and up-to-date before submitting their Degree and Diploma Application (DDA). Changes will not be made to degree audits once the degree has been conferred.
+
+BS ARTIFICIAL INTELLIGENCE PROGRAM
+
+The educational philosophy behind the AI major has three components. First, we want to help students develop foundations that will serve them a lifetime, so they can build the next advances in AI systems. Second, we want to provide students with opportunities to learn AI in many different settings and with many applications—we will engage with many units on campus so students have the option to connect across as many fields as possible (this will be an evolving endeavor over time, with more courses added as the area grows on campus). Third, we want to situate the area of AI in a broader societal, ethical, and professional context so students are empowered to reason about the impact of their work.
+
+The BS artificial intelligence program requires a total of 124 units (not including the general-education requirements).
+
+1. LOWER-DIVISION REQUIREMENTS
+
+Students are expected to complete the following sixty units by the end of their sophomore year.
+
+• Computer Science and Engineering: CSE 8B or CSE 11, CSE 12, (CSE 15L or CSE 29), CSE 20 (or MATH 15A or MATH 31CH or MATH 109), CSE 21 (or MATH 154 or MATH 158 or MATH 184 or MATH 188), and CSE 30 (twenty-two or twenty-four units)
+• Computer Science and Engineering: minimum of four units chosen from CSE 3, CSE 4GS, CSE 6R, CSE 6GS, CSE 8A, CSE 42, CSE 86, CSE 89, CSE 90, CSE 91, CSE 95, CSE 99, CSE 180, CSE 180R, MAE 8, MAE 9, COGS 9, COGS 10, COGS 18, ECE 15, ENG 10, ENG 15, NANO 15, CENG 15, or any CSE upper-division course not used to fulfill other degree requirements.
+• Artificial Intelligence: CSE 25, CSE 55 (eight units)
+• Mathematics: MATH 20A-B, MATH 20C (or MATH 31BH), and MATH 18 (or MATH 31AH) (sixteen units)
+• General Science: One course chosen from PHYS 2A-B, PHYS 4A-B, CHEM 6A or CHEM 6AH, CHEM 6B or CHEM 6BH, BILD 1, BILD 2, BILD 3, BICD 100, BIMM 101, BIMM 121, COGS 107A-B, COGS 115, ESYS 101, HDS 110, SIO 126, or SIO 128 (four units)
+• Probability and Statistics: CSE 103 (four units)
+
+2. UPPER-DIVISION REQUIREMENTS
+
+Students must complete sixty-four upper-division units: sixteen units of core courses and forty-eight units of elective courses.
+
+• Core Courses Data structures and programming: CSE 100 or CSE 100R Algorithms: CSE 101 Artificial Intelligence: CSE 150A or CSE 150B Machine Learning: CSE 151A
+• Data structures and programming: CSE 100 or CSE 100R
+• Algorithms: CSE 101
+• Artificial Intelligence: CSE 150A or CSE 150B
+• Machine Learning: CSE 151A
+• Ethics: Four units PHIL 174
+• PHIL 174
+• AI Electives: Twelve units of AI electives chosen from the list below (which are not used to satisfy other core or breadth elective requirements): CSE 106, CSE 150A-B, CSE 151B, CSE 152A-B, CSE 153 or CSE 153R, CSE 154, CSE 156, CSE 157, CSE 158 or CSE 158R, CSE 176B, CSE 186 DSC 102, DSC 120, DSC 131, DSC 140A-B, DSC 148, DSC 155, DSC 161, DSC 170, DSC 185 COGS 108, COGS 109, COGS 118A-B-C, COGS 181, COGS 182, COGS 185, COGS 186, COGS 188 MATH 102, MATH 170A, MATH 173A-B, MATH 181A, MATH 181D, MATH 182, MATH 189 ECE 172A, ECE 175A-B, ECE 176
+• CSE 106, CSE 150A-B, CSE 151B, CSE 152A-B, CSE 153 or CSE 153R, CSE 154, CSE 156, CSE 157, CSE 158 or CSE 158R, CSE 176B, CSE 186
+• DSC 102, DSC 120, DSC 131, DSC 140A-B, DSC 148, DSC 155, DSC 161, DSC 170, DSC 185
+• COGS 108, COGS 109, COGS 118A-B-C, COGS 181, COGS 182, COGS 185, COGS 186, COGS 188
+• MATH 102, MATH 170A, MATH 173A-B, MATH 181A, MATH 181D, MATH 182, MATH 189
+• ECE 172A, ECE 175A-B, ECE 176
+• Electives: Thirty-two units of CSE electives. Almost all upper-division CSE courses that are not core courses or special studies courses are tagged with the program-level outcome(s) (Systems, Theory/Abstraction, and Applications of Computing) with which they align. Electives must give sufficient breadth within these outcomes: At least eight units of courses tagged with Systems . At least eight units of courses tagged with Theory/Abstraction . At least eight units of courses tagged with Applications of Computing . Also, a minimum of eight units of CSE upper-division or graduate courses or non-CSE classes that are tagged with one of the three tags (which are not used to satisfy the core or breadth elective requirements). The following courses may be used as electives: Computer Science and Engineering Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements. Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well. Cognitive Science Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120–127, COGS 181, COGS 185, COGS 187A-B, COGS 189 Data Science Systems: DSC 102 Economics Applications of Computing: ECON 172A-B Education Studies Applications of Computing: EDS 124AR, EDS 124BR Electrical and Computer Engineering Systems: ECE 140A-B Applications of Computing: ECE 140A-B Engineering (Global Ties) Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center. Linguistics Applications of Computing: LIGN 165, LIGN 167 Mathematics
+• At least eight units of courses tagged with Systems .
+• At least eight units of courses tagged with Theory/Abstraction .
+• At least eight units of courses tagged with Applications of Computing .
+• Also, a minimum of eight units of CSE upper-division or graduate courses or non-CSE classes that are tagged with one of the three tags (which are not used to satisfy the core or breadth elective requirements). The following courses may be used as electives: Computer Science and Engineering Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements. Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well. Cognitive Science Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120–127, COGS 181, COGS 185, COGS 187A-B, COGS 189 Data Science Systems: DSC 102 Economics Applications of Computing: ECON 172A-B Education Studies Applications of Computing: EDS 124AR, EDS 124BR Electrical and Computer Engineering Systems: ECE 140A-B Applications of Computing: ECE 140A-B Engineering (Global Ties) Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center. Linguistics Applications of Computing: LIGN 165, LIGN 167 Mathematics
+• Computer Science and Engineering Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements. Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well.
+• Any CSE upper-division course between CSE 100–194 that is not being used for another major requirement, with the exception of CSE 180/180R and CSE 191 which are not allowed to meet CSE upper-division CSE elective requirements.
+• Undergraduate students may petition to use graduate-level course work toward their elective requirements.
+• Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well.
+• Cognitive Science Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120–127, COGS 181, COGS 185, COGS 187A-B, COGS 189
+• Applications of Computing: COGS 108, COGS 109, COGS 118A-C, COGS 120–127, COGS 181, COGS 185, COGS 187A-B, COGS 189
+• Data Science Systems: DSC 102
+• Systems: DSC 102
+• Economics Applications of Computing: ECON 172A-B
+• Applications of Computing: ECON 172A-B
+• Education Studies Applications of Computing: EDS 124AR, EDS 124BR
+• Applications of Computing: EDS 124AR, EDS 124BR
+• Electrical and Computer Engineering Systems: ECE 140A-B Applications of Computing: ECE 140A-B
+• Systems: ECE 140A-B
+• Applications of Computing: ECE 140A-B
+• Engineering (Global Ties) Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center.
+• Applications of Computing: Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once.
+• Students may request to have their degree audit updated by contacting the Virtual Advising Center.
+• Linguistics Applications of Computing: LIGN 165, LIGN 167
+• Applications of Computing: LIGN 165, LIGN 167
+• Mathematics
+• Theory/Abstraction: MATH 170A-B-C, MATH 171A-B, MATH 173A-B, MATH 185 Applications of Computing: MATH 155A, MATH 189
+• Theory/Abstraction: MATH 170A-B-C, MATH 171A-B, MATH 173A-B, MATH 185
+• Applications of Computing: MATH 155A, MATH 189
+• A maximum of twelve units of P/NP courses may count, chosen from: a maximum of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE 197; a maximum of two units of CSE 109. Students who wish to exceed the twelve-unit special studies limit will need to submit a petition for faculty review (faculty will be reviewing the rigor of the special studies being completed).
+Notes for Selecting and Scheduling Classes for Artificial Intelligence (BS)
+
+• All courses must be taken for a letter grade, except those offered P/NP only.
+• See the CSE website for a sample four-year and two-year plan of study.
+• Students should read “ CSE Course Placement Advice ” on the CSE website for assistance in determining which CSE course to take first: CSE 3, CSE 8A, or CSE 11.
+• Computer science advanced placement credit: A Exam (Java Programming), two units. Score of 4 exempts CSE 8A, and students should take CSE 11.
+• CSE 8B or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Please obtain department approval for enrollment permission for CSE 20/MATH 15A by submitting a course preauthorization request.
+• Once a graduate course is used for an undergraduate degree, that course may not be reused for a graduate degree.
+• Students are responsible for verifying their degree audit is accurate and up-to-date before submitting their Degree and Diploma Application (DDA). Changes will not be made to degree audits once the degree has been conferred.
+
+BS COMPUTER SCIENCE WITH A SPECIALIZATION IN BIOINFORMATICS
+
+The explosion in biological knowledge spawned by the various genome projects has created entirely new fields and industries, and a need for trained computational biologists who are familiar with biology, mathematics, and computer sciences. The computer science and engineering department offers rigorous, interdisciplinary training in the new and rapidly evolving field of bioinformatics.
+
+Bioinformatics refers to advanced computational and experimental methods that model the flow of information (genetic, metabolic, and regulatory) in living systems to provide an integrated understanding of the system properties of organisms.
+
+This interdisciplinary major also is offered by the School of Biological Sciences and the Department of Bioengineering.
+
+The BS computer science with a specialization in bioinformatics program requires a total of 128 units (not including the general-education requirements).
+
+1. LOWER-DIVISION REQUIREMENTS
+
+Students are expected to complete the following sixty-two or sixty-four units by the end of their sophomore year. All classes must be taken for a letter grade unless offered P/NP only.
+
+• Computer Science and Engineering : CSE 8B or 11, CSE 12, (CSE 15L or CSE 29), CSE 21, and CSE 30 (eighteen or twenty units)
+• Computer Science and Engineering : minimum of two units chosen from CSE 3, CSE 4GS, CSE 6R, CSE 6GS, CSE 8A, CSE 42, CSE 86, CSE 89, CSE 90, CSE 91, CSE 95, CSE 99, CSE 180, CSE 180R, MAE 8, MAE 9, COGS 9, COGS 10, COGS 18, ECE 15, ENG 10, ENG 15, NANO 15, CENG 15, or any CSE upper-division course not used to fulfill other degree requirements (two units)
+• Mathematics : MATH 20A, MATH 20B, MATH 20C (or MATH 31BH), and MATH 18 (or MATH 31AH) (sixteen units)
+• Chemistry : CHEM 6A-B, (eight units)
+• Organic Chemistry: CHEM 40A or CHEM 41A (four units)
+• Biology : BILD 1, BILD 3, and BILD 4 (ten units)
+• Physics : PHYS 2A (four units)
+
+2. UPPER-DIVISION REQUIREMENTS
+
+Students must complete sixty-four upper-division units. All courses must be taken for a letter grade unless offered P/NP only.
+
+• CSE 100 (four units)
+• CSE 101 (four units)
+• CHEM 114A or BIBC 102 (four units)
+• BICD 100 (four units)
+• BIMM 100 (four units)
+• BIMM 101 (four units)
+• The bioinformatics series, comprising the following five courses (twenty units): CSE 181 or BIMM 181 or BENG 181 (four units) CSE 182 or BIMM 182 or BENG 182 (four units) BENG 183 (four units) CSE 185 (four units) MATH 186 (four units) Five upper-division electives: The following courses may also be applied to the twenty-four-unit minimum: Computer Science and Engineering Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well. Cognitive Science COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189 Data Science DSC 102 Electrical and Computer Engineering ECE 140A, ECE 140B Education Studies EDS 124AR, EDS 124BR Engineering (Global Ties) Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective/technical elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center . Linguistics LIGN 165, LIGN 167 A maximum of twelve units of P/NP courses may count, chosen from: a maximum of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE 197; a maximum of two units of CSE 109. Students who wish to exceed the twelve-unit special studies limit will need to submit a petition for faculty review (faculty will be reviewing the rigor of the special studies being completed). A maximum of four units of special studies course work may count from the following: CSE 197, CSE 198, CSE 199, CSE 199H, ENG 100D, or ENG 100L.
+• CSE 181 or BIMM 181 or BENG 181 (four units)
+• CSE 182 or BIMM 182 or BENG 182 (four units)
+• BENG 183 (four units)
+• CSE 185 (four units)
+• MATH 186 (four units)
+• Five upper-division electives: The following courses may also be applied to the twenty-four-unit minimum: Computer Science and Engineering Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well. Cognitive Science COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189 Data Science DSC 102 Electrical and Computer Engineering ECE 140A, ECE 140B Education Studies EDS 124AR, EDS 124BR Engineering (Global Ties) Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective/technical elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center . Linguistics LIGN 165, LIGN 167
+• Computer Science and Engineering Undergraduate students may petition to use graduate-level course work toward their elective requirements. Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well.
+• Undergraduate students may petition to use graduate-level course work toward their elective requirements.
+• Students may use twelve units of CSE 190 toward CSE elective credit. CSE 190 topics may vary from quarter to quarter. May be repeated for credit a maximum of three times (maximum of twelve units; courses must be taken for a different topic). The graduate analogue, CSE 291, applies to this twelve-unit maximum, as well.
+• Cognitive Science COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189
+• COGS 108, COGS 109, COGS 118A-C, COGS 120, COGS 120-127, COGS 181, COGS 185, COGS 187A-B, COGS 189
+• Data Science DSC 102
+• DSC 102
+• Electrical and Computer Engineering ECE 140A, ECE 140B
+• ECE 140A, ECE 140B
+• Education Studies EDS 124AR, EDS 124BR
+• EDS 124AR, EDS 124BR
+• Engineering (Global Ties) Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective/technical elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once. Students may request to have their degree audit updated by contacting the Virtual Advising Center .
+• Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective/technical elective credits (as part of the twelve-unit maximum of special studies courses—CSE 197, 198, 199, 199H). Students may only take ENG 100D once.
+• Students may request to have their degree audit updated by contacting the Virtual Advising Center .
+• Linguistics LIGN 165, LIGN 167
+• LIGN 165, LIGN 167
+• A maximum of twelve units of P/NP courses may count, chosen from: a maximum of eight units of CSE 198 or 199 or 199H; a maximum of four units of CSE 197; a maximum of two units of CSE 109. Students who wish to exceed the twelve-unit special studies limit will need to submit a petition for faculty review (faculty will be reviewing the rigor of the special studies being completed).
+• A maximum of four units of special studies course work may count from the following: CSE 197, CSE 198, CSE 199, CSE 199H, ENG 100D, or ENG 100L.
+• See the CSE website for a sample four-year plan of study.
+• Students should read “ CSE Course Placement Advice ” on the CSE website for assistance in determining which CSE course to take first: CSE 3A, CSE 8A, CSE 8B, or CSE 11.
+• Computer science advanced placement credit: A Exam (Java Programming) (two units). Score of 4 exempts CSE 8A; students should take CSE 11.
+• CSE 8B or CSE 11 may be taken concurrently with CSE 20/MATH 15A. Students may enroll in SE 20 after they are enrolled in CSE 8B or CSE 11; students on the wait list for CSE 8B or CSE 11 will not be allowed to add CSE 20.
+• Students are responsible for verifying their degree audit is accurate and up-to-date before submitting their Degree and Diploma Application (DDA). Changes will not be made to degree audits once the degree has been conferred.
+
+RESTRICTIONS
+
+• At most four units of CSE 197 may be used toward technical elective requirements.
+• CSE 195 cannot be used toward course requirements.
+• Undergraduate students must get instructor’s permission and departmental approval (via the Enrollment Authorization System) to enroll in a graduate course.
+• Students may not get duplicate credit for equivalent courses.
+• The UC San Diego General Catalog should be consulted for equivalency information and any restrictions placed on the courses.
+• Additional restrictions are noted below. Any deviation from this list must be petitioned.
+
+TECHNICAL ELECTIVES FOR ALL CSE MAJORS
+
+The discipline of computer science and engineering interacts with a number of other disciplines in a mutually beneficial way. These disciplines include mathematics, electrical engineering, and cognitive science. The following is a list of upper-division courses from these and other disciplines that can be counted as technical electives.
+
+All COGS upper-division courses 100–189.
+
+Students may not receive credit for both CSE 151A and COGS 188.
+
+Students may only receive credit for one of the following: CSE 151B, CSE 154, or COGS 181.
+
+Students may not receive credit for both CSE 170 and COGS 120.
+
+COMM 105G. Computer Game Studies, COMM 106I. Internet Industry.
+
+DSC 102. Systems for Scalable Analytics, DSC 120. Signal Processing for Data Analysis.
+
+ECON 100A-B. Microeconomics, ECON 109. Game Theory, ECON 110A-B. Macroeconomics, ECON 113. Mathematical Economics, ECON 120A-B-C. Econometrics, ECON 121. Applied Econometrics and Data Analysis, ECON 171. Decisions Under Uncertainty, ECON 172A-B. Introduction to Operations Research, ECON 178. Economic and Business Forecasting.
+
+Credit will be given for only one of the following: ECE 109 or MATH 183 or ECON 120A.
+
+EDS 124AR. Teaching and Computation in the Digital World, EDS 124BR. Teaching and Computational Thinking for Everyone.
+
+All four-unit ECE upper-division courses from ECE 100–ECE 189 and ECE 196.
+
+Students may not get credit for both CSE 123 and ECE 158A or CSE 143 and ECE 165. Credit will be given for only one of the following: ECE 109 or MATH 183 or ECON 120A.
+
+Students may use up to eight units of ENG 100D/L courses toward upper-division CSE elective/technical elective credits (as part of the maximum of special studies courses allowed by their major—CSE 197, 198, 199, 199H). Students may only take ENG 100D once.
+
+LIGN 110. Phonetics, LIGN 111. Phonology I, LIGN 120. Morphology, LIGN 121. Syntax I, LIGN 130. Semantics, LIGN 160. Pragmatics, LIGN 165. Computational Linguistics, LIGN 167. Deep Learning for Natural Language Understanding, LIGN 170. Psycholinguistics, and LIGN 175. Sociolinguistics.
+
+All upper-division courses from 100­–194 except MATH 168A, 184. (CS25 computer engineering majors only: MATH 183 is not allowed for a technical elective).
+
+If a student has completed CSE 167, then he or she cannot get elective credit for MATH 155A. Students may receive elective credit for only one of the following courses: MATH 174, MATH 173, PHYS 105A-B, CENG 100, MAE 107. No credit for any of these courses will be given if MATH 170A-B-C is taken.
+
+Credit will be given for only one of the following: ECE 109 or MATH 183 or ECON 120A.
+
+All four-unit upper-division MAE courses from MAE 100–MAE 189, except MAE 140 (ONLY CS26 computer science majors may take MAE 140).
+
+Students may receive elective credit for only one of the following courses: MATH 173, MATH 174, PHYS 105A-B, CENG 100, MAE 107.
+
+MUS 170. Musical Acoustics, MUS 171. Computer Music I, MUS 172. Computer Music II, MUS 173. Electronic Music Production and Composition, MUS 177. Music Programming.
+
+PHYS 105A. Mathematical and Computation Physics I, PHYS 105B. Mathematical and Computation Physics II.
+
+PSYC 161. Engineering Psychology.
+
+MGT 103. Product Marketing and Management, MGT 110. Business: Enterprise Creations and Management, MGT 121A. Innovation to Market A, MGT 127. Innovation and Technology Strategy, MGT 164. Business and Organizational Leadership, MGT 164GS. Business and Organizational Leadership Global Seminar, MGT 166. Business Ethics and Corporate Responsibility, MGT 167. Social Entrepreneurship, MGT 171. Operations Management, MGT 172. Business Project Management, MGT 175. Supply Chain Management, MGT 176. Strategic Cost Management, and MGT 181. Enterprise Finance.
+
+VIS 141A. Computer Programming for the Arts I, VIS 141B. Computer Programming for the Arts II, VIS 142. Practices in Computing for the Arts II, VIS 143. Virtual Environments, VIS 147A. Electronic Technologies for Art I, VIS 147B. Electronic Technologies for Art II.
+
+WCWP 160. Technical Writing for Scientists and Engineers.
+
+CSE HONORS PROGRAM
+
+The CSE Honors Program encourages eligible undergraduate students to perform advanced study in their major. Students in the honors program work closely with faculty on an undergraduate research project, typically completed over two quarters. As a result, the honors program is excellent preparation for further study in a graduate program. Students who complete the honors program also have an honors distinction officially bestowed upon them upon graduation.
+
+The CSE Honors Program does not increase the units required for graduation in a CSE major. Students participating in the Honors Program may apply eight units in CSE 199H for the equivalent of two elective courses for their major. Students may also apply unit credit in CSE 199H toward the cluster requirement in the undergraduate program. Please note that CSE 199H does count toward the special studies limit of twelve units.
+
+ADMISSION
+
+In accordance with university Honors Program guidelines, to apply for the CSE Honors Program students must meet the following prerequisites:
+
+• Junior or senior-level standing in a CSE major
+• 3.5 GPA in CSE major courses, 3.25 GPA overall
+• Completion of CSE 101 and CSE 110
+The honors application form is available on the
+CSE website
+and from the CSE Student Affairs office. Students should submit the application no later than fall quarter of the senior year; submission during spring quarter of the junior year is strongly encouraged.
+
+Admission to the honors program will be formally approved by the CSE honors committee based upon the materials provided in the application.
+
+COMPLETION REQUIREMENTS
+
+In accordance with university Honors Program guidelines, to complete the CSE Honors Program students must meet the following requirements upon graduation:
+
+• 3.25 GPA in a CSE major
+• Eight units of CSE 199H with a GPA of 3.0 (letter grade of B) or higher
+• Written honors thesis
+• Presentation of honors project
+• Signature from faculty adviser on an honors completion form
+• Completion of requirements by the end of the quarter of graduation
+Depending on students’ performance on their honors project, students are eligible to receive the following honors designations on their diploma:
+
+• “With distinction”: Complete the eight units of CSE 199H with a GPA of 3.0 or higher
+• “With high distinction”: Complete the eight units of CSE 199H with a GPA of 3.5 or higher
+• “With highest distinction”: Complete the eight units of CSE 199H with a GPA of 3.8 or higher
+Students must write a thesis describing their honors research project. The thesis must have the content, rigor, and format of scholarly publications in computer science and engineering. The faculty adviser must have reviewed and approved the honors thesis prior to submission by the student.
+
+Students must orally present their project as a requirement for the honors program. Options are available on the
+CSE website
+. The faculty adviser can also provide an alternative presentation opportunity.
+
+GRADUATION REQUIREMENTS
+
+All major requirements and upper-division electives except CSE 91, 95, 109, 197, 198, or 199 must be taken for a letter grade. To graduate, a minimum grade point average of 2.0 will be required in upper-division courses in the major, including upper-division electives. In addition to satisfying requirements for the major, students must satisfy the general-education course requirements of their colleges. The colleges at UC San Diego require widely different general-education courses. Students should choose a college carefully, considering the special nature of the college and breadth of education.
+
+MINOR AND PROGRAM OF CONCENTRATION
+
+The computer science minor is designed to provide basic proficiency in computer science. The requirements focus on programming methodology and skills, computer organization, relevant mathematical skills, structure techniques, laboratory courses with programming projects, and design and analysis of algorithms. Completing these requirements provides a strong foundation in computer science.
+
+LOWER-DIVISION AND UPPER-DIVISION REQUIREMENTS
+
+The CSE minor requires successful completion of a total of eight CSE courses (thirty-two units) taken for a letter grade.
+
+• Lower-division: Four courses (sixteen units): CSE 8B or CSE 11, CSE 12, CSE 20 (or MATH 15A or MATH 31CH or MATH 109), and CSE 21 (or MATH 154 or MATH 184).
+• Upper-division: Four courses (sixteen units) CSE 100 (four units) Electives: Three additional courses (twelve units) chosen from CSE upper-division courses. Note that enrollment in courses is subject to enforcement of prerequisites. For instance, to meet CSE 100 prerequisites, students must complete CSE 12, 15L or 29, CSE 21 (which has a CSE 20 prerequisite), and CSE 30 or ECE 15.
+• CSE 100 (four units)
+• Electives: Three additional courses (twelve units) chosen from CSE upper-division courses. Note that enrollment in courses is subject to enforcement of prerequisites. For instance, to meet CSE 100 prerequisites, students must complete CSE 12, 15L or 29, CSE 21 (which has a CSE 20 prerequisite), and CSE 30 or ECE 15.
+• All courses taken for the minor must be completed with a letter grade.
+• Students must achieve at least a 2.0 GPA in the upper-division CSE minor courses in order for the minor to be awarded.
+• Students in the Jacobs School of Engineering cannot minor in computer science.
+• Mathematics/computer science (MA30) majors will not be allowed to minor in computer science.
+• Data science majors may not minor in computer science.
+• Students are recommended to begin courses for the minor by their sophomore year.
+• Students should consult their college provost’s office concerning the rules for the minor or program of concentration.
+• CS26 minors do not receive priority over non-CSE majors or non-CSE minors in CSE courses.
+
+UC EDUCATION ABROAD PROGRAM (EAP) AND UC SAN DIEGO’S OPPORTUNITIES ABROAD PROGRAM (OAP)
+
+CSE majors are encouraged to participate in the UC Education Abroad Program (EAP) or UC San Diego’s Opportunities Abroad Program (OAP). Subject to approval by the faculty director of the major, courses taken through EAP/OAP will be accepted for credit toward the major. Students interested in studying abroad should contact a CSE undergraduate program adviser to discuss appropriate courses and programs for their plan of study at the
+Virtual Advising Center
+. A list of approved transferrable courses can be found on the
+CSE website
+.
+
+Information on EAP/OAP is given in the “
+Education Abroad Program
+” section of the
+UC San Diego General Catalog
+. Interested students should contact the Study Abroad UC San Diego Office at Matthews Quad and visit its website at
+http://studyabroad.ucsd.edu/
+. Financial aid can be used for EAP/OAP study, and special study-abroad scholarships are also available.
+
+To reduce the amount of time needed to complete degree requirements, transfer students should complete as many prerequisite courses as possible before starting at UC San Diego. A 3.0 GPA in these courses is recommended.
+
+• Calculus I—for Science and Engineering (MATH 20A)
+• Calculus II—for Science and Engineering (MATH 20B)
+• Calculus and Analytic Geometry (MATH 20C)
+• Differential Equations (MATH 20D)—required for BS computer engineering only
+• Linear Algebra (MATH 18)
+• Complete calculus-based physics series (PHYS 2A-B-C)—required for BS computer engineering only
+• Highest level of introductory computer programming language (i.e., Java, C, or C++) course offerings at the community college
+
+COMPUTER SCIENCE AND ENGINEERING UNDERGRADUATE ADMISSIONS
+
+Because of the large number of students interested in computer science undergraduate programs and the limited resources available to accommodate this demand, the university has declared all majors in the Department of Computer Science and Engineering as “Selective”: BS computer science, BS computer engineering, BS artificial intelligence, and BS computer science with specialization in bioinformatics.
+
+Prospective students are selected by the UC San Diego Office of Undergraduate Admissions based on the students’ holistic review scores and availability of slots in the Department of Computer Science and Engineering. All potential first-year students must indicate on the UC application if they wish to major in any of the CSE department majors.
+
+New transfer students will be selected by the UC San Diego Office of Undergraduate Admissions based on the students’ holistic review scores and availability of slots in the Department of Computer Science and Engineering. All potential transfer students must indicate on the UC application if they wish to major in any of the CSE department majors.
+
+Admission to CSE’s majors is limited for all continuing UC San Diego students.
+
+CONTINUING STUDENTS: SELECTIVE MAJOR APPLICATION
+
+UC San Diego students who wish to change from another major into one of CSE’s selective majors may apply to the Department of Computer Science and Engineering for admission into the BS computer science, BS computer engineering, or BS computer science with specialization in bioinformatics major.
+
+Each year the CSE department will determine the total number of spots available in CSE majors, based on available resources. Most of these spots will be used for direct admissions. Most years, we do not forecast there being any spots available beyond those used for these direct admissions to fill through the selective major application.
+
+For more information about the admission process and criteria, please see the UC San Diego “
+Selective Majors” page
+.
+
+The CSE selective major application will be open once per year in the summer.
+
+Screening Courses
+
+• Applicants after first year : A minimum of eight units of screening courses must have been completed at UC San Diego prior to application: CSE 8B or 11, CSE 12, CSE 29 or ECE 15 or CSE 15L, CSE 20 (MATH 15A or MATH 109 may be substituted for CSE 20 if taken first), CSE 21 (or MATH 154 or MATH 184), CSE 30 or ECE 30, and CSE 100 (R). Courses must be completed with a letter grade. Equivalent transfer course work will not count toward the eligibility requirement.
+• Applicants after second year: A minimum of twelve units of screening courses must have been completed at UC San Diego prior to application: CSE 8B or 11, CSE 12, CSE 29 or ECE 15 or CSE 15L, CSE 20 (MATH 15A or MATH 109 may be substituted for CSE 20 if taken first), CSE 21 (or MATH 154 or MATH 184), CSE 30 or ECE 30, CSE 100 (R), and CSE 101. Courses must be completed with a letter grade. Equivalent transfer course work will not count toward the eligibility requirement.

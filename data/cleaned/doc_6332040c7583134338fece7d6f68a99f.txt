@@ -1,0 +1,148 @@
+• HOME
+• curric
+• Data Science
+
+DATA SCIENCE
+
+[
+graduate program
+|
+faculty
+|
+courses
+]
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+PROGRAM FOCUS
+
+Data science is concerned with drawing useful and valid conclusions from data. Data scientists develop mathematical models, computational methods, and tools for exploring, analyzing, and making predictions from data. They ask appropriate questions about data and interpret the predictions based on their expertise of the subject domain.
+
+The primary goal for the data science major is to train a generation of students who are equally versed in predictive modeling, data analysis, and computational techniques. To this end, in addition to learning about data science models and methods, students will acquire expertise in a particular subject domain. The major also educates students about the societal and ethical impact of data science so that they can make responsible decisions as data science practitioners.
+
+MAJORS IN DATA SCIENCE
+
+The major consists of 112 units, with fifty-two units from lower-division courses and sixty units from upper-division courses. The lower-division curriculum includes calculus and linear algebra courses for sixteen units, data science courses for twenty-eight units, and subject domain courses for eight units. The program includes twenty units of elective courses that will enable students to embark upon an in-depth exploration of one or more areas in which data science can profitably be applied. Alternatively, students can choose to explore the mathematical, statistical, and computational foundations of data science in even greater depth.
+
+All majors will be required to undertake a senior project that will give them an opportunity to creatively synthesize much of what they have learned in the data science courses for addressing problems in chosen domains.
+
+LOWER DIVISION
+
+Students are expected to complete the following fifty-two units by the end of their sophomore year. All courses must be taken for a letter grade and passed with a minimum grade of C–.
+
+• Data Science (twenty-eight units): COGS 9 DSC 10/R DSC 20/R DSC 30/R DSC 40A/R DSC 40B/R DSC 80/R
+• COGS 9
+• DSC 10/R
+• DSC 20/R
+• DSC 30/R
+• DSC 40A/R
+• DSC 40B/R
+• DSC 80/R
+• Mathematics (sixteen units): MATH 18 or MATH 31AH MATH 20A MATH 20B MATH 20C or MATH 31BH
+• MATH 18 or MATH 31AH
+• MATH 20A
+• MATH 20B
+• MATH 20C or MATH 31BH
+• Subject Domain Courses: Students must choose one of the following two-course sequences (eight units) Business Analytics and Econometrics: ECON 1 and ECON 3 Machine Learning and Artificial Intelligence: COGS 14A and COGS 14B Science: BILD 1 and BILD 3 Social Sciences I: (POLI 5 or POLI 5D or ECON 5) or (POLI 30 or POLI 30D) Social Sciences II: SOCI 60 and USP 4
+• Business Analytics and Econometrics: ECON 1 and ECON 3
+• Machine Learning and Artificial Intelligence: COGS 14A and COGS 14B
+• Science: BILD 1 and BILD 3
+• Social Sciences I: (POLI 5 or POLI 5D or ECON 5) or (POLI 30 or POLI 30D)
+• Social Sciences II: SOCI 60 and USP 4
+
+UPPER DIVISION
+
+Students must complete sixty upper-division units. All courses must be taken for a letter grade unless offered Pass/Not Pass only. A minimum grade of C– is required.
+
+• Core Courses (thirty-two units): ECON 120A or MATH 183 or MATH 181A MATH 189 DSC 100 DSC 102 DSC 106 DSC 140A or CSE 150A DSC 140B or CSE 151A DSC 148 or CSE 158 or CSE 158R
+• ECON 120A or MATH 183 or MATH 181A
+• MATH 189
+• DSC 100
+• DSC 102
+• DSC 106
+• DSC 140A or CSE 150A
+• DSC 140B or CSE 151A
+• DSC 148 or CSE 158 or CSE 158R
+• Senior Project (eight units): DSC 180A DSC 180B
+• DSC 180A
+• DSC 180B
+• Electives (twenty units): Any upper-division data science course not used to fulfill other requirements with the exception of DSC 197, 198, and 199. Any of the following: BICD 100 and BIEB 174; COGS 108, 109, 118C-D, 120 (cross-listed with CSE 170), 121, 180, 181, and 189; COMM 106I, CSE 106, 151B, 152A, 152B, 156, 166, 170 (cross-listed with COGS 120), and 180; ECON 120B-C; ESYS 103 (cross-listed with MAE 124); LIGN 167; MAE 124 (cross-listed with ESYS 103); MATH 152, 173A-B, 180A-B-C, 181A-B-C-D-E-F, and 194; MGT 103 and 153; PHIL 174; POLI 117 (cross-listed with SIO 109), 170A, 171, 172, and 173; PSYC 106; SIO 109 (cross-listed with POLI 117) and 132; SOCI 102, 103M, 108, 109, 109M, 136, 165, and 171; USP 122, 125, 138, 153, 172, 175, and 180. Students may petition to satisfy up to eight elective units using upper-division courses not on the list above but in their subject domain. Students will be expected to fulfill all prerequisites for all courses, which may entail additional course work beyond the data science major requirements.
+• Any upper-division data science course not used to fulfill other requirements with the exception of DSC 197, 198, and 199.
+• Any of the following: BICD 100 and BIEB 174; COGS 108, 109, 118C-D, 120 (cross-listed with CSE 170), 121, 180, 181, and 189; COMM 106I, CSE 106, 151B, 152A, 152B, 156, 166, 170 (cross-listed with COGS 120), and 180; ECON 120B-C; ESYS 103 (cross-listed with MAE 124); LIGN 167; MAE 124 (cross-listed with ESYS 103); MATH 152, 173A-B, 180A-B-C, 181A-B-C-D-E-F, and 194; MGT 103 and 153; PHIL 174; POLI 117 (cross-listed with SIO 109), 170A, 171, 172, and 173; PSYC 106; SIO 109 (cross-listed with POLI 117) and 132; SOCI 102, 103M, 108, 109, 109M, 136, 165, and 171; USP 122, 125, 138, 153, 172, 175, and 180.
+• Students may petition to satisfy up to eight elective units using upper-division courses not on the list above but in their subject domain.
+• Students will be expected to fulfill all prerequisites for all courses, which may entail additional course work beyond the data science major requirements.
+
+MINOR IN DATA SCIENCE
+
+This minor is intended for students whose primary area of interest lies outside data science, but who are interested in acquiring competence in methods of data analysis. It requires completion of fifty-six units. Courses must be taken for a letter grade with a minimum passing grade of C–. Please be advised that DSC 40A/R serves as prerequisite for required courses. Some upper-division courses also require the completion of DSC 40B/R as a prerequisite. DSC 40A/R-B/R can be taken for P/NP by data science minors.
+
+Students majoring or minoring in computer science and engineering are not able to pursue a DSC minor. Additionally, students must have completed at least one quarter at UC San Diego to be eligible to add the minor. This policy is in place to ensure that students can become accustomed to their major course load before declaring the DSC minor.
+
+LOWER DIVISION
+(THIRTY-SIX UNITS)
+
+• COGS 9. Introduction to Data Science (4)
+• DSC 10/R. Principles of Data Science (4)
+• DSC 20/R. Programming and Basic Data Structures for Data Science (4)
+• DSC 30/R. Data Structures and Algorithms of Data Science (4)
+• DSC 80/R. The Practice and Application of Data Science (4)
+• MATH 18. Linear Algebra (4) or MATH 31AH. Honors Linear Algebra (4)
+• MATH 20A. Calculus for Science and Engineering (4)
+• MATH 20B. Calculus for Science and Engineering (4)
+• MATH 20C. Calculus and Analytical Geometry for Science and Engineering (4) or MATH 31BH. Honors Multivariable Calculus (4)
+
+UPPER DIVISION
+(TWENTY UNITS)
+
+• ECON 120A or MATH 183 or MATH 181A (4)
+• MATH 189. Exploratory Data Analysis and Inference (4)
+• DSC 140A or CSE 150A or CSE 151A or DSC 140B or DSC 148 or COGS 118A or COGS 118B
+• DSC 106. Introduction to Data Visualization (4) or COGS 108. Data Science in Practice (4)
+• Upper-division DSC course (DSC 100–DSC 196) (4)
+
+POLICIES AND PROCEDURES FOR DATA SCIENCE (DSC) UNDERGRADUATE STUDENTS
+
+DATA SCIENCE UNDERGRADUATE ADMISSIONS
+
+Because of the large number of students interested in data science and the limited resources available to accommodate this demand, the university has declared the data science major “capped.” This allows the Data Science Undergraduate Program to continue to offer the highest quality academic program to our students and avoid delays in time to degree due to lack of capacity in our courses.
+
+All potential transfer students must indicate on the UC application if they wish to major in data science. Generally, we do not advise transfer students who have matriculated as a different major to attempt to switch into the data science major through the capped major application process. This is due to the additional screening process that would add to transfer students’ time to graduation, without a guarantee of acceptance into the major.
+
+PROSPECTIVE TRANSFER STUDENTS
+
+REQUIRED TRANSFER MAJOR PREPARATION
+
+Prospective transfer students must complete the minimum major preparation course work to be considered for admission into the major. Visit
+assist.org
+to find the complete listing of major preparation and transferable courses at your college.
+
+Please note that the courses listed in assist.org are for preparation for your major. The courses used in the screening requirements for admission into the major are those on our website.
+
+• MATH 18. Linear Algebra
+• MATH 20A. Calculus I for Science and Engineering
+• MATH 20B. Calculus II for Science and Engineering
+• MATH 20C. Calculus and Analytic Geometry for Science and Engineering
+• Minimum of one programming course in Java, C, C++, or Python. For colleges with ASSIST articulation agreements, the minimum will be CSE 8A, CSE 8B, or CSE 11.
+For more information, please see:
+https://admissions.ucsd.edu/transfer/transfer-major-preparation.html
+.
+
+CONTINUING STUDENTS
+
+UC San Diego students who would like to change from another major into the Data Science Undergraduate Program may apply to the major via the selective major application. Applications must be submitted on or before the deadline. See
+https://datascience.ucsd.edu/prospective-students/selective-major-application/
+for details.
+
+ELIGIBILITY REQUIREMENTS:
+
+In addition to the eligibility criteria outlined on the
+selective major guidance page
+, data science requires successful completion of the following three screening courses: MATH 18 or MATH 31AH, MATH 20C or MATH 31BH, and DSC 10.
+
+Courses must be completed for a letter grade at the time of the selective major application to be eligible. Students may not have any outstanding grades for screening courses or any reason (e.g., incompletes, pending academic integrity case, etc.). Grades from transfer credit for screening courses will be used to determine eligibility.
+
+Starting fall 2025, transfer students will no longer be eligible to apply to the data science major through the selective major application process.
+
+For answers to commonly asked questions,
+please consult this FAQ page on the Undergraduate Education website
+.

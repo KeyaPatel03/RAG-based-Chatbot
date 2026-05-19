@@ -1,0 +1,52 @@
+The Computer Science Department at Sonoma State University provides a cutting-edge curriculum with an emphasis on hands-on experience. Our small classes, teaching-focused faculty, strong student clubs and community come together to make learning a fun, interesting, and valuable experience.
+
+The CS Department offers degree programs leading to a
+Bachelor of Science in Computer Science
+or a
+Minor in Computer Science
+. The CS Department was founded in 1982 at Sonoma State, a university adjacent to leading industrial organizations in software, telecom, biotech, and other computer and technological fields. The SSU Computer Science Department is a member of the
+National Center for Women & Information Technology
+(NCWIT)
+Academic Alliance
+and the
+Computing Alliance of Hispanic-Serving Institutions
+.
+
+ANNOUNCEMENTS
+
+The
+Fall 2025 CS course registration announcement
+is now available.
+
+The CS Department strives to provide students with a broad, fundamental background in computer science which will enable them, upon graduation, to work in industry, pursue graduate study, or both. Our curriculum is aligned with the latest recommendations of the Association for Computing Machinery and includes core coursework in programming, hardware design, computer architecture, database management, software engineering, operating systems, programming languages, and foundations of theoretical computer science. Elective courses are offered in artificial intelligence, bioinformatics, compiler design, embedded systems, graphics, malware, networking and the internet, parallel computing, data compression, game programming, security, wireless networks, and other areas. Additional study in elective areas, internship experience, independent projects and individual research with CS faculty is encouraged.
+
+The Department maintains its own
+computing labs
+and related facilities, including dedicated servers, student labs, and facilities for embedded systems and networking.
+
+The Department hosts a thriving intellectual interchange with its weekly
+Computer Science colloquium
+series.
+
+DEPARTMENT NEWS
+
+QUICK FACTS
+
+30% of CS programs in the
+CSU are impacted
+. We are not, as a commitment to equity and inclusion.
+
+Typical class sizes in our program are ~24-35 students.
+
+Our program develops multiple resume-enhancing skills including Python, C++/C, SQL, Linux/Bash, ARM, ...
+
+OUTCOMES
+
+The data below are the median annual earnings, by years since undergraduate degree, from the
+CSU Labor Market Outcomes Dashboard
+(since 2000).
+
+• 2 years since graduation
+• 5 years since graduation
+• 10 years since graduation
+• 15 years since graduation

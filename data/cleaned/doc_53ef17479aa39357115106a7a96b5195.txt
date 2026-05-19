@@ -1,0 +1,207 @@
+MATHEMATICS
+DEPARTMENT
+
+WHEN YOU STUDY MATHEMATICS AT WESTMONT YOU ACTIVELY PARTICIPATE IN YOUR LEARNING AND WORK CLOSELY WITH BOTH STUDENTS AND PROFESSORS.
+
+You belong to a supportive community of mathematicians becoming fluent in the language of the natural world. You look beyond numbers and formulas to abstract patterns, using your imagination and stretching your creativity. As you develop deeper understanding of the fundamentals of mathematics, you’ll become a well-educated and well-rounded person. Through your classes and work on research projects, you’ll gain knowledge and skills that make you a better thinker and communicator and prepare you for interesting and rewarding careers.
+
+• Program Review
+• Mathematics Major Flyer
+• Mathematics Education Major Flyer
+All Majors and Programs
+
+ARE YOU INQUISITIVE AND PERSISTENT?
+
+ALUMNI STORIES
+
+Heather Totten ’19
+is an Information Security Operations Analyst at Tempus Labs, Inc.
+
+Amy Armento Lee ’09
+is a Quantitative UX researcher at Google. After completing her Math BS at Westmont, she completed her MS in Biostatistics at Columbia University.
+
+Kyle Bechler ’06
+works as a data scientist with CBRE in Santa Barbara. In 2015, he completed his doctorate in statistics at UC Santa Barbara. His areas of expertise include predictive modeling, machine learning, leveraged credit, and financial modeling.
+
+Manuel Reyes ’05
+is an Associate Professor of Mathematics at UC Irving. He gave the 2022 American Mathematical Society and Mathematical Association of America Joint Invited Address on “How Noncommutative Algebra Points Toward Quantum Geometry.”
+
+Olivia Hughes ’17
+is an epidemiologist at ICON plc. After completing her Math BS at Westmont, she completed her MS in Biostatistics at Harvard T.H. Chan School of Public Health.
+
+CAREER OPPORTUNITIES
+
+According to the Bureau of Labor Statistics, employment occupations that require a strong background in math or computer science continues to grow at faster than average rates. Our graduates find jobs in many areas, including:
+
+Education
+
+Linguistics
+
+Medicine
+
+Law
+
+Finance
+
+Biomedical Research
+
+Software Development
+
+Systems Analysis
+
+Operations Research
+
+Government Service
+
+Data Analytics
+
+FACULTY AND STAFF
+
+Assistant Professor of Mathematics and Data Analytics
+
+Assistant Professor of Mathematics and Data Analytics
+
+Read more
+
+Associate Professor of Mathematics and Data Analytics, Department Chair
+
+Associate Professor of Mathematics and Data Analytics, Department Chair
+
+Read more
+
+Professor of Mathematics and Data Analytics, Kathleen Smith Chair of Natural and Behavioral Sciences
+
+Professor of Mathematics and Data Analytics, Kathleen Smith Chair of Natural and Behavioral Sciences
+
+Read more
+
+Assistant Professor of Computer Science, and Mathematics
+
+Assistant Professor of Computer Science, and Mathematics
+
+Read more
+
+Professor of Mathematics, Computer Science, and Data Analytics
+
+Professor of Mathematics, Computer Science, and Data Analytics
+
+Read more
+
+Professor of Mathematics
+
+Professor of Mathematics
+
+Read more
+
+Professor of Mathematics
+
+Professor of Mathematics
+
+Read more
+
+RESEARCH
+
+The mathematics faculty at Westmont are active researchers in their fields and are involved in many fascinating projects!
+
+Dr. Aboud
+works with a research group studying heat diffusion across fractal domains. Remarkably, the same set of equations governing this process also dictates how information flows across computer networks and also how current flows through an electric network. These connections have led to fruitful and fascinating collaboration between mathematicians, engineers, and theoretical computer scientists.
+
+Nonperiodic tilings, such as the Penrose tiling, have enjoyed fruitful study in Euclidean space where their structure can be studied from the perspective of algebraic topology.
+Dr. Hansen
+'s research group has extended some of this theory from the "flat" world of Euclidean space to the "curved" world of what are called "nilpotent Lie groups." They plan to compute the cohomology ring of a tiling space on the Heisenberg group in an effort to better understand the properties of such tilings.
+
+An interesting question grew out of an article published by
+Dr. Howell
+and three Westmont students in the February 2025 issue of the American Mathematical Monthly (doi=
+https://doi.org/10.1080/
+00029890.2024.2419304
+).
+
+The research group was able to find a way to associate complex-valued functions with numbers picked at random between zero and one. They also found uncountable collections of such numbers that give rise to functions having a special property--and also an uncountable collection of those numbers that produce functions without that property. They further proved that the probability is either zero or one of picking a number that produces a function with that property. Those results naturally lead to the following question: "What is the probability--zero or one?"
+
+Dr. Hunter
+researches and experiments with pedagogical methods related to inclusive teaching, active learning, and alternative grading.
+
+Dr. van der Walt
+combines classical approximation theory with advances in machine learning, and uses these in applications in the medical field and signal processing space. She is also interested in dimensionality reduction and visualization of higher dimensional data.
+
+UNDERGRADUATE RESEARCH
+
+Dr. van der Walt was recently awarded an NSF grant supporting a research partnership between Westmont and Santa Barbara City College (SBCC) designed to engage undergraduate students in mathematics research! Together with Gabriel Pretel (SBCC), Dr. van der Walt is leading a group of seven undergraduate students from Westmont and SBCC as they pursue a project using Principle Component Analysis.
+
+COMMUNITY ENGAGEMENT
+
+MATHEMATICS FIELD DAY
+
+Every year, Westmont students host a "Mathematics Field Day" for Santa Barbara high-school students. The last competition took place on Saturday, February 7, 2026 and included challenging and thrilling events like Chalk Talk, College Bowl, Team Exam, and Awards Banquet. Special features of this year were also a group fractal construction (Sierpinski Tetrahedron) and liquid nitrogen ice cream!
+
+Learn More
+
+COMMUNITY TUTORING
+
+The Mathematics Department maintains a list of Westmont students who are interested in tutoring community members in mathematics. For access to this list please contact our department administrator, Susan Leyva, at sleyva@westmont.edu.
+
+MATHEMATICS NEWS
+
+Dr. van der Walt was recently awarded an NSF grant supporting a research partnership between Westmont and Santa Barbara City College designed to engage undergraduate students in mathematics research. Together with Gabriel Pretel (SBCC), Dr. van der Walt is leading a group of seven undergraduate students from Westmont and SBCC as they pursue a project using Principle Component Analysis.
+
+The Center for Undergraduate Research in Mathematics (CURM) is an NSF-funded grant that provides funding and training for academic-year undergraduate research groups in mathematics. The funding consists of grants given to collaborations between 4+year institutions and 2-year or community colleges for students in their first or second year of college to engage in mathematical research.
+
+Ten students and three faculty members were among nearly 6,000 other mathematicians at the 2024 Joint Mathematics Meetings, hosted by the American Mathematical Society.
+
+Bailey Hall ‘24
+is at the University of Washington as a Postbaccalaureate Research Fellow through the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute. The research project she is involved in finds ways to implement variational recurrent neural networks (vRNNs) into FPGA systems for a real-time closed-loop Brain-Computer Interface (BCI) design, focusing on how Latent Factor Analysis via Dynamical Systems (LFADS) can interpret and predict neural activity data.
+
+During
+Lauren Landa
+'s internships at Toyota Racing Development, she worked on data analysis and automation projects to improve NASCAR race insights. In 2023, she cleaned and transcribed thousands of rows of race data to help train a live summary model and built a NASCAR crash prediction model with 96% accuracy. In 2024, she automated passing analysis with a new dashboard and continued working with live race data, while also meeting industry professionals to learn more about the field.
+
+Kudos to
+Curtis Barnhart
+,
+Sam Tang
+(current students), and
+Isaac Jessop '23
+who learned that a paper they submitted with Professor Russell Howell was accepted for publication by the American Mathematical Monthly, a highly-selective journal that has less than a 10% acceptance rate. Their paper was based on research that took place last summer with funds from Westmont to support their work. Entitled "Flip a Coin, Get an Annular Function?" their article investigates the probability of whether randomly-generated functions of complex numbers (sometimes called imaginary numbers) have a specialized property.
+
+Russell Howell
+delivered a paper, “Revitalizing Complex Analysis,” at the 21st biennial conference of the Association of Christians in the Mathematical Sciences (ACMS) in Charleston, South Carolina, in June. At that meeting the ACMS board selected Russ to be the editor of their conference Proceedings, which has now become a peer-reviewed journal. Ray Rosentrater gave a talk at the same conference, “Bicycle Routes and Euler Double Paths.”
+
+On Saturday, February 7, over sixty of the area’s exceptional student “mathletes” from seven high schools participated in the 37th annual Westmont College Mathematics Field Day. Teams of four represented each school with the contest divided into two groups by grade level. Each year, a clever and colorful
+t-shirt
+is provided that connects with the number of the contest, in this year’s case “37.” The contest is run by Westmont faculty and undergraduate volunteers.
+
+STUDENT AWARDS & SCHOLARSHIPS
+
+HOWELL SCHOLARS PROGRAM
+
+The Westmont Mathematics and Computer Science department
+will soon be opening applications for the Howell Scholars program for students who are considering attending Westmont in the fall of 2026.
+
+This scholarship was created to attract passionate and talented students who want to attend Westmont to study mathematics. It is named in honor of
+Dr. Russell Howell
+, a beloved professor in the mathematics department who has worked tirelessly to support Westmont students in their pursuit of mathematics, including fundraising, pursuing excellence in the classroom, and regularly mentoring exceptional undergraduate research.
+
+2025 HOWELL SCHOLARS
+
+Congratulations to the 2025 Howell Scholars: Erik Potts, Riley Vaughan, and Asher Agol!
+
+TRACKS AND REQUIREMENTS
+
+Do you value rigorous academics? Like a challenge? Seek to understand the common threads running through every discipline? Explore the different tracks and degree options within Westmont’s Mathematics Department. Through the Math Education Fast Track you can earn a junior high and high school teaching credential in mathematics in just four years.
+
+GLOBAL OPPORTUNITIES
+
+Study Abroad:
+South Africa Mayterm, Budapest Semester in Mathematics
+
+Outreach:
+Mathematics Field Day - High School Mathematics Competition
+
+Research:
+Summer Research with faculty. Recent faculty projects include (social) segregation services, blood glucose prediction and randomly-generated functions of complex numbers
+
+TITLE
+YOU JUST HAVE TO SEE IT FOR YOURSELF
+
+ENVISION YOUR FUTURE AT WESTMONT’S STUNNING CAMPUS, WHERE THE ENVIRONMENT FUELS CREATIVITY AND PERSONAL GROWTH.

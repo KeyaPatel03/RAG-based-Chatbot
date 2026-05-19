@@ -4,11 +4,11 @@ __pycache__/
 
 # Environment variables
 .env
+venv/
 
-# Data + databases
-data/
-*.sqlite3
-*.bin
+# Chroma vector DB
+data/chroma_db/
+.chroma_db/
 
 # Temporary folders
 tmp*/
@@ -22,12 +22,11 @@ outputs_aiohttp/
 docker-compose.override.yml
 docker-compose.local.yml
 
-# OS / misc
+# OS / misc  
 .DS_Storeoutputs_aiohttp/
 keyavenv/
 __pycache__/
 *.pyc
 
-.env
 
 ./logs/

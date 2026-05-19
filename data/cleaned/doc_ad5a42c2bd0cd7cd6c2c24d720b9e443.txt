@@ -1,0 +1,407 @@
+• HOME
+• curric
+• Structural Engineering
+
+STRUCTURAL ENGINEERING
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+STUDENT AFFAIRS
+340 Structural and Materials Engineering Building (SME)
+http://structures.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+Structural engineering
+is the branch of engineering concerned with the design, analysis, optimization, and monitoring of civil, mechanical, aerospace, geotechnical, maritime, and offshore structures. It requires knowledge and competence in the areas of materials and mechanics, applied across the range of individual components to entire structural systems.
+
+DEPARTMENT FOCUS
+
+The instructional and research programs of the department are grouped into four programmatic focus areas: civil structures, aerospace and composite structures, SHM/NDE (structural health monitoring/nondestructive evaluation), and geotechnical engineering. Both the undergraduate and graduate programs are characterized by strong interdisciplinary relationships with the Departments of Mechanical and Aerospace Engineering, Physics, Mathematics, Bioengineering, Chemistry, Electrical and Computer Engineering, Computer Science and Engineering, the Materials Science Program, and associated campus institutes such as the Institute of Geophysics and Planetary Physics, Institute for Pure and Applied Physical Sciences, Institute for Biomedical Engineering, Center of Excellence for Advanced Materials, California Space Institute, Calit2’s Qualcomm Institute, and Scripps Institution of Oceanography.
+
+The program and curricula of the Department of Structural Engineering will educate and train engineers in a holistic approach to structural systems engineering by emphasizing and building on the commonality of engineering structures in materials, mechanics, analysis and design across the engineering disciplines of civil, aerospace, marine, and mechanical engineering.
+
+Although structural engineering is traditionally viewed as an activity within civil engineering, in actuality many other engineering disciplines such as aerospace, marine (naval, offshore), and mechanical engineering contain well established discipline-specific structural systems and components. In all of the various engineering disciplines there exists a large commonality in the structural materials used, in the general principles of structural mechanics, in the overall design philosophy and criteria, and in the modeling and analysis tools employed for the numerical quantification and visualization of structural response. Particularly, small disciplinary differences in materials and computational tools are rapidly disappearing with the civil engineering community opening up to new structural materials developed and used to date primarily in the aerospace industry, and with computational developments which are less product specific but more geared toward a holistic structural systems design approach with interactive graphics, object-oriented database management and concurrent visualization and data processing. Developments in overall structural systems design are increasingly cross-disciplinary over many traditional engineering areas.
+
+THE UNDERGRADUATE PROGRAM
+
+DEGREE AND PROGRAM OPTIONS
+
+The Department of Structural Engineering offers a unique engineering program leading to the bachelor of science degree in structural engineering. The BS in structural engineering program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria with no applicable program criteria. The BS programs require a minimum of 145 units, plus college general-education requirements in humanities and social sciences.
+
+The structural engineering program of study has strong components in laboratory experimentation, numerical computation, and engineering design. Design is emphasized throughout the curricula by open-ended homework problems, by laboratory and computer courses that include student-initiated projects, and finally, by senior design project courses that involve teams of students working to solve engineering design problems brought in from industry. The structural engineering program is designed to prepare students receiving a bachelor’s degree for professional careers or for graduate education in their area of specialization. In addition, the program can also be taken by students who intend to use their undergraduate engineering education as preparation for postgraduate professional training in nontechnical fields such as business administration, law, or medicine.
+
+Structural engineering
+is concerned with the design, analysis, optimization, and monitoring of civil, mechanical, aerospace, geotechnical, maritime, and offshore structures. Examples include but certainly aren’t limited to bridges, dams, buildings, aircraft, spacecraft, drones, ships, oil platforms, automobiles, and other transportation vehicles. This field requires a thorough knowledge of the behavior of solids (concrete, soils, rock, metals, plastics, and composite materials), fluid mechanics as it relates to structural loads, dynamics as it relates to structural response to time-dependent loads, mathematics for the generation of theoretical structural models and numerical analysis codes, and computer science for simulation purposes associated with computer-aided design, response analyses, and data acquisition. Basic understanding of materials behavior and structural performance is enhanced by laboratory courses involving static and dynamic stress failure tests of structural models, and response of structural systems. Within this area, students can specialize in (a) civil structures, (b) aerospace structures, (c) SHM/NDE, or (d) geotechnical engineering.
+
+MAJOR REQUIREMENTS
+
+Five major degree codes are available within the BS program in the department.
+
+The major code:
+
+SE27. Structural Engineering
+
+And four specializations:
+
+SE28 (CS). Structural Engineering with a Specialization in Civil Structures (CS)
+
+SE29 (AS). Structural Engineering with a Specialization in Aerospace Structures (AS)
+
+SE30 (GE). Structural Engineering with a Specialization in Geotechnical Engineering (GE)
+
+SE31 (SHM/NDE). Structural Engineering with a Specialization in Structural Health Monitoring/Non-destructive Evaluation (SHM/NDE)
+
+Students will apply to the existing structural engineering (SE27) major and then will have the option to decide to switch to one of the specialization majors listed above. It is recommended to consider the switch no later than by the end of the junior year. The initial enrollment in SE27 should provide students with time and information to help them decide whether they want to specialize and the freedom to decide in which area they would prefer to specialize. However, in order to prevent any impact on the time to degree, only a single selection of a specialization degree will be allowed. Students who do not wish to pursue a specialization are free to do so by remaining in the existing structural engineering major SE27.
+
+Specific course requirements for the major are outlined in a table herein. In addition to the required technical courses specifically indicated, a suggested scheduling of general education courses (GE) is distributed in the curricula for students to use to meet college general education requirements. To graduate, students must maintain an overall GPA of at least 2.0, and the department requires at least a C– grade in each course required for the major.
+All courses required for the major must be taken for a letter grade.
+This includes all lower-division math and science courses as well as the technical electives (TE).
+
+Deviations from the program of study must be approved by the Undergraduate Affairs Committee prior to taking alternative courses. In cases where a student needs to take a course outside UC San Diego, prior departmental approval is essential. TE courses are restricted to meet ABET standards. In addition, technical elective course selections must have departmental approval prior to taking the courses. Courses such as SE 195, SE 197 and SE 198 are not allowed as technical electives in meeting the upper-division major requirements. SE 199 can be used as a technical elective only under restrictive conditions. Policies regarding these conditions may be obtained from the department’s undergraduate advising office. Students with different academic preparations may vary the scheduling of lower-division courses such as math, physics and chemistry, but should consult the department prior to doing so. Deviations in scheduling lower-division structural engineering courses are discouraged due to scheduling constraints. A tentative schedule of course offerings is available from the department each spring quarter for the following academic year.
+
+GENERAL EDUCATION/COLLEGE REQUIREMENT
+
+For graduation, each student must satisfy general-education course requirements determined by the student’s college, as well as the major requirements determined by the department. The eight colleges at UC San Diego require widely different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the college and the breadth of general education.
+
+The structural engineering program allows for thirteen general-education (GE) courses so that students can fulfill their college requirements. Students must develop a program that includes a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. It should be noted, however, that some colleges may require more than, or less than, the thirteen GE courses indicated in the curriculum table. Students in colleges that require more than thirteen GE courses may take longer to graduate than the indicated four-year schedule. Students must consult with their college to determine which GE courses to take.
+
+PROFESSIONAL LICENSING
+
+All students are encouraged to take the Engineering-in-Training (EIT) examination as the first step in becoming licensed as a professional engineer (PE). Students graduating from an accredited program can take the PE examination after EIT certification and two years of work experience. Please see the “professional licensing” tab on the
+department’s webpage
+.
+
+For further information please contact your local Board of Registration for Professional Engineers, Land Surveyors, and Geologists or visit
+http://bpelsg.ca.gov/
+.
+
+DEPARTMENT OF STRUCTURAL ENGINEERING MISSION
+
+Our mission is to advance the structural engineering profession through research, teaching, and service by integrating engineering mechanics theories, computational modeling simulations, experimental testing observations, and practical design concepts.
+
+DEPARTMENT OF STRUCTURAL ENGINEERING VISION
+
+Our faculty and students aspire to be internationally renowned leaders in analyzing, designing, simulating, visualizing, optimizing, monitoring, and assessing the behavior and environmental interactions of structures and structural materials for a holistic perspective, including those used in civil, geotechnical, aerospace, naval, marine, energy, and biological applications.
+
+PROGRAM MISSION AND OBJECTIVES
+
+The BS in structural engineering program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s general criteria with no applicable program criteria. The BS degree in structural engineering requires a minimum of 145 units, plus college requirements in humanities and social sciences. All courses for the major must be taken for a letter grade.
+
+BS STRUCTURAL ENGINEERING OBJECTIVES
+
+Program objectives represent graduates’ performance three to five years after completing the BS program. Graduates will:
+
+• Retain a strong grasp of engineering fundamentals and critical thinking skills that enable them to consistently and successfully apply structural engineering principles within their chosen career path.
+• Embrace a passion for lifelong learning, empowering them to continue with graduate education and/or embark on successful professional careers in industry leading to professional licensure and leadership positions.
+• Possess a broad set of multidisciplinary skills, including the inclination and ability to consider sustainability, resilience, and socioeconomic community needs to accomplish professional objectives in a rapidly changing technological world.
+• Have a clear understanding of ethical issues pertaining to engineering and adopt industry standards of ethical behavior.
+• Utilize strong communication and collaboration skills essential for professional practice.
+
+BS STRUCTURAL ENGINEERING OUTCOMES
+
+Program outcomes are the expected knowledge, skills, attitudes, and behaviors of students at the time of completing the BS program:
+
+• An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+• An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+• An ability to communicate effectively with a range of audiences.
+• An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+• An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+• An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Students in the four specialization degree codes will follow the same core course sequence as in the degree code SE27 given in the following table. The main difference among the four specialization major degree codes is the focus sequence courses taken in the junior and senior years and the capstone course(s) in the senior year: students in the specialization SE28 (CS) will take the civil engineering focus sequence and the SE 140A-B capstone courses; students in the specialization SE29 (AS) will take the aerospace focus sequence and the SE 143A-B capstone courses; students in the specialization SE30 (GE) will take the geotechnical engineering focus sequence and the SE 140A-B capstone courses; and students in the specialization SE31 (SHM/NDE) will take the SHM/NDE focus sequence and the SE 165 as the capstone course and an additional technical elective. Students in the structural engineering major SE27 can choose any of the focus sequences and the corresponding capstone course(s). A list of the focus sequence courses, capstone courses, and technical electives for the five degree codes follows the table.
+
+FALL
+
+WINTER
+
+SPRING
+
+FIRST YEAR
+
+MATH 20A
+
+MATH 20B
+
+MATH 20C
+
+SE 1
+
+MATH 18/GE
+
+SE 3
+
+CHEM 6A
+
+PHYS 2A
+
+PHYS 2B + 2BL
+
+GE
+1
+
+GE
+
+MATH 18/GE
+
+SOPHOMORE YEAR
+
+MATH 20D
+
+SE 9
+
+MATH 20E
+
+SE 101A
+
+SE 101B
+
+SE 110B
+
+PHYS 2C + 2CL
+
+SE 110A
+
+SE 105
+
+GE
+
+GE
+
+GE
+
+JUNIOR YEAR
+
+SE 101C
+
+SE 102
+
+SE 131A
+
+SE 125
+
+SE 115
+
+SE 130B
+
+SE 130A
+
+FS
+2
+
+FS
+
+GE
+
+GE
+
+GE
+
+SENIOR YEAR
+
+SE 131B
+
+FS Capstone
+
+FS Capstone
+
+FS
+
+FS
+
+TE
+
+TE
+4
+
+TE
+
+GE
+
+GE
+
+GE
+
+GE
+
+1
+In fulfilling the general-education requirements (GE), students must take a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. Thirteen GE courses are listed here; individual college requirements may be higher or lower.
+
+2
+Students must take one full focus sequence (FS) in: (a) civil structures, (b) aerospace structures, (c) SHM/NDE, or (d) geotechnical engineering. Students should note that not all focus sequence classes will be offered every year.
+
+3
+Students must take one capstone design sequence (either 140A and 140B, or 143A and 143B, or SE 165 and an additional technical elective) depending on their choice of focus sequence.
+
+4
+Technical elective (TE) course must be an upper-division or graduate course in the engineering sciences, natural sciences, or mathematics, selected with prior approval of the department to meet ABET standards.
+
+CIVIL STRUCTURES FOCUS SEQUENCE COURSES
+
+SE 103. Conceptual Structural Design
+
+SE 150A. Design of Steel Structures I
+
+SE 151A. Design of Reinforced Concrete
+
+SE 181. Geotechnical Engineering
+
+GEOTECHNICAL FOCUS SEQUENCE COURSES
+
+*Note: SE 151A has SE 103 as a prerequisite and SE 140A has SE 150A as a prerequisite. Students should plan to take SE 103 and SE 150A as TE classes their junior year.
+
+SE 151A. Design of Reinforced Concrete
+
+SE 181. Geotechnical Engineering
+
+SE 182. Foundation Engineering
+
+SE 184. Ground Improvement
+
+AEROSPACE FOCUS SEQUENCE COURSES
+
+SE 142. Mechanics and Design of Composite Structures
+
+SE 160A. Aerospace Structural Mechanics I
+
+SE 160B. Aerospace Structural Mechanics II
+
+SE 171. Aerospace Structures Renewal
+
+SHM/NDE FOCUS SEQUENCE COURSES
+
+*Note: SE 165 is the capstone class for this sequence and students are required to take an additional TE.
+
+SE 163. Nondestructive Evaluation
+
+SE 164. Sensors/Data Acquisition for Structural Engineering
+
+SE 167. Signal Processing
+
+SE 168. Structural System Testing and Model Correlation
+
+CIVIL STRUCTURES/GEOTECHNICAL CAPSTONE COURSES
+
+SE 140A. Design of Civil Structures I
+
+SE 140B. Design of Civil Structures II
+
+AEROSPACE STRUCTURES CAPSTONE COURSES
+
+SE 143A. Aerospace Structural Design I
+
+SE 143B. Aerospace Structural Design II
+
+TECHNICAL ELECTIVES (THREE COURSES)
+
+POLICIES AND PROCEDURES FOR STRUCTURAL ENGINEERING UNDERGRADUATE STUDENTS
+
+ADMISSION TO THE MAJOR
+
+Effective summer 2025, structural engineering is a
+screened major
+. Students who are not directly admitted into structural engineering will have to apply through the screened major process. Unlike with a selective major, all students who satisfy the minimum 2.0 cumulative GPA requirement, complete the screening courses with a C– or better, and request to switch within the specified quarter limits will be allowed into the screened major. Requests are reviewed on a rolling basis as students submit the major change request through the Major/Minor Tool on TritonLink. More information can be found on the Admissions page on the structural engineering website: https://se.ucsd.edu/academics/undergraduate-program/undergraduate-admission. New first-year students will be selected according to the UC San Diego Office of Undergraduate Admissions Holistic Review scores, taking into consideration the number of slots available in the Department of Structural Engineering. Students who meet the UC San Diego admission criteria will be admitted into their chosen selective or screened major, starting with the student having the highest holistic review score, until the admission target number is reached. Students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen capped major. All potential first-year students must indicate on the UC application if they wish to major in structural engineering.
+
+First-year students who applied but were not admitted directly from high school into the screened
+structural engineering
+major will be admitted into the major indicated as their second choice on the UC application (providing it is an “open” major).
+
+New transfer students will be selected by the UC San Diego Office of Undergraduate Admissions based on the students’ community college GPA and taking into consideration the number of slots available in the Department of Structural Engineering. Additionally, transfer students should have completed courses equivalent to UC San Diego’s MATH 18, MATH 20A-D; PHYS 2A-C, 2BL, 2CL; and CHEM 6A. Students who meet the UC San Diego admission criteria will be admitted into their chosen capped major, starting with the student having the highest community college GPA, until the admission target number is reached. Transfer students who have excelled in their community college courses, especially courses in math, physics, and chemistry, will have the strongest advantage. These students will be notified directly by the Office of Admissions and Relations with Schools whether they have been admitted into their chosen capped major. All potential transfer students must indicate on the UC application if they wish to major in structural engineering.
+
+Transfer students who applied but were not admitted directly from community college into the screened
+structural engineering
+major will be admitted into the major indicated as their second choice on the UC application (providing it is an “open” major).
+
+CONTINUING STUDENTS
+
+Students not directly admitted as a structural engineering major must apply through the screened major process.
+
+Screened Major Eligibility Requirements:
+
+• Overall UC San Diego GPA of 2.0 or above
+• C– or above in all screening courses Screening courses: MATH 20A-B-C-D, MATH 18 PHYS 2A SE 101A
+• Screening courses: MATH 20A-B-C-D, MATH 18 PHYS 2A SE 101A
+• MATH 20A-B-C-D, MATH 18
+• PHYS 2A
+• SE 101A
+• No outstanding grades for screening courses (e.g., Incompletes, pending Academic Integrity case, pending transfer credit, etc.)
+• Deadline to apply: Students who entered UC San Diego as First-years must apply prior to the start of their seventh quarter at UC San Diego (summer quarters not counted) Students who entered UC San Diego as transfers must apply prior to the start of their third academic quarter (summer quarters not counted)
+• Students who entered UC San Diego as First-years must apply prior to the start of their seventh quarter at UC San Diego (summer quarters not counted)
+• Students who entered UC San Diego as transfers must apply prior to the start of their third academic quarter (summer quarters not counted)
+For more detailed information on UC San Diego’s application and admissions process, please visit
+http://admissions.ucsd.edu/freshmen/index.html
+.
+
+TRANSFER STUDENTS
+
+Requirements for a structural engineering major, or into structural engineering courses, are the same for transfer students as they are for continuing students. Accordingly, when planning their program, transfer students should be mindful of lower-division prerequisite course requirements, as well as meeting collegiate requirements.
+
+Students who have taken equivalent courses elsewhere may request transfer credits to apply toward the department’s major requirements. This is accomplished by submitting a petition for transfer credits together with a course syllabus from the institution where the course(s) were taken. These documents are reviewed for approval by the Structural Engineering Undergraduate Affairs Committee chair.
+
+SE 1, SE 3, and SE 9 must be taken by all students majoring in structural engineering. Transfer students who have taken a course equivalent to SE 101A prior to entering UC San Diego may take an additional technical elective in place of SE 1.
+
+Transfer students not directly admitted as a structural engineering major must apply through the screened major process.
+
+Screened Major Eligibility Requirements:
+
+• Overall UC San Diego GPA of 2.0 or above
+• C– or above in all screening courses Screening courses: MATH 20A-B-C-D, MATH 18* PHYS 2A-B-C SE 101A
+• Screening courses: MATH 20A-B-C-D, MATH 18* PHYS 2A-B-C SE 101A
+• MATH 20A-B-C-D, MATH 18*
+• PHYS 2A-B-C
+• SE 101A
+• No outstanding grades for screening courses (e.g., Incompletes, pending Academic Integrity case, pending transfer credit, etc.)
+• Deadline to apply: Students who entered UC San Diego as transfers must apply prior to the start of their third academic quarter (summer quarters not counted).
+• Students who entered UC San Diego as transfers must apply prior to the start of their third academic quarter (summer quarters not counted).
+*
+NOTE:
+The SE major requires a minimum of nine quarters for transfer students to complete. Please refer to the
+Academic Plan for Transfers page
+for details. Please note that the transfer plan assumes prior completion of MATH 20A–D, PHYS 2A–C, 2BL, 2CL; and CHEM 6A.
+
+Admitted transfer students who believe they have taken course equivalents to SE courses may submit a petition. Please see the
+Policies and Procedures page
+on our website for the petition instructions:
+https://se.ucsd.edu/academics/undergraduate-program/undergraduate-advising/undergraduate-policies-and-procedures
+
+For more detailed information on UC San Diego’s application and admissions process, please visit
+https://admissions.ucsd.edu/transfer/index.html
+.
+
+ACADEMIC ADVISING
+
+Upon arrival, students are encouraged to reach out to the structural engineering undergraduate advising office via the Virtual Advising Center (or appointment if necessary) to plan a program of study. The program plan may be revised in subsequent years, but revisions involving curricular requirements require approval by an undergraduate adviser or the Undergraduate Affairs Committee. Because some courses and/or curricular changes may be made every year, it is imperative that students consult with the department’s undergraduate advising office and their assigned faculty adviser on an annual basis.
+
+Many structural engineering courses are offered only once a year and therefore should be taken in the recommended sequence. If courses are taken out of sequence, it may not always be possible to enroll in subsequent courses as desired or needed.
+
+If this occurs, students should seek immediate department advice. When a student deviates from the sequence of courses specified for the curriculum in this catalog, it may be impossible to complete the structural engineering major within the normal four-year period (three-year period for transfer students). Students should refer to the four-year and/or transfer plan and course prerequisite map on the department website at
+http://se.ucsd.edu/academics/undergraduate-program/undergraduate-advising/undergraduate-four-year-plan
+or
+https://se.ucsd.edu/academics/academic-plan-for-transfers
+.
+
+In addition to the advising available through the structural engineering undergraduate advising office, programmatic or technical advice may be obtained from structural engineering faculty members. A specific structural engineering faculty adviser is assigned to each structural engineering student. All structural engineering students are encouraged to meet with their faculty adviser at least once a year. Faculty adviser assignments can be found in the UG Faculty Adviser web page:
+https://se.ucsd.edu/academics/ug-faculty-advisor
+.
+
+PROGRAM ALTERATIONS/EXCEPTIONS TO REQUIREMENTS
+
+Variations from, or exceptions to, any program or course requirements are possible only if a petition is approved by the structural engineering Undergraduate Affairs Committee chair before the courses in question are taken. Petition instructions are available on the
+undergraduate policies and procedures page
+on the structural engineering website and must be processed through the structural engineering undergraduate advising office.
+
+INDEPENDENT STUDY
+
+Structural engineering students may take SE 199, Independent Study for Undergraduates, under the guidance of a structural engineering faculty member. Normally, this course is taken as an elective on a P/NP basis. Under restrictive conditions, however, it may be used to satisfy one upper-division technical elective course requirement for the major. Students interested in taking an SE 199 course must identify a faculty member with whom they wish to work and propose a research or study topic. After obtaining the faculty member’s concurrence on the topic and scope of the study, the student must submit an Easy request (
+easy.ucsd.edu
+). Students who are interested in having the course count as a technical elective requirement must take the course(s) for a total of four units and must also submit a petition. The petition must be completed, approved, and processed prior to the beginning of the quarter in which the course is to be taken. This should not be done during the add/drop period. Detailed policy in this regard and the required forms may be obtained from the structural engineering undergraduate advising office.

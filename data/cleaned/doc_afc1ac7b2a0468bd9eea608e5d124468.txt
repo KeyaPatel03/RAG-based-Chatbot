@@ -1,0 +1,516 @@
+• HOME
+• curric
+• Cognitive Science
+
+COGNITIVE SCIENCE
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+140 Cognitive Science Building
+http://www.cogsci.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+INTRODUCTION
+
+Cognitive science is a diverse field that is unified and motivated by a single basic inquiry: What is cognition? How do people, animals, or computers “think,” act, and learn? In order to understand the mind/brain, cognitive science brings together methods and discoveries from neuroscience, psychology, linguistics, philosophy, and computer science. UC San Diego has been at the forefront of this exciting field and the Department of Cognitive Science was the first of its kind in the world. It is part of an exceptional scientific community and remains a dominant influence in the field it helped create.
+
+In addition to preparing undergraduates for careers in a variety of sciences, the major also provides an excellent background for many professional fields, including medicine, clinical psychology, and information technology.
+
+The concerns of cognitive science fall into three broad categories: the brain—the neurological anatomy and processes underlying cognitive phenomena; behavior—the cognitive activity of individuals and their interaction with each other and their sociocultural environment, including the use of language, information, and media; and computation—the capacity of mathematical and computer systems to model cognitive and neural phenomena and represent information, and the role of computers as cognitive tools.
+
+The department collaborates closely with other academic departments and research communities, including the Center for Research in Language, the Center for Human Development, the Salk Institute for Biological Studies, the UC San Diego Medical Center, the San Diego Supercomputer Center, the Center for Functional Magnetic Resonance Imaging Center, and the new Kavli Institute for Brain and Mind, providing many outstanding resources and opportunities.
+
+Students are encouraged to participate actively in the department by sharing their ideas about curriculum, research, and other topics with faculty and staff. Undergraduate students should join the Cognitive Science Student Association, which provides opportunities for undergraduates to meet students and faculty from UC San Diego and other institutes, visit research laboratories, and make job contacts. Graduate students take an especially active role in shaping the department, both academically and administratively, while they gain experience in research, teaching, and managing both labs and department affairs.
+
+THE UNDERGRADUATE PROGRAMS
+
+The department offers both a BA and a BS degree in Cognitive Science (Major Code: CG25). The BS requires completion of more rigorous lower-division course work and additional upper-division level computation course. The BS degree may be taken optionally with a specified area of specialization. Additionally, the department offers a BS degree in Cognitive and Behavioral Neuroscience (CBN). There is also an honors program for exceptional students.
+
+Degrees offered include:
+
+• Cognitive Science Bachelor of Arts
+• Cognitive Science Bachelor of Science
+• Cognitive Science Bachelor of Science with a Specialization in Clinical Aspects of Cognition
+• Cognitive Science Bachelor of Science with a Specialization in Design and Interaction
+• Cognitive Science Bachelor of Science with a Specialization in Machine Learning and Neural Computation
+• Cognitive Science Bachelor of Science with a Specialization in Neuroscience
+• Cognitive Science Bachelor of Science with a Specialization in Language and Culture
+• Cognitive and Behavioral Neuroscience Bachelor of Science
+
+AREAS OF SPECIALIZATION
+
+A major may elect to receive a BS in cognitive science with an area of specialization. The areas of specialization are intended to provide majors with guidance in choosing elective courses and to make the specific interests and training of a major clear to prospective employers and graduate schools. Specifying an area of specialization is optional; however, students should take into consideration when planning for their specialization that approved courses are not necessarily offered every year.
+
+To major in cognitive science with an area of specialization, the student must fulfill the requirements for the BS degree and must choose four of the required six elective courses from a list of approved electives for that area of specialization. (The lists of approved electives for each area of specialization are available in the department office and on our website.)
+
+The following areas of specialization are currently offered by the department:
+
+SPECIALIZATION IN CLINICAL ASPECTS OF COGNITION
+
+This area of specialization is intended for majors interested in cognitive neuropsychology, psychiatry, cognitive disorders, and the effects of drugs and brain damage on cognitive functions. Allowed electives include courses in those topics, as well as organic chemistry, biochemistry, and physiology. Major code: CG31.
+
+SPECIALIZATION IN DESIGN AND INTERACTION
+
+This area of specialization is intended for majors interested in human computer interaction, web design, visualization, and applications of cognitive science in design and engineering. Allowed electives currently include advanced courses in cognitive science, computer science, computer engineering, and visual arts. Major code: CG33.
+
+SPECIALIZATION IN LANGUAGE AND CULTURE
+
+This area of specialization is intended for majors whose primary interests include human psychology and applications of cognitive science in design and engineering. Allowed electives include courses in cognitive development, language, laboratory research of cognition, anthropology, and sociology. Major code: CG34.
+
+SPECIALIZATION IN MACHINE LEARNING AND NEURAL COMPUTATION
+
+This area of specialization is intended for majors interested in computational and mathematical approaches to modeling cognition or building cognitive systems, theoretical neuroscience, as well as software engineering and data science. Allowed electives include advanced courses in neural networks, artificial intelligence, and computer science. Major code: CG35.
+
+SPECIALIZATION IN NEUROSCIENCE
+
+This area of specialization is intended for majors interested in neuroscience research or medicine. Allowed electives include courses in cognitive neuroscience, organic chemistry, biochemistry, and physiology. Major code: CG29.
+
+GRADE REQUIREMENTS FOR THE MAJOR
+
+A minimum grade point average of 2.0 is required for admittance to and graduation from the BA or BS degree program. Students must receive a grade of C– or better in any course to be counted toward fulfillment of the major requirements. All courses must be taken for a letter grade, with the exception of COGS 195, 198, and 199, which are taken Pass/Not Pass.
+
+COURSE REQUIREMENTS FOR THE BACHELOR OF ARTS
+
+Complete most of your core courses during your junior year, if possible. At least four of the seven electives taken must be cognitive science courses; others can be chosen from the list of approved electives or petitioned through the department. Students are advised to complete the core courses in their junior year, especially if they intend to apply to the honors program. Students intending to take COGS 118A and/or 118B are advised to take MATH 20-A-B-C-E and MATH 18 and 180A before their junior year.
+
+MATH 10A-B-C or
+MATH 20A-B, 18
+
+Introduction:
+COGS 1
+Design:
+COGS 10 or DSGN 1
+Methods:
+COGS 13, 14A
+Neuroscience:
+COGS 17
+Programming:
+COGS 18 or CSE (7 or 8A or 11)
+
+Distributed Cognition:
+COGS 100
+Fundamental Cognitive Phenomena:
+COGS 101A-B-C
+Cognitive Neuroscience:
+COGS 107A-B-C
+Computation:
+COGS 108
+
+• A total of six electives are required, where three of the six electives must be taken within the cognitive science department.
+• Courses in the COGS 19X series (190A-B-C, 195, 198, 199) may NOT be used as an elective to satisfy the major requirements for the bachelor’s degree.
+• COGS 160 may only be used once for elective.
+• A course taken outside the department must meet the following criteria: The course must deal with topics and issues that are clearly part of cognitive science. The material must not be available in a course offered inside the department.
+• The course must deal with topics and issues that are clearly part of cognitive science.
+• The material must not be available in a course offered inside the department.
+Majors must obtain departmental approval for electives taken outside of the department. This policy permits students and their advisers to be responsive to changes in course offerings.
+
+COURSE REQUIREMENTS FOR THE BACHELOR OF SCIENCE
+
+Complete most of your core courses during your junior year, if possible. At least three of the six electives taken must be cognitive science courses; others can be chosen from the list of approved electives or petitioned through the department. Students are advised to complete these core courses in their junior year, especially if they intend to apply to the honors program. Students intending to take COGS 118A and/or 118B are advised to take MATH 20-A-B-C-E and MATH 18 and 180A before their junior year.
+
+MATH 10A-B-C, 18 or
+MATH 20A-B, 18
+
+Introduction:
+COGS 1
+Design:
+COGS 10 or DSGN 1
+Methods:
+COGS 13, 14A-B
+Neuroscience:
+COGS 17
+Programming:
+COGS 18 or CSE (7 or 8A or 11)
+
+Distributed Cognition:
+COGS 100
+Fundamental Cognitive Phenomena
+(choose any two): COGS 101A-B-C
+Cognitive Neuroscience
+(choose any two): COGS 107A-B-C
+Computation:
+COGS 108
+
+• A total of six electives are required, where three of the six electives must be taken within the cognitive science department. And if specialization, then four of the six electives must be taken from the approved specialization elective list.
+• For students that specialize in machine learning and neural computation, choose two from this group: COGS 118A-B-C-D.
+• COGS 160 may only be used once for elective.
+• One course in the Cognitive Science 19X series may be used as an elective to satisfy the requirements for the BS degree, but only with the approval of both the instructor who supervised the course and the undergraduate adviser.
+• A course taken outside the department must meet the following criteria: The course must deal with topics and issues that are clearly part of cognitive science. The material must not be available in a course offered inside the department.
+• The course must deal with topics and issues that are clearly part of cognitive science.
+• The material must not be available in a course offered inside the department.
+Majors must obtain departmental approval for electives taken outside of the department. This policy permits students and their advisers to be responsive to changes in course offerings.
+
+SUGGESTED FOUR-YEAR PLAN OF STUDY
+
+The four-year plan of study below assures that all prerequisites and requirements for the cognitive science major are completed. The department does enforce course prerequisites and several courses are offered only once a year, so careful planning is important. It is recommended that lower-division courses be taken in the first two years, core courses in the third year, and electives in the final year. Check with a departmental adviser about which quarter cognitive science courses will be offered each academic year. Check with a college adviser about course planning to meet college requirements.
+
+QUARTER BY QUARTER PLAN FOR BA DEGREE
+
+FALL
+
+WINTER
+
+SPRING
+
+First Year
+
+MATH 10A or 20A
+
+MATH 10B or 20B
+
+MATH 10C or 18
+
+COGS 10 or DSGN 1
+
+COGS 1
+
+COGS 13
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Sophomore Year
+
+COGS 17
+
+COGS 14A
+
+1 Computer Programming
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Junior Year
+
+Core
+
+Core
+
+Core
+
+Core
+
+Core
+
+Core
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Senior Year
+
+COGS UD Elective
+
+COGS UD Elective
+
+COGS UD Elective
+
+UD Elective
+
+UD Elective
+
+UD Elective
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+QUARTER BY QUARTER PLAN FOR BS DEGREE
+
+FALL
+
+WINTER
+
+SPRING
+
+First Year
+
+MATH 10A or 20A
+
+MATH 10B or 20B
+
+If MATH 10 series then MATH 10C
+
+COGS 10 or DSGN 1
+
+COGS 1
+
+COGS 13
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Sophomore Year
+
+COGS 17
+
+COGS 14A
+
+1 Computer Programming
+
+MATH 18
+
+Requirements for your college
+
+COGS 14B
+
+Requirements for your college
+
+Requirements for your college
+
+Junior Year
+
+Fund Cog Phenomena
+
+Fund Cog Phenomena
+
+COGS 100
+
+Cog Neuroscience
+
+Cog Neuroscience
+
+COGS 108
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Senior Year
+
+COGS UD Elective
+
+COGS UD Elective
+
+COGS UD Elective
+
+UD Elective
+
+UD Elective
+
+UD Elective
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+BS IN COGNITIVE AND BEHAVIORAL NEUROSCIENCE (CBN)
+
+The BS in cognitive and behavioral neuroscience (CBN) is a major jointly administered by the Departments of Cognitive Science and Psychology. Cognitive and behavioral neuroscience seeks to determine, understand, and examine the links between neural activity and perception (e.g., color vision, attention), basic behaviors (e.g., appetitive drives such as hunger and sleep), and higher-level cognitive function (e.g., working memory and executive function) using multiple tools ranging from single-unit physiology to functional magnetic resonance imaging (fMRI) and electroencephalography (EEG).
+
+• COGS 17
+Plus choose two of the following:
+
+• BILD 1, 2, 3, 10, 20, 24, 26 (BILD 12 and 22 are NOT accepted)
+• CHEM 4*, 6A-B-C, 11*, 12, 13
+• PHYS 1A-B-C, 2A-B-C, 10, 11
+*Only one of CHEM 4 or 11 can be taken for credit.
+
+• MATH 10A or 20A*
+• MATH 10B or 20B*
+• MATH 10C or 20C*
+• COGS 14A or PSYC 70
+*Preferred calculus courses critical for the success of students who plan to pursue mathematically intensive areas of CBN.
+
+• COGS 18*
+• CSE 7*, 8A-B, 11, 12
+By petition, one of the following may be accepted for the major: ECE 15 or MAE 8.
+
+*Preferred computer programming courses critical for the success of students who plan to pursue research careers in cognitive science or psychology.
+
+• COGS 14B or PSYC 60
+By petition, MATH 11 will be accepted for the major.
+Note: Statistics must be taken for a letter grade. All lower-division courses must be passed with a minimum grade of C– or P.
+
+• COGS 107A
+• COGS 101A or PSYC 102
+• COGS 107B or PSYC 106
+• COGS 107C or PSYC 108
+• COGS 102B-C, 118B, 119, 120, 121, 153, 160 (must pre-approve), 189, 190A-B-C, 199**
+• PSYC 114, 115A-B, 116, 117, 118, 121, 140, 193L, 194A-B-C*,199**
+*Successful completion of either COGS 190A-B-C or PSYC 194A-B-C fully satisfies the research experience requirement.
+
+**If the two research courses are 199s, at least one of them must culminate in a research paper approved by the faculty adviser and submitted to the corresponding department’s Student Affairs Office prior to graduation. Please see the corresponding department for more information.
+
+• COGS 115, 119, 154, 163, 164, 169, 171, 172, 174, 175, 176, 177, 178, 179, 180, 184
+• PSYC 116, 122, 123, 125, 132, 133, 144, 150, 159, 169, 170, 171, 179, 181, 189
+• HDP 110
+• COGS 101B-C, 102A-B-C, 109-189
+• PSYC 100, 101, 104, 105, 110-193
+• All upper-division courses numbered 100-193 must be taken for a letter grade and a minimum grade of C- is required for the course to count toward the major.
+• Courses taken Pass/Not Pass cannot count toward the upper-division CBN major requirement.
+• Excluded from credit toward the major are graduate seminars (2XX).
+• A minimum of nine upper-division courses toward the CBN major must be taken at UC San Diego.
+• A grade point average of at least 2.0 in the upper-division major courses is required for graduation.
+
+SUGGESTED FOUR-YEAR PLAN OF STUDY
+
+QUARTER BY QUARTER PLAN FOR CBN DEGREE
+
+FALL
+
+WINTER
+
+SPRING
+
+First Year
+
+MATH 10A or 20A
+
+MATH 10B or 20B
+
+MATH 10A or 20C
+
+COGS 17
+
+1 Natural Science
+
+1 Natural Science
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Sophomore Year
+
+COGS 14A or PSYC 70
+
+COGS 14B or PSYC 60
+
+1 Computer Programming
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+Junior Year
+
+COGS 107A
+
+1 CBN Core
+
+1 CBN Core
+
+1 CBN Core
+
+1 CBN Elective
+
+1 CBN Research
+
+Requirements for your college
+
+Requirements for your college
+
+1 CBN Research
+
+Requirements for your college
+
+Senior Year
+
+1 CBN Elective
+
+1 CBN Elective
+
+1 CBN Elective
+
+1 CBN Elective
+
+1 Additional Elective
+
+1 Additional Elective
+
+1 CBN Research
+
+Requirements for your college
+
+Requirements for your college
+
+Requirements for your college
+
+COGNITIVE SCIENCE HONORS PROGRAM
+
+The Department of Cognitive Science offers an honors program for a limited number of majors who have demonstrated excellence, talent, and high motivation.
+
+ELIGIBILITY REQUIREMENTS
+
+Students are eligible for admission to the program when they
+
+• Complete all core courses
+• Have at least junior level standing
+• Have at least a 3.5 GPA in upper-division major courses and at least a 3.0 overall GPA
+Eligible students will enroll in four units of 190A (Pre-Honors Project in Cognitive Science) under a faculty member who has agreed to advise them on a potential honors project. Students may apply the COGS 190A course as an elective toward major requirements whether or not they enter the Honors Program. At the end of the 190A course, students will submit to their faculty mentor a written project proposal. The proposal will define the question to be investigated, survey existing literature, describe the approach and methods that will be used, explain how data will be collected if it is an empirical study, detail how human subjects requirements will be met if necessary, discuss expected results, and provide a timeline for project completion.
+
+ACCEPTANCE IN HONORS PROGRAM
+
+To formally enter the Honors Program, students must meet the eligibility requirements above, receive a grade of A– or better in COGS 190A, establish an honors committee of at least two faculty and one graduate student to review the proposal and advise them during the process of completing the honors project, and have their project proposal approved by their honors committee.
+
+The honors committee must be kept informed of any deviations from the original approved project proposal and timeline. Students who fail to make satisfactory progress may be asked to withdraw from the program at any point the adviser or the department chair deems necessary.
+
+Successful completion of the Honors Program requires
+
+• Maintenance of a 3.5 GPA in upper-division major courses, and a 3.0 overall GPA
+• Completion of one cognitive science (or related) graduate level course (may be taken P/NP). Students may use the required graduate course as one of their electives for the major whether or not they complete the honors project
+• Completion of COGS 190B and 190C with letter grades of A– or better, and 198
+• Completion of COGS 190D (Preparation for Thesis Presentation), a one-unit seminar given each spring (P/NP)
+• Completion of a written honors thesis describing the project
+• Approval of the thesis by the honors committee and the department chair
+• Satisfactory presentation of the honors thesis to the cognitive science community at the Honors Thesis Presentation Conference, spring quarter
+Students who successfully complete all of the requirements for the Honors Program will graduate with Distinction in Cognitive Science recorded on their transcripts.
+
+MINORS AND PROGRAMS OF CONCENTRATION
+
+Each college has specific requirements, and students should consult with an academic adviser in their provost’s office as well as a cognitive science adviser to be sure they fulfill requirements of the college and of the department.
+
+To receive a minor from the Department of Cognitive Science, a student must complete a total of seven (four unit) courses; five of which must be upper division. Lower-division requirements are normally fulfilled by completing (one of) COGS 1, 3, 10, 11, 13, or 14A and (one of) COGS 9, 12, 14B, 17, or COGS 18.
+
+Upper-division requirements are normally fulfilled by completing two cognitive science electives (COGS 100–189) and three of the following core courses:
+
+Distributed Cognition:
+COGS 100
+Fundamental Cognitive Phenomena:
+COGS 101A-B-C
+Cognitive Neuroscience:
+COGS 107A-B-C
+Computation:
+COGS 108
+
+All courses must be taken for a letter grade. No grade below C– is acceptable.
+
+TRANSFER CREDIT
+
+Students who wish to transfer from another institution to UC San Diego as cognitive science majors should work closely with university advisers to ensure that all lower-division requirements have been completed and are equivalent to those offered at UC San Diego. It is extremely important for students to have completed lower-division requirements by the end of their sophomore year so they are prepared for core courses in their junior year. Advanced UC San Diego students who wish to transfer to the department should consult with the departmental advisers about credit for courses already completed.
+
+EDUCATION ABROAD
+
+Students majoring in cognitive science are encouraged to participate in the Education Abroad Programs (EAP), and to investigate other options of foreign study through the Opportunities Abroad Program (OAP). By petition, credits earned through EAP/OAP can fulfill UC San Diego degree and major requirements. Please visit the website at
+http://studyabroad.ucsd.edu
+for further details. Financial aid is applicable and special study abroad scholarships are readily available.

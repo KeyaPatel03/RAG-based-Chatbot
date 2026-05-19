@@ -1,0 +1,285 @@
+• HOME
+• curric
+• Physics
+
+PHYSICS
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+Department of Physics
+Undergraduate Student Affairs:
+Mayer Hall Addition, Room 2623
+https://physics.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+Capped
+
+Transfer Major Prep
+
+BS, Physics (PY29)
+
+No
+
+Yes
+
+BA, Physics (PY35)
+
+No
+
+Yes
+
+Minor(s)
+
+Physics
+
+THE UNDERGRADUATE PROGRAM
+
+The Department of Physics was established in 1960 as the first new department of the UC San Diego campus. Since then it has developed a strong faculty and student body with unusually diversified interests that lie primarily in the following areas:
+
+• Physics of elementary particles
+• Quantum liquids and superconductivity
+• Solid-state and statistical physics
+• Plasma physics
+• Astrophysics and space physics
+• Atomic and molecular collision and structure
+• Biophysics
+• Geophysics
+• Nonlinear dynamics
+• Computational physics
+In addition to on-campus research facilities, the high-energy program uses accelerators at SLAC, CERN, and Fermi Laboratory. The astrophysics program uses facilities at Keck, Lick, and Kitt Peak Observatories.
+
+ENTRY TO MAJOR(S)
+
+Transfer major preparation will be required and is being implemented in an attempt to ensure academic preparedness, success, and timely graduation. Transfer major preparation will impact any transfer student who is hoping to declare a physics major. Refer to the UC San Diego physics department website for specific details related to transfer major preparation (
+http://physics.ucsd.edu/
+).
+
+GENERAL MAJOR/PROGRAM REQUIREMENTS
+
+Physics 2 vs 4 Series:
+The Physics 4 series is designed to prepare students for the upper-division program and is required for all physics majors. Students who are exempt from PHYS 2A (mechanics) and/or PHYS 2B (E&M) based on AP/IB/A-Level exams are not exempt from these topics in the Physics 4 series.
+
+MATH 18 and the 20 Series:
+The honors math series (MATH 31AH, 31BH, 31CH) can replace the standard math courses (MATH 18, 20C, 20E, respectively). MATH 18/31AH
+must
+be completed by the end of summer of year 1 because it is a prerequisite for PHYS 4C in fall of year 2.
+
+Programming:
+For students transferring into the physics program, one of the following courses is accepted via petition provided the course was completed before the transfer into physics was formalized: CENG/NANO 15; COGS 18; CSE 8A, 11, 12; ECE 15; MAE 8.
+
+Prerequisites:
+Check
+Courses
+sections of the UC San Diego General Catalog for the prerequisites to all listed courses.
+
+Substitutions/Exceptions:
+Permissible only by approved petition to the department.
+
+Limit of Use:
+A course that is listed in several areas cannot count towards more than one area and can satisfy only ONE of the major requirements.
+
+P/NP Grading Option:
+Not allowed for any courses applied to the major (the exceptions are courses completed via AP/IB/A-Level and a single four-unit PHYS 199/199H that may only be applied as an upper-division restricted elective).
+
+Grades and GPA:
+A grade point average of 2.0 or higher in the upper-division major program is required for graduation. Students must receive a grade of C– or better in any course to be counted toward fulfillment of the major requirements.
+
+Residence Requirements
+At least 60 percent of the upper-division courses in the major must be taken while in residence at UC San Diego. All core upper-division courses must be taken while in residence at UC San Diego.
+
+Changing/Adding a Specialization:
+Use the
+major/minor tool
+to request this.
+
+Double Majors
+: Approved by
+petition
+only. A student with a double major must fulfill the separate requirements of each major, and the equivalent of at least ten upper-division courses (forty units) must be unique to each major. Courses taken in fulfillment of lower-division requirements may overlap to any degree. A student cannot pursue two majors within the Department of Physics.
+
+BS, PHYSICS (PY29)
+
+UNIT REQUIREMENTS FOR THE MAJOR
+
+Lower
+-division units
+
+52
+
+Upper-division units
+
+57
+
+Total units required for the major*
+
+109
+
+* See “
+Graduation Requirements in the UC San Diego Colleges
+” for complete graduation requirements in each college
+
+MAJOR SUMMARY
+
+Physics is a field of study that covers a wide range of areas of applicability, each of which requires understanding unique mathematical and conceptual tools in addition to the foundational concepts that every physicist should have. The physics major provides a core of basic education in several principal areas of physics, with sufficient flexibility to allow students to prepare for a variety of career paths including graduate school (in both physics and adjacent STEM disciplines) and careers in industry. Students wishing to pursue graduate school in physics should choose the BS degree.
+
+Primary goals of the physics BS degree include teaching students to think like a physicist. This includes developing the quantitative reasoning skills to both appreciate and make predictions based on fundamental equations and the analytical skills to interpret real measured data, draw conclusions about the physical world, and make quantitative comparisons with theory. In the upper-division program, the emphasis is on macroscopic physics; the two principal physics subjects are electromagnetism and mechanics. A sequence of courses in quantum physics provides the student the modern view of atomic and some aspects of subatomic physics and the principal analytical methods appropriate in this domain. The relation of the microscopic to the macroscopic world is the subject of courses in thermodynamics and statistical physics, with illustrations drawn from gas dynamics and solid-state physics. Upper-division laboratories teach students the essentials of physical measurement and building advanced equipment, as well as other aspects of experimental science.
+
+Appropriate preparation for different career paths that can build on a physics degree necessitates that students take more than the required “core” courses. Thus, it is important for students to meet with the physics department adviser in choosing courses. Electives should be used to supplement the core courses to provide more depth and/or breadth based on a student’s interests and career goals. While not required, students have the option of selecting an area of concentration as part of their degree program. Available concentrations are astrophysics, biophysics, computational physics, and materials physics.
+
+LOWER-DIVISION REQUIREMENTS
+
+CORE
+
+• PHYS 4A-B-C-D-E (twenty units)
+• PHYS 2CL-2DL (four units)
+• PHYS 41 (four units)
+• MATH 18 and 20A-B-C-D-E (twenty-four units)
+
+UPPER-DIVISION REQUIREMENTS
+
+CORE
+
+• PHYS 100A-B, 105A, 110A, 120, 130A-B, 140A (thirty-three units)
+
+LAB
+
+• One from PHYS 122, 124, 133, 173, or ASTR 150 (four units)
+
+RESTRICTED ELECTIVES
+
+Five upper-division and/or graduate-level courses from PHYS 100–195 and 200–295 (twenty units). Suggested core physics electives are PHYS 100C, 105B, 110B, 130C, 140B. The following are possible focus areas for students to consider when selecting courses. Students may use a maximum of two courses outside of physics to satisfy this requirement, provided they come from a single focus area and are listed below. Choosing a focus area is not required. All courses applying to the restricted electives must grant four or more units.
+
+• Astrophysics: PHYS 160, 161, 162, 225A-B-C, 227, 228; ECE 120; MAE 180, ASTR 123, 150
+Astrophysics: PHYS 160, 161, 162, 225A-B-C, 227, 228; ECE 120; MAE 180, ASTR 123, 150
+
+• Biophysics: PHYS 140B, 173, 175, 176, 177, 178; BI** 100–185; CHEM 100–186. The following courses are not accepted: BISP courses, BIEB 176, CHEM 130.
+Biophysics: PHYS 140B, 173, 175, 176, 177, 178; BI** 100–185; CHEM 100–186. The following courses are not accepted: BISP courses, BIEB 176, CHEM 130.
+
+• Computational physics: PHYS 105B, 141, 142; MATH 170A-B-C, 179, 183
+Computational physics: PHYS 105B, 141, 142; MATH 170A-B-C, 179, 183
+
+• Materials physics: PHYS 133, 152A-B; CHEM 120A-B; ECE 103, 134, 135A-B, 136L; MAE 160
+Materials physics: PHYS 133, 152A-B; CHEM 120A-B; ECE 103, 134, 135A-B, 136L; MAE 160
+
+• Physics of the Earth, Oceans, and Atmosphere: PHYS 105B, 110B, 116, 122, 140B; SIO 103, 111, 171, 172, 177
+
+MAJOR SPECIFIC INFORMATION
+
+Sample academic plans are available at
+plans.ucsd.edu
+.
+
+Recommended (not required) lower-division courses for students interested in biophysics: BILD 1-2; CHEM 6A-B-C, 7L.
+
+Recommended (not required) lower-division courses for students interested in materials physics: CHEM 6A-B.
+
+BA, PHYSICS (PY35)
+
+UNIT REQUIREMENTS FOR THE MAJOR
+
+Lower
+-division units
+
+52
+
+Upper-division units
+
+49
+
+Total units required for the major*
+
+101
+
+* See “
+Graduation Requirements in the UC San Diego Colleges
+” for complete graduation requirements in each college
+
+MAJOR SUMMARY
+
+This program covers the essential topics in physics and provides a broadly based education in the natural sciences. Starting with lower-division courses in mathematics, physics, and computing, students proceed to upper-division mechanics, electricity and magnetism, quantum physics, and a physical measurements laboratory course. In addition, students take twenty-eight units of upper-division elective courses in the sciences and engineering.
+
+While the BA program is suitable for students who pursue a terminal degree in physics or use it as a preparation for other professional careers, it is not intended for those who wish to proceed to the PhD in physics. The latter should enroll in the BS program.
+
+LOWER-DIVISION REQUIREMENTS
+
+CORE
+
+• PHYS 4A-B-C-D-E (twenty units)
+• PHYS 2CL-2DL (four units)
+• PHYS 41 (four units)
+• MATH 18 and 20A-B-C-D-E (twenty-four units)
+
+UPPER-DIVISION REQUIREMENTS
+
+CORE
+
+• PHYS 100A-B, 110A, 120, 130A (twenty-one units)
+PHYS 100A-B, 110A, 120, 130A (twenty-one units)
+
+RESTRICTED ELECTIVES
+
+• Seven four-unit upper-division courses from the sciences and engineering, with at least twelve units from upper-division or graduate-level physics (twenty-eight units)
+Seven four-unit upper-division courses from the sciences and engineering, with at least twelve units from upper-division or graduate-level physics (twenty-eight units)
+
+MAJOR SPECIFIC INFORMATION
+
+Sample academic plans are available at
+plans.ucsd.edu
+.
+
+To broaden preparation in the sciences, the following courses are recommended but not required: BILD 1, 2, 3; CHEM 6A-B-C, CSE 30, MAE 03.
+
+MINOR PROGRAM
+
+The minor in physics consists of seven courses (twenty-eight units) of letter-graded physics course work from the following list with at least five courses (twenty units) coming from upper-division course work:
+
+PHYS 2C-2D or PHYS 4D-4E
+
+PHYS 100–178
+
+Lower-division courses (including transfer course work) can overlap between a major and minor without restriction; however, no more than two upper-division courses (a maximum of eight units) may overlap between a major and a minor. Upper-division courses being applied to the minor must be taken at UC San Diego in the Department of Physics. Students must earn a grade of C– or above in all courses applied to the minor, including transfer course work. The minimum overall GPA requirement for the minor is a 2.0. A petition is required for any waivers/substitutions to the minor requirements (e.g., applying a non–UC San Diego upper-division physics course).
+
+Within the parameters outlined above, students will select the specific courses that will be applied to the minor. Students can declare the physics minor at any point prior to their graduating quarter. Minor proposals must be submitted via the
+major/minor tool
+on TritonLink.
+
+HONORS
+
+The Department of Physics offers an Honors Program for students who demonstrate excellence in the major. Students interested in the Honors Program should consult the Student Affairs Office. Eligibility for the Honors Program includes completion of all required lower-division physics courses, nine upper-division physics courses, and a GPA of at least 3.50 in the physics major.
+
+The Honors Program consists of a minimum of eight units of honors thesis research (PHYS 199H), an honors thesis, and the presentation of the research to faculty and peers at UC San Diego’s Undergraduate Research Conference or an undergraduate seminar. Admission to the Honors Program is contingent upon the prior approval of the honors thesis research topic by the vice chair for education.
+
+DEPARTMENT AWARDS
+
+SHANG-KENG MA MEMORIAL AWARD ENDOWED BY THE SHAOYEH MA FOUNDATION
+
+The Shaoyeh Ma Foundation and the Department of Physics presents the Shang-keng Ma Memorial Award at commencement each year to a graduating physics student who has shown exceptional ability and promise during their UC San Diego undergraduate years. The award was established in 1984 to commemorate the contributions of Professor Ma to the UC San Diego Department of Physics and to the field of theoretical condensed matter physics. The Shaoyeh Ma Foundation endowed this award in 2016 in honor of Shang-keng Ma.
+
+JOHN HOLMES MALMBERG PRIZE
+
+The John Holmes Malmberg Prize is presented annually at commencement to a graduating physics student who is recognized for potential for a career in physics and a measure of experimental inquisitiveness. This prize was established in 1993 in memory of Professor Malmberg who pioneered the use of nonneutral plasmas for sophisticated tests of plasma equilibrium, wave, and transport effects. He was an involved teacher of undergraduate and graduate students and was active in departmental and campus affairs.
+
+AFFILIATED PROGRAMS
+
+ENGINEERING PHYSICS PROGRAM
+
+The engineering physics program is offered jointly by the Departments of Physics, MAE, and ECE, and is administered by the Department of ECE. Engineering physics majors are a part of the Jacobs School of Engineering and receive academic advising by Department of ECE. See “
+ECE, BS Engineering Physics
+” for program details.
+
+ADVISING INFORMATION
+
+The physics advising office serves undergraduate student majors and students enrolled in physics courses. For more information about advising services in the Department of Physics, please visit:
+https://www.physics.ucsd.edu/Student/Current/Undergraduate/Advising
+.
+
+STUDY ABROAD
+
+Majors are encouraged to explore the programs that allow students to study abroad or at other US universities for a term or longer. Consider especially the UC Education Abroad Program (EAP) and UC San Diego’s Opportunities Abroad Program (OAP). Subject to approval by our faculty, courses taken through EAP/OAP may be accepted for credit toward the major. Students interested in studying abroad should see the physics adviser to discuss appropriate courses and programs for their plan of study.

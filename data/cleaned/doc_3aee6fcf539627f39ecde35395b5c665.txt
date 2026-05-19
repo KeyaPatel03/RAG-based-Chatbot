@@ -1,0 +1,591 @@
+• HOME
+• curric
+• Mechanical and Aerospace Engineering
+
+MECHANICAL AND AEROSPACE ENGINEERING (MAE)
+
+[
+graduate program
+|
+courses
+|
+faculty
+]
+
+STUDENT AFFAIRS:
+Warren College
+180 Engineering Building II
+http://mae.ucsd.edu
+
+All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+
+DEPARTMENT FOCUS
+
+Our instructional and research programs advance scientific knowledge and create technological innovations to solve outstanding problems in their disciplines. The cutting-edge research encompasses a variety of areas that include solid mechanics; materials; fluid mechanics and heat transfer; dynamics, systems, and controls; energy including combustion and renewables; and plasmas. The faculty collaborate across areas and often with faculty in other engineering departments, the School of Medicine, and the Scripps Institution of Oceanography.
+
+All MAE programs of study have strong components in laboratory experimentation, numerical computation, and engineering design. Design is covered throughout the curricula by open-ended homework problems, by laboratory and computer courses that include student-initiated projects, and finally by senior design project courses that involve teams of students working to solve engineering design problems brought in from industry.
+
+THE UNDERGRADUATE PROGRAM
+
+DEGREE AND PROGRAM OPTIONS
+
+The Department of Mechanical and Aerospace Engineering (MAE) offers traditional, accredited engineering programs leading to a BS degree in mechanical engineering and a BS degree in aerospace engineering. The BS programs require a minimum of 180 units.
+
+All MAE programs of study have strong components in laboratory experimentation, numerical computation, and engineering design. Design is emphasized throughout the curricula by open-ended homework problems, by laboratory and computer courses that include student-initiated projects, and by senior design project courses that often involve teams of students working to solve engineering design problems brought in from industry. The MAE programs are designed to prepare students receiving bachelor’s degrees for professional careers or for graduate education in their area of specialization. In addition, the programs can also be taken by students who intend to use their undergraduate engineering education as preparation for postgraduate professional training in nontechnical fields such as business administration, law, or medicine.
+
+Mechanical engineering
+is a traditional four-year curriculum in mechanics, vibrations, thermodynamics, fluid flow, heat transfer, materials, control theory, and mechanical design. Graduates find employment in the mechanical and aerospace industries as well as electro-mechanical or biomedical industries. Mechanical engineers are involved in material processing, manufacturing, assembling, and maintenance of lifeline facilities such as power plants.
+
+Mechanical design includes conceptual design, drafting with 3-D CAD programs, stress, dynamics, heat transfer or fluid dynamics analyses, and the optimization of the total system for superior performance and customer satisfaction. In manufacturing, the objective is to enhance efficiency and economy by utilizing numerical control (NC) of machine tools, mechatronics, micromachining, and rapid prototyping. Currently, engineers have available computers, process models, and sensors to improve the quality and productivity of the manufacturing lines. In preparation for this modern era, the mechanical engineering curriculum emphasizes CAD courses, computer courses, laboratory courses, and design courses in addition to providing a strong background in basic science.
+
+Students have the option to earn a degree in mechanical engineering or to select one of five specializations within the discipline. Students are limited to one specialization.
+
+The BS degree in mechanical engineering is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s “General Criteria and Program Criteria for Mechanical Engineering and Similarly Named Engineering Programs.”
+
+The program’s educational objectives are the following:
+
+Five to ten years after completeing our program, our alumni are expected to:
+
+• Enjoy successful careers where they utilize a strong technical foundation to excel as engineers, technology leaders, innovators, or other contributors to society.
+• Keep pace with rapid technological change and further develop their knowledge and skills across a range of disciplines throughout their professional careers or in pursuit of advanced education.
+• Lead local or global teams, where they will communicate effectively, interact ethically and knowledgeably, and take into account societal issues to provide a positive impact on society.
+Graduates from the ME program are expected to have the following:
+
+• An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+• An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+• An ability to communicate effectively with a range of audiences.
+• An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+• An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+• An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Aerospace engineering
+is a four-year curriculum that prepares students for a career in the aeronautical and astronautical industries, related technology industries, or for graduate school.
+
+The curriculum was developed to emphasize engineering fundamentals, aerospace topics, and the integration of these fundamentals and topics into the design of an aerospace system. Courses in engineering fundamentals include materials, solid and fluid mechanics, thermodynamics, computer modeling, computer-aided-design, numerical analysis, and controls. Courses covering the aerospace engineering topics include aerodynamics, aerospace structures, flight mechanics, dynamics and control of aerospace vehicles, and propulsion. Students complete the program by taking a two-quarter capstone design course that integrates all of their aerospace education into the design, development, and testing of an aeronautical or astronautical vehicle or component. Throughout the program, students take laboratory courses that expose them to modern testing techniques and enhance their understanding of complex engineering topics. The program’s main objectives are to provide students with a strong foundation in engineering fundamentals; in-depth knowledge of key topics in aerospace engineering including aerodynamics, propulsion, flight mechanics, orbital mechanics, aerospace structures and materials, and design and control of aerospace systems; and an awareness of the value of lifelong learning.
+
+The BS degree in aerospace engineering is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s “General Criteria and Program Criteria for Aerospace Engineering and Similarly Named Engineering Programs.”
+
+The program’s educational objectives are the following:
+
+Five to ten years after completing our program, our alumni are expected to:
+
+• Enjoy successful careers where they utilize a strong technical foundation to excel as engineers, technology leaders, innovators, or other contributors to society.
+• Keep pace with rapid technological change and further develop their knowledge and skills across a range of disciplines throughout their professional careers or in pursuit of advanced education.
+• Lead local or global teams, where they will communicate effectively, interact ethically and knowledgeably, and take into account societal issues to provide a positive impact on society.
+Graduates from the AE program are expected to have the following:
+
+• An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+• An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+• An ability to communicate effectively with a range of audiences.
+• An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+• An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+• An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+• An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+OTHER UNDERGRADUATE PROGRAMS OF STUDY IN MAE
+
+The
+engineering mechanics minor
+involves successful completion of seven MAE courses, including at least five upper-division courses open to students who meet the course prerequisites. Our courses provide a good introduction to engineering analysis and would be useful to nonengineering majors desiring a background that could be used in professional communication with engineers. For students who are interested in taking the fundamentals in engineering (FE) exam to become an Engineer-in-Training (EIT) in mechanical engineering, the following courses are recommended: MAE 101A-B-C, MAE 11, MAE 20, MAE 108, MAE 30A-B, MAE 170, MAE 131A, MAE 150.
+
+DOUBLE MAJORS AND MINORS
+
+It is the policy of the UC San Diego Academic Senate not to approve double majors and minors within engineering departments.
+
+PROGRAM ACCREDITATION
+
+The BS degree program in aerospace engineering is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s “General Criteria and Program Criteria for Aerospace Engineering and Similarly Named Engineering Programs.”
+
+The BS degree program in mechanical engineering is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s “General Criteria and Program Criteria for Mechanical Engineeringand Similarly Named Engineering Programs.”
+
+MAJOR REQUIREMENTS
+
+Specific course requirements for each major program are outlined in tables in this section of the catalog. In addition to the required technical courses specifically indicated, a suggested scheduling of humanities and social science courses (HSS) are distributed in the curricula for students to use to meet college general-education requirements. To graduate, students must maintain an overall GPA of at least 2.0. Deviations from these programs of study must be approved by the Undergraduate Affairs Committee prior to taking alternative courses. In addition, technical elective (TE) course selections must have departmental approval prior to taking the courses. In the aerospace engineering BS degree program and the mechanical engineering BS degree program, TE courses are restricted to meet accreditation standards. MAE 197 is not allowed as a technical elective in meeting the upper-division major requirements. MAE 199 and MAE 198 may be used as a technical elective only under restrictive conditions. Policy regarding these conditions may be obtained from the department’s Student Affairs Office.
+
+Students with different academic preparation may vary the scheduling of lower-division courses such as math, physics and chemistry, but should consult the department. Deviations in scheduling MAE upper-division courses are discouraged. Most lower-division courses are offered more than once each year to permit students some flexibility in their program scheduling. However, many MAE upper-division courses are taught only once per year, and courses are scheduled to be consistent with the curricula as shown in the tables. When possible, MAE does offer large enrollment courses more than once each year. A tentative schedule of course offerings is available from the department each spring for the following academic year.
+
+GENERAL-EDUCATION/COLLEGE REQUIREMENTS
+
+For graduation each student must satisfy general-education course requirements determined by the student’s college as well as the major requirements determined by the department. The seven colleges at UC San Diego require widely different general-education courses, and the number of such courses differs from one college to another. Each student should choose his or her college carefully, considering the special nature of the college and the breadth of general education.
+
+Each MAE program allows for humanities and social science (HSS/GE) courses so that students can fulfill their college requirements. In the aerospace engineering BS degree program and the mechanical engineering BS degree program, students must develop a program that includes a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. It should be noted, however, that some colleges require more than the twelve HSS courses indicated in the curriculum tables. Accordingly, students in these colleges could take longer to graduate than the indicated four-year schedule. Students must consult with their college to determine which HSS/GE courses to take.
+
+PROFESSIONAL LICENSING
+
+All students are encouraged to take the Fundamentals of Engineering (FE) examination as the first step in becoming licensed as a professional engineer (PE). Students graduating from an accredited program can take the PE examination after FE certification and two years of work experience; students graduating from a nonaccredited program can take the PE examination after FE certification and four years of work experience.
+
+For further information please contact your local Board of Registration for Professional Engineers and Land Surveyors.
+
+MECHANICAL ENGINEERING
+
+The mechanical engineering program has a traditional four-year curriculum involving mechanics, vibrations, thermodynamics, fluid flow, heat transfer, materials, control theory, and mechanical design.
+
+RECOMMENDED COURSE SEQUENCE—MECHANICAL ENGINEERING
+
+FALL
+
+WINTER
+
+SPRING
+
+First Year
+
+MATH 20A
+
+MATH 20B
+
+MATH 20C
+
+CHEM 6A
+
+PHYS 2A
+
+PHYS 2B
+
+GE
+
+GE
+
+MAE 3
+
+GE
+
+GE
+
+GE
+
+Sophomore Year
+
+MATH 18
+
+MATH 20D
+
+MATH 20E
+
+PHYS 2C
+
+MAE 8
+
+GE
+
+MAE 20
+
+MAE 30A
+
+MAE 30B
+
+GE
+
+GE
+
+MAE 131A
+
+Junior Year
+
+MAE 11
+
+MAE 101A
+
+MAE 101B
+
+MAE 105
+
+MAE 143A
+
+MAE 143B
+
+MAE 40
+
+GE
+
+MAE 170
+
+MAE 107
+
+MAE 160 or MAE 131B
+
+GE
+
+Senior Year
+
+MAE 101C
+
+MAE 171A
+
+MAE 156B
+
+MAE 150
+
+MAE 156A
+
+TE
+
+TE
+
+TE
+
+TE
+
+GE
+
+GE
+
+TE
+
+• CHEM 6AH may be taken in place of CHEM 6A.
+• In fulfilling the GE requirements, also known as humanities and social science requirements (HSS), students must take a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. Twelve HSS courses are listed here; individual college requirements may be different.
+• Technical elective (TE) courses must be upper-division or graduate courses in engineering sciences, natural sciences, or mathematics selected with a prior approval of the department. See Student Affairs in MAE for a current list of preapproved TEs.
+
+MECHANICAL ENGINEERING WITH A SPECIALIZATION IN CONTROLS AND ROBOTICS
+
+The specialization in controls and robotics is designed for students who want to understand the fundamentals of controls and optimization and their applications in robotics such as autonomous vehicles, biomedical technologies, and swarms of drones.
+
+Students must complete all of the mechanical engineering requirements described above, and four of the five technical electives must be selected from the list below including at least two of the courses marked with an asterisk (*):
+
+• MAE 108. Probability and Statistical Methods for Engineering
+• MAE 142. Dynamics and Control of Aerospace Vehicles*
+• MAE 144. Embedded Control and Robotics*
+• MAE 145. Introduction to Robotic Planning and Estimation*
+• MAE 146. Introduction to ML Algorithms
+• MAE 148. Introduction to Autonomous Vehicles
+• MAE 180. Orbital Mechanics*
+• MAE 200. Controls*
+• MAE 204. Robotics*
+• SE 143A. Aerospace Structural Design I
+• SE 143B. Aerospace Structural Design II Note: SE 143A-B are the SE senior design capstone courses so students will be expected to complete both A and B consecutively.
+
+MECHANICAL ENGINEERING WITH A SPECIALIZATION IN FLUID MECHANICS AND THERMAL SYSTEMS
+
+The specialization in fluid mechanics and thermal systems is designed for students who are interested in the fundamentals of thermodynamics, fluid mechanics, heat transfer, and engineering applications.
+
+Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below:
+
+• MAE 101D. Intermediate Heat Transfer
+• MAE 104. Aerodynamics
+• MAE 110. Thermodynamic Systems
+• MAE 113. Fundamentals of Propulsion
+• MAE 119. Introduction to Renewable Energy: Solar and Wind
+• MAE 122. Flow and Transport in the Environment
+• MAE 185. Computational Fluid Dynamics
+• MAE 201. Mechanics of Fluids
+• MAE 202. Thermal Processes
+• BENG 103B. Bioengineering Mass Transfer or CENG 101C. Mass Transfer
+• SIO 111. Introduction to Ocean Waves
+• SIO 172. Physics of the Atmosphere
+• SIO 173. Dynamics of the Atmosphere and Climate
+• SIO 178. Geophysical Fluid Dynamics
+
+MECHANICAL ENGINEERING WITH A SPECIALIZATION IN MATERIALS SCIENCE AND ENGINEERING
+
+The specialization in materials science and engineering is designed for students who are interested in materials fundamentals and applications in engineering such as criteria for materials selection, fabrication and failure analysis of engineering components, nanomaterials and materials for biomedical, energy, and electrical/magnetic/optical applications.
+
+Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below. Only one of the courses marked with an asterisk (*) will be accepted for the specialization, not both:
+
+• MAE 130. Mechanics III: Vibrations
+• One of the following two courses: MAE 131B. Fundamentals of Solid Mechanics II (if MAE 160 is used to satisfy ME major requirement) MAE 160. Mechanical Behavior of Materials (if MAE 131B is used to satisfy ME major requirement)
+• MAE 131B. Fundamentals of Solid Mechanics II (if MAE 160 is used to satisfy ME major requirement)
+• MAE 160. Mechanical Behavior of Materials (if MAE 131B is used to satisfy ME major requirement)
+• MAE 133. Finite Element Methods in Mechanical and Aerospace Engineering*
+• MAE 165. Fatigue and Failure Analysis of Engineering Components
+• MAE 166. Nanomaterials
+• MAE 190. Biomaterials and Medical Devices
+• NANO 134. Polymeric Materials (or MATS 257. Polymer Science and Engineering)
+• NANO 148. Thermodynamics of Materials
+• NANO 158. Phase Transformations and Kinetics
+• NANO 158L. Materials Processing Laboratory
+• NANO 161. Material Selection in Engineering
+• NANO 174L. Mechanical Behavior Laboratory
+• SE 131A. Finite Element Analysis*
+• SE 131B. Finite Element Analysis: Beam and Shell Models*
+• SE 142. Design of Composite Structures
+• SE 163. Nondestructive Evaluation
+
+MECHANICAL ENGINEERING WITH A SPECIALIZATION IN MECHANICS OF MATERIALS
+
+The specialization in mechanics of materials is designed for students who are interested in gaining expertise in the areas of mechanics of solid and soft materials, and the dynamics of material systems (e.g., bioinspired systems and metamaterials), including applications to engineering structures and devices, manufacturing, energy, and biomedical engineering. Students can choose from a diverse set of courses in mechanics, numerical modeling, and material science.
+
+Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below including both of the courses marked with an asterisk (*):
+
+• MAE 130. Mechanics III: Vibrations*
+• One of the following two courses*: MAE 131B. Fundamentals of Solid Mechanics II (if MAE 160 is used to satisfy ME major requirement) MAE 160. Mechanical Behavior of Materials (if MAE 131B is used to satisfy ME major requirement)
+• MAE 131B. Fundamentals of Solid Mechanics II (if MAE 160 is used to satisfy ME major requirement)
+• MAE 160. Mechanical Behavior of Materials (if MAE 131B is used to satisfy ME major requirement)
+• MAE 133. Finite Element Methods in Mechanical and Aerospace Engineering
+• MAE 165. Fatigue and Failure Analysis of Engineering Components
+• MAE 166. Nanomaterials
+• MAE 167. Wave Dynamics in Materials
+• MAE 190. Biomaterials and Medical Devices (Note: It must be this specific course topic.)
+• NANO 134. Polymeric Materials (or MATS 257. Polymer Science and Engineering)
+• NANO 148. Thermodynamics of Materials
+• NANO 158. Phase Transformations and Kinetics
+• NANO 158L. Materials Processing Laboratory
+• NANO 161. Material Selection in Engineering
+• NANO 174L. Mechanical Behavior Laboratory
+• SE 142. Design of Composite Structures
+• SE 163. Nondestructive Evaluation
+
+MECHANICAL ENGINEERING WITH A SPECIALIZATION IN RENEWABLE ENERGY AND ENVIRONMENTAL FLOWS
+
+The specialization in renewable energy and environmental flows is designed for students who are interested in technologies that enable sustainable growth, in flow and transport in atmosphere, ocean, and groundwater, and renewable energy solutions for the electric power system. Students can choose from a diverse set of courses in oceanography, chemistry, and various engineering disciplines.
+
+Students must complete all of the mechanical engineering requirements described above and four of the five technical electives must be selected from the list below including both courses marked with an asterisk (*):
+
+• Core MAE 119, Introduction to Renewable Energy: Solar and Wind* MAE 122. Flow and Transport in the Environment*
+• MAE 119, Introduction to Renewable Energy: Solar and Wind*
+• MAE 122. Flow and Transport in the Environment*
+• Environmental Flows MAE 123. Introduction to Transport in Porous Media MAE 185. Computational Fluid Dynamics SIO 111. Introduction to Ocean Waves SIO 171. Introduction to Physical Oceanography SIO 172. Physics of the Atmosphere SIO 173. Dynamics of the Atmosphere and Climate SIO 175. Analysis of Oceanic and Atmospheric Data SIO 176. Observational Physical Oceanography SIO 178. Geophysical Fluid Dynamics SIO 179. Ocean Instruments and Sensors
+• MAE 123. Introduction to Transport in Porous Media
+• MAE 185. Computational Fluid Dynamics
+• SIO 111. Introduction to Ocean Waves
+• SIO 171. Introduction to Physical Oceanography
+• SIO 172. Physics of the Atmosphere
+• SIO 173. Dynamics of the Atmosphere and Climate
+• SIO 175. Analysis of Oceanic and Atmospheric Data
+• SIO 176. Observational Physical Oceanography
+• SIO 178. Geophysical Fluid Dynamics
+• SIO 179. Ocean Instruments and Sensors
+• Energy MAE 101D. Intermediate Heat Transfer MAE 108. Probability and Statistical Methods for Mechanical and Environmental Engineering MAE 110. Thermodynamics Systems MAE 120. Introduction to Nuclear Energy MAE 125. Building Energy Efficiency MAE 206. Energy Systems ECE 121A. Power Systems Analysis and Fundamentals ECE 121B. Energy Conversion ECE 125A. Introduction to Power Electronics I ECE 125B. Introduction to Power Electronics II ESYS 103. Environmental Challenges: Science and Solutions SIO 117. The Physical Basis of Global Warming
+• MAE 101D. Intermediate Heat Transfer
+• MAE 108. Probability and Statistical Methods for Mechanical and Environmental Engineering
+• MAE 110. Thermodynamics Systems
+• MAE 120. Introduction to Nuclear Energy
+• MAE 125. Building Energy Efficiency
+• MAE 206. Energy Systems
+• ECE 121A. Power Systems Analysis and Fundamentals
+• ECE 121B. Energy Conversion
+• ECE 125A. Introduction to Power Electronics I
+• ECE 125B. Introduction to Power Electronics II
+• ESYS 103. Environmental Challenges: Science and Solutions
+• SIO 117. The Physical Basis of Global Warming
+• Environmental Chemistry CENG 100. Material and Energy Balances CHEM 171. Environmental Chemistry I CHEM 172. Environmental Chemistry II CHEM 173. Atmospheric Chemistry ESYS 101. Environmental Biology SIO 141/CHEM 174. Chemical Principles of Marine Systems SIO 143. Ocean Acidification SIO 174. Chemistry of the Atmosphere and Oceans Most CENG and CHEM courses (with petition)
+• CENG 100. Material and Energy Balances
+• CHEM 171. Environmental Chemistry I
+• CHEM 172. Environmental Chemistry II
+• CHEM 173. Atmospheric Chemistry
+• ESYS 101. Environmental Biology
+• SIO 141/CHEM 174. Chemical Principles of Marine Systems
+• SIO 143. Ocean Acidification
+• SIO 174. Chemistry of the Atmosphere and Oceans
+• Most CENG and CHEM courses (with petition)
+
+AEROSPACE ENGINEERING
+
+The aerospace engineering program is a four-year curriculum that begins with fundamental engineering courses in mechanics, thermodynamics, materials, solid mechanics, fluid mechanics, and heat transfer. Additional courses are required in aerospace structures, aerodynamics, flight mechanics, propulsion, controls, and aerospace design. Graduates of this program enter graduate school or enter the aerospace industry to develop aircraft and spacecraft, but they also find employment in other areas that use similar technologies, such as mechanical and energy-related fields. Examples include automobile, naval, and sporting equipment manufacturing.
+
+RECOMMENDED COURSE SEQUENCE—AEROSPACE ENGINEERING
+
+FALL
+
+WINTER
+
+SPRING
+
+First Year
+
+MATH 20A
+
+MATH 20B
+
+MATH 20C
+
+MAE 2
+
+PHYS 2A
+
+PHYS 2B
+
+CHEM 6A
+
+GE
+
+GE
+
+GE
+
+GE
+
+GE
+
+Sophomore Year
+
+MATH 18
+
+MATH 20D
+
+MATH 20E
+
+PHYS 2C and 2CL
+
+MAE 8
+
+MAE 131A
+
+MAE 21
+
+MAE 30A
+
+MAE 30B
+
+GE
+
+GE
+
+GE
+
+Junior Year
+
+MAE 105
+
+MAE 101B
+
+MAE 104
+
+MAE 11
+
+MAE 143A
+
+MAE 143B
+
+MAE 101A
+
+SE 160A
+
+MAE 170
+
+MAE 107
+
+GE
+
+GE
+
+Senior Year
+
+MAE 142
+
+MAE 155A
+
+MAE 155B
+
+MAE 113
+
+MAE 175A
+
+GE
+
+GE
+
+TE
+
+TE
+
+TE
+
+TE
+
+TE
+
+• CHEM 6AH may be taken in place of CHEM 6A.
+• In fulfilling the GE requirements, also known as humanities and social science (HSS) requirements, students must take a total of at least twenty-four units in the arts, humanities, and social sciences, not including subjects such as accounting, industrial management, finance, or personnel administration. Twelve HSS courses are listed here; individual college requirements may be different.
+• Technical elective (TE) courses must be upper-division or graduate courses in engineering sciences, natural sciences, or mathematics selected with a prior approval of the department. See Student Affairs in MAE for a current list of preapproved TEs.
+
+AEROSPACE ENGINEERING WITH A SPECIALIZATION IN ASTRODYNAMICS AND SPACE APPLICATIONS
+
+The specialization in astrodynamics and space applications is designed for students who are interested in the fundamentals of astronautical engineering and its applications to space flight, mission analysis, navigation, and human space exploration.
+
+Students must complete all of the aerospace engineering requirements described above and four of the five technical electives must include MAE 180, Orbital Mechanics, and three courses selected from the list below:
+
+• MAE 108. Probability and Statistical Methods for Mechanical Engineering
+• MAE 114. Space Propulsion
+• MAE 181. Space Mission Analysis and Design
+• MAE 182. Spacecraft Guidance and Navigation
+• MAE 240. Space Flight Mechanics
+
+AEROSPACE ENGINEERING WITH A SPECIALIZATION IN AEROTHERMODYNAMICS
+
+The specialization in aerothermodynamics is designed for students who are interested in the fundamentals of fluid mechanics and heat transfer, including compressibility effects, and their applications to the design of propulsion and aerodynamic components and systems.
+
+Students must complete all of the aerospace engineering requirements described above and four of the five technical electives must include MAE 101C, Heat Transfer, and three courses selected from the list below:
+
+• MAE 101D. Intermediate Heat Transfer
+• MAE 110. Thermodynamic Systems
+• MAE 114. Space Propulsion
+• MAE 184. Flight Simulation Techniques
+• MAE 185. Computational Fluid Dynamics
+• MAE 201. Mechanics of Fluids
+• MAE 202. Thermal Processes
+• MAE 212. Introductory Compressible Flow
+
+AEROSPACE ENGINEERING WITH A SPECIALIZATION IN FLIGHT DYNAMICS AND CONTROLS
+
+The specialization in flight dynamics and controls is designed for students who want to understand the fundamentals of flight mechanics and controls, including optimization, and their applications to the design of flight simulation systems and autonomous aerial vehicles.
+
+Students must complete all of the aerospace engineering requirements described above and four of the five technical electives must include MAE 184, Flight Simulation Techniques, and three courses selected from the list below:
+
+• MAE 108. Probability and Statistical Methods for Mechanical Engineering
+• MAE 130. Advanced Vibrations
+• MAE 144. Embedded Control and Robotics
+• MAE 145. Introduction to Robotic Planning and Estimation
+• MAE 146. Introduction to Machine Learning Algorithms with Python
+• MAE 148. Introduction to Autonomous Vehicles
+• MAE 200. Controls
+
+POLICIES AND PROCEDURES FOR MAE UNDERGRADUATE STUDENTS
+
+ADMISSION TO THE MAJOR
+
+The degrees in mechanical and aerospace engineering are selective. Because of heavy student interest in these majors, and the limited resources available to accommodate this demand, maintenance of a high-quality program makes it necessary to limit enrollments.
+
+TRANSFER STUDENTS
+
+Applicants seeking admission as transfer students will be considered for admission into the mechanical and aerospace majors. Enrollment is limited in the mechanical and aerospace engineering majors due to heavy demand and limited resources.
+
+Students who have taken equivalent courses elsewhere may request to have transfer credit apply toward the department’s major requirements. To receive transfer credit for MAE courses, submit a petition through MAE’s online petition portal available at
+https://mae.ucsd.edu/undergrad/undergraduate-student-petition
+. For mathematics, chemistry, and physics, transfer equivalencies are determined by the respective departments. An Undergraduate Student Petition must be submitted to each department from which you are requesting transfer credit.
+
+To be eligible to transfer to the mechanical or aerospace engineering major, you must complete the following screening courses:
+
+• Calculus I—for Science and Engineering (MATH 20A)
+• Calculus II—for Science and Engineering (MATH 20B)
+• Calculus and Analytic Geometry (MATH 20C)
+• Differential Equations (MATH 20D)
+• Linear Algebra (MATH 18 or 20F)
+• Complete calculus-based physics series with lab experience (PHYS 2A, B, and C)
+• CHEM 6A
+• Highest level of introductory computer programming language course offered at the community college
+
+CONTINUING STUDENTS CHANGING MAJORS
+
+Beginning in summer 2025, selective majors allow students to apply to switch in once per year. Selection will be based on a point system that considers academic performance and other factors: California residency, first-generation status, and Pell eligibility. Only students who have completed the required screening courses and have a minimum 2.0 UC GPA are eligible to apply. For information about selective major guidance for continuing students, please see the “
+UC San Diego Selective Majors Guidance for Continuing Students
+” page.
+
+ACADEMIC ADVISING
+
+Upon admission to the major, students should consult the catalog or MAE website (
+http://mae.ucsd.edu
+) for their program of study and contact the undergraduate advisers if they have questions. The program plan may be revised in subsequent years, but curriculum revisions require approval by the undergraduate adviser or the Undergraduate Affairs Committee. Because some course and/or curricular changes may be made every year, it is imperative that students check their UC San Diego email for notifications and consult with the department’s undergraduate advisers regularly.
+
+Some MAE courses are offered only once a year and therefore should be taken in the recommended sequence. If courses are taken out of sequence, it may not always be possible to enroll in courses as desired or needed. If this occurs, students should seek immediate departmental advice. When a student deviates from the sequence of courses specified for each curriculum in this catalog, it may be impossible to complete an MAE major within the normal four-year period.
+
+It is recommended that MAE students meet with their department adviser at least once a quarter. In addition to the advising available through the Student Affairs Office, programmatic or technical advice may be obtained from MAE faculty members.
+
+PROGRAM ALTERATIONS/EXCEPTIONS TO REQUIREMENTS
+
+Variations from, or exceptions to, any program or course requirements are possible only if a petition is approved by the MAE Undergraduate Affairs Committee before the courses in question are taken. Petitions are submitted through the online petition portal, available at
+https://mae.ucsd.edu/undergrad/undergraduate-student-petition
+.
+
+INDEPENDENT STUDY
+
+MAE students may take MAE 199, Independent Study for Undergraduates, under the guidance of an MAE faculty member. This course is taken as an elective on a P/NP basis. Under very restrictive conditions, however, it may be used to satisfy one upper-division technical elective course requirement for the major. Students interested in this option must identify an MAE faculty member with whom they wish to work and propose a two-quarter research (eight units in total) or study topic. After obtaining the faculty member’s approval on the topic and scope of the study, the student must submit a Special Studies Course form (each quarter) and an MAE 199 as Technical Elective Contract form to the Undergraduate Affairs Committee. These forms, available on the
+MAE website,
+must be completed, approved, and processed prior to the add/drop deadline. There is a minimum GPA requirement of 3.0 when using 199s as a TE. Detailed policy in this regard and the requisite forms may be obtained from the Student Affairs Office.

@@ -1,0 +1,35 @@
+The Bachelor of Science Degree in Chemical Engineering offers students solid preparation for professional work in development, design, and operation of chemical products and processes. It prepares the student for employment in such industries as chemical, petroleum, electrochemical, biochemical, semiconductor, nuclear, aerospace, plastics, food processing, or environmental control.
+
+Students with high scholastic attainment are well prepared to enter graduate programs leading to advanced degrees in chemical engineering or in related professional, scientific, and engineering fields. The undergraduate program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Chemical, Biochemical, Biomolecular, and Similarly Named Engineering Programs.
+
+SUGGESTED SEQUENCE OF COURSES
+
+(F) course is offered in fall only
+
+(S) course is offered in spring only
+
+1
+Students who have satisfied Math 51 and who plan to take Math 52 or 53 in the Fall may consider also taking Physics 7A or a programming course. Math 52 is a prerequisite or corequisite for these courses.
+
+2
+Students may take either CS 61A or Eng 7 to satisfy the programming requirement.
+
+CS 61A vs. Engineering 7: CS 61A is a foundational programming course that teaches important concepts like debugging code, persistence in debugging code, and writing clean code that minimizes bugs and is reproducible. Eng 7 places a greater emphasis on numerical methods. Since some of the material in Eng 7 is covered in CBE 130, the Chemical Engineering faculty recommend taking CS 61A. They note that CS 61A will teach students how to think critically about and design a project before you start coding. This foundation will provide a good transition to CBE 130 and other upper-division CBE classes, which will cover the scientific aspects of coding. The faculty also note that CS 61A will likely be more work than Eng 7, but that CS 61A will help build proficiency in coding which will pay off in the future.
+
+3
+Required co-requisite for CBE 140 for all new students beginning Fall 2022. Maybe be used as an elective for continuing students.
+
+4
+The breadth elective requirement is comprised of 22 units, including one semester of Reading & Composition (R1A) and the breadth series requirement. If a student took Chem Eng 185 Technical Communications by spring 2017, the breadth requirement is 19 units.
+
+5
+For CBE154, students with even SID numbers (ending in 0, 2, 4, 6, or 8) should enroll in the spring of junior year while students with odd SID numbers (ending in 1, 3, 5, 7, or 9) should enroll in fall of senior year. This rule does not apply to transfer students. If a student would like to request an exception to this rule, they must fill out the
+CBE Exception Request form
+(approval is not guaranteed).
+
+6
+CBE C170L may be used to satisfy the Chemical Engineering lab requirement in lieu of CBE 154 beginning in Spring 2022, not before. CBE C170L also satisfies the prerequisite for CBE 160, 161S, and any other upper division CBE course in which 154 is a prerequisite. Students who take both C170L and 154 may use one to satisfy the lab requirement and the other to satisfy either the CBE elective requirement or an engineering elective. C170L may NOT be used to satisfy both the lab requirement AND an elective or concentration requirement.
+
+↑ page top
