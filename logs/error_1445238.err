@@ -1,0 +1,2 @@
+slurmstepd-gpu04: error: *** JOB 1445238 ON gpu04 CANCELLED AT 2026-05-16T20:40:18 DUE TO TIME LIMIT ***
+slurmstepd-gpu04: error: Detected 96 oom_kill events in StepId=1445238.batch. Some of the step tasks have been OOM Killed.

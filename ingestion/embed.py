@@ -1,4 +1,5 @@
 import json
+import gc
 from pathlib import Path
 import sys
 import torch
@@ -46,78 +47,76 @@ def embed_new_chunks():
         chunks = json.load(f)
 
     print(f"[embed] Processing {len(chunks)} chunks...")
-    
-    # Batch processing
-    BATCH_SIZE = 32 # Increased batch size for smaller model
-    
-    ids = []
-    documents = [] # The raw text to store (for retrieval)
-    metadatas = []
-    embeddings = []
+
+    # Smaller batch size to reduce peak memory usage
+    BATCH_SIZE = 16
+    import torch.nn.functional as F
+
+    total_upserted = 0
 
     for i in range(0, len(chunks), BATCH_SIZE):
         batch = chunks[i : i + BATCH_SIZE]
         batch_texts = [c['text'] for c in batch]
-        
-        # Determine IDs and Metadata
         batch_ids = [c['chunk_id'] for c in batch]
         batch_metadatas = [{"doc_id": c['doc_id'], "url": c['url'], "source": c['source']} for c in batch]
 
         # Delete existing chunks for these doc_ids to avoid duplicates/ghosts
+        # Guard: only delete if the collection already has documents (avoids
+        # ChromaDB >=0.6 raising an error when deleting from an empty collection)
         doc_ids_to_clean = set(c['doc_id'] for c in batch)
-        for d_id in doc_ids_to_clean:
-            try:
-                collection.delete(where={"doc_id": d_id})
-            except Exception:
-                pass 
+        if collection.count() > 0:
+            for d_id in doc_ids_to_clean:
+                try:
+                    collection.delete(where={"doc_id": d_id})
+                except Exception as del_err:
+                    print(f"[warning] delete failed for doc_id={d_id}: {del_err}")
 
-        # Generate Embeddings
-        # Tokenize
+        # Tokenize and embed
         inputs = tokenizer(
-            batch_texts, 
-            padding=True, 
-            truncation=True, 
-            max_length=512, 
+            batch_texts,
+            padding=True,
+            truncation=True,
+            max_length=512,
             return_tensors="pt"
         ).to(device)
 
         with torch.no_grad():
             outputs = model(**inputs)
-            # Mean Pooling - Take attention mask into account for correct averaging
-            token_embeddings = outputs.last_hidden_state # Contains all token embeddings
+            token_embeddings = outputs.last_hidden_state
             attention_mask = inputs['attention_mask']
-            
+
             input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
-            
             sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
             sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
-            
             mean_embeddings = sum_embeddings / sum_mask
-            
-            # Normalize embeddings (optional but good for cosine similarity models)
-            import torch.nn.functional as F
             mean_embeddings = F.normalize(mean_embeddings, p=2, dim=1)
-            
-            # Move to CPU list
-            batch_embeddings = mean_embeddings.tolist()
 
-        ids.extend(batch_ids)
-        documents.extend(batch_texts)
-        metadatas.extend(batch_metadatas)
-        embeddings.extend(batch_embeddings)
-        
-        if (i + 1) % 10 == 0:
-            print(f"   Processed {i} / {len(chunks)}")
+            # Move to CPU immediately and free GPU memory
+            batch_embeddings = mean_embeddings.cpu().tolist()
 
-    # Upsert to Chroma
-    if ids:
+        # Free GPU tensors right away
+        del inputs, outputs, token_embeddings, attention_mask
+        del input_mask_expanded, sum_embeddings, sum_mask, mean_embeddings
+        if device == "cuda":
+            torch.cuda.empty_cache()
+
+        # ── Upsert this batch immediately (no accumulation in RAM) ──
         collection.upsert(
-            ids=ids,
-            embeddings=embeddings,
-            metadatas=metadatas,
-            documents=documents
+            ids=batch_ids,
+            embeddings=batch_embeddings,
+            metadatas=batch_metadatas,
+            documents=batch_texts
         )
-        print(f"[embed] Successfully embedded {len(ids)} chunks into ChromaDB collection '{COLLECTION_NAME}'")
+        total_upserted += len(batch_ids)
+
+        # Free CPU lists and run GC
+        del batch_embeddings, batch_texts, batch_ids, batch_metadatas, batch
+        gc.collect()
+
+        if (i // BATCH_SIZE) % 10 == 0:
+            print(f"   Upserted {total_upserted} / {len(chunks)} chunks...")
+
+    print(f"[embed] Successfully embedded {total_upserted} chunks into ChromaDB collection '{COLLECTION_NAME}'")
 
 if __name__ == "__main__":
     embed_new_chunks()

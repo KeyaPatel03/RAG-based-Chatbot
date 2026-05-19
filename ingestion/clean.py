@@ -1,10 +1,11 @@
 import os
 import json
 import re
+import hashlib
 from pathlib import Path
 
-RAW_DIR = Path("outputs_aiohttp") # Expects uploaded files here
-METADATA_FILE = Path("scraped_metadata.json") # Expects uploaded metadata here
+RAW_DIR = Path("outputs_aiohttp")
+METADATA_FILE = Path("scraped_metadata.json")   # Optional: used to pull url/source metadata
 CLEANED_DIR = Path("data/cleaned")
 CLEANED_METADATA_FILE = Path("cleaned_metadata.json")
 
@@ -17,20 +18,37 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 def clean_new_docs():
-    """Reads raw files from metadata, cleans them, and maps them."""
-    # Removed check for metadata existence to allow for manual-only runs
-    # if not METADATA_FILE.exists():
-    #    print(f"[skip] No metadata found at {METADATA_FILE}")
-    #    return
-
+    """
+    Primary source of truth: scan ALL .txt files in outputs_aiohttp/.
+    Use scraped_metadata.json only to look up url/source for known files.
+    Any file not in scraped_metadata.json is treated as a manual upload.
+    """
     CLEANED_DIR.mkdir(parents=True, exist_ok=True)
-    
+
+    # Build a lookup: filename → metadata entry (url, source, doc_id)
+    meta_by_filename = {}
     if METADATA_FILE.exists():
-        with open(METADATA_FILE, "r") as f:
-            raw_metadata = json.load(f)
-    else:
-        raw_metadata = []
-    
+        try:
+            with open(METADATA_FILE, "r") as f:
+                raw_metadata = json.load(f)
+            for item in raw_metadata:
+                if item.get("status") != "success":
+                    continue
+                fp = item.get("file_path", "")
+                if not fp:
+                    continue
+                fname = Path(fp).name
+                # Only register a filename once (first occurrence wins)
+                if fname not in meta_by_filename:
+                    meta_by_filename[fname] = {
+                        "doc_id": item["doc_id"],
+                        "url": item.get("url", ""),
+                        "source": item.get("source", "web"),
+                    }
+        except (json.JSONDecodeError, KeyError) as e:
+            print(f"[warning] Could not fully parse {METADATA_FILE}: {e}")
+
+    # Load existing cleaned_metadata to update in-place
     cleaned_metadata = []
     if CLEANED_METADATA_FILE.exists():
         try:
@@ -38,45 +56,54 @@ def clean_new_docs():
                 cleaned_metadata = json.load(f)
         except json.JSONDecodeError:
             cleaned_metadata = []
-            
-    # We process all items in the new metadata to allow updates.
-    # We maintain a map of existing items to update them in place or append.
-    existing_map = {item['doc_id']: i for i, item in enumerate(cleaned_metadata)}
-    
+
+    existing_map = {item["doc_id"]: i for i, item in enumerate(cleaned_metadata)}
+
     new_items_count = 0
     updated_items_count = 0
-    
-    
-    # Track which filenames we've seen from metadata to identify orphans
-    seen_filenames = set()
+    skipped_count = 0
 
-    for item in raw_metadata:
-        doc_id = item['doc_id']
-        raw_path = Path(item['file_path'])
-        
-        # Determine actual path
-        filename = raw_path.name
-        actual_raw_path = RAW_DIR / filename
-        seen_filenames.add(filename)
-        
-        if not actual_raw_path.exists():
-            print(f"[warning] Raw file missing: {actual_raw_path}")
-            continue
-            
-        text = actual_raw_path.read_text(encoding="utf-8")
+    if not RAW_DIR.exists():
+        print(f"[error] Raw directory not found: {RAW_DIR}")
+        return
+
+    txt_files = sorted(RAW_DIR.glob("*.txt"))
+    print(f"[clean] Found {len(txt_files)} .txt files in {RAW_DIR}")
+
+    for file_path in txt_files:
+        fname = file_path.name
+
+        if fname in meta_by_filename:
+            # Known file from scraped_metadata.json
+            meta = meta_by_filename[fname]
+            doc_id = meta["doc_id"]
+            url = meta["url"]
+            source = meta["source"]
+        else:
+            # Unknown file — treat as manual upload; generate stable ID from filename
+            file_id_hash = hashlib.md5(fname.encode("utf-8")).hexdigest()
+            doc_id = f"manual_{file_id_hash}"
+            url = f"file://{fname}"
+            source = "manual_upload"
+
+        text = file_path.read_text(encoding="utf-8", errors="replace")
         cleaned_text = clean_text(text)
-        
+
+        if not cleaned_text.strip():
+            skipped_count += 1
+            continue  # Skip effectively empty files
+
         cleaned_filename = f"{doc_id}.txt"
         cleaned_path = CLEANED_DIR / cleaned_filename
         cleaned_path.write_text(cleaned_text, encoding="utf-8")
-        
+
         new_entry = {
             "doc_id": doc_id,
-            "url": item['url'],
-            "source": item['source'],
-            "cleaned_path": str(cleaned_path)
+            "url": url,
+            "source": source,
+            "cleaned_path": str(cleaned_path),
         }
-        
+
         if doc_id in existing_map:
             cleaned_metadata[existing_map[doc_id]] = new_entry
             updated_items_count += 1
@@ -85,45 +112,14 @@ def clean_new_docs():
             existing_map[doc_id] = len(cleaned_metadata) - 1
             new_items_count += 1
 
-    # Scan for orphan files (manually added) in RAW_DIR
-    if RAW_DIR.exists():
-        for file_path in RAW_DIR.glob("*.txt"):
-            if file_path.name in seen_filenames:
-                continue
-                
-            print(f"[notice] Found manual file: {file_path.name}")
-            
-            # Generate ID and Metadata for manual file
-            import hashlib
-            file_id_hash = hashlib.md5(file_path.name.encode("utf-8")).hexdigest()
-            doc_id = f"manual_{file_id_hash}"
-            
-            text = file_path.read_text(encoding="utf-8")
-            cleaned_text = clean_text(text)
-            
-            cleaned_filename = f"{doc_id}.txt"
-            cleaned_path = CLEANED_DIR / cleaned_filename
-            cleaned_path.write_text(cleaned_text, encoding="utf-8")
-            
-            new_entry = {
-                "doc_id": doc_id,
-                "url": f"file://{file_path.name}", # Placeholder URL
-                "source": "manual_upload",
-                "cleaned_path": str(cleaned_path)
-            }
-            
-            if doc_id in existing_map:
-                cleaned_metadata[existing_map[doc_id]] = new_entry
-                updated_items_count += 1
-            else:
-                cleaned_metadata.append(new_entry)
-                existing_map[doc_id] = len(cleaned_metadata) - 1
-                new_items_count += 1
-
     with open(CLEANED_METADATA_FILE, "w") as f:
         json.dump(cleaned_metadata, f, indent=2)
-        
-    print(f"[clean] Processed {new_items_count} new documents -> {CLEANED_METADATA_FILE}")
+
+    print(
+        f"[clean] Done — {new_items_count} new, {updated_items_count} updated, "
+        f"{skipped_count} skipped (empty) → {CLEANED_METADATA_FILE}"
+    )
+    print(f"[clean] Total entries in cleaned_metadata: {len(cleaned_metadata)}")
 
 if __name__ == "__main__":
     clean_new_docs()

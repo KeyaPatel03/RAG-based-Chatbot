@@ -102,7 +102,7 @@ get_answer = None
 try:
     from query import (
         generate_answer,
-        get_answer,
+        get_answer, 
         _answer_text_only,
         _extract_followup_questions,
         _resolve_followup_query,

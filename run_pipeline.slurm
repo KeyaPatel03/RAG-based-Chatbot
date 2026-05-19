@@ -9,21 +9,25 @@
 
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=4
+#SBATCH --cpus-per-task=8
 
-#SBATCH --mem=16G
+#SBATCH --mem=32G
 #SBATCH --time=04:00:00
 
-# move to your project directory
-cd ~/Track2Cllg
+# create logs directory
+mkdir -p logs
 
-# activate your environment
-source ~/keyavenv/bin/activate
+# move to project directory
+cd /WAVE/projects2/track2college/Track2Cllg
 
-# optional check
+# activate virtual environment
+source /WAVE/projects2/track2college/keyavenv/bin/activate
+
+# debug info
+echo "Running on $(hostname)"
+which python
 python --version
 nvidia-smi
 
-# run your script
+# run pipeline
 python run_pipeline.py
-

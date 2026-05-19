@@ -1,0 +1,4 @@
+/var/spool/slurm/d/job1440574/slurm_script: line 18: cd: /WAVE/users2/unix/kpatel8/Track2Cllg: No such file or directory
+/var/spool/slurm/d/job1440574/slurm_script: line 21: /WAVE/users2/unix/kpatel8/keyavenv/bin/activate: No such file or directory
+slurmstepd-gpu01: error: *** JOB 1440574 ON gpu01 CANCELLED AT 2026-05-12T17:38:02 ***
+slurmstepd-gpu01: error: Detected 1 oom_kill event in StepId=1440574.batch. Some of the step tasks have been OOM Killed.

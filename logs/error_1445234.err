@@ -1,0 +1,12 @@
+/var/spool/slurm/d/job1445234/slurm_script: line 18: cd: /WAVE/users2/unix/kpatel8/Track2Cllg: No such file or directory
+/var/spool/slurm/d/job1445234/slurm_script: line 21: /WAVE/users2/unix/kpatel8/keyavenv/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "/WAVE/projects2/track2college/Track2Cllg/run_pipeline.py", line 42, in <module>
+    run_pipeline()
+  File "/WAVE/projects2/track2college/Track2Cllg/run_pipeline.py", line 31, in run_pipeline
+    clean_new_docs()
+  File "/WAVE/projects2/track2college/Track2Cllg/ingestion/clean.py", line 55, in clean_new_docs
+    raw_path = Path(item['file_path'])
+                    ~~~~^^^^^^^^^^^^^
+KeyError: 'file_path'
+slurmstepd-gpu04: error: Detected 7 oom_kill events in StepId=1445234.batch. Some of the step tasks have been OOM Killed.

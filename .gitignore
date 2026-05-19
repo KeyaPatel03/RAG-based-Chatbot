@@ -28,9 +28,6 @@ keyavenv/
 __pycache__/
 *.pyc
 
-
-
-
-.env
 .env
 
+./logs/

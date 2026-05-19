@@ -1,0 +1,5 @@
+python: can't open file '/WAVE/projects2/track2college/Track2Cllg/run_pipeline.py#SBATCH': [Errno 2] No such file or directory
+/var/spool/slurm/d/job1445237/slurm_script: line 48: cd: /WAVE/users2/unix/kpatel8/Track2Cllg: No such file or directory
+/var/spool/slurm/d/job1445237/slurm_script: line 51: /WAVE/users2/unix/kpatel8/keyavenv/bin/activate: No such file or directory
+slurmstepd-gpu04: error: *** JOB 1445237 ON gpu04 CANCELLED AT 2026-05-16T16:39:27 ***
+slurmstepd-gpu04: error: Detected 10 oom_kill events in StepId=1445237.batch. Some of the step tasks have been OOM Killed.
