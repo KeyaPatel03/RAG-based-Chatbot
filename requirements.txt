@@ -1,6 +1,7 @@
 # Web server
 fastapi==0.109.2
 uvicorn[standard]==0.32.1
+gunicorn
 
 # RAG / embeddings
 qdrant-client==1.11.3
