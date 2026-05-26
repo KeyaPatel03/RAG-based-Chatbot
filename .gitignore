@@ -1,32 +1,58 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
 .ipynb_checkpoints/
 
 # Environment variables
 .env
+keyavenv/
 venv/
 
-# Chroma vector DB
+# Local-only requirements
+requirements-local.txt
+
+# Vector DB (old Chroma + any local Qdrant)
 data/chroma_db/
 .chroma_db/
+data/chunks/
+data/cleaned/
 
-# Temporary folders
-tmp*/
+# Generated data files (rebuilt by ingestion pipeline)
+chunk_metadata.json
+cleaned_metadata.json
+scraped_metadata.json
+cleaned_metadata.json
+rag_evaluation_results.csv
+clgUrls.txt
+urls.txt
+
+# Logs and outputs
+logs/
 outputs_aiohttp/
+
+# Temp folders
+tmp*/
+torchinductor*/
+runpod_deployment/
+
+# Deployment artifacts
+data/deployment/
 
 # Zip files
 *.zip
 
-# Docker local overrides / build artifacts
+# Docker local overrides
 .docker/
 docker-compose.override.yml
 docker-compose.local.yml
 
-# OS / misc  
-.DS_Storeoutputs_aiohttp/
-keyavenv/
-__pycache__/
-*.pyc
+# OS / misc
+.DS_Store
 
-
-./logs/
+# Test scripts (optional — remove these lines if you want to push them)
+scrap.py
+test_api.py
+test_model.py
+test_model2.py
+setup_schedule.sh

@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 import sys
 import asyncio
+import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Add project root to path
 sys.path.append(str(Path(__file__).parent))
@@ -59,17 +63,20 @@ def run_pipeline():
         print("[stop] chunk_metadata.json was not created — aborting pipeline")
         return
 
-    print("\n[Step 4] Embedding and Storing in ChromaDB...")
+    print("\n[Step 4] Embedding and Storing in Qdrant...")
     embed_new_chunks()
 
     # Final check
     try:
-        import chromadb
-        client = chromadb.PersistentClient(path="data/chroma_db")
-        col = client.get_collection("track2college_docs")
-        print(f"[info]  ChromaDB collection 'track2college_docs' has {col.count()} documents")
+        from qdrant_client import QdrantClient
+        client = QdrantClient(
+            url=os.getenv("QDRANT_URL", "") or "http://localhost:6333",
+            api_key=os.getenv("QDRANT_API_KEY") or None,
+        )
+        count = client.count(collection_name="track2college_docs", exact=True).count
+        print(f"[info]  Qdrant collection 'track2college_docs' has {count} documents")
     except Exception as e:
-        print(f"[warning] Could not verify ChromaDB count: {e}")
+        print(f"[warning] Could not verify Qdrant count: {e}")
 
     print("\n=== PIPELINE COMPLETE ===")
 

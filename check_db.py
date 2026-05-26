@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """
-Diagnostic script: checks every stage of the pipeline and ChromaDB state.
+Diagnostic script: checks every stage of the pipeline and Qdrant state.
 Run from the project root: python3 check_db.py
 """
 import json
+import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 print("=" * 60)
 print("PIPELINE DIAGNOSTIC")
@@ -51,20 +55,25 @@ if chk.exists():
 else:
     print("[5] chunk_metadata.json         : NOT FOUND")
 
-# --- Step 6: ChromaDB ---
-chroma_dir = Path("data/chroma_db")
-print(f"[6] data/chroma_db/ exists      : {chroma_dir.exists()}")
-if chroma_dir.exists():
-    try:
-        import chromadb
-        client = chromadb.PersistentClient(path=str(chroma_dir))
-        collections = client.list_collections()
-        print(f"    → Collections: {[c.name for c in collections]}")
-        for c in collections:
-            col = client.get_collection(c.name)
-            print(f"    → '{c.name}': {col.count()} documents")
-    except Exception as e:
-        print(f"    → ChromaDB error: {e}")
+# --- Step 6: Qdrant ---
+qdrant_url = os.getenv("QDRANT_URL", "http://localhost:6333")
+qdrant_api_key = os.getenv("QDRANT_API_KEY", "")
+print(f"[6] Qdrant URL                  : {qdrant_url}")
+try:
+    from qdrant_client import QdrantClient
+
+    client = QdrantClient(
+        url=qdrant_url or "http://localhost:6333",
+        api_key=qdrant_api_key or None,
+    )
+    collections = client.get_collections().collections
+    names = [c.name for c in collections]
+    print(f"    → Collections: {names}")
+    for name in names:
+        count = client.count(collection_name=name, exact=True).count
+        print(f"    → '{name}': {count} documents")
+except Exception as e:
+    print(f"    → Qdrant error: {e}")
 
 print("\n" + "=" * 60)
 print("DIAGNOSIS COMPLETE")

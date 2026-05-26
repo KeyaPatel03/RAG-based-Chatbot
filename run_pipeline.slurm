@@ -30,4 +30,4 @@ python --version
 nvidia-smi
 
 # run pipeline
-python run_pipeline.py
+python run_ingestion.py

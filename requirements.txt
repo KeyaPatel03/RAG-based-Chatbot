@@ -3,13 +3,8 @@ fastapi==0.109.2
 uvicorn[standard]==0.32.1
 
 # RAG / embeddings
-transformers>=4.41.0
-chromadb==0.5.5
+qdrant-client==1.11.3
 pysqlite3-binary
-
-# PyTorch (CPU build; use torch with +cu118/+cu121 index for GPU)
-torch
-accelerate
 
 # HTTP + async utils
 requests>=2.32.2
@@ -21,12 +16,10 @@ python-dotenv==1.0.1
 # Web scraping
 beautifulsoup4
 lxml
-playwright
-playwright-stealth
 pypdf
 
 # Chunking
 tiktoken
 
-# ChromaDB deps
+# Pydantic pin for compatibility
 pydantic==2.13.2

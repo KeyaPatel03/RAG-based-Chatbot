@@ -55,7 +55,7 @@ def run_pipeline():
         logger.error(f"[error] Chunking step failed: {e}", exc_info=True)
         return False
     
-    logger.info("[Step 4] Embedding and Storing in ChromaDB...")
+    logger.info("[Step 4] Embedding and Storing in Qdrant...")
     try: 
         embed_new_chunks()
     except Exception as e:

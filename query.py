@@ -1,19 +1,14 @@
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-
 import re
 import time
 import sys
 import torch
-import chromadb
 import requests
 import os
-from pathlib import Path
 from collections import deque
 from transformers import AutoTokenizer, AutoModel
 import torch.nn.functional as F
 from dotenv import load_dotenv
+from qdrant_client import QdrantClient
 
 # ---------------------------------------------------------------------------
 # Environment / Config
@@ -33,19 +28,17 @@ _RUNPOD_SYNC_URL = (
 )
 
 # ---------------------------------------------------------------------------
-# ChromaDB / Embedding config
+# Qdrant / Embedding config
 # ---------------------------------------------------------------------------
-CHROMA_DB_DIR   = Path("data/chroma_db")
+QDRANT_URL      = os.environ.get("QDRANT_URL", "")
+QDRANT_API_KEY  = os.environ.get("QDRANT_API_KEY", "")
 COLLECTION_NAME = "track2college_docs"
 EMBED_MODEL_ID  = "sentence-transformers/multi-qa-mpnet-base-cos-v1"
 TOP_K           = 6
 
-# Cosine distance threshold: documents with distance > this are considered
-# too dissimilar from the query → out-of-scope response.
-# ChromaDB cosine distance: 0 = identical, 2 = opposite.
-# multi-qa-mpnet-base-cos-v1 typical range: relevant=0.1-0.9, off-topic=1.2-2.0
-# Set conservatively high so we never block legitimate questions.
-RELEVANCE_THRESHOLD = 1.4
+# Cosine similarity threshold: documents with score < this are considered
+# too dissimilar from the query and treated as out-of-scope.
+RELEVANCE_THRESHOLD = 0.35
 
 # ---------------------------------------------------------------------------
 # Load embedding model once at startup
@@ -55,8 +48,45 @@ embed_model     = AutoModel.from_pretrained(EMBED_MODEL_ID)
 device          = "cuda" if torch.cuda.is_available() else "cpu"
 embed_model.to(device)
 
-client     = chromadb.PersistentClient(path=str(CHROMA_DB_DIR))
-collection = client.get_or_create_collection(name=COLLECTION_NAME)
+_qdrant_kwargs = {"url": QDRANT_URL or "http://localhost:6333"}
+if QDRANT_API_KEY:
+    _qdrant_kwargs["api_key"] = QDRANT_API_KEY
+client = QdrantClient(**_qdrant_kwargs)
+
+
+def search_collection(query_emb: list[float], n_results: int) -> dict:
+    """Query Qdrant and return a Chroma-compatible result shape."""
+    try:
+        points = client.query_points(
+            collection_name=COLLECTION_NAME,
+            query=query_emb,
+            limit=n_results,
+            with_payload=True,
+            with_vectors=False,
+        ).points
+    except Exception as exc:
+        print(f"[qdrant] query failed: {exc}")
+        return {"documents": [[]], "metadatas": [[]], "distances": [[]]}
+
+    documents: list[str] = []
+    metadatas: list[dict] = []
+    distances: list[float] = []
+
+    for p in points:
+        payload = p.payload or {}
+        documents.append(str(payload.get("text", "")))
+        metadatas.append({
+            "chunk_id": payload.get("chunk_id", ""),
+            "doc_id": payload.get("doc_id", ""),
+            "url": payload.get("url", ""),
+            "source": payload.get("source", ""),
+        })
+        score = float(getattr(p, "score", 0.0) or 0.0)
+        # Keep downstream sorting semantics (lower is closer) by converting
+        # cosine similarity score to a pseudo-distance.
+        distances.append(1.0 - score)
+
+    return {"documents": [documents], "metadatas": [metadatas], "distances": [distances]}
 
 # ---------------------------------------------------------------------------
 # Out-of-scope fallback response
@@ -152,22 +182,21 @@ def _top_sources_from_results(results: dict, n: int = 3) -> list[str]:
 
 def _is_out_of_scope(results: dict) -> bool:
     """
-    Return True if ALL retrieved documents are too far from the query,
-    meaning the question is outside the dataset's scope.
-    ChromaDB returns cosine distances in results['distances'][0].
+    Return True if retrieved similarity is too low, meaning the question is
+    outside the dataset's scope.
 
-    IMPORTANT: If distances are not returned (old chromadb version or include
-    param unsupported), we assume IN-scope and let the LLM decide — the
-    LLM-signal check in generate_answer() acts as the second guard.
+    search_collection() stores pseudo-distance = 1 - cosine_similarity in
+    results['distances'][0] so existing downstream logic can stay unchanged.
     """
     raw = results.get("distances")
     if not raw or not isinstance(raw, list) or not raw[0]:
         # Distances unavailable → assume in-scope, rely on LLM guard instead
         return False
     distances = raw[0]
-    best = min(distances)
-    print(f"[scope] best cosine distance = {best:.4f} (threshold={RELEVANCE_THRESHOLD})")
-    return best > RELEVANCE_THRESHOLD
+    best_distance = min(distances)
+    best_similarity = 1.0 - best_distance
+    print(f"[scope] best cosine similarity = {best_similarity:.4f} (threshold={RELEVANCE_THRESHOLD})")
+    return best_similarity < RELEVANCE_THRESHOLD
 
 
 # ---------------------------------------------------------------------------
@@ -419,7 +448,7 @@ def _parse_llm_output(
     else:
         source_urls = raw_urls
 
-    # Fall back to ChromaDB-derived URLs if nothing valid remains
+    # Fall back to vector-store-derived URLs if nothing valid remains
     if not source_urls:
         source_urls = fallback_sources
 
@@ -549,7 +578,7 @@ def generate_answer(
     """
     Full RAG pipeline:
       1. Embed query locally
-      2. Retrieve top-K passages from ChromaDB (with distances)
+    2. Retrieve top-K passages from Qdrant
       3. Check relevance threshold → return out-of-scope if needed
       4. Assemble strict prompt
       5. Call RunPod vLLM for completion
@@ -558,15 +587,13 @@ def generate_answer(
 
     # ── 1. Embed & Retrieve ──────────────────────────────────────────────────
     query_emb = get_query_embedding(query)
-    results   = collection.query(
-        query_embeddings=[query_emb],
-        n_results=TOP_K,
-        include=["documents", "metadatas", "distances"],
-    )
+    results = search_collection(query_emb, TOP_K)
 
     # ── 2. Out-of-scope check (distance-based) ───────────────────────────────
     if _is_out_of_scope(results):
-        print(f"[scope] Query out of scope (min dist={min(results['distances'][0], default=99):.3f}): {query!r}")
+        distances = results.get("distances", [[]])[0]
+        best_similarity = 1.0 - min(distances) if distances else 0.0
+        print(f"[scope] Query out of scope (best similarity={best_similarity:.3f}): {query!r}")
         if return_context:
             return OUT_OF_SCOPE_RESPONSE, [], []
         return OUT_OF_SCOPE_RESPONSE, []
@@ -673,8 +700,8 @@ Q3. What happens if my family's income changed since filing taxes?
         url.lower().rstrip("/") for url in sources
     }
 
-    # Fallback source list: only the top-3 most relevant passages by cosine
-    # distance.  Using all TOP_K=6 passages would surface topically-adjacent
+    # Fallback source list: only the top-3 most relevant passages by similarity.
+    # Using all TOP_K=6 passages would surface topically-adjacent
     # but off-topic URLs (e.g. financial-aid pages for an SCU-admissions query).
     top_sources = _top_sources_from_results(results, n=3)
 

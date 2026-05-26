@@ -6,7 +6,11 @@ Run from project root: python3 run_ingestion.py
 """
 import sys
 import json
+import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 sys.path.append(str(Path(__file__).parent))
 
@@ -49,17 +53,20 @@ def run_ingestion():
         return
 
     # ── Step 3: Embed ──────────────────────────────────────────────
-    print("\n[Step 3] Embedding and storing in ChromaDB...")
+    print("\n[Step 3] Embedding and storing in Qdrant...")
     embed_new_chunks()
 
     # ── Final verify ───────────────────────────────────────────────
     try:
-        import chromadb
-        client = chromadb.PersistentClient(path="data/chroma_db")
-        col = client.get_collection("track2college_docs")
-        print(f"\n[✓] ChromaDB 'track2college_docs' → {col.count()} documents stored")
+        from qdrant_client import QdrantClient
+        client = QdrantClient(
+            url=os.getenv("QDRANT_URL", "") or "http://localhost:6333",
+            api_key=os.getenv("QDRANT_API_KEY") or None,
+        )
+        count = client.count(collection_name="track2college_docs", exact=True).count
+        print(f"\n[✓] Qdrant 'track2college_docs' → {count} documents stored")
     except Exception as e:
-        print(f"\n[warning] Could not verify ChromaDB count: {e}")
+        print(f"\n[warning] Could not verify Qdrant count: {e}")
 
     print("\n=== INGESTION COMPLETE ===")
 

@@ -1,5 +1,7 @@
 import json
 import gc
+import os
+import uuid
 from pathlib import Path
 import sys
 import torch
@@ -10,14 +12,14 @@ import torch
 
 def embed_new_chunks():
     try:
-        import chromadb
-        from chromadb.config import Settings
+        from qdrant_client import QdrantClient, models
     except ImportError:
-        print("[error] chromadb not installed. Run: pip install chromadb")
+        print("[error] qdrant-client not installed. Run: pip install qdrant-client")
         return
 
     CHUNK_METADATA_FILE = Path("chunk_metadata.json")
-    CHROMA_DB_DIR = Path("data/chroma_db")
+    QDRANT_URL = os.getenv("QDRANT_URL", "")
+    QDRANT_API_KEY = os.getenv("QDRANT_API_KEY", "")
     COLLECTION_NAME = "track2college_docs"
 
     if not CHUNK_METADATA_FILE.exists():
@@ -35,12 +37,14 @@ def embed_new_chunks():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model.to(device)
 
-    print("[embed] Connecting to ChromaDB...")
+    print(f"[embed] Connecting to Qdrant at {QDRANT_URL or 'http://localhost:6333'}...")
     try:
-        client = chromadb.PersistentClient(path=str(CHROMA_DB_DIR))
-        collection = client.get_or_create_collection(name=COLLECTION_NAME)
+        client_kwargs = {"url": QDRANT_URL or "http://localhost:6333"}
+        if QDRANT_API_KEY:
+            client_kwargs["api_key"] = QDRANT_API_KEY
+        client = QdrantClient(**client_kwargs)
     except Exception as e:
-        print(f"[error] Failed to connect to ChromaDB: {e}")
+        print(f"[error] Failed to connect to Qdrant: {e}")
         return
 
     with open(CHUNK_METADATA_FILE, "r") as f:
@@ -51,8 +55,15 @@ def embed_new_chunks():
     # Smaller batch size to reduce peak memory usage
     BATCH_SIZE = 16
     import torch.nn.functional as F
+    from dotenv import load_dotenv
+
+    load_dotenv()
 
     total_upserted = 0
+    collection_ready = False
+
+    def _point_id(chunk_id: str) -> str:
+        return str(uuid.uuid5(uuid.NAMESPACE_URL, chunk_id))
 
     for i in range(0, len(chunks), BATCH_SIZE):
         batch = chunks[i : i + BATCH_SIZE]
@@ -60,15 +71,25 @@ def embed_new_chunks():
         batch_ids = [c['chunk_id'] for c in batch]
         batch_metadatas = [{"doc_id": c['doc_id'], "url": c['url'], "source": c['source']} for c in batch]
 
-        # Delete existing chunks for these doc_ids to avoid duplicates/ghosts
-        # Guard: only delete if the collection already has documents (avoids
-        # ChromaDB >=0.6 raising an error when deleting from an empty collection)
+        # Delete existing chunks for these doc_ids to avoid duplicates/ghosts.
         doc_ids_to_clean = set(c['doc_id'] for c in batch)
-        if collection.count() > 0:
-            for d_id in doc_ids_to_clean:
-                try:
-                    collection.delete(where={"doc_id": d_id})
-                except Exception as del_err:
+        for d_id in doc_ids_to_clean:
+            try:
+                client.delete(
+                    collection_name=COLLECTION_NAME,
+                    points_selector=models.Filter(
+                        must=[
+                            models.FieldCondition(
+                                key="doc_id",
+                                match=models.MatchValue(value=d_id),
+                            )
+                        ]
+                    ),
+                    wait=True,
+                )
+            except Exception as del_err:
+                # Safe to ignore if collection is not created yet on first batch.
+                if "doesn't exist" not in str(del_err).lower():
                     print(f"[warning] delete failed for doc_id={d_id}: {del_err}")
 
         # Tokenize and embed
@@ -100,12 +121,43 @@ def embed_new_chunks():
         if device == "cuda":
             torch.cuda.empty_cache()
 
-        # ── Upsert this batch immediately (no accumulation in RAM) ──
-        collection.upsert(
-            ids=batch_ids,
-            embeddings=batch_embeddings,
-            metadatas=batch_metadatas,
-            documents=batch_texts
+        if not collection_ready:
+            vector_size = len(batch_embeddings[0]) if batch_embeddings else 0
+            if vector_size == 0:
+                print("[warning] Empty embedding batch; skipping")
+                continue
+            if not client.collection_exists(COLLECTION_NAME):
+                client.create_collection(
+                    collection_name=COLLECTION_NAME,
+                    vectors_config=models.VectorParams(
+                        size=vector_size,
+                        distance=models.Distance.COSINE,
+                    ),
+                )
+            collection_ready = True
+
+        # Upsert this batch immediately (no accumulation in RAM).
+        points = []
+        for cid, emb, meta, text in zip(batch_ids, batch_embeddings, batch_metadatas, batch_texts):
+            payload = {
+                "chunk_id": cid,
+                "doc_id": meta["doc_id"],
+                "url": meta["url"],
+                "source": meta["source"],
+                "text": text,
+            }
+            points.append(
+                models.PointStruct(
+                    id=_point_id(cid),
+                    vector=emb,
+                    payload=payload,
+                )
+            )
+
+        client.upsert(
+            collection_name=COLLECTION_NAME,
+            points=points,
+            wait=True,
         )
         total_upserted += len(batch_ids)
 
@@ -116,7 +168,7 @@ def embed_new_chunks():
         if (i // BATCH_SIZE) % 10 == 0:
             print(f"   Upserted {total_upserted} / {len(chunks)} chunks...")
 
-    print(f"[embed] Successfully embedded {total_upserted} chunks into ChromaDB collection '{COLLECTION_NAME}'")
+    print(f"[embed] Successfully embedded {total_upserted} chunks into Qdrant collection '{COLLECTION_NAME}'")
 
 if __name__ == "__main__":
     embed_new_chunks()
