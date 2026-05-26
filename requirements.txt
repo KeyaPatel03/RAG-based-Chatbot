@@ -6,6 +6,9 @@ gunicorn
 # RAG / embeddings
 qdrant-client==1.11.3
 pysqlite3-binary
+torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+transformers
 
 # HTTP + async utils
 requests>=2.32.2
