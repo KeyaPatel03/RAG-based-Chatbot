@@ -10,12 +10,8 @@ import time
 import uuid
 
 from fastapi import FastAPI, Header, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 import uvicorn
-
-from fastapi.responses import FileResponse
-from fastapi.staticfiles import StaticFiles
 
 # Ensure existing modules can be imported.
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -114,24 +110,7 @@ except ImportError as error:
 app = FastAPI(
     title="Track2College Chatbot API",
     version="1.0.0",
-    description="RAG chatbot API for frontend integration.",
-)
-
-# Allow local frontend apps (including file:// pages with Origin: null).
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
-        "*",
-        "http://127.0.0.1",
-        "http://localhost",
-        "http://127.0.0.1:5500",
-        "http://0.0.0.0:5500",
-        "http://localhost:5500",
-        "null", 
-    ],
-    allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    description="RAG chatbot API.",
 )
 
 MAX_CONVERSATION_TURNS = 4
@@ -420,14 +399,6 @@ async def health() -> HealthResponse:
         inference_provider=INFERENCE_PROVIDER,
         timestamp_utc=datetime.now(timezone.utc).isoformat(),
     )
-
-# Serve static files
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
-# Serve the chatbot page at "/"
-@app.get("/")
-def home():
-    return FileResponse("static/index.html")
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest) -> ChatResponse:

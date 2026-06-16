@@ -61,15 +61,41 @@ def embed_new_chunks():
 
     total_upserted = 0
     collection_ready = False
+    doc_id_index_ready = False
 
     def _point_id(chunk_id: str) -> str:
         return str(uuid.uuid5(uuid.NAMESPACE_URL, chunk_id))
+
+    def _ensure_doc_id_index() -> None:
+        nonlocal doc_id_index_ready
+
+        if doc_id_index_ready or not client.collection_exists(COLLECTION_NAME):
+            return
+
+        try:
+            client.create_payload_index(
+                collection_name=COLLECTION_NAME,
+                field_name="doc_id",
+                field_schema=models.PayloadSchemaType.KEYWORD,
+                wait=True,
+            )
+        except Exception as index_err:
+            message = str(index_err).lower()
+            if "already exists" not in message and "duplicate" not in message:
+                print(f"[warning] failed to create doc_id payload index: {index_err}")
+            else:
+                doc_id_index_ready = True
+                return
+
+        doc_id_index_ready = True
 
     for i in range(0, len(chunks), BATCH_SIZE):
         batch = chunks[i : i + BATCH_SIZE]
         batch_texts = [c['text'] for c in batch]
         batch_ids = [c['chunk_id'] for c in batch]
         batch_metadatas = [{"doc_id": c['doc_id'], "url": c['url'], "source": c['source']} for c in batch]
+
+        _ensure_doc_id_index()
 
         # Delete existing chunks for these doc_ids to avoid duplicates/ghosts.
         doc_ids_to_clean = set(c['doc_id'] for c in batch)
@@ -134,6 +160,7 @@ def embed_new_chunks():
                         distance=models.Distance.COSINE,
                     ),
                 )
+                doc_id_index_ready = False
             collection_ready = True
 
         # Upsert this batch immediately (no accumulation in RAM).

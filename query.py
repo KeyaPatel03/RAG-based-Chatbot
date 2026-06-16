@@ -9,6 +9,8 @@ from transformers import AutoTokenizer, AutoModel
 import torch.nn.functional as F
 from dotenv import load_dotenv
 from qdrant_client import QdrantClient
+from followup_refs import resolve_followup_query as _resolve_followup_query
+from source_filters import filter_sources_for_query, should_omit_sources_section
 
 # ---------------------------------------------------------------------------
 # Environment / Config
@@ -506,7 +508,12 @@ def _answer_is_out_of_scope(answer_text: str) -> bool:
 # ---------------------------------------------------------------------------
 # Response assembly
 # ---------------------------------------------------------------------------
-def _build_response(answer_text: str, source_urls: list[str], followups: list[str]) -> str:
+def _build_response(
+    answer_text: str,
+    source_urls: list[str],
+    followups: list[str],
+    include_sources: bool = True,
+) -> str:
     """
     Assemble the final 3-section response with the exact format:
 
@@ -529,7 +536,7 @@ def _build_response(answer_text: str, source_urls: list[str], followups: list[st
         if key and key not in seen:
             seen.add(key)
             clean_sources.append(s.strip())
-    if not clean_sources:
+    if not clean_sources and include_sources:
         clean_sources = ["No relevant source available"]
 
     # Deduplicate & cap follow-ups
@@ -553,18 +560,18 @@ def _build_response(answer_text: str, source_urls: list[str], followups: list[st
             "Who should I contact if I have more questions about this?",
         ]
 
-    sources_block = "\n".join(f"- {s}" for s in clean_sources)
     fups_block    = "\n".join(f"Q{i}. {q}" for i, q in enumerate(clean_fups, 1))
 
     clean_answer = _sanitize_answer(answer_text)
     if not clean_answer:
         return OUT_OF_SCOPE_RESPONSE
 
-    return (
-        f"Answer:\n{clean_answer}\n\n"
-        f"Sources:\n{sources_block}\n\n"
-        f"Follow-up Questions you might have:\n{fups_block}"
-    )
+    response = f"Answer:\n{clean_answer}\n\n"
+    if include_sources:
+        sources_block = "\n".join(f"- {s}" for s in clean_sources)
+        response += f"Sources:\n{sources_block}\n\n"
+    response += f"Follow-up Questions you might have:\n{fups_block}"
+    return response
 
 
 # ---------------------------------------------------------------------------
@@ -717,9 +724,19 @@ Q3. What happens if my family's income changed since filing taxes?
             return OUT_OF_SCOPE_RESPONSE, sources, results["documents"][0]
         return OUT_OF_SCOPE_RESPONSE, sources
 
+    base_sources = llm_sources if llm_sources else top_sources
+
+    # Narrow sources to the specific university named in the query, when one
+    # is present, so the final citations stay institution-specific.
+    final_sources = filter_sources_for_query(query, base_sources)
+    include_sources = not should_omit_sources_section(query, base_sources)
+    if not final_sources and not include_sources:
+        final_sources = []
+    elif not final_sources:
+        final_sources = base_sources
+
     # ── 7. Assemble final structured response ────────────────────────────────
-    final_sources = llm_sources if llm_sources else top_sources
-    response      = _build_response(answer_text, final_sources, followups)
+    response      = _build_response(answer_text, final_sources, followups, include_sources=include_sources)
 
     if return_context:
         return response, final_sources, results["documents"][0]
@@ -769,77 +786,12 @@ def _extract_followup_questions(full_response: str) -> list[str]:
     return questions
 
 
-# Matches user inputs like: "Q1", "answer Q2", "Q3 please", "the second one",
-# "first question", "tell me more about Q3", "2nd follow-up", etc.
-_FOLLOWUP_REF_RE = re.compile(
-    r"""
-    (?:                          # optional leading verb phrase
-        (?:answer|tell\s+me(?:\s+about)?|explain|elaborate\s+on|what\s+about|give\s+me)\s+
-    )?
-    (?:
-        [Qq](?P<qnum>[1-5])\b               # Q1 … Q5
-      | (?P<word>first|second|third|fourth|fifth)  # "the first one"
-        \s+(?:question|one|follow[- ]?up)?
-      | (?P<num>[1-5])(?:st|nd|rd|th)?      # "1st question" / "2"
-        \s+(?:question|one|follow[- ]?up)?
-    )
-    """,
-    re.VERBOSE | re.IGNORECASE,
-)
-
-_WORD_TO_IDX = {"first": 0, "second": 1, "third": 2, "fourth": 3, "fifth": 4}
-
-
-def _resolve_followup_query(user_input: str, memory: list) -> str:
-    """
-    If the user's input is a shorthand reference to a previous follow-up
-    question (e.g. "Q1", "answer Q2", "the second one"), resolve it to the
-    actual question text stored in the most recent memory turn.
-
-    Returns the original user_input unchanged when:
-    - no follow-up reference is detected
-    - the referenced question index is out of range
-    - no follow-up questions are stored in memory
-    """
-    stripped = user_input.strip()
-    m = _FOLLOWUP_REF_RE.search(stripped)
-    if not m:
-        return user_input
-
-    # Determine 0-based index
-    if m.group("qnum"):
-        idx = int(m.group("qnum")) - 1
-    elif m.group("word"):
-        idx = _WORD_TO_IDX.get(m.group("word").lower(), -1)
-    elif m.group("num"):
-        idx = int(m.group("num")) - 1
-    else:
-        return user_input
-
-    if idx < 0:
-        return user_input
-
-    # Find the most recent memory turn that has stored follow-up questions
-    followups: list[str] = []
-    for turn in reversed(memory):
-        if isinstance(turn, dict) and turn.get("followups"):
-            followups = turn["followups"]
-            break
-
-    if followups and 0 <= idx < len(followups):
-        resolved = followups[idx]
-        print(f"[memory] Follow-up reference '{stripped}' → '{resolved}'")
-        return resolved
-
-    return user_input
-
-
 if __name__ == "__main__":
     conversation_memory: deque = deque(maxlen=4)
 
     print("Track2College chatbot — type 'quit' to exit.")
     print("Conversation memory: last 4 turns")
-    print("Tip: type 'Q1', 'Q2', or 'Q3' to ask a follow-up question from the previous answer.\n")
+    print("Tip: type 'Q1', 'q1', or 'question 1' to ask a follow-up question from the previous answer.\n")
 
     while True:
         user_input = input("\nYou: ").strip()
